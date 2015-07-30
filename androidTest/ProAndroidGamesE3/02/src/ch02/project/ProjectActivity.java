@@ -6,11 +6,15 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class ProjectActivity extends ActionBarActivity {
-
+	public native String getMyData();
+	static{
+		System.loadLibrary("ch02");
+	}
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_project);
+		setTitle(getMyData());
 	}
 
 	@Override
