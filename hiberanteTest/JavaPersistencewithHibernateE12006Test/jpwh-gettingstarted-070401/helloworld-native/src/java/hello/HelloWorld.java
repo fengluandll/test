@@ -1,8 +1,11 @@
 package hello;
 
-import org.hibernate.*;
-import persistence.*;
-import java.util.*;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+import persistence.HibernateUtil;
+
+import java.util.Iterator;
+import java.util.List;
 
 public class HelloWorld {
 
@@ -49,7 +52,7 @@ public class HelloWorld {
         Message loadedMessage = (Message) thirdSession.get( Message.class, message.getId());
         loadedMessage.setText( "Greetings Earthling" );
         loadedMessage.setNextMessage(
-            new Message( "Take me to your leader (please)" )
+                new Message( "Take me to your leader (please)" )
         );
 
         thirdTransaction.commit();

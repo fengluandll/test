@@ -4,8 +4,11 @@ apply plugin: 'idea'
 
 jar {
     baseName = 'profiles'
-    version =  '0.0.1-SNAPSHOT'
+    version =  '0.0.1'
 }
+
+eclipse.classpath.downloadJavadoc = true // defaults to 'false'
+
 
 repositories {
     mavenLocal()
