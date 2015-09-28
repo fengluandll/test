@@ -5,42 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34fa8aaa-7b44-46fa-a6cf-bfadc87b1329" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/antlr-2.7.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/asm-attrs.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/asm.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/c3p0-0.9.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/cglib-2.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/commons-collections-2.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/commons-logging-1.0.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/dom4j-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/hibernate-tools.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/hibernate3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/hsqldb.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/jta.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/log4j-1.2.13.jar" />
-      <change type="NEW" beforePath="" afterPath="D:\GitWorkSpace\test\javaSETest\AgileJavaCraftingCodewithTest-DrivenDevelopment2005\01\student01\src\Haha.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../0C/unitTest/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/StudentTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../0C/unitTest/src/StudentTest1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/antlr.license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/apache.license-2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/apache.license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/lib/lgpl.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/ch02/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/build/hello/HelloWorld.class" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/build/hello/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/build/persistence/HibernateUtil.class" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/build/persistence/HibernateUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/build/hello/Message.class" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/build/hello/Message.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/database/db.lck" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/database/db.lck" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/GettingStarted.ipr" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/GettingStarted.ipr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/GettingStarted.iws" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/GettingStarted.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-ejb3/HelloWorld-EJB3.iml" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-ejb3/HelloWorld-EJB3.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-jpa/HelloWorld-JPA.iml" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-jpa/HelloWorld-JPA.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/HelloWorld-Native.iml" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/HelloWorld-Native.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-reverse/HelloWorld-ReverseEng.iml" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-reverse/HelloWorld-ReverseEng.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/database/db.log" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/database/db.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/database/db.properties" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE12006Test/jpwh-gettingstarted-070401/helloworld-native/database/db.properties" />
+      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\hello\HelloWorld.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\hello\Message.hbm.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\hello\Message.java" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\hibernate.cfg.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\persistence\HibernateUtil.java" afterPath="" />
     </list>
     <ignored path="student01.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -174,110 +143,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="student01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="swingui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit.jar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="junit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="awtui" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="student01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -594,16 +459,16 @@
       <created>1443403004329</created>
       <option name="number" value="Default" />
       <updated>1443403004329</updated>
-      <workItem from="1443403006539" duration="7355000" />
+      <workItem from="1443403006539" duration="7886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7355000" />
+    <option name="totallyTimeSpent" value="7886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -617,7 +482,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
