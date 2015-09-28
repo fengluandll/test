@@ -4,13 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fa8aaa-7b44-46fa-a6cf-bfadc87b1329" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\hello\HelloWorld.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\hello\Message.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\hello\Message.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\hibernate.cfg.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitWorkSpace\test\hiberanteTest\JavaPersistencewithHibernateE12006Test\ch02\src\persistence\HibernateUtil.java" afterPath="" />
-    </list>
+    <list default="true" id="34fa8aaa-7b44-46fa-a6cf-bfadc87b1329" name="Default" comment="" />
     <ignored path="student01.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -459,15 +453,15 @@
       <created>1443403004329</created>
       <option name="number" value="Default" />
       <updated>1443403004329</updated>
-      <workItem from="1443403006539" duration="7886000" />
+      <workItem from="1443403006539" duration="8819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7886000" />
+    <option name="totallyTimeSpent" value="8819000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="776" extended-state="7" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -479,7 +473,7 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="92" y="92" width="1096" height="576" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
