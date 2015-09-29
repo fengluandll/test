@@ -13,7 +13,7 @@ public class Crime {
         mId = UUID.randomUUID();
     }
 
-    public UUID getmId() {
+    public UUID getId() {
         return mId;
     }
 

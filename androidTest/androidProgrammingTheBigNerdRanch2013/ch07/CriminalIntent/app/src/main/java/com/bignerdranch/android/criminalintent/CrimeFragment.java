@@ -24,7 +24,6 @@ public class CrimeFragment extends Fragment {
 
     private OnFragmentInteractionListener mListener;
     private Crime mCrime;
-    private EditText mTitleField;
 
     /**
      * Use this factory method to create a new instance of
@@ -46,6 +45,7 @@ public class CrimeFragment extends Fragment {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //noinspection StatementWithEmptyBody
         if (getArguments() != null) {
 
         }
@@ -57,7 +57,7 @@ public class CrimeFragment extends Fragment {
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View v = inflater.inflate(R.layout.fragment_crime, container, false);
-        mTitleField = (EditText) v.findViewById(R.id.crime_title);
+        EditText mTitleField = (EditText) v.findViewById(R.id.crime_title);
 
         mTitleField.addTextChangedListener(new TextWatcher() {
             @Override
