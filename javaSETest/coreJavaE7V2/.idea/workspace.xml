@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e007795-ea25-4b0a-9b44-ce49675e460c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/SimpleTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/ch06.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch06/ListTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coreJavaE7V2.iws" />
@@ -29,14 +27,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SimpleTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SimpleTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch06/SimpleTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.170792">
-              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch06/ListTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.9013333">
+              <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1205#2461#0" expanded="true" />
+                <element signature="e#2460#2461#0" expanded="true" />
+                <element signature="e#3335#3834#0" expanded="true" />
+                <element signature="e#3833#3834#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -417,6 +432,7 @@
         <option value="$PROJECT_DIR$/ch02/src/ShuffleTest.java" />
         <option value="$PROJECT_DIR$/ch12/DOMTreeTest.java" />
         <option value="$PROJECT_DIR$/ch06/SimpleTree.java" />
+        <option value="$PROJECT_DIR$/ch06/ListTest.java" />
       </list>
     </option>
   </component>
@@ -557,7 +573,7 @@
       <recent name="D:\GitWorkSpace\test\javaSETest\coreJavaE7V2\ch12" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleTree">
+  <component name="RunManager" selected="Application.ListTest">
     <configuration default="false" name="ShuffleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ShuffleTest" />
@@ -591,6 +607,21 @@
     <configuration default="false" name="SimpleTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SimpleTree" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ch06" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ListTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -855,16 +886,18 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Application.ShuffleTest" />
       <item index="1" class="java.lang.String" itemvalue="Application.DOMTreeTest" />
       <item index="2" class="java.lang.String" itemvalue="Application.SimpleTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ListTest" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.SimpleTree" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DOMTreeTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ShuffleTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.ListTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SimpleTree" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DOMTreeTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ShuffleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -880,7 +913,7 @@
       <updated>1443484733225</updated>
       <workItem from="1443484735950" duration="1213000" />
       <workItem from="1443491108161" duration="921000" />
-      <workItem from="1443614932366" duration="6082000" />
+      <workItem from="1443614932366" duration="7080000" />
     </task>
     <task id="LOCAL-00001" summary="dom tree">
       <created>1443619860526</created>
@@ -888,11 +921,17 @@
       <option name="project" value="LOCAL" />
       <updated>1443619860526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add a tree">
+      <created>1443621632826</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1443621632826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8216000" />
+    <option name="totallyTimeSpent" value="9214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
@@ -940,7 +979,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="dom tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="dom tree" />
+    <MESSAGE value="add a tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1156,13 +1196,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/javax/swing/JList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53960395">
+          <caret line="451" column="5" selection-start-line="451" selection-start-column="5" selection-end-line="451" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ch06/SimpleTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.170792">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch06/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9013333">
+          <caret line="104" column="16" selection-start-line="104" selection-start-column="16" selection-end-line="104" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1205#2461#0" expanded="true" />
+            <element signature="e#2460#2461#0" expanded="true" />
+            <element signature="e#3335#3834#0" expanded="true" />
+            <element signature="e#3833#3834#0" expanded="true" />
           </folding>
         </state>
       </provider>
