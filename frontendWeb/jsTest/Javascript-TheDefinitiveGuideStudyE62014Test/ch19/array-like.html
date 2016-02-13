@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h2>ddfdf</h2>
+<p>p1</p>
+<p>p2</p>
+<script src="js/jquery-1.10.0-min.js"></script>
+<script>
+    $(function () {
+        console.log("I am jquery");
+        console.log("body size: " + $("body").length) ;
+
+        $("body")[0].appendChild(document.createTextNode("appended"));
+
+        //print other 3 properties
+        var body = $("body");
+        console.log("selector: " + body.selector);
+        console.log("context: " + body.context);
+        console.log("jQuery" + body.jquery);
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<h1 id="c">h1</h1>
+<h2 id="b">h2</h2>
+<h3 id="a">h3</h3>
+
+<div class="note">note1</div>
+<br>
+<div class="note">note2</div>
+<div>div</div>
+
+<div id="all">
+    all ps
+</div>
+
+<script src="js/jquery-1.10.0-min.js"></script>
+<script>
+    $(function () {
+        console.log("h1 font-weight: " + $("h1").css("font-weight"));
+        console.log("h1 fontWeight: " + $("h1").css("fontWeight"));
+        console.log( "font: " + $("h1").css("font") );//error
+        $("h1").css("font-variant","smallcaps");
+
+        $("div.note").css("border","solid black 2px");
+
+        $("#all").css(
+                {backgroundColor: "black",
+                color: "white",
+                fontVariant: "small-caps",
+                padding:"10px 2px 4px 20px",
+                border:"dotted red 4px"}
+        );
+    });
+</script>
+</body>
+</html>

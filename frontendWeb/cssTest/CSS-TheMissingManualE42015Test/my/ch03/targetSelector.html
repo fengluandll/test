@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        #signupForm{
+            display: none;
+        }
+
+        #signupForm:target{
+            display:block;
+        }
+    </style>
+</head>
+<body>
+
+<form id="signupForm">
+    <label for="email">What's your email address?</label>
+    <input type="email" id="email">
+    <input class="btn" type="submit" value="Sign up">
+</form>
+
+1	Selectors Identifying What to Style
+
+Each CSS style has a selector & a declaration block.
+
+E
+
+1.1	Type Selectors: Styling HTML Tags     42
+
+type or element selectors are used to style HTML tags.
+
+The black colour can be denoted by #000000.
+
+E
+
+1.2	Class Selectors     43
+
+This is the way Bootstrap extends HTML.
+
+a few rules to keep in mind when naming a class in style sheets:
+1.	All class selector names must begin with a period.
+2.	CSS class name permits only letters, numbers, hyphens, and underscores.
+3.	After the period, the name must always start with a letter.
+4.	Class names are case-sensitive.
+
+
+
+                <button>
+                    <a href="#signupForm">Sign up for our newsletter</a>
+                </button>
+
+
+</body>
+</html>

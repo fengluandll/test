@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch19/array-like.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch19/css.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch19/each.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch19/is.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch19/js/jquery-1.10.0-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch19/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/01.01.loancalc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/06.01.inherit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/06.02.extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/06.03.extend2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/06.04.classof" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/08.01.defining_functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/08.02.functions_as_data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/08.03.extend_patched.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/08.04.addPrivateProperty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/08.05.bind2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.01.range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.02.range2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.03.Complex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.04.type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.05.quacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.06.Set1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.07.enumeration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.08.Cards.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.09.genericmethods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.10.range3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.11.defineSubclass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.12.SingletonSet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.13.NonNullSet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.14.filteredSetSubclass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.15.FilteredSet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.16.Sets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.17.objectid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.18.range4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.19.freezeProps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.20.range5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.21.range6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.22.StringSet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.23.properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/09.24.Set2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/11.01.linesgenerator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/12.01.rhinoURLFetcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/12.02.nodeserver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/12.03.httputils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/13.01.reveal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/13.02.digital_clock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/13.03.from1996.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/13.04.loadasync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/13.05.onLoad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/14.01.invoke.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/14.02.urlArgs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/14.03.uaparser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/14.04.multiprompt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.01.getElements.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.02.traversal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.03.textContent2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.04.sortrows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.05.outerHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.06.insert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.07.TOC.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.08.getScrollOffsets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.09.getViewportSize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/15.10.ElementStream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/16.01.cssexample.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/16.02.windows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/16.03.animations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/16.04.scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/16.05.classList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/16.06.addStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/17.01.whenReady.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/17.02.Drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/17.03.Enclose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/17.04.draggable_clock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/17.05.dndlist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/17.06.InputFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/17.07.forceToUpperCase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/17.08.Keymap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.01.postMessage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.02.getText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.03.get.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.04.encodeFormData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.05.postData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.06.getData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.07.postJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.08.postXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.09.autoUpload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.10.postFormData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.11.fileDropTarget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.12.timedGetText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.13.linkdetails.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.14.getJSONP.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.15.chatclient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.16.EventSourceEmulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/18.17.chatserver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/20.01.getCookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/20.02.CookieStorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/20.03.UserDataStorage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/20.04.appcacheevents.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/20.05.permanote.appcache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/20.06.permanote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/20.07.permanote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.01.rollover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.02.PieChart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.03.clock.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.04.polygons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.05.graphics_state_utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.06.koch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.07.curves.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.08.shadows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.09.drawimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.10.smear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.11.hitpath.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.12.hitpaint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/21.13.sparkline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.01.getmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.02.whereami.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.03.guessinggame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.04.TwitterSearch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.05.TwitterSearch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.06.SmearImage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.07.SmearWorker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.08.AjaxWorker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.09.getBlob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.10.ImageThumbnailer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.11.FileReader.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.12.FileTyper.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.13.fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.14.fsworker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.15.zipcodes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.16.wschatclient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/22.17.wschatserver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/pom.xml" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/CDPlayer.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/CDPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/CDPlayerConfig.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/CDPlayerConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/CompactDisc.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/CompactDisc.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/MediaPlayer.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/MediaPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/SgtPeppers.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/javaconfig/soundsystem/SgtPeppers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/soundsystem/CDPlayer.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/soundsystem/CDPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/soundsystem/SgtPeppers.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/main/java/com/spark/learnning/spring_in_action_e4/soundsystem/SgtPeppers.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/test/java/com/spark/learnning/spring_in_action_e4/soundsystem/CDPlayerTest.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/spring_in_action_e4/src/test/java/com/spark/learnning/spring_in_action_e4/soundsystem/CDPlayerTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.classpath" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.project" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.settings/org.eclipse.core.resources.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.settings/org.eclipse.m2e.core.prefs" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.settings/org.hibernate.eclipse.console.prefs" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/.settings/org.hibernate.eclipse.console.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/pom.xml" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/main/java/com/example/spring/restful/App.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/main/java/com/example/spring/restful/App.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/main/java/hello/Application.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/main/java/hello/Application.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/main/java/hello/Greeting.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/main/java/hello/Greeting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/main/java/hello/GreetingController.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/main/java/hello/GreetingController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/test/java/com/example/spring/restful/AppTest.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringTutorials/restful/src/test/java/com/example/spring/restful/AppTest.java" />
+    </list>
+    <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Javascript-TheDefinitiveGuideStudyE62014Test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="css.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch19/css.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.4114671">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ch19/array-like.html" />
+        <option value="$PROJECT_DIR$/ch19/each.html" />
+        <option value="$PROJECT_DIR$/ch19/map.html" />
+        <option value="$PROJECT_DIR$/ch19/is.html" />
+        <option value="$PROJECT_DIR$/ch19/css.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1284" />
+    <option name="height" value="767" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch19" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch19" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\ch19" />
+      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\ch19\js" />
+      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\origin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="" />
+      <created>1455223971847</created>
+      <option name="number" value="Default" />
+      <updated>1455223971847</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1284" height="767" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ch19/array-like.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4722222">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="24" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch19/each.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.2222223">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch19/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.75">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch19/is.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.222222">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch19/css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4114671">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

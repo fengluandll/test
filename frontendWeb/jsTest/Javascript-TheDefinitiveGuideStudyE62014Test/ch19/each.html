@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div>haha</div>
+<div>kaka</div>
+<div id="last">last</div>
+<div>unaffected</div>
+
+<script src="js/jquery-1.10.0-min.js"></script>
+<script>
+    $(function () {
+        $("div").each(function (idx,element) {
+            $(element).prepend(idx + ':');
+            if (element.id === "last") return false;
+        });
+    });
+</script>
+</body>
+</html>
