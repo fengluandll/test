@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Window Location</title>
+    <style>
+        .highLight {
+            color: red;
+        }
+    </style>
+    <script>
+
+    </script>
+</head>
+<body>
+<div id="timestamp"></div>
+
+<button onclick="backgroundColor()">backgroundColor</button>
+<button onclick="highLight()">highLight</button>
+<script>
+    var timestamp = document.getElementById("timestamp");
+    timestamp.onclick = function () {
+        this.innerHTML = new Date().toString();
+    }
+    if (!timestamp.firstChild) {
+        timestamp.appendChild(document.createTextNode(new Date().toString()));
+    }
+
+    function backgroundColor() {
+        timestamp.style.backgroundColor = "yellow";
+    }
+
+    function highLight() {
+        timestamp.className = "highLight";
+    }
+</script>
+</body>
+</html>
