@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6a3ae85-bba9-47af-923e-fdd1d9d3f466" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/public/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../my/c01/helloWorld/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../my/c01/helloWorld/.idea/helloWorld.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../my/c01/helloWorld/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../my/c01/helloWorld/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../my/c01/helloWorld/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../my/c01/helloWorld/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../my/c01/helloWorld/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../my/c01/helloWorld/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../my/c01/helloWorld/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/groceryList_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/app/BlankSpace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/app/CommentForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/app/Comments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/app/Conditional.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 2/JSX/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/contactsApp/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/contactsApp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/contactsApp/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/contactsApp/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/contactsApp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/contactsApp/public/contacts.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/contactsApp/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/contactsApp/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/contactsApp/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/proptype &amp; defaultprop/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/proptype &amp; defaultprop/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/proptype &amp; defaultprop/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/proptype &amp; defaultprop/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/proptype &amp; defaultprop/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/proptype &amp; defaultprop/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/proptype &amp; defaultprop/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 3/proptype &amp; defaultprop/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/animation/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/animation/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/animation/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/animation/public/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/animation/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/app/Container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/app/ShoppingCart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/app/Snack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/app/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 4/dragndrop/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/app/About.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/app/Home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/app/RepoDetails.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/app/Repos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/app/ServerError.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 5/router/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/app/AppDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/app/actions/AirportActionCreators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/app/api/AirCheapAPI.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/app/components/TicketItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/app/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/app/stores/AirportStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/app/stores/RouteStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/app/stores/TicketStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/public/airports.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/public/flights.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/aircheap/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/app/AppDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/app/BankActions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/app/BankBalanceStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/app/BankRewardsStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/app/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 6/fluxbank/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/app/Clock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/app/Digit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/dist/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/public/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 7/clock/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/helloexpress/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/helloexpress/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/helloexpress/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/helloexpress/views/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/components/ContactItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/components/ContactList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/components/ContactsApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/components/SearchBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/contacts.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/public/bundle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/views/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 8/universal-react/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 9/checkboxWithLabel/CheckboxWithLabel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 9/checkboxWithLabel/__tests__/CheckboxWithLabel_shallow_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../chapter 9/checkboxWithLabel/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/app/Card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/app/CheckList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/app/KanbanBoard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/app/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter1/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/app/Card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/app/CheckList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/app/KanbanBoard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/app/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter2/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/app/Card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/app/CheckList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/app/KanbanBoard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/app/KanbanBoardContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/app/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter3/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/app/Card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/app/CheckList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/app/KanbanBoard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/app/KanbanBoardContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/app/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/app/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/app/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter4/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/Card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/CardForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/CheckList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/EditCard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/KanbanBoard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/KanbanBoardContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/NewCard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/app/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter5/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/AppDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/actions/CardActionCreators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/actions/TaskActionCreators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/api/KanbanApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/components/Card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/components/CardForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/components/CheckList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/components/EditCard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/components/KanbanBoard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/components/KanbanBoardContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/components/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/components/NewCard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/stores/CardStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/stores/DraftStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/app/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter6/webpack.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/AppDispatcher.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/actions/CardActionCreators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/actions/TaskActionCreators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/api/KanbanApi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/components/Card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/components/CardForm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/components/CheckList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/components/EditCard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/components/KanbanBoard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/components/KanbanBoardContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/components/List.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/components/NewCard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/constants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/stores/CardStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/stores/DraftStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/app/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/public/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../kanban-app/chapter7/webpack.config.js" />
+    </list>
+    <ignored path="groceryList.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="groceryList" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bundle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/webpack/node_modules/node-libs-browser/node_modules/crypto-browserify/example/bundle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9481038">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceryList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceryList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceryList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceryList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groceryList" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js-jscs-package" value="D:\WorkGitSpace\test\frontendWeb\react.jsTest\ProReact2015Test\node_modules\jscs" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6a3ae85-bba9-47af-923e-fdd1d9d3f466" name="Default" comment="" />
+      <created>1457463428933</created>
+      <option name="number" value="Default" />
+      <updated>1457463428933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17806041" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack/node_modules/node-libs-browser/node_modules/crypto-browserify/example/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack/node_modules/node-libs-browser/node_modules/crypto-browserify/example/bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9481038">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
