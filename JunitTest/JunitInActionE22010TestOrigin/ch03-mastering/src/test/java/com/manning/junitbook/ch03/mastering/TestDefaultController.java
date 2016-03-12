@@ -20,14 +20,11 @@
  */
 package com.manning.junitbook.ch03.mastering;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertNotNull;
-import static org.junit.Assert.assertNotSame;
-import static org.junit.Assert.assertSame;
-
 import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
+
+import static org.junit.Assert.*;
 
 /**
  * Test-case for the default controller.
@@ -77,7 +74,7 @@ public class TestDefaultController
         Response response = controller.processRequest( request );
 
         assertNotNull( "Must not return a null response", response );
-        assertEquals( ErrorResponse.class, response.getClass() );
+        assertSame( ErrorResponse.class, response.getClass() );
     }
 
     @Test( expected = RuntimeException.class )
