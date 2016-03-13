@@ -1,0 +1,1 @@
+console.log("JavaScript".search(/script/i));

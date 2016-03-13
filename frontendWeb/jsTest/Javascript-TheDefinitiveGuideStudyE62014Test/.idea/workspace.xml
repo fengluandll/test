@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch10/replaceCapitalisation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch10/search.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
@@ -24,16 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="13.01.reveal.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/origin/13.01.reveal.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="13.01.reveal.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/ch13/13.01.reveal.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,11 +98,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="example8-1.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="example8-1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/ch08/example8-1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9587242">
+            <state vertical-scroll-proportion="0.0">
               <caret line="28" column="3" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch10/search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="replaceCapitalisation.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/ch10/replaceCapitalisation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.21388368">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -162,6 +174,8 @@
         <option value="$PROJECT_DIR$/my/ch06/hasOwnProperty.js" />
         <option value="$PROJECT_DIR$/my/ch06/propertyIsEnumerable.js" />
         <option value="$PROJECT_DIR$/my/ch08/example8-1.js" />
+        <option value="$PROJECT_DIR$/my/ch10/search.js" />
+        <option value="$PROJECT_DIR$/my/ch10/replaceCapitalisation.js" />
       </list>
     </option>
   </component>
@@ -251,6 +265,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="ch10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="ch08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -295,13 +327,7 @@
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.example8-1.js">
-    <configuration default="false" name="evalFirstOne.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="evalFirstOne.js" working-dir="$PROJECT_DIR$/my/ch04">
-      <method />
-    </configuration>
-    <configuration default="false" name="in.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="in.js" working-dir="$PROJECT_DIR$/my/ch06">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.replaceCapitalisation.js">
     <configuration default="false" name="hasOwnProperty.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="hasOwnProperty.js" working-dir="$PROJECT_DIR$/my/ch06">
       <method />
     </configuration>
@@ -309,6 +335,12 @@
       <method />
     </configuration>
     <configuration default="false" name="example8-1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="example8-1.js" working-dir="$PROJECT_DIR$/my/ch08">
+      <method />
+    </configuration>
+    <configuration default="false" name="search.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="search.js" working-dir="$PROJECT_DIR$/my/ch10">
+      <method />
+    </configuration>
+    <configuration default="false" name="replaceCapitalisation.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="replaceCapitalisation.js" working-dir="$PROJECT_DIR$/my/ch10">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -360,19 +392,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.evalFirstOne.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.in.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.hasOwnProperty.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.propertyIsEnumerable.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.example8-1.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.hasOwnProperty.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.propertyIsEnumerable.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.example8-1.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.search.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.replaceCapitalisation.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.example8-1.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.propertyIsEnumerable.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.hasOwnProperty.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.in.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.evalFirstOne.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.replaceCapitalisation.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.search.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.example8-1.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.propertyIsEnumerable.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.hasOwnProperty.js" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +425,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457839002032</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="function examples">
+      <created>1457839015272</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457839015272</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -405,7 +443,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33019978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278496" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -759,8 +797,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/ch08/example8-1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9587242">
+        <state vertical-scroll-proportion="0.0">
           <caret line="28" column="3" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch10/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="41" selection-start-line="0" selection-start-column="41" selection-end-line="0" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch10/replaceCapitalisation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21388368">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding />
         </state>
       </provider>
