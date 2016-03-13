@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch10/replaceCapitalisation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch10/search.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
@@ -431,7 +429,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457839015272</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some test">
+      <created>1457848216310</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1457848216310</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -470,7 +474,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="function examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="function examples" />
+    <MESSAGE value="some test" />
+    <option name="LAST_COMMIT_MESSAGE" value="some test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
