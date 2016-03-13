@@ -2,36 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch03/charCodePoint.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch03/dateTest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch03/infinity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch03/negZero.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch03/roundIssue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/forArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/forInArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/forInObject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/forInPropertiesToArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/forPrint9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/forTailOfLinkedList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/forWith2UpdatedVariables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch06/objectCreate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch06/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/arrayAddPush.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/arrayDelete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/arraySimpleAdd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch13/13.01.reveal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch13/appendChild.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch13/windowLocation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../WebMapTest/GoogleMapsJavaScriptAPICookbook2013TestOrigin/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch04/evalFirstOne.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch06/hasOwnProperty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch06/in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch06/propertyIsEnumerable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/example8-1.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/array-like.html" afterPath="$PROJECT_DIR$/my/ch19/array-like.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/css.html" afterPath="$PROJECT_DIR$/my/ch19/css.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/each.html" afterPath="$PROJECT_DIR$/my/ch19/each.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/is.html" afterPath="$PROJECT_DIR$/my/ch19/is.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/js/jquery-1.10.0-min.js" afterPath="$PROJECT_DIR$/my/ch19/js/jquery-1.10.0-min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ch19/map.html" afterPath="$PROJECT_DIR$/my/ch19/map.html" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored mask="*.class" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +33,7 @@
       <file leaf-file-name="13.01.reveal.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/origin/13.01.reveal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.5">
+            <state vertical-scroll-proportion="0.0">
               <caret line="6" column="7" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="7" />
               <folding />
             </state>
@@ -62,8 +43,8 @@
       <file leaf-file-name="13.01.reveal.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/ch13/13.01.reveal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.0">
-              <caret line="7" column="40" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -79,11 +60,63 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="objectCreate.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="objectCreate.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/ch06/objectCreate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5883777">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evalFirstOne.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch04/evalFirstOne.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="in.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch06/in.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hasOwnProperty.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch06/hasOwnProperty.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="propertyIsEnumerable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch06/propertyIsEnumerable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example8-1.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/ch08/example8-1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.95692885">
+              <caret line="28" column="3" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -130,6 +163,11 @@
         <option value="$PROJECT_DIR$/my/ch13/13.01.reveal.html" />
         <option value="$PROJECT_DIR$/my/ch06/toString.js" />
         <option value="$PROJECT_DIR$/my/ch06/objectCreate.js" />
+        <option value="$PROJECT_DIR$/my/ch04/evalFirstOne.js" />
+        <option value="$PROJECT_DIR$/my/ch06/in.js" />
+        <option value="$PROJECT_DIR$/my/ch06/hasOwnProperty.js" />
+        <option value="$PROJECT_DIR$/my/ch06/propertyIsEnumerable.js" />
+        <option value="$PROJECT_DIR$/my/ch08/example8-1.js" />
       </list>
     </option>
   </component>
@@ -139,9 +177,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1284" />
-    <option name="height" value="767" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -218,50 +257,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch13" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch07" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ch06" />
+              <option name="myItemId" value="ch08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Javascript-TheDefinitiveGuideStudyE62014Test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,11 +287,9 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch13" />
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch07" />
@@ -283,21 +297,24 @@
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\ch19" />
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\ch19\js" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.objectCreate.js">
-    <configuration default="false" name="roundIssue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="roundIssue.js" working-dir="$PROJECT_DIR$/my/ch03">
+  <component name="RunManager" selected="Node.js.example8-1.js">
+    <configuration default="false" name="evalFirstOne.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="evalFirstOne.js" working-dir="$PROJECT_DIR$/my/ch04">
       <method />
     </configuration>
-    <configuration default="false" name="dateTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="dateTest.js" working-dir="$PROJECT_DIR$/my/ch03">
+    <configuration default="false" name="in.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="in.js" working-dir="$PROJECT_DIR$/my/ch06">
       <method />
     </configuration>
-    <configuration default="false" name="charCodePoint.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="charCodePoint.js" working-dir="$PROJECT_DIR$/my/ch03">
+    <configuration default="false" name="hasOwnProperty.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="hasOwnProperty.js" working-dir="$PROJECT_DIR$/my/ch06">
       <method />
     </configuration>
-    <configuration default="false" name="toString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="toString.js" working-dir="$PROJECT_DIR$/my/ch06">
+    <configuration default="false" name="propertyIsEnumerable.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="propertyIsEnumerable.js" working-dir="$PROJECT_DIR$/my/ch06">
       <method />
     </configuration>
-    <configuration default="false" name="objectCreate.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="objectCreate.js" working-dir="$PROJECT_DIR$/my/ch06">
+    <configuration default="false" name="example8-1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="example8-1.js" working-dir="$PROJECT_DIR$/my/ch08">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -349,19 +366,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.roundIssue.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.dateTest.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.charCodePoint.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.toString.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.objectCreate.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.evalFirstOne.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.in.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.hasOwnProperty.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.propertyIsEnumerable.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.example8-1.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.objectCreate.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.toString.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.charCodePoint.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.dateTest.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.roundIssue.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.example8-1.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.propertyIsEnumerable.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.hasOwnProperty.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.in.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.evalFirstOne.js" />
       </list>
     </recent_temporary>
   </component>
@@ -379,14 +396,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1284" height="767" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960254" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298122" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -449,7 +466,31 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my/ch19/css.html">
+    <entry file="file://$PROJECT_DIR$/origin/13.01.reveal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch13/13.01.reveal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch06/toString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch06/objectCreate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -457,11 +498,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/css.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/my/ch05/forPrint9.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -469,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -477,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="8" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -485,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -493,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -509,7 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -517,7 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -525,7 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30769232">
           <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,7 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -541,7 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="18" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -557,7 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.071618035">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="24" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -565,7 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -573,7 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,7 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -597,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,7 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="4" column="75" selection-start-line="4" selection-start-column="75" selection-end-line="4" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -637,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.9444444">
           <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,13 +682,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.5">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/origin/13.01.reveal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.5">
+        <state vertical-scroll-proportion="0.0">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="7" />
           <folding />
         </state>
@@ -667,8 +695,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/ch13/13.01.reveal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.0">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -683,8 +711,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/ch06/objectCreate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5883777">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch04/evalFirstOne.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch06/in.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch06/hasOwnProperty.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch06/propertyIsEnumerable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch08/example8-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95692885">
+          <caret line="28" column="3" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="3" />
           <folding />
         </state>
       </provider>
