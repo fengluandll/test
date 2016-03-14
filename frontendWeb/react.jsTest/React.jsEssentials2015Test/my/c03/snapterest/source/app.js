@@ -2,9 +2,16 @@ var React = require('react');
 var ReactDOM = require('react-dom');
 var ReactClass = React.createClass({
     render: function () {
-        //return React.createElement('h1', { className: 'header' }, 'React Component');
-        return false;
+        if (this.profps.isHidden){
+            return null;
+        }
+        return React.createElement('h1', { className: 'header' }, this.props.header);
+        //return React.createElement('h1', { className: 'header' }, this.props.header);
+        //return false;
     }
 });
-var reactComponentElement = React.createElement(ReactClass);
+var o = {header :"OwnHeader",
+        isHidden:true};
+var reactComponentElement = React.createElement(ReactClass,o);
 var reactComponent = ReactDOM.render(reactComponentElement, document.getElementById('react-application'));
+o.header = "changed my mind";
