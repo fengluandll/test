@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringPizza.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringPizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringPizza_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringPizza_main.iml" group="SpringPizza" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringPizza_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringPizza_test.iml" group="SpringPizza" />
+    </modules>
+  </component>
+</project>
