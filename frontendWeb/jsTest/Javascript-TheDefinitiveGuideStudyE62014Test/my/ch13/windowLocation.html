@@ -5,12 +5,17 @@
     <title>Window Location</title>
     <script>
         function goGoogle() {
-            window.location = "http://localhost:63342/Javascript-TheDefinitiveGuideStudyE62014Test/origin/01.01.loancalc.html";
+            window.location = "http://www.google.com.au";
+        }
+
+        function showCurrentLocation(){
+            alert(window.location);
         }
     </script>
 </head>
 <body>
 <button onclick="goGoogle();">go to google</button>
+<button onclick="showCurrentLocation()">show current location</button>
 <script>
     setTimeout(function () {
         alert("Hello, Bear");
