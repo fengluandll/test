@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/qualifier.iml" filepath="$PROJECT_DIR$/.idea/modules/qualifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qualifier_main.iml" filepath="$PROJECT_DIR$/.idea/modules/qualifier_main.iml" group="qualifier" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qualifier_test.iml" filepath="$PROJECT_DIR$/.idea/modules/qualifier_test.iml" group="qualifier" />
     </modules>
   </component>
 </project>
