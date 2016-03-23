@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch04/remainder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch04/shift.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hiberanteTest/JavaPersistencewithHibernateE2Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../hiberanteTest/JavaPersistencewithHibernateE2Test/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hiberanteTest/JavaPersistencewithHibernateE2Test/model/model.iml" afterPath="$PROJECT_DIR$/../../../hiberanteTest/JavaPersistencewithHibernateE2Test/model/model.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/my/03/qualifier/build.gradle" afterPath="$PROJECT_DIR$/../../../springTest/SpringInActionE4Test/my/03/qualifier/build.gradle" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -411,7 +407,7 @@
       <updated>1455223971847</updated>
       <workItem from="1458655559257" duration="104000" />
       <workItem from="1458655678525" duration="41000" />
-      <workItem from="1458681876166" duration="2497000" />
+      <workItem from="1458681876166" duration="3095000" />
     </task>
     <task id="LOCAL-00001" summary="function examples">
       <created>1457839002032</created>
@@ -466,7 +462,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2642000" />
+    <option name="totallyTimeSpent" value="3240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1924" height="1030" extended-state="0" />
