@@ -19,11 +19,9 @@ var Tweet = React.createClass({
   propTypes: {
     tweet: function(properties, propertyName, componentName) {
       var tweet = properties[propertyName];
-
       if (! tweet) {
         return new Error('Tweet must be set.');
       }
-
       if (! tweet.media) {
         return new Error('Tweet must have an image.');
       }
