@@ -8,17 +8,18 @@ describe('Header component', function () {
     var Header = require('../Header.react');
 
     var header = TestUtils.renderIntoDocument(
-      <Header text="Testing..." />
+      //<Header text="Testing..." />
+        React.createElement(Header,{text:'Testing...'})
     );
     var actualHeaderText = ReactDOM.findDOMNode(header).textContent;
 
     expect(actualHeaderText).toBe('Testing...');
-    
+
     var defaultHeader = TestUtils.renderIntoDocument(
-      <Header />
+        React.createElement(Header)
     );
     var actualDefaultHeaderText = ReactDOM.findDOMNode(defaultHeader).textContent;
-    
+
     expect(actualDefaultHeaderText).toBe('Default header');
   });
 });
