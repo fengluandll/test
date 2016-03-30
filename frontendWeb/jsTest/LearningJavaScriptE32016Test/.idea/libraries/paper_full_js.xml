@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="paper-full.js" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://D:/program2/devTools/js/drawing/paperjs-v0.9.25/dist/paper-full.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://D:/program2/devTools/js/drawing/paperjs-v0.9.25/dist/paper-full.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://paperjs.org/reference/global/" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
