@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b93596b-9f60-4f80-baf3-cd587d31a926" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/var/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/var/.eslintrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/var/es6/03/stringTemplate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/var/es6/c09/object_keys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/var/es6/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/var/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/var/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03/var/es6/03/symbols.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LearningJavaScriptE32016Test.iws" />
@@ -60,11 +54,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stringTemplate.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stringTemplate.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03/var/es6/03/stringTemplate.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="symbols.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03/var/es6/03/symbols.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -120,6 +124,7 @@
         <option value="$PROJECT_DIR$/03/var/es6/test.js" />
         <option value="$PROJECT_DIR$/03/var/es6/c09/object_keys.js" />
         <option value="$PROJECT_DIR$/03/var/es6/03/stringTemplate.js" />
+        <option value="$PROJECT_DIR$/03/var/es6/03/symbols.js" />
       </list>
     </option>
   </component>
@@ -278,10 +283,6 @@
               <option name="myItemId" value="02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="first" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -327,7 +328,7 @@
       <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\LearningJavaScriptE32016Test\02\first" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.stringTemplate.js">
+  <component name="RunManager" selected="Node.js.symbols.js">
     <configuration default="false" name="default" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -339,9 +340,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/02/first/es6">
-      <method />
-    </configuration>
     <configuration default="false" name="test.js (2)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/03/var/es6">
       <method />
     </configuration>
@@ -349,6 +347,9 @@
       <method />
     </configuration>
     <configuration default="false" name="stringTemplate.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="stringTemplate.js" working-dir="$PROJECT_DIR$/03/var/es6/03">
+      <method />
+    </configuration>
+    <configuration default="false" name="symbols.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="symbols.js" working-dir="$PROJECT_DIR$/03/var/es6/03">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -406,18 +407,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Gulp.js.default" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.object_keys.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.stringTemplate.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.object_keys.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.stringTemplate.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.symbols.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.stringTemplate.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.object_keys.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Gulp.js.default" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.symbols.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.stringTemplate.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.object_keys.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.test.js (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Gulp.js.default" />
       </list>
     </recent_temporary>
   </component>
@@ -438,7 +439,7 @@
       <workItem from="1459308672628" duration="1251000" />
       <workItem from="1459309950039" duration="2186000" />
       <workItem from="1459314047127" duration="48000" />
-      <workItem from="1459341589226" duration="8175000" />
+      <workItem from="1459341589226" duration="8939000" />
     </task>
     <task id="LOCAL-00001" summary="IC">
       <created>1459260863860</created>
@@ -489,11 +490,18 @@
       <option name="project" value="LOCAL" />
       <updated>1459371942825</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="string template">
+      <created>1459376233846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1459376233846</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13680000" />
+    <option name="totallyTimeSpent" value="14444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1933" height="1030" extended-state="0" />
@@ -539,7 +547,8 @@
     <MESSAGE value="change" />
     <MESSAGE value="point and draw a circle" />
     <MESSAGE value="eslint" />
-    <option name="LAST_COMMIT_MESSAGE" value="eslint" />
+    <MESSAGE value="string template" />
+    <option name="LAST_COMMIT_MESSAGE" value="string template" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -960,6 +969,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03/var/es6/03/symbols.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding />
         </state>
       </provider>
