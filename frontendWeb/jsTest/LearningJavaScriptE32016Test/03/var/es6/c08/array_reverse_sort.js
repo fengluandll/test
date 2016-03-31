@@ -1,7 +1,7 @@
-const arr = [5, 3, 2, 4, 1];
+let arr = [5, 3, 2, 4, 1];
 arr.sort(); // arr is now [1, 2, 3, 4, 5]
 
-const arr = [{ name: "Suzanne" }, { name: "Jim" },
+arr = [{ name: "Suzanne" }, { name: "Jim" },
     { name: "Trevor" }, { name: "Amanda" }];
 arr.sort(); // arr unchanged
 arr.sort((a, b) => a.name > b.name); // arr sorted alphabetically
