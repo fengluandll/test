@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <ul class="nav nav-tabs">
+            <li class="active"><a href="#home" data-toggle="tab">Home</a></li>
+            <li><a href="#profile" data-toggle="tab">Profile</a></li>
+            <li><a href="#messages" data-toggle="tab">Messages</a></li>
+            <li><a href="#settings" data-toggle="tab">Settings</a></li>
+        </ul>
+    </div>
+
+    <div class="tab-content">
+        <div class="tab-pane fade in active" id="home">
+            <h3>The home</h3>
+        </div>
+        <div class="tab-pane fade" id="profile">
+            <h3>The profile</h3>
+        </div>
+        <div class="tab-pane fade" id="messages">
+            <h3>Messages central</h3>
+        </div>
+        <div class="tab-pane fade" id="settings">
+            <h3>Setting panel</h3>
+        </div>
+    </div>
+</div>
+
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.js"></script>
+
+<script>
+    $(function () {
+        //$('.popoverButton').popover();
+        $('.nav-tabs li a').on('show.bs.tab', function () {
+            console.log("Opening tab");
+        });
+        $('.nav-tabs li a').on('shown.bs.tab', function () {
+            console.log("Tab opened!");
+        });
+    });
+
+</script>
+</body>
+</html>

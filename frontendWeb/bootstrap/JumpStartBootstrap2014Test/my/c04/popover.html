@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <button type="button" class="btn btn-danger popoverButton" data-toggle="popover" data-placement="bottom"
+                data-content="Welcome to content" title="this is a demo popover">popover</button>
+    </div>
+</div>
+
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.js"></script>
+
+<script>
+    $(function () {
+        //$('.popoverButton').popover();
+
+        var options = {
+            animation: true,
+            placement: "right"
+        };
+        $('.popoverButton').popover(options);
+
+        $('.popoverButton').on('show.bs.popover',function () {
+            console.log("Opening popover..");
+        });
+
+        $('.popoverButton').on('shown.bs.popover', function () {
+            console.log("Popover opened.");
+        });
+        $('.popoverButton').on('hide.bs.popover', function () {
+            console.log("Hiding popover..");
+        });
+        $('.popoverButton').on('hidden.bs.popover', function () {
+            console.log("Popover hidden.");
+        });
+
+        $('.popoverButton').popover("show");
+    });
+
+</script>
+</body>
+</html>
