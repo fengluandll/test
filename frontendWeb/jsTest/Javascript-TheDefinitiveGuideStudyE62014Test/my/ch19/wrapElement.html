@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        .first{
+            border: dashed 4px red;
+        }
+
+        .rest{
+            background-color: rgba(255,123,231,.75);
+        }
+    </style>
+</head>
+<body>
+
+<h1>first h1</h1>
+
+<p>first para</p>
+
+<p>second para</p>
+
+<h1>second h1</h1>
+
+<p>third para</p>
+
+<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
+        crossorigin="anonymous"></script>
+<script>
+    $(function () {
+        // Wrap all <h1> elements with <i> elements
+        $("h1").wrap(document.createElement("i")); // Produces <i><h1>...</h1></i>
+        // Wrap the content of all <h1> elements. Using a string argument is easier.
+        $("h1").wrapInner("<i/>"); // Produces <h1><i>...</i></h1>
+        // Wrap the first paragraph in one anchor and div
+        $("body>p:first").wrap("<a name='lead'><div class='first'></div></a>");
+        // Wrap all the other paragraphs in another div
+        $("body>p:not(:first)").wrapAll("<div class='rest'></div>");
+    });
+
+</script>
+</body>
+</html>
