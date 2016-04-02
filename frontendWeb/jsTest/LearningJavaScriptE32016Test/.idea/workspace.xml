@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b93596b-9f60-4f80-baf3-cd587d31a926" name="Default" comment="change">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/forIn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04/forOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/blockscope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/closure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/iife.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/iife2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07/scopeVsExistence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/ClassesAsFunctions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/Object.keys.filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/Object.keys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/propEnumForIn.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../bootstrap/JumpStartBootstrap2014Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../bootstrap/JumpStartBootstrap2014Test/.idea/workspace.xml" />
+    <list default="true" id="2b93596b-9f60-4f80-baf3-cd587d31a926" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/prototype.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LearningJavaScriptE32016Test.iws" />
@@ -35,16 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="scopeVsExistence.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07/scopeVsExistence.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="blockscope.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07/blockscope.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,11 +104,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClassesAsFunctions.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClassesAsFunctions.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/09/ClassesAsFunctions.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
               <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prototype.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09/prototype.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -152,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/01/drawCanvas/index.html" />
         <option value="$PROJECT_DIR$/01/drawCanvas/main.js" />
         <option value="$PROJECT_DIR$/02/first/gulpfile.js" />
@@ -203,6 +191,7 @@
         <option value="$PROJECT_DIR$/09/Object.keys.js" />
         <option value="$PROJECT_DIR$/09/Object.keys.filter.js" />
         <option value="$PROJECT_DIR$/09/ClassesAsFunctions.js" />
+        <option value="$PROJECT_DIR$/09/prototype.js" />
       </list>
     </option>
   </component>
@@ -330,10 +319,7 @@
       <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\LearningJavaScriptE32016Test\02\first" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.ClassesAsFunctions.js">
-    <configuration default="false" name="forOf.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="forOf.js" working-dir="$PROJECT_DIR$/04">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.prototype.js">
     <configuration default="false" name="propEnumForIn.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="propEnumForIn.js" working-dir="$PROJECT_DIR$/09">
       <method />
     </configuration>
@@ -344,6 +330,9 @@
       <method />
     </configuration>
     <configuration default="false" name="ClassesAsFunctions.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ClassesAsFunctions.js" working-dir="$PROJECT_DIR$/09">
+      <method />
+    </configuration>
+    <configuration default="false" name="prototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="prototype.js" working-dir="$PROJECT_DIR$/09">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -400,19 +389,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.forOf.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.propEnumForIn.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Object.keys.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Object.keys.filter.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.ClassesAsFunctions.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.propEnumForIn.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Object.keys.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Object.keys.filter.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.ClassesAsFunctions.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.prototype.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.ClassesAsFunctions.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Object.keys.filter.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Object.keys.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.propEnumForIn.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.forOf.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.prototype.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.ClassesAsFunctions.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Object.keys.filter.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Object.keys.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.propEnumForIn.js" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +424,7 @@
       <workItem from="1459314047127" duration="48000" />
       <workItem from="1459341589226" duration="13702000" />
       <workItem from="1459450369396" duration="14448000" />
-      <workItem from="1459546690894" duration="5853000" />
+      <workItem from="1459546690894" duration="7340000" />
     </task>
     <task id="LOCAL-00001" summary="IC">
       <created>1459260863860</created>
@@ -521,11 +510,18 @@
       <option name="project" value="LOCAL" />
       <updated>1459475051105</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="change">
+      <created>1459556792078</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1459556792078</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39508000" />
+    <option name="totallyTimeSpent" value="40995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1933" height="1030" extended-state="0" />
@@ -535,8 +531,8 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="90" y="100" width="1733" height="830" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37440193" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3736527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -583,13 +579,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01/drawCanvas/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02/first/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -636,6 +625,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -650,6 +640,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
           <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -956,6 +947,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09/prototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
           <folding />
         </state>
       </provider>
