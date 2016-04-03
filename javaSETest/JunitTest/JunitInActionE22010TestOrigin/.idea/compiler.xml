@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="calculator-client" />
+        <module name="calculator-service" />
+        <module name="calculator-test" />
+        <module name="ch02-internals" />
+        <module name="ch06-stubs" />
+        <module name="ch07-mocks" />
+        <module name="ch08-incontainer" />
+        <module name="ch10-maven" />
+        <module name="ch13-ajax" />
+        <module name="ch15-jsfunit" />
+        <module name="ch17-dbunit" />
+        <module name="ch18-jpa" />
+        <module name="ch19-steroids" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="calculator-client" target="1.5" />
+      <module name="calculator-service" target="1.5" />
+      <module name="calculator-test" target="1.5" />
+      <module name="ch02-internals" target="1.5" />
+      <module name="ch06-stubs" target="1.5" />
+      <module name="ch07-mocks" target="1.5" />
+      <module name="ch08-incontainer" target="1.5" />
+      <module name="ch10-maven" target="1.5" />
+      <module name="ch12-gui" target="1.5" />
+      <module name="ch13-ajax" target="1.5" />
+      <module name="ch14-cactus" target="1.5" />
+      <module name="ch15-jsfunit" target="1.5" />
+      <module name="ch16-osgi" target="1.5" />
+      <module name="ch17-dbunit" target="1.5" />
+      <module name="ch18-jpa" target="1.5" />
+      <module name="ch19-steroids" target="1.5" />
+      <module name="junit-in-action-II" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
