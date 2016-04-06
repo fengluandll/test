@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b93596b-9f60-4f80-baf3-cd587d31a926" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/Object.toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/enumPropsRevisited.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/mixin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09/mixin_symbol.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LearningJavaScriptE32016Test.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored mask="*.class" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -428,7 +425,7 @@
       <workItem from="1459341589226" duration="13702000" />
       <workItem from="1459450369396" duration="14448000" />
       <workItem from="1459546690894" duration="7349000" />
-      <workItem from="1459825292481" duration="4355000" />
+      <workItem from="1459825292481" duration="4392000" />
     </task>
     <task id="LOCAL-00001" summary="IC">
       <created>1459260863860</created>
@@ -535,11 +532,18 @@
       <option name="project" value="LOCAL" />
       <updated>1459826802145</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="change">
+      <created>1459830736408</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1459830736408</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45359000" />
+    <option name="totallyTimeSpent" value="45396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1933" height="1030" extended-state="0" />
