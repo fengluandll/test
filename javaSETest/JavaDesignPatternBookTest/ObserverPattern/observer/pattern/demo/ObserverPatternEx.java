@@ -1,12 +1,14 @@
 package observer.pattern.demo;
+import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
+
 import java.util.*;
 
- /* interface IObserver
+   interface IObserver
    {
        void update();
-   }*/
+   }
    //class Observer implements IObserver
-   class Observer
+   class Observer implements IObserver
     {        
     	//@Override
     	public void update()
@@ -17,14 +19,14 @@ import java.util.*;
 
     interface ISubject
     {
-        void register(Observer o);
-        void unregister( Observer o);
+        void register(IObserver o);
+        void unregister( IObserver o);
         void notifyObservers();
     }
     class Subject implements ISubject
     {
         //List<IObserver> observerList = new ArrayList<IObserver>();
-    	List<Observer> observerList = new ArrayList<Observer>();
+    	List<IObserver> observerList = new ArrayList<IObserver>();
         private int _flag;
 		public int getFlag()
         {
@@ -37,12 +39,12 @@ import java.util.*;
                  notifyObservers();
         }
         @Override
-        public void register(Observer o)
+        public void register(IObserver o)
         { 
             observerList.add(o);
         }
         @Override
-        public void unregister(Observer o)
+        public void unregister(IObserver o)
         {
             observerList.remove(o);
         }
@@ -60,7 +62,7 @@ class  ObserverPatternEx
 	public static void main(String[] args)
     {
 		System.out.println("***Observer Pattern Demo***\n");
-		Observer o1 = new Observer();
+		IObserver o1 = new Observer();
         Subject sub1 = new Subject();
         sub1.register(o1);
         System.out.println("Setting Flag = 5 ");
