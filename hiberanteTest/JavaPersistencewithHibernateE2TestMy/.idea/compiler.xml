@@ -22,11 +22,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="JavaPersistencewithHibernateE2TestMy" />
+        <module name="environment" />
+        <module name="shared" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="environment" target="1.5" />
       <module name="JavaPersistencewithHibernateE2TestMy" target="1.5" />
+      <module name="shared" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
