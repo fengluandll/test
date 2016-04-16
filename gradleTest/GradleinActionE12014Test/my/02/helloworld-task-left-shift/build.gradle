@@ -1,0 +1,7 @@
+group 'test'
+version '1.0-SNAPSHOT'
+
+task helloWorld<<{
+    println 'hello,world!'
+}
+

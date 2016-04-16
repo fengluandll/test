@@ -11,6 +11,7 @@
 *.userprefs
 
 # Build results
+*.class
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
