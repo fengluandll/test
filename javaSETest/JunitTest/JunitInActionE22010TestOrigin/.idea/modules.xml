@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ch16-osgi/calculator-service/calculator-service.iml" filepath="$PROJECT_DIR$/ch16-osgi/calculator-service/calculator-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch16-osgi/calculator-test/calculator-test.iml" filepath="$PROJECT_DIR$/ch16-osgi/calculator-test/calculator-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch02-internals/ch02-internals.iml" filepath="$PROJECT_DIR$/ch02-internals/ch02-internals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-mastering/ch03-mastering.iml" filepath="$PROJECT_DIR$/ch03-mastering/ch03-mastering.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch06-stubs/ch06-stubs.iml" filepath="$PROJECT_DIR$/ch06-stubs/ch06-stubs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch07-mocks/ch07-mocks.iml" filepath="$PROJECT_DIR$/ch07-mocks/ch07-mocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch08-incontainer/ch08-incontainer.iml" filepath="$PROJECT_DIR$/ch08-incontainer/ch08-incontainer.iml" />

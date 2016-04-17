@@ -27,4 +27,5 @@ package com.manning.junitbook.ch03.mastering;
  */
 public interface Response
 {
+    String getName();
 }

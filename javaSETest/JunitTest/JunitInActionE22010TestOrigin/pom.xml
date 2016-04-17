@@ -94,6 +94,7 @@
 
 	<modules>
 		<module>ch02-internals</module>
+        <module>ch03-mastering</module>
 		<module>ch06-stubs</module>
 		<module>ch07-mocks</module>
 		<module>ch08-incontainer</module>

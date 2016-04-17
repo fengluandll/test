@@ -26,6 +26,7 @@
         <module name="calculator-service" />
         <module name="calculator-test" />
         <module name="ch02-internals" />
+        <module name="ch03-mastering" />
         <module name="ch06-stubs" />
         <module name="ch07-mocks" />
         <module name="ch08-incontainer" />
@@ -42,6 +43,7 @@
       <module name="calculator-service" target="1.5" />
       <module name="calculator-test" target="1.5" />
       <module name="ch02-internals" target="1.5" />
+      <module name="ch03-mastering" target="1.5" />
       <module name="ch06-stubs" target="1.5" />
       <module name="ch07-mocks" target="1.5" />
       <module name="ch08-incontainer" target="1.5" />

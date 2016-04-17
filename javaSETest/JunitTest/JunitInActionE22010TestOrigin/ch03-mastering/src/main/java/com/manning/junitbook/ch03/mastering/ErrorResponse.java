@@ -46,4 +46,8 @@ public class ErrorResponse
     {
         return this.originalException;
     }
+
+    public String getName() {
+        return "errorResponse";
+    }
 }
