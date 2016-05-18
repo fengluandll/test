@@ -1,0 +1,7 @@
+#surefire
+#Sat Apr 16 13:35:15 ACST 2016
+user.dir=D\:\\WorkGitSpace\\test\\hiberanteTest\\JavaPersistencewithHibernateE2Test\\examples
+localRepository=C\:\\Users\\Allbts-IT\\.m2\\repository
+derby.stream.error.field=java.lang.System.err
+java.util.logging.config.file=../shared/src/main/resources/logging.properties
+basedir=D\:\\WorkGitSpace\\test\\hiberanteTest\\JavaPersistencewithHibernateE2Test\\examples

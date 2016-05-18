@@ -1,0 +1,22 @@
+{
+  "name": "hello_bower",
+  "homepage": "https://github.com/YunZhang2014/test",
+  "authors": [
+    "YunZhang2014 <jslgdxzy@gmail.com>"
+  ],
+  "description": "haha",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-mocks": "^1.5.5"
+  }
+}
