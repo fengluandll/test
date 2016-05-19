@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Load the Paper.js library -->
+    <script type="text/javascript" src="js/paper.js"></script>
+    <!-- Define inlined JavaScript -->
+    <script type="text/javascript">
+        paper.install(window);
+        window.onload = function() {
+            paper.setup('myCanvas');
+            // Create a simple drawing tool:
+            var tool = new Tool();
+            var path;
+
+            // Define a mousedown and mousedrag handler
+            tool.onMouseDown = function(event) {
+                path = new Path();
+                path.strokeColor = 'black';
+                path.add(event.point);
+            }
+
+            tool.onMouseDrag = function(event) {
+                path.add(event.point);
+            }
+        }
+    </script>
+</head>
+<body>
+<canvas id="myCanvas" resize></canvas>
+</body>
+</html>
