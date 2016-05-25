@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Load the Paper.js library -->
+    <script type="text/javascript" src="js/paper.js"></script>
+    <!-- Define inlined PaperScript associate it with myCanvas -->
+    <script type="text/paperscript" canvas="myCanvas">
+        var myPoint = new Point(10, 20);
+        console.log(myPoint); // { x: 10, y: 20 }
+
+        var myPath = new Path();
+        myPath.add(myPoint);
+    </script>
+</head>
+<body>
+<canvas id="myCanvas" resize></canvas>
+</body>
+</html>
