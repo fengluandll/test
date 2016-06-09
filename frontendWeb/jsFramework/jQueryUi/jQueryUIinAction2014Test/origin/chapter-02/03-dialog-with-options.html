@@ -14,7 +14,9 @@
 <script>
 	$( "<div>Your files have been successfully uploaded.</div>" ).dialog({
 		buttons: {
-			OK: function() {}
+			OK: function() {
+				$(this).dialog( "close" );
+			}
 		},
 		title: "Success"
 	});

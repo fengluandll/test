@@ -1,7 +1,9 @@
 package com.packtpub.mongo.chapter6.repository;
 
 import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
+@Document(collection = "mybooks")
 public class Book {
 
     @Id

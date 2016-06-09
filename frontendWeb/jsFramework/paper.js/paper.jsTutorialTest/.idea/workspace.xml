@@ -2,32 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf077e57-27bb-4cb2-a2a4-c34065101060" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pointSizeAndRectanggle/PointOnly/first.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pointSizeAndRectanggle/PointOnly/js/paper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_mongodb_mongo_java_driver_2_12_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_1_8_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_springframework_data_spring_data_mongodb_1_5_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_springframework_spring_aop_4_0_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_springframework_spring_beans_4_0_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_springframework_spring_context_4_0_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_springframework_spring_core_4_0_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_springframework_spring_expression_4_0_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_springframework_spring_test_4_0_6_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/libraries/Gradle__org_springframework_spring_tx_3_2_10_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/modules/mongo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/modules/mongo_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/modules/mongo_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringInActionE4Test/origin/Chapter_12/mongo/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../WebMapTest/GoogleMapsJavaScriptAPICookbook2013TestOrigin/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../WebMapTest/GoogleMapsJavaScriptAPICookbook2013TestOrigin/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../bootstrap/JumpStartBootstrap2014Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../bootstrap/JumpStartBootstrap2014Test/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_fasterxml_classmate_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_github_fge_btf_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_github_fge_jackson_coreutils_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_github_fge_json_patch_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_github_fge_msg_simple_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_20.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_atteo_evo_inflector_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_1_3_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_3_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_mongodb_mongo_java_driver_2_12_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_9_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_6_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_2_2_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_2_2_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_16_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_1_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_spring_tx_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_spring_web_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/libraries/Maven__org_yaml_snakeyaml_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/SpringMongoRepository.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/src/main/java/com/packtpub/mongo/chapter6/repository/BookRepository2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/src/main/java/com/packtpub/mongo/chapter6/repository/BookRepository3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_mongodb_mongo_java_driver_2_12_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_2_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_9_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_6_2_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_spring_aop_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_spring_beans_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_spring_context_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_spring_core_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_spring_expression_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_springframework_spring_tx_4_1_6_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/libraries/Maven__org_yaml_snakeyaml_1_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoTemplate/SpringMongoTemplate.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/src/main/java/com/packtpub/mongo/chapter6/repository/Book.java" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/4735_Chapter 6/SpringMongoRepository/src/main/java/com/packtpub/mongo/chapter6/repository/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/my/ch06/helloSpringBoot/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../../javaSETest/mongoDbJavaTest/mongoDbJavaBookTest/MongoDbforJavaDevelopers2015Test/my/ch06/helloSpringBoot/.idea/workspace.xml" />
     </list>
     <ignored path="paper.jsTutorialTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,11 +105,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="first.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="first.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first/first.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="266">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -78,11 +135,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scratch_1.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scratch_1.js" pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="2" column="78" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="78" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -139,7 +196,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="1942" />
+    <option name="width" value="1934" />
     <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -167,6 +224,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -188,7 +246,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,6 +342,9 @@
       <workItem from="1463704528401" duration="1672000" />
       <workItem from="1463814241007" duration="2176000" />
       <workItem from="1463971872312" duration="10409000" />
+      <workItem from="1464179736263" duration="622000" />
+      <workItem from="1464223208207" duration="1224000" />
+      <workItem from="1464430772112" duration="2093000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1463554412327</created>
@@ -311,28 +371,28 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28630000" />
+    <option name="totallyTimeSpent" value="32569000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="false" />
+    <frame x="-11" y="-11" width="1934" height="1042" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08972845" sideWeight="0.51272535" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08972845" sideWeight="0.48727465" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08962264" sideWeight="0.51916933" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08962264" sideWeight="0.48083067" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -357,6 +417,126 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/first/first.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circle/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="78" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circle/js/paper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/first.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circle/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="78" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circle/js/paper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/first/first.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circle/js/myScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="78" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/circle/js/paper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/first/first.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -567,26 +747,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="2" column="78" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/circle/js/paper.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -599,10 +763,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/first/first.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="266">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
           <folding />
         </state>
       </provider>
