@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../gradleTest/GradleinActionE12014Test/my/02/.idea/gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../gradleTest/GradleinActionE12014Test/my/02/.idea/modules/02.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../gradleTest/GradleinActionE12014Test/my/02/.idea/vcs.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../.gitignore" afterPath="$PROJECT_DIR$/../../../.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/searchArray.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaSETest/JunitTest/JunitInActionE22010TestOrigin/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../javaSETest/JunitTest/JunitInActionE22010TestOrigin/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,36 +58,29 @@
       <file leaf-file-name="scratch_4" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-              <folding>
-                <marker date="1462414111821" expanded="true" signature="41:84" placeholder="/*...*/" />
-                <marker date="1462414111821" expanded="true" signature="88:346" placeholder="{...}" />
-                <marker date="1462414111821" expanded="true" signature="90:154" placeholder="/*...*/" />
-                <marker date="1462414111821" expanded="true" signature="250:286" placeholder="/*...*/" />
-                <marker date="1462414111821" expanded="true" signature="309:344" placeholder="/*...*/" />
-                <marker date="1462414111821" expanded="true" signature="357:417" placeholder="/*...*/" />
-                <marker date="1462414111821" expanded="true" signature="426:489" placeholder="/*...*/" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scratch_6" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scratch_6" pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-              <folding>
-                <marker date="1462414090131" expanded="true" signature="41:84" placeholder="/*...*/" />
-                <marker date="1462414090131" expanded="true" signature="88:153" placeholder="{...}" />
-                <marker date="1462414090131" expanded="true" signature="88:346" placeholder="{...}" />
-                <marker date="1462414090131" expanded="true" signature="90:152" placeholder="/*...*/" />
-                <marker date="1462414090131" expanded="true" signature="250:286" placeholder="/*...*/" />
-                <marker date="1462414090131" expanded="true" signature="309:344" placeholder="/*...*/" />
-                <marker date="1462414090131" expanded="true" signature="357:417" placeholder="/*...*/" />
-                <marker date="1462414090131" expanded="true" signature="426:489" placeholder="/*...*/" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="searchArray.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/ch05/searchArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,8 +100,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -122,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch19/array-like.html" />
         <option value="$PROJECT_DIR$/ch19/each.html" />
         <option value="$PROJECT_DIR$/ch19/map.html" />
         <option value="$PROJECT_DIR$/ch19/is.html" />
@@ -173,18 +161,20 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" />
+        <option value="$PROJECT_DIR$/my/ch05/searchArray.js" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="1942" />
+    <option name="width" value="1934" />
     <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -212,6 +202,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Javascript-TheDefinitiveGuideStudyE62014Test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -288,23 +292,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Javascript-TheDefinitiveGuideStudyE62014Test">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -330,10 +338,7 @@
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\ch19" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.shift.js">
-    <configuration default="false" name="excapeSequence.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="excapeSequence.js" working-dir="$PROJECT_DIR$/my/ch03">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.searchArray.js">
     <configuration default="false" name="omitSemicoolon.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="omitSemicoolon.js" working-dir="$PROJECT_DIR$/my/ch02">
       <method />
     </configuration>
@@ -344,6 +349,9 @@
       <method />
     </configuration>
     <configuration default="false" name="shift.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shift.js" working-dir="$PROJECT_DIR$/my/ch04">
+      <method />
+    </configuration>
+    <configuration default="false" name="searchArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="searchArray.js" working-dir="$PROJECT_DIR$/my/ch05">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -400,19 +408,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.excapeSequence.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.omitSemicoolon.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.workWithStrings.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.remainder.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.shift.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.omitSemicoolon.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.workWithStrings.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.remainder.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.shift.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.searchArray.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.shift.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.remainder.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.workWithStrings.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.omitSemicoolon.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.excapeSequence.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.searchArray.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.shift.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.remainder.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.workWithStrings.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.omitSemicoolon.js" />
       </list>
     </recent_temporary>
   </component>
@@ -440,6 +448,7 @@
       <workItem from="1459564517941" duration="3814000" />
       <workItem from="1462406371911" duration="3123000" />
       <workItem from="1462854047199" duration="12000" />
+      <workItem from="1466694522964" duration="864000" />
     </task>
     <task id="LOCAL-00001" summary="function examples">
       <created>1457839002032</created>
@@ -515,29 +524,29 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16189000" />
+    <option name="totallyTimeSpent" value="17053000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1934" height="1042" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24867444" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24866879" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33490565" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3254717" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41248098" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41248098" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -598,13 +607,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my/ch05/forInArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my/ch19/js/jquery-1.10.0-min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -945,34 +947,25 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <marker date="1462414111821" expanded="true" signature="41:84" placeholder="/*...*/" />
-            <marker date="1462414111821" expanded="true" signature="88:346" placeholder="{...}" />
-            <marker date="1462414111821" expanded="true" signature="90:154" placeholder="/*...*/" />
-            <marker date="1462414111821" expanded="true" signature="250:286" placeholder="/*...*/" />
-            <marker date="1462414111821" expanded="true" signature="309:344" placeholder="/*...*/" />
-            <marker date="1462414111821" expanded="true" signature="357:417" placeholder="/*...*/" />
-            <marker date="1462414111821" expanded="true" signature="426:489" placeholder="/*...*/" />
-          </folding>
+        <state relative-caret-position="114">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding>
-            <marker date="1462414090131" expanded="true" signature="41:84" placeholder="/*...*/" />
-            <marker date="1462414090131" expanded="true" signature="88:153" placeholder="{...}" />
-            <marker date="1462414090131" expanded="true" signature="88:346" placeholder="{...}" />
-            <marker date="1462414090131" expanded="true" signature="90:152" placeholder="/*...*/" />
-            <marker date="1462414090131" expanded="true" signature="250:286" placeholder="/*...*/" />
-            <marker date="1462414090131" expanded="true" signature="309:344" placeholder="/*...*/" />
-            <marker date="1462414090131" expanded="true" signature="357:417" placeholder="/*...*/" />
-            <marker date="1462414090131" expanded="true" signature="426:489" placeholder="/*...*/" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch05/searchArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
