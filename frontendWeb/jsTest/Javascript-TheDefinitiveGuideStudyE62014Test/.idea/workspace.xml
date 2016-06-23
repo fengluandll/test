@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/continue.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
@@ -468,7 +467,7 @@
       <workItem from="1459564517941" duration="3814000" />
       <workItem from="1462406371911" duration="3123000" />
       <workItem from="1462854047199" duration="12000" />
-      <workItem from="1466694522964" duration="2937000" />
+      <workItem from="1466694522964" duration="2948000" />
     </task>
     <task id="LOCAL-00001" summary="function examples">
       <created>1457839002032</created>
@@ -554,11 +553,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466696183530</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="change">
+      <created>1466698288331</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1466698288331</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19126000" />
+    <option name="totallyTimeSpent" value="19137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1934" height="1042" extended-state="0" />
@@ -599,11 +605,11 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="function examples" />
     <MESSAGE value="some test" />
-    <MESSAGE value="change" />
     <MESSAGE value="events" />
     <MESSAGE value="search in an array" />
     <MESSAGE value="+breakLabel" />
-    <option name="LAST_COMMIT_MESSAGE" value="+breakLabel" />
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
