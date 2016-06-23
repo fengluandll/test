@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/breakLabel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/continue.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
@@ -85,11 +85,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="breakLabel.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="breakLabel.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/ch05/breakLabel.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
               <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="continue.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/ch05/continue.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -121,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch19/map.html" />
         <option value="$PROJECT_DIR$/ch19/is.html" />
         <option value="$PROJECT_DIR$/ch19/css.html" />
         <option value="$PROJECT_DIR$/my/ch05/forPrint9.js" />
@@ -172,6 +181,7 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" />
         <option value="$PROJECT_DIR$/my/ch05/searchArray.js" />
         <option value="$PROJECT_DIR$/my/ch05/breakLabel.js" />
+        <option value="$PROJECT_DIR$/my/ch05/continue.js" />
       </list>
     </option>
   </component>
@@ -348,10 +358,7 @@
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\ch19" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.breakLabel.js">
-    <configuration default="false" name="workWithStrings.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="workWithStrings.js" working-dir="$PROJECT_DIR$/my/ch03">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.continue.js">
     <configuration default="false" name="remainder.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="remainder.js" working-dir="$PROJECT_DIR$/my/ch04">
       <method />
     </configuration>
@@ -362,6 +369,9 @@
       <method />
     </configuration>
     <configuration default="false" name="breakLabel.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="breakLabel.js" working-dir="$PROJECT_DIR$/my/ch05">
+      <method />
+    </configuration>
+    <configuration default="false" name="continue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="continue.js" working-dir="$PROJECT_DIR$/my/ch05">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -418,19 +428,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.workWithStrings.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.remainder.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.shift.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.searchArray.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.breakLabel.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.remainder.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.shift.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.searchArray.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.breakLabel.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.continue.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.breakLabel.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.searchArray.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.shift.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.remainder.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.workWithStrings.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.continue.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.breakLabel.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.searchArray.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.shift.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.remainder.js" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +468,7 @@
       <workItem from="1459564517941" duration="3814000" />
       <workItem from="1462406371911" duration="3123000" />
       <workItem from="1462854047199" duration="12000" />
-      <workItem from="1466694522964" duration="1582000" />
+      <workItem from="1466694522964" duration="2937000" />
     </task>
     <task id="LOCAL-00001" summary="function examples">
       <created>1457839002032</created>
@@ -537,21 +547,28 @@
       <option name="project" value="LOCAL" />
       <updated>1466695464377</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="+breakLabel">
+      <created>1466696183530</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1466696183530</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17771000" />
+    <option name="totallyTimeSpent" value="19126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1934" height="1042" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24866879" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24866879" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33530107" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32467532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33530107" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32467532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -585,7 +602,8 @@
     <MESSAGE value="change" />
     <MESSAGE value="events" />
     <MESSAGE value="search in an array" />
-    <option name="LAST_COMMIT_MESSAGE" value="search in an array" />
+    <MESSAGE value="+breakLabel" />
+    <option name="LAST_COMMIT_MESSAGE" value="+breakLabel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -625,13 +643,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my/ch19/is.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my/ch19/css.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -984,6 +995,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch05/continue.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
           <folding />
         </state>
       </provider>
