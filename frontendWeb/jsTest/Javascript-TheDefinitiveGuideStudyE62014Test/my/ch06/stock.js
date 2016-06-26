@@ -3,8 +3,9 @@ function addstock(portfolio, stockname, shares) {
 }
 
 function getvalue(portfolio) {
+    
     var total = 0.0;
-    for(var stock in portfolio) { // For each stock in the portfolio:
+    for(stock in portfolio) { // For each stock in the portfolio:
         var shares = portfolio[stock]; // get the number of shares
         var price = getquote(stock); // look up share price
         total += shares * price; // add stock value to total value
@@ -21,4 +22,4 @@ for(var i = 0;i < 5; i++){
     portfolio["stock" + i] = i;
 }
 
-console.log(getvalue(portfolio));
+console.log('portfolio value is: ' + getvalue(portfolio));

@@ -1,12 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
+    <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="change">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/Object.create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/Object.create.null.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/Object.create.object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/inherit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/trycatch.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/trycatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.settings/org.eclipse.core.resources.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/src/main/java/com/example/HelloRestStsApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/src/test/java/com/example/HelloRestStsApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/rest-cli/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my/ch06/stock.js" afterPath="$PROJECT_DIR$/my/ch06/stock.js" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored mask="*.class" />
+    <ignored path="../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.mvn/wrapper/maven-wrapper.properties" />
+    <ignored path="../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.mvn/wrapper/maven-wrapper.jar" />
+    <ignored path="../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest/target/" />
+    <ignored path="../../../springTest/springRest/SpringRest2015TestMy/01/rest-cli/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +40,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -24,92 +50,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="clone.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch19/clone.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wrapElement.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch19/wrapElement.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1216">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="39" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.02.digital_clock.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/origin/13.02.digital_clock.html">
+      <file leaf-file-name="Object.create.object.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch05/Object.create.object.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scratch_4" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4">
+      <file leaf-file-name="inherit.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch05/inherit.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="307">
+              <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scratch_6" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6">
+      <file leaf-file-name="scratch_5.js" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="searchArray.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch05/searchArray.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="breakLabel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch05/breakLabel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="continue.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my/ch05/continue.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.03.from1996.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/origin/13.03.from1996.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="304">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,14 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch19/is.html" />
-        <option value="$PROJECT_DIR$/ch19/css.html" />
-        <option value="$PROJECT_DIR$/my/ch05/forPrint9.js" />
-        <option value="$PROJECT_DIR$/my/ch05/forWith2UpdatedVariables.js" />
-        <option value="$PROJECT_DIR$/my/ch05/forTailOfLinkedList.js" />
-        <option value="$PROJECT_DIR$/my/ch05/forArray.js" />
-        <option value="$PROJECT_DIR$/my/ch05/forInObject.js" />
-        <option value="$PROJECT_DIR$/my/ch05/forInPropertiesToArray.js" />
         <option value="$PROJECT_DIR$/my/ch05/forInArray.js" />
         <option value="$PROJECT_DIR$/my/ch07/arraySimpleAdd.js" />
         <option value="$PROJECT_DIR$/my/ch07/arrayAddPush.js" />
@@ -159,7 +119,6 @@
         <option value="$PROJECT_DIR$/my/ch10/search.js" />
         <option value="$PROJECT_DIR$/my/ch10/replaceCapitalisation.js" />
         <option value="$PROJECT_DIR$/my/ch06/customer.js" />
-        <option value="$PROJECT_DIR$/my/ch06/stock.js" />
         <option value="$PROJECT_DIR$/my/ch04/nullUndefinedCompare.js" />
         <option value="$PROJECT_DIR$/my/ch04/booleanComparison.js" />
         <option value="$PROJECT_DIR$/my/ch03/excapeSequence.js" />
@@ -181,6 +140,15 @@
         <option value="$PROJECT_DIR$/my/ch05/searchArray.js" />
         <option value="$PROJECT_DIR$/my/ch05/breakLabel.js" />
         <option value="$PROJECT_DIR$/my/ch05/continue.js" />
+        <option value="$PROJECT_DIR$/my/ch05/trycatch.html" />
+        <option value="$PROJECT_DIR$/my/ch05/trycatch.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" />
+        <option value="$PROJECT_DIR$/my/ch06/stock.js" />
+        <option value="$PROJECT_DIR$/my/ch05/Object.create.js" />
+        <option value="$PROJECT_DIR$/my/ch05/Object.create.null.js" />
+        <option value="$PROJECT_DIR$/my/ch05/Object.create.object.js" />
+        <option value="$PROJECT_DIR$/my/ch05/inherit.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" />
       </list>
     </option>
   </component>
@@ -192,8 +160,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1934" />
+    <option name="width" value="1924" />
     <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -235,6 +202,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -331,7 +299,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,33 +311,34 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript&#10;HTML" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$3/Languages" value="JavaScript" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch05" />
       <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch19" />
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch13" />
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch07" />
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch05" />
-      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\ch19" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.continue.js">
-    <configuration default="false" name="remainder.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="remainder.js" working-dir="$PROJECT_DIR$/my/ch04">
+  <component name="RunManager" selected="Node.js.inherit.js">
+    <configuration default="false" name="stock.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="stock.js" working-dir="$PROJECT_DIR$/my/ch06">
       <method />
     </configuration>
-    <configuration default="false" name="shift.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="shift.js" working-dir="$PROJECT_DIR$/my/ch04">
+    <configuration default="false" name="Object.create.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Object.create.js" working-dir="$PROJECT_DIR$/my/ch05">
       <method />
     </configuration>
-    <configuration default="false" name="searchArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="searchArray.js" working-dir="$PROJECT_DIR$/my/ch05">
+    <configuration default="false" name="Object.create.null.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Object.create.null.js" working-dir="$PROJECT_DIR$/my/ch05">
       <method />
     </configuration>
-    <configuration default="false" name="breakLabel.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="breakLabel.js" working-dir="$PROJECT_DIR$/my/ch05">
+    <configuration default="false" name="Object.create.object.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Object.create.object.js" working-dir="$PROJECT_DIR$/my/ch05">
       <method />
     </configuration>
-    <configuration default="false" name="continue.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="continue.js" working-dir="$PROJECT_DIR$/my/ch05">
+    <configuration default="false" name="inherit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="inherit.js" working-dir="$PROJECT_DIR$/my/ch05">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -427,19 +395,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.remainder.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.shift.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.searchArray.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.breakLabel.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.continue.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.stock.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Object.create.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.Object.create.null.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Object.create.object.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.inherit.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.continue.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.breakLabel.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.searchArray.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.shift.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.remainder.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.inherit.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Object.create.object.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Object.create.null.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Object.create.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.stock.js" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +435,9 @@
       <workItem from="1459564517941" duration="3814000" />
       <workItem from="1462406371911" duration="3123000" />
       <workItem from="1462854047199" duration="12000" />
-      <workItem from="1466694522964" duration="2953000" />
+      <workItem from="1466694522964" duration="3021000" />
+      <workItem from="1466726347777" duration="26000" />
+      <workItem from="1466847860600" duration="18093000" />
     </task>
     <task id="LOCAL-00001" summary="function examples">
       <created>1457839002032</created>
@@ -567,32 +537,39 @@
       <option name="project" value="LOCAL" />
       <updated>1466698296714</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="change">
+      <created>1466698302421</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1466698302421</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19142000" />
+    <option name="totallyTimeSpent" value="37329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1934" height="1042" extended-state="0" />
+    <frame x="-11" y="0" width="1924" height="1042" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24866879" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.248394" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33530107" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32467532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41248098" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4120425" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -645,8 +622,38 @@
           <line>3</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/my/ch06/stock.js</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/my/ch06/stock.js</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/my/ch05/Object.create.js</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/my/ch05/Object.create.null.js</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/my/ch05/Object.create.object.js</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
@@ -656,69 +663,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my/ch19/css.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch19/map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch19/each.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch19/array-like.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="24" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/arraySimpleAdd.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/arrayAddPush.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/arrayDelete.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="622" column="0" selection-start-line="622" selection-start-column="0" selection-end-line="622" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch03/infinity.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my/ch03/negZero.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -807,13 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/example8-1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="28" column="3" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my/ch10/search.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -832,13 +769,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch06/stock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -964,14 +894,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/origin/13.03.from1996.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/origin/13.02.digital_clock.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -1006,7 +928,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/ch05/breakLabel.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
+        <state relative-caret-position="874">
           <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
           <folding />
         </state>
@@ -1014,9 +936,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/ch05/continue.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="114">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin/13.03.from1996.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch08/example8-1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch05/trycatch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch05/trycatch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch06/stock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="94" column="6" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch05/Object.create.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch05/Object.create.null.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch05/Object.create.object.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch05/inherit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
