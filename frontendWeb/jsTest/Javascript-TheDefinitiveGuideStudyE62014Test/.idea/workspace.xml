@@ -1,30 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="change">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/src/main/resources/application.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/Object.create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/Object.create.null.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/Object.create.object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/inherit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/trycatch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch05/trycatch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.classpath" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.settings/org.eclipse.core.resources.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.settings/org.eclipse.m2e.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/.settings/org.eclipse.wst.common.project.facet.core.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/mvnw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/mvnw.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/src/main/java/com/example/HelloRestStsApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest-sts/src/test/java/com/example/HelloRestStsApplicationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/hello-rest/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015TestMy/01/rest-cli/.idea/workspace.xml" />
+    <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my/ch06/stock.js" afterPath="$PROJECT_DIR$/my/ch06/stock.js" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -437,7 +415,7 @@
       <workItem from="1462854047199" duration="12000" />
       <workItem from="1466694522964" duration="3021000" />
       <workItem from="1466726347777" duration="26000" />
-      <workItem from="1466847860600" duration="18093000" />
+      <workItem from="1466847860600" duration="18147000" />
     </task>
     <task id="LOCAL-00001" summary="function examples">
       <created>1457839002032</created>
@@ -544,11 +522,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466698302421</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="change">
+      <created>1466919642336</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1466919642336</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37329000" />
+    <option name="totallyTimeSpent" value="37383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="0" width="1924" height="1042" extended-state="0" />
