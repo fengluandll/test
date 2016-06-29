@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <style>
+
+    </style>
+</head>
+<body ng-controller="TextController">
+<p>{{someText.message}}</p>
+<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
+        integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
+        crossorigin="anonymous"></script>
+<script
+        src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.1/angular.min.js">
+</script>
+<script>
+    var myAppModule = angular.module('myApp',[]);
+
+    myAppModule.controller('TextController',function ($scope) {
+        var someText = {};
+        someText.message = 'You have started your journey.';
+        $scope.someText = someText;
+    });
+
+</script>
+</body>
+</html>

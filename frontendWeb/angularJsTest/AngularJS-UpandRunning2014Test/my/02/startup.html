@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <style>
+
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
+</head>
+<body>
+
+<form ng-controller="StartUpController">
+    Starting: <input ng-model="funding.startingEstimate" ng-change="computeNeeded()">
+    Recommendation: {{funding.needed}}
+</form>
+
+<script>
+    function StartUpController($scope) {
+        $scope.funding = {startingEstimate : 0};
+
+        $scope.computeNeeded = function () {
+            $scope.funding.needed = $scope.funding.startingEstimate *10;
+        };
+    }
+</script>
+</body>
+</html>
