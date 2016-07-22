@@ -1,0 +1,1 @@
+jQuery.expr[':'].draggable = function(e) { return e.draggable === true; };

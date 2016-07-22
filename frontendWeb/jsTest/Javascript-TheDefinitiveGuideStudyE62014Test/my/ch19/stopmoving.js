@@ -1,0 +1,1 @@
+$(".stopmoving").click(function() { jQuery.fx.off = true; });

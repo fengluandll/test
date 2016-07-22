@@ -2,346 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/controllers/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/database/production.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/database/seeds/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/database/migrations/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/database/production.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/controllers/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/database/migrations/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/database/production.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/database/seeds/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/database/migrations/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/database/production.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 01/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 02/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 03/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 04/assets/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 04/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 04/assets/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 04/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 04/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 05/assets/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 05/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 05/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 06/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 06/assets/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 06/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 06/assets/partials/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 07/assets/js/angular-animate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 07/assets/js/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 07/assets/js/angular-sanitize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 07/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 07/assets/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 07/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 07/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 07/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/assets/js/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/assets/partials/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/config/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/config/compile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/config/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/controllers/ContactsController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/database/migrations/2014_03_16_164213_create_contacts_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/filters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/lang/en/reminders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/start/global.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/start/local.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/storage/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/storage/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/storage/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/app/views/hello.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/bootstrap/paths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/bootstrap/start.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 08/backend/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/config/compile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/config/testing/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/config/testing/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/database/seeds/DatabaseSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/models/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/storage/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/app/storage/meta/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/bootstrap/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/backend/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/components/contacts.service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/components/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/components/gravatar.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/components/truncate.filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/vendor/angular-animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/vendor/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/vendor/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/vendor/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/app/views/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/assets/js/ContactsMgr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/assets/partials/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/assets/partials/editable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/grunt/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/app/components/gravatar.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/app/components/paragraph.filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/app/module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/app/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/app/vendor/angular-strap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/app/vendor/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/app/vendor/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/app/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/app/views/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/assets/css/angular-motion.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 09/gulp/assets/partials/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/config/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/config/compile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/config/queue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/config/testing/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/lang/en/reminders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/models/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/storage/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/storage/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/storage/views/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/app/views/emails/auth/reminder.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/bootstrap/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/backend/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/js/modules/contactsMgr.directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/js/modules/contactsMgr.filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/js/modules/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/js/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/js/vendor/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/js/vendor/angular-strap.tpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/assets/partials/editable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/grunt/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/js/controllers/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/js/controllers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/js/modules/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/js/vendor/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 10/gulp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/config/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/config/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/config/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/config/testing/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/config/workbench.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/database/migrations/2014_03_16_164213_create_contacts_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/filters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/lang/en/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/models/Contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/start/global.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/storage/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/app/tests/TestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/bootstrap/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/bootstrap/paths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/backend/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/css/angular-motion.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/js/controllers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/js/modules/contactsMgr.filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/js/modules/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/js/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/js/vendor/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/js/vendor/angular-strap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/js/vendor/angular-strap.tpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/js/vendor/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 11/frontend/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/config/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/config/testing/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/config/workbench.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/database/migrations/2014_03_16_164213_create_contacts_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/lang/en/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/lang/en/reminders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/models/Contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/start/global.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/storage/logs/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/app/tests/TestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/bootstrap/paths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/backend/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/css/angular-motion.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/controllers/add.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/controllers/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/controllers/index.annotated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/modules/contactsMgr.directives.annotated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/modules/contactsMgr.directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/modules/contactsMgr.services.annotated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/modules/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/vendor/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/vendor/angular-strap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/vendor/angular-strap.tpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/js/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/grunt/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/js/controllers/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/js/modules/contactsMgr.filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/js/vendor/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/js/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/origin/Chapter 12/gulp/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/arrayGenericFirefox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/arrayGenericFirefox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/arrayGenericGeneral.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/arrayGenericMethods.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/charAt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/instanceOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/isArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/isArrayES3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/isArrayLike.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/pseudoArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/stringGenericArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/add.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/arguments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/arrayCopy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/callee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/getPropertyNames.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/getPropertyNamesIdiomatic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/max.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/newObject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/strict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/var.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springGuides/gs-consuming-rest-angularjs/initial/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../angularJsTest/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/bind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/bind2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/bind3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/bind4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/compose.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/factorialCached.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/flexisum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/functionAsData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/functionConstructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/functionConstructor2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/gcd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/highOrder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/isFunction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/length.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/mapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/meanFunctional.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/meanNonfunctional.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/ownMapReduce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/partial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/trace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch08/uniqueInteger2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch09/Complex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch09/Range.prototype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch09/Range.prototype.one.each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch09/RangeConstruction.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch09/constructor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch09/defineClass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch09/range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch13/createDocAtLoadTime.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/animateOptionObject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/animateProp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/blink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/cssShow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/cssShow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/data-x.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/easing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/fadeIn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/fadeIn2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/imageAnimation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/imageShrink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/slideRight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/slideUp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/slideUp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/stopmoving.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/unqued.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/unqued.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/springGuides/gs-consuming-rest-angularjs/initial/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../springTest/springGuides/gs-consuming-rest-angularjs/initial/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hiberanteTest/JavaPersistencewithHibernateE2Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../hiberanteTest/JavaPersistencewithHibernateE2Test/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../hiberanteTest/JavaPersistencewithHibernateE2Test/model/model.iml" afterPath="$PROJECT_DIR$/../../../hiberanteTest/JavaPersistencewithHibernateE2Test/model/model.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015Test/Chapter6/final/quick-poll-ch6-final/src/main/java/com/apress/SwaggerConfig.java" afterPath="$PROJECT_DIR$/../../../springTest/springRest/SpringRest2015Test/Chapter6/final/quick-poll-ch6-final/src/main/java/com/apress/SwaggerConfig.java" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -357,7 +71,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -367,41 +81,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="scratch_8.js" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.js">
+      <file leaf-file-name="Complex.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch09/Complex.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="var.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch08/var.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="newObject.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch08/newObject.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getPropertyNames.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch08/getPropertyNames.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+            <state relative-caret-position="3002">
+              <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -409,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getPropertyNamesIdiomatic.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch08/getPropertyNamesIdiomatic.js">
+      <file leaf-file-name="scratch_17.js" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            <state relative-caret-position="38">
+              <caret line="6" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -421,52 +105,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scratch_9.js" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.js">
+      <file leaf-file-name="range.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch09/range.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="8" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="608">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="max.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch08/max.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arguments.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch08/arguments.js">
+      <file leaf-file-name="Range.prototype.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch09/Range.prototype.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="callee.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch08/callee.js">
+      <file leaf-file-name="scratch_6.css" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="76">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="length.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my/ch08/length.js">
+      <file leaf-file-name="scratch_8.html" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch_7.html" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch_6.html" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch_5.html" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+              <folding>
+                <element signature="e#27#31#0" expanded="true" />
+                <element signature="e#49#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -487,57 +196,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/my/ch19/insertReplaceElements.js" />
-        <option value="$PROJECT_DIR$/my/ch19/clone.html" />
-        <option value="$PROJECT_DIR$/my/ch19/wrapElement.html" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4" />
-        <option value="$PROJECT_DIR$/my/ch05/searchArray.js" />
-        <option value="$PROJECT_DIR$/my/ch05/breakLabel.js" />
-        <option value="$PROJECT_DIR$/my/ch05/continue.js" />
-        <option value="$PROJECT_DIR$/my/ch05/trycatch.html" />
-        <option value="$PROJECT_DIR$/my/ch05/trycatch.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" />
-        <option value="$PROJECT_DIR$/my/ch06/stock.js" />
-        <option value="$PROJECT_DIR$/my/ch05/Object.create.js" />
-        <option value="$PROJECT_DIR$/my/ch05/Object.create.null.js" />
-        <option value="$PROJECT_DIR$/my/ch05/Object.create.object.js" />
-        <option value="$PROJECT_DIR$/my/ch05/inherit.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js" />
-        <option value="$PROJECT_DIR$/my/ch08/checkscope.js" />
-        <option value="$PROJECT_DIR$/my/ch08/checkscope2.js" />
-        <option value="$PROJECT_DIR$/my/ch08/uniqueInteger.js" />
-        <option value="$PROJECT_DIR$/my/ch08/counter.js" />
-        <option value="$PROJECT_DIR$/my/ch08/counter2.js" />
-        <option value="$PROJECT_DIR$/my/ch08/addPrivateProperty.js" />
-        <option value="$PROJECT_DIR$/my/ch08/constfunc.js" />
-        <option value="$PROJECT_DIR$/my/ch08/constfunc2.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html" />
-        <option value="$PROJECT_DIR$/my/ch07/isArray.js" />
-        <option value="$PROJECT_DIR$/my/ch07/isArrayES3.js" />
-        <option value="$PROJECT_DIR$/my/ch07/charAt.js" />
-        <option value="$PROJECT_DIR$/my/ch07/stringGenericArray.js" />
-        <option value="$PROJECT_DIR$/my/ch07/pseudoArray.js" />
-        <option value="$PROJECT_DIR$/my/ch07/isArrayLike.js" />
-        <option value="$PROJECT_DIR$/my/ch07/arrayGenericMethods.js" />
-        <option value="$PROJECT_DIR$/my/ch07/arrayGenericFirefox.html" />
-        <option value="$PROJECT_DIR$/my/ch07/arrayGenericFirefox.js" />
-        <option value="$PROJECT_DIR$/my/ch07/arrayGenericGeneral.js" />
-        <option value="$PROJECT_DIR$/my/ch08/strict.js" />
-        <option value="$PROJECT_DIR$/my/ch08/add.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.js" />
-        <option value="$PROJECT_DIR$/my/ch08/var.js" />
-        <option value="$PROJECT_DIR$/my/ch08/newObject.js" />
-        <option value="$PROJECT_DIR$/my/ch08/getPropertyNames.js" />
-        <option value="$PROJECT_DIR$/my/ch08/getPropertyNamesIdiomatic.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.js" />
-        <option value="$PROJECT_DIR$/my/ch08/max.js" />
-        <option value="$PROJECT_DIR$/my/ch08/arguments.js" />
-        <option value="$PROJECT_DIR$/my/ch08/callee.js" />
-        <option value="$PROJECT_DIR$/my/ch08/arrayCopy.js" />
-        <option value="$PROJECT_DIR$/my/ch08/length.js" />
+        <option value="$PROJECT_DIR$/my/ch08/highOrder.js" />
+        <option value="$PROJECT_DIR$/my/ch08/mapper.js" />
+        <option value="$PROJECT_DIR$/my/ch08/compose.js" />
+        <option value="$PROJECT_DIR$/my/ch08/partial.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.js" />
+        <option value="$PROJECT_DIR$/my/ch08/gcd.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.js" />
+        <option value="$PROJECT_DIR$/my/ch08/sum.js" />
+        <option value="$PROJECT_DIR$/my/ch08/flexisum.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js" />
+        <option value="$PROJECT_DIR$/my/ch19/debug.js" />
+        <option value="$PROJECT_DIR$/my/ch19/draggable.js" />
+        <option value="$PROJECT_DIR$/my/ch19/data-x.js" />
+        <option value="$PROJECT_DIR$/my/ch19/stopmoving.js" />
+        <option value="$PROJECT_DIR$/my/ch19/fadeIn.js" />
+        <option value="$PROJECT_DIR$/my/ch19/blink.js" />
+        <option value="$PROJECT_DIR$/my/ch19/fadeIn2.js" />
+        <option value="$PROJECT_DIR$/my/ch19/imageAnimation.js" />
+        <option value="$PROJECT_DIR$/my/ch19/imageShrink.js" />
+        <option value="$PROJECT_DIR$/my/ch19/animateOptionObject.js" />
+        <option value="$PROJECT_DIR$/my/ch19/animateProp.js" />
+        <option value="$PROJECT_DIR$/my/ch19/slideRight.js" />
+        <option value="$PROJECT_DIR$/my/ch19/cssShow.html" />
+        <option value="$PROJECT_DIR$/my/ch19/cssShow.js" />
+        <option value="$PROJECT_DIR$/my/ch19/slideUp.html" />
+        <option value="$PROJECT_DIR$/my/ch19/slideUp.js" />
+        <option value="$PROJECT_DIR$/my/ch19/unqued.html" />
+        <option value="$PROJECT_DIR$/my/ch19/unqued.js" />
+        <option value="$PROJECT_DIR$/my/ch19/easing.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.css" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.js" />
+        <option value="$PROJECT_DIR$/my/ch13/createDocAtLoadTime.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.js" />
+        <option value="$PROJECT_DIR$/my/ch09/range.js" />
+        <option value="$PROJECT_DIR$/my/ch09/RangeConstruction.js" />
+        <option value="$PROJECT_DIR$/my/ch09/constructor.js" />
+        <option value="$PROJECT_DIR$/my/ch09/Range.prototype.js" />
+        <option value="$PROJECT_DIR$/my/ch09/Range.prototype.one.each.js" />
+        <option value="$PROJECT_DIR$/my/ch09/defineClass.js" />
+        <option value="$PROJECT_DIR$/my/ch09/Complex.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.css" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_19.js" />
       </list>
     </option>
   </component>
@@ -549,7 +258,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
-    <option name="width" value="1924" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
     <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -646,11 +356,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ch19" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="ch13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -686,6 +392,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch05" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -699,35 +441,35 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:\Program Files\nodejs\node" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript&#10;HTML" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$3/Languages" value="JavaScript&#10;HTML" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="JavaScript&#10;CSS&#10;HTML" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$3/Languages" value="JavaScript&#10;HTML&#10;CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch08" />
-      <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch07" />
-      <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch05" />
-      <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch19" />
-      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch13" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch19" />
+      <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch08" />
+      <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch07" />
+      <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch05" />
+      <recent name="D:\WorkGitSpace\test\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch13" />
+    </key>
   </component>
-  <component name="RunManager" selected="Node.js.callee.js">
-    <configuration default="false" name="getPropertyNames.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="getPropertyNames.js" working-dir="$PROJECT_DIR$/my/ch08">
+  <component name="RunManager" selected="Node.js.Range.prototype.one.each.js">
+    <configuration default="false" name="range.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="range.js" working-dir="$PROJECT_DIR$/my/ch09">
       <method />
     </configuration>
-    <configuration default="false" name="getPropertyNamesIdiomatic.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="getPropertyNamesIdiomatic.js" working-dir="$PROJECT_DIR$/my/ch08">
+    <configuration default="false" name="RangeConstruction.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RangeConstruction.js" working-dir="$PROJECT_DIR$/my/ch09">
       <method />
     </configuration>
-    <configuration default="false" name="max.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="max.js" working-dir="$PROJECT_DIR$/my/ch08">
+    <configuration default="false" name="constructor.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="constructor.js" working-dir="$PROJECT_DIR$/my/ch09">
       <method />
     </configuration>
-    <configuration default="false" name="arguments.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="arguments.js" working-dir="$PROJECT_DIR$/my/ch08">
+    <configuration default="false" name="Range.prototype.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Range.prototype.js" working-dir="$PROJECT_DIR$/my/ch09">
       <method />
     </configuration>
-    <configuration default="false" name="callee.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="callee.js" working-dir="$PROJECT_DIR$/my/ch08">
+    <configuration default="false" name="Range.prototype.one.each.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Range.prototype.one.each.js" working-dir="$PROJECT_DIR$/my/ch09">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -784,19 +526,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.getPropertyNames.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.getPropertyNamesIdiomatic.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.max.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.arguments.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.callee.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.range.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.RangeConstruction.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.constructor.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.Range.prototype.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Range.prototype.one.each.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.callee.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.arguments.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.max.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.getPropertyNamesIdiomatic.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.getPropertyNames.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Range.prototype.one.each.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.Range.prototype.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.constructor.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.RangeConstruction.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.range.js" />
       </list>
     </recent_temporary>
   </component>
@@ -830,7 +572,15 @@
       <workItem from="1467006443200" duration="44000" />
       <workItem from="1467158559308" duration="6395000" />
       <workItem from="1467354028078" duration="10067000" />
-      <workItem from="1467951784213" duration="189000" />
+      <workItem from="1467951784213" duration="20711000" />
+      <workItem from="1468199017308" duration="55000" />
+      <workItem from="1468199099277" duration="2191000" />
+      <workItem from="1468285419224" duration="8162000" />
+      <workItem from="1468369153627" duration="5890000" />
+      <workItem from="1468473768993" duration="2224000" />
+      <workItem from="1468545999409" duration="79000" />
+      <workItem from="1468546108909" duration="66092000" />
+      <workItem from="1469146841473" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="function examples">
       <created>1457839002032</created>
@@ -944,20 +694,27 @@
       <option name="project" value="LOCAL" />
       <updated>1466919642336</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="change">
+      <created>1467951973579</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1467951973579</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54078000" />
+    <option name="totallyTimeSpent" value="159345000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="1924" height="1042" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27301928" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17559682" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33530107" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33530107" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -966,7 +723,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32429245" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15584415" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1048,7 +805,7 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
@@ -1058,395 +815,379 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/origin/13.02.digital_clock.html">
+    <entry file="file://$PROJECT_DIR$/my/ch08/highOrder.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="494">
+          <caret line="13" column="69" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4">
+    <entry file="file://$PROJECT_DIR$/my/ch08/ownMapReduce.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="308">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6">
+    <entry file="file://$PROJECT_DIR$/my/ch08/meanFunctional.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch05/searchArray.js">
+    <entry file="file://$PROJECT_DIR$/my/ch08/meanNonfunctional.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="10" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch08/gcd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_12.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch08/sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="14" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch08/flexisum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch05/breakLabel.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_13.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state relative-caret-position="76">
+          <caret line="2" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch05/continue.js">
+    <entry file="file://$PROJECT_DIR$/my/ch19/debug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/draggable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="74" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/stopmoving.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/blink.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="73" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/fadeIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/fadeIn2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/imageAnimation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/imageShrink.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="1" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/animateOptionObject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/animateProp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="3" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/origin/13.03.from1996.html">
+    <entry file="file://$PROJECT_DIR$/my/ch19/slideRight.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/cssShow.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/cssShow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/slideUp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/example8-1.js">
+    <entry file="file://$PROJECT_DIR$/my/ch19/slideUp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="50">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch05/trycatch.html">
+    <entry file="file://$PROJECT_DIR$/my/ch19/data-x.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="114">
+          <caret line="3" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch05/trycatch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch06/stock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="94" column="6" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch05/Object.create.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch05/Object.create.null.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch05/Object.create.object.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch05/inherit.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/checkscope.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/checkscope2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/uniqueInteger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/counter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/counter2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/addPrivateProperty.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="33" column="53" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/constfunc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/constfunc2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="2" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/isArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/isArrayES3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/charAt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/stringGenericArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/pseudoArray.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/isArrayLike.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-114">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/arrayGenericMethods.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/arrayGenericFirefox.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/arrayGenericFirefox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="5" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/arrayGenericGeneral.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/strict.js">
+    <entry file="file://$PROJECT_DIR$/my/ch19/unqued.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="5" />
-          <folding />
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/add.js">
+    <entry file="file://$PROJECT_DIR$/my/ch19/unqued.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.js">
+    <entry file="file://$PROJECT_DIR$/my/ch19/easing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/var.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/newObject.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_14.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/getPropertyNames.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/getPropertyNamesIdiomatic.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_15.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="8" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
-          <folding />
+          <caret line="8" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/max.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="70" />
-          <folding />
+          <caret line="0" column="39" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/arguments.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_16.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="76">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/arrayCopy.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="38">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch13/createDocAtLoadTime.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch09/constructor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch09/RangeConstruction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch09/Range.prototype.one.each.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch09/defineClass.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch09/Complex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3002">
+          <caret line="84" column="25" selection-start-line="84" selection-start-column="25" selection-end-line="84" selection-end-column="25" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/callee.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_17.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="6" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <caret line="0" column="56" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <folding>
+            <element signature="e#27#31#0" expanded="true" />
+            <element signature="e#49#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/length.js">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="380">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_18.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch09/range.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch09/Range.prototype.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_19.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

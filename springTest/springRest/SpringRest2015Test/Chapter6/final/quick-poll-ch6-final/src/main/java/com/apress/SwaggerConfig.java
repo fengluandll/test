@@ -20,22 +20,6 @@ public class SwaggerConfig {
 	
 	@Bean
 	public SwaggerSpringMvcPlugin configureSwagger() {
-		SwaggerSpringMvcPlugin swaggerSpringMvcPlugin = new SwaggerSpringMvcPlugin(this.springSwaggerConfig);
-		
-		ApiInfo apiInfo = new ApiInfoBuilder()
-							        .title("QuickPoll REST API")
-							        .description("QuickPoll Api for creating and managing polls")
-							        .termsOfServiceUrl("http://example.com/terms-of-service")
-							        .contact("info@example.com")
-							        .license("MIT License")
-							        .licenseUrl("http://opensource.org/licenses/MIT")
-							        .build();
-		
-		swaggerSpringMvcPlugin
-					.apiInfo(apiInfo)
-					.apiVersion("1.0")
-					.includePatterns("/polls/*.*", "/votes/*.*", "/computeresult/*.*");
-		
 		swaggerSpringMvcPlugin.useDefaultResponseMessages(false);
 		
 	    return swaggerSpringMvcPlugin;
