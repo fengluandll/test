@@ -22,8 +22,9 @@
         crossorigin="anonymous"></script>
 <script src="../js/jquery-ui.js"></script>
 <script>
+    var dialog = $('div').dialog({autoOpen:false, show: "fade", hide: 'puff'});
     function showDialog() {
-        $('div').dialog({show: "fade", hide: 'puff'});
+        dialog.dialog('open');
     }
 </script>
 </body>

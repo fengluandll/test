@@ -7,29 +7,22 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
           integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <style>
-
+        #resizable{
+            width: 100px;
+            height: 100px;
+            border: 1px dotted black;
+        }
     </style>
 </head>
 <body>
 
-<button onclick="showDialog();">show dialog</button>
-
-<div>
-    Fade in, puff
-</div>
+<div id="resizable"></div>
 
 <script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
         crossorigin="anonymous"></script>
 <script src="../js/jquery-ui.js"></script>
 <script>
-    function showDialog() {
-        $('div').dialog({
-            hide: {
-                effect: 'explode',
-                duration: 20000
-            }
-        });
-    }
+    $("#resizable").resizable();
 </script>
 </body>
 </html>
