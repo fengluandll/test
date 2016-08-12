@@ -23,7 +23,7 @@ import com.apress.dto.error.ErrorDetail;
 import com.apress.dto.error.ValidationError;
 import com.apress.exception.ResourceNotFoundException;
 
-@ControllerAdvice
+//@ControllerAdvice
 public class RestExceptionHandler extends ResponseEntityExceptionHandler  {
 
 	@Inject

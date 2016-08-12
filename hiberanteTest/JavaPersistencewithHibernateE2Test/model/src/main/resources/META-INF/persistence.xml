@@ -74,10 +74,10 @@
                  so it's considered transient after removal -->
             <property name="hibernate.use_identifier_rollback" value="true"/>
 
-            <!-- Enable this to try a custom table naming strategy
+            <!--Enable this to try a custom table naming strategy-->
             <property name="hibernate.physical_naming_strategy"
                       value="org.jpwh.shared.CENamingStrategy"/>
-            -->
+            >
 
         </properties>
     </persistence-unit>
