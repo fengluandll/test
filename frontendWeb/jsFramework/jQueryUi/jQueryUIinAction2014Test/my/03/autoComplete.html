@@ -12,15 +12,15 @@
 </head>
 <body>
 
-<div id="dialog">dialogcreate</div>
+<input type="text" id="autocomplete">
 
 <script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
         crossorigin="anonymous"></script>
 <script src="../js/jquery-ui.js"></script>
 <script>
-    $('#dialog').on('dialogcreate',function () {
-        console.log('Dialog was created');
-    }).dialog();
+    $('#autocomplete').autocomplete({
+        source: ['Alligator','Ant','Anteater','Ape','Armadillo']
+    });
 </script>
 </body>
 </html>

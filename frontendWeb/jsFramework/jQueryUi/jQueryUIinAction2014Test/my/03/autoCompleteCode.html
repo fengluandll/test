@@ -19,7 +19,10 @@
 <script src="../js/jquery-ui.js"></script>
 <script>
     $('#autocomplete').autocomplete({
-        source: ['Alligator','Ant','Anteater','Ape','Armadillo']
+        source: [
+            {label: 'United Kingdom', value: 'UK'},
+            {label: 'United States of America', value: 'USA'}
+        ]
     });
 </script>
 </body>
