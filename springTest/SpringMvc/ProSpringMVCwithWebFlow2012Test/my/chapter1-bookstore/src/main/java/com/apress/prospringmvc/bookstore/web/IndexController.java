@@ -16,7 +16,7 @@ public class IndexController {
     @RequestMapping(value = "/index.htm")
     public ModelAndView indexPage() {
         ModelAndView mav = new ModelAndView("/WEB-INF/views/index.jsp");
-        mav.addObject("theModelKey", "Spring says HI!");
+        mav.addObject("theModelKey", "Spring says HI changed!");
         return mav;
     }
 }
