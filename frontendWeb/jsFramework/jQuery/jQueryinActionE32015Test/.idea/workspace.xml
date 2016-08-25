@@ -2,150 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e51d2dd6-b22e-4929-82e6-b870a7f87f49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__net_minidev_accessors_smart_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__net_minidev_json_smart_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_assertj_assertj_core_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_codehaus_groovy_groovy_2_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_json_json_20140107.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_boot_spring_boot_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_spring_aop_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_spring_beans_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_spring_context_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_spring_core_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_spring_expression_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_spring_test_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_spring_web_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/libraries/Gradle__org_yaml_snakeyaml_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/modules/HelloGroovySpingInializer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/modules/HelloGroovySpingInializer_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/modules/HelloGroovySpingInializer_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/01/HelloGroovySpingInializer/src/main/groovy/HelloController.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__com_h2database_h2_1_4_192.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__javax_transaction_javax_transaction_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__net_minidev_accessors_smart_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__net_minidev_json_smart_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__nz_net_ultraq_thymeleaf_thymeleaf_layout_dialect_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__ognl_ognl_3_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_apache_tomcat_tomcat_jdbc_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_apache_tomcat_tomcat_juli_8_5_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_assertj_assertj_core_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_codehaus_groovy_groovy_2_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_0_9_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_hibernate_hibernate_entitymanager_5_0_9_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_jboss_jandex_2_0_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_json_json_20140107.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_21.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_thymeleaf_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_1_4_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_1_12_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_1_10_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_aop_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_aspects_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_beans_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_context_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_core_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_expression_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_jdbc_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_orm_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_test_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_tx_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_web_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_2_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_spring4_2_1_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_unbescape_unbescape_1_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__org_yaml_snakeyaml_1_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/modules/readinglist.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/modules/readinglist_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/modules/readinglist_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../springTest/springRest/SpringRest2015TestMy/05/quick-poll-ch5-starter/.idea/vcs.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoComplete.html" afterPath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoComplete.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoCompleteAjax.html" afterPath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoCompleteAjax.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoCompleteAjaxMinLen.html" afterPath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoCompleteAjaxMinLen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoCompleteCode.html" afterPath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoCompleteCode.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoCompleteDelay0.html" afterPath="$PROJECT_DIR$/../../jQueryUi/jQueryUIinAction2014Test/my/03/autoCompleteDelay0.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE2Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../../hiberanteTest/JavaPersistencewithHibernateE2Test/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/javaReport/JasperReports3.5forJavaDevelopers2009Test/origin/jasper_book_chapter_3/ant.properties" afterPath="$PROJECT_DIR$/../../../../javaSETest/javaReport/JasperReports3.5forJavaDevelopers2009Test/origin/jasper_book_chapter_3/ant.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/corejava/v1ch02/RoadApplet/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/corejava/v1ch02/RoadApplet/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../springTest/SpringMvc/ProSpringMVCwithWebFlow2012Test/my/build.gradle" afterPath="$PROJECT_DIR$/../../../../springTest/SpringMvc/ProSpringMVCwithWebFlow2012Test/my/build.gradle" />
     </list>
     <ignored path="jQueryinActionE32015Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -211,7 +69,7 @@
       <file leaf-file-name="lab.selectors.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/origin/chapter-2/lab.selectors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
+            <state relative-caret-position="6498">
               <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
               <folding />
             </state>
@@ -278,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -320,7 +179,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -344,17 +202,18 @@
       <updated>1470101061273</updated>
       <workItem from="1470101062695" duration="5248000" />
       <workItem from="1471914727343" duration="1795000" />
+      <workItem from="1472107082353" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7043000" />
+    <option name="totallyTimeSpent" value="7642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="0" width="1924" height="1042" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14890198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14890198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -389,7 +248,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/origin/chapter-2/listing-2.1.html</url>
           <line>11</line>
-          <properties />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
@@ -397,6 +255,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/origin/chapter-1/radio.group.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/origin/chapter-1/radio.group.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1064">
@@ -445,22 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/origin/chapter-2/listing-2.1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/origin/chapter-2/lab.selectors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -473,6 +339,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin/chapter-2/lab.selectors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6498">
+          <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin/chapter-2/listing-2.1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding />
         </state>
       </provider>

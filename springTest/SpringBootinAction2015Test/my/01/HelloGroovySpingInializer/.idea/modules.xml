@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloGroovySpingInializer.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloGroovySpingInializer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloGroovySpingInializer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloGroovySpingInializer_main.iml" group="HelloGroovySpingInializer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HelloGroovySpingInializer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/HelloGroovySpingInializer_test.iml" group="HelloGroovySpingInializer" />
+    </modules>
+  </component>
+</project>

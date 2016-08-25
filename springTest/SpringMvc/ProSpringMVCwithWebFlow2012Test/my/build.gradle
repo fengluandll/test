@@ -10,7 +10,7 @@ ext.ehCacheVersion = '2.7.2'
 ext.aspectJVersion = '1.7.3'
 
 ext.tomcatVersion = '7.0.42'
-ext.cargoVersion = '1.3.3'
+ext.cargoVersion = '1.5.0'
 
 ext.webProjects = subprojects.findAll { project -> project.name.endsWith('bookstore') }
 
@@ -111,8 +111,8 @@ subprojects() {
     apply plugin: 'eclipse-wtp'
     apply plugin: 'idea'
 
-    sourceCompatibility = 1.7
-    targetCompatibility = 1.7
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
 
     dependencies() {
         compile "org.springframework:spring-orm:$springVersion"
@@ -147,6 +147,12 @@ subprojects() {
 
     eclipse {
         project.natures "org.springframework.ide.eclipse.core.springnature"
+    }
+
+    idea{
+        module{
+            downloadJavadoc = true
+        }
     }
 
 }

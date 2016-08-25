@@ -1,0 +1,16 @@
+com\apress\exception\ResourceNotFoundException.class
+com\apress\QuickPollApplication.class
+com\apress\dto\VoteResult.class
+com\apress\controller\PollController.class
+com\apress\controller\VoteController.class
+com\apress\domain\Option.class
+com\apress\domain\Vote.class
+com\apress\repository\PollRepository.class
+com\apress\repository\OptionRepository.class
+com\apress\controller\ComputeResultController.class
+com\apress\domain\Poll.class
+com\apress\repository\VoteRepository.class
+com\apress\handler\RestExceptionHandler.class
+com\apress\dto\error\ErrorDetail.class
+com\apress\dto\error\ValidationError.class
+com\apress\dto\OptionCount.class
