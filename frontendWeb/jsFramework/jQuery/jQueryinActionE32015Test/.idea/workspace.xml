@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e51d2dd6-b22e-4929-82e6-b870a7f87f49" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/corejava/v1ch02/RoadApplet/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/corejava/v1ch02/RoadApplet/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../springTest/SpringMvc/ProSpringMVCwithWebFlow2012Test/my/build.gradle" afterPath="$PROJECT_DIR$/../../../../springTest/SpringMvc/ProSpringMVCwithWebFlow2012Test/my/build.gradle" />
     </list>
     <ignored path="jQueryinActionE32015Test.iws" />
@@ -107,9 +106,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
+    <option name="x" value="-10" />
     <option name="width" value="1924" />
-    <option name="height" value="1042" />
+    <option name="height" value="1030" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -203,14 +202,15 @@
       <workItem from="1470101062695" duration="5248000" />
       <workItem from="1471914727343" duration="1795000" />
       <workItem from="1472107082353" duration="599000" />
+      <workItem from="1472443515768" duration="594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7642000" />
+    <option name="totallyTimeSpent" value="8236000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="1924" height="1042" extended-state="0" />
+    <frame x="-10" y="0" width="1924" height="1030" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14890198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -255,6 +255,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/origin/chapter-1/radio.group.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/origin/chapter-1/radio.group.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
