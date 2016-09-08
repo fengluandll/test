@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e51d2dd6-b22e-4929-82e6-b870a7f87f49" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../springTest/SpringMvc/ProSpringMVCwithWebFlow2012Test/my/build.gradle" afterPath="$PROJECT_DIR$/../../../../springTest/SpringMvc/ProSpringMVCwithWebFlow2012Test/my/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/JunitTest/JunitInActionE22010TestOrigin/ch01-jumpstart/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../../javaSETest/JunitTest/JunitInActionE22010TestOrigin/ch01-jumpstart/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/corejava/v1ch08/genericAlgorithms/GenericAlgorithms.java" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/corejava/v1ch08/genericAlgorithms/GenericAlgorithms.java" />
     </list>
     <ignored path="jQueryinActionE32015Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -135,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -178,7 +180,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,11 +204,12 @@
       <workItem from="1471914727343" duration="1795000" />
       <workItem from="1472107082353" duration="599000" />
       <workItem from="1472443515768" duration="594000" />
+      <workItem from="1472691108145" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8236000" />
+    <option name="totallyTimeSpent" value="8244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1924" height="1030" extended-state="0" />
@@ -255,6 +257,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/origin/chapter-1/radio.group.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin/chapter-2/lab.selectors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6498">
+          <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin/chapter-2/listing-2.1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/origin/chapter-1/radio.group.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">

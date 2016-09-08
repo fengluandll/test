@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fade in</title>
+    <link href="../css/jquery-ui.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <style>
+        .ui-datepicker .ui-christmas span {
+            color: red;
+            background: green;
+        }
+    </style>
+</head>
+<body>
+
+<span id="buttonset">
+    <label for="language-en">English</label>
+    <input type="radio" id="language-en" name="language"
+       value="" checked>
+    <label for="language-zh">Chinese</label>
+    <input type="radio" id="language-zh" name="language" value="zh-CN">
+</span>
+
+<label for="date">Date:</label>
+<input type="text" name="date" id="date">
+
+<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
+        crossorigin="anonymous"></script>
+<script src="../js/jquery-ui.js"></script>
+
+<script src="../js/i18n/datepicker-zh-CN.js"></script>
+<script>
+
+    $('#buttonset').buttonset();
+    $('[name="language"]').on('change',function () {
+        console.log("current locale: " + this.value);
+        $('#date').datepicker('option',$.datepicker.regional[this.value]);
+    });
+    $('#date').datepicker($.datepicker.regional[""]);
+
+</script>
+</body>
+</html>
