@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link href="../css/jquery-ui.css" rel="stylesheet">
+</head>
+<body>
+
+<input id="I show!" title="I don't.">
+
+<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
+        crossorigin="anonymous"></script>
+<script src="../js/jquery-ui.js"></script>
+<script>
+    $(document).tooltip({
+        content: function () {
+            return this.id;
+        },
+        items: "[id]"
+    });
+
+</script>
+</body>
+</html>
