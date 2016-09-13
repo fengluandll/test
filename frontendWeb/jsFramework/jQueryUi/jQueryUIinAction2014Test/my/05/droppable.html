@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fade in</title>
+    <link href="../css/jquery-ui.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <style>
+        #draggable {
+            width: 100px;
+            height: 100px;
+            border: 1px solid black;
+        }
+        #droppable {
+            width: 200px;
+            height: 200px;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+
+<div id="draggable"></div>
+<div id="droppable"></div>
+
+<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
+        crossorigin="anonymous"></script>
+<script src="../js/jquery-ui.js"></script>
+<script>
+    $('#draggable').draggable();
+    $('#droppable').droppable({
+        drop: function () {
+            $(this).css('background','red');
+        }
+    });
+</script>
+</body>
+</html>

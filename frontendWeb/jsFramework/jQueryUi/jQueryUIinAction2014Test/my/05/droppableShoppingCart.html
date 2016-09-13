@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fade in</title>
+    <link href="../css/jquery-ui.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <style>
+
+        #items {list-style: none}
+
+        #items li{
+            border: 1px solid black;
+            border-radius: 5px;
+            width: 100px;
+            cursor: move;
+        }
+
+        #cart{
+            position: fixed;
+            top: 0;
+            right: 0;
+            height: 55px;
+            width: 150px;
+            border: 2px solid black;
+        }
+
+        #cart.active{
+            border: 2px dotted black;
+        }
+
+        #cart.hover{
+            opacity: 0.5;
+        }
+
+    </style>
+</head>
+<body>
+
+<ul id="items">
+    <li>Bananas</li>
+    <li>Apples</li>
+    <li>Grapes</li>
+    <li>Oranges</li>
+    <li>Watermelon</li>
+    <li>Strawberries</li>
+</ul>
+
+<div id="cart">
+    Cart - <span id="count">0</span> Item(s)
+</div>
+
+<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
+        crossorigin="anonymous"></script>
+<script src="../js/jquery-ui.js"></script>
+<script>
+    $('#items li').draggable({
+        cursor: 'move',
+        revert: 'invalid',
+        helper: 'clone'
+    });
+
+    $('#cart').droppable({
+        activeClass: 'active',
+        hoverClass: 'hover',
+        drop: function (event,ui) {
+            var count = parseInt($('#count').text(),10);
+            $('#count').text(count + 1);
+        },
+        tolerance: 'touch'
+    });
+</script>
+</body>
+</html>

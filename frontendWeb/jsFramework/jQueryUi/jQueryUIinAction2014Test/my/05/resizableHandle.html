@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fade in</title>
+    <link href="../css/jquery-ui.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <style>
+        #resizable {
+            width: 100px;
+            height: 100px;
+            border: 1px solid black;
+        }
+
+        .ui-resizable-e{
+            background-color: skyblue;
+            width: 18px;
+            right: 0;
+        }
+    </style>
+</head>
+<body>
+
+<div id="resizable">
+    <div class="ui-resizable-handle ui-resizable-e">
+        <span class="ui-icon ui-icon-triangle-1-e"></span>
+        <span class="ui-icon ui-icon-triangle-1-e"></span>
+        <span class="ui-icon ui-icon-triangle-1-e"></span>
+        <span class="ui-icon ui-icon-triangle-1-e"></span>
+        <span class="ui-icon ui-icon-triangle-1-e"></span>
+        <span class="ui-icon ui-icon-triangle-1-e"></span>
+    </div>
+</div>
+
+</body>
+
+<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
+        crossorigin="anonymous"></script>
+<script src="../js/jquery-ui.js"></script>
+
+<script>
+
+    $('#resizable').resizable({
+        handles: {e: ".ui-resizable-e"},
+        minWidth: 50
+    });
+
+</script>
+
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fade in</title>
+    <link href="../css/jquery-ui.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <style>
+        #movies li:hover {cursor: move}
+        #movies .movie-placeholder{
+            border: 1px dotted black;
+        }
+    </style>
+</head>
+<body>
+
+<p>Please rank these movies (best to worst):</p>
+<ol id="movies"></ol>
+<button>Submit</button>
+
+<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
+        crossorigin="anonymous"></script>
+<script src="../js/jquery-ui.js"></script>
+<script>
+
+    var movies = ["Ghostbusters", "Titanic", "Top Gun",
+        "Aliens", "Predator"].sort(function () {
+        return 0.5 - Math.random();
+    }),
+            i = 0,
+            list = $('#movies').sortable({
+                placeholder: "movie-placeholder"
+            });
+
+    for ( ; i < movies.length; i++ ) {
+        list.append( "<li>" + movies[ i ] + "</li>" );
+    }
+
+    $('button').button().on('click',function () {
+        var movies = [];
+        $('#movies li').each(function () {
+            movies.push(this.innerHTML);
+        });
+        alert( "Selection: " + movies.join( ", " ) );
+    });
+
+</script>
+</body>
+</html>
