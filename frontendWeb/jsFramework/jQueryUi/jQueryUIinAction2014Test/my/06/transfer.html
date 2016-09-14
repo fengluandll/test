@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Fade in</title>
+    <link href="../css/jquery-ui.css" rel="stylesheet">
+    <style>
+        fieldset { width: 300px; }
+        input { padding: 0.5em; }
+        #grocery-list {
+            border: 1px solid black;
+            float: right;
+            width: 300px;
+            padding: 0 1em 0em 1em;
+        }
+
+        #grocery-list h3 { margin-top: 0.3em; }
+        .ui-effects-transfer {border: 1px dotted black;}
+    </style>
+</head>
+
+<div id="grocery-list">
+    <h3>Grocery List</h3>
+    <ul><li class="empty">Empty</li></ul>
+</div>
+
+<form>
+    <fieldset>
+        <legend>Add Groceries</legend>
+        <label for="item">Item:</label>
+        <input id="item" required>
+        <button>Add</button>
+    </fieldset>
+</form>
+
+<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
+        crossorigin="anonymous"></script>
+<script src="../js/jquery-ui.js"></script>
+
+<script>
+    $( "button" ).button();
+    function addToList( value ) {
+        var list = $( "#grocery-list ul" );
+        list.append( "<li>" + value + "</li>" );
+        list.find( ".empty" ).remove();
+    };
+    $( "form" ).on( "submit", function( event ) {
+        event.preventDefault();
+        $( "input" ).effect( "transfer", {
+            to: "#grocery-list ul",
+            complete: function() {
+                addToList( $( this ).val() );
+                $( this ).val( "" );
+            }
+        });
+    });
+</script>
+
+</html>

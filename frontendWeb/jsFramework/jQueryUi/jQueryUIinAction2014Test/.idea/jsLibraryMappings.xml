@@ -2,6 +2,8 @@
 <project version="4">
   <component name="JavaScriptLibraryMappings">
     <file url="file://$PROJECT_DIR$/my/05/sortableGame.html" libraries="{jquery, jqueryUi}" />
+    <file url="file://$PROJECT_DIR$/my/06/explode.html" libraries="{jqueryUi}" />
+    <file url="file://$PROJECT_DIR$/my/06/transfer.html" libraries="{jquery, jqueryUi}" />
     <file url="PROJECT" libraries="{jquery, jqueryUi}" />
   </component>
 </project>
