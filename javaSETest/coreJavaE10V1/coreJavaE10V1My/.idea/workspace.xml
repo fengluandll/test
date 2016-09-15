@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed6be5b5-02c9-4e9f-846f-f68c9e777469" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ed6be5b5-02c9-4e9f-846f-f68c9e777469" name="Default" comment="" />
     <ignored path="coreJavaE10V1My.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -72,8 +70,8 @@
       <file leaf-file-name="EnumTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05/src/enums/EnumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            <state relative-caret-position="248">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -911,7 +909,7 @@
       <workItem from="1470614985005" duration="470000" />
       <workItem from="1470615585437" duration="751000" />
       <workItem from="1473832945859" duration="679000" />
-      <workItem from="1473833631644" duration="2485000" />
+      <workItem from="1473833631644" duration="3185000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473835805962</created>
@@ -924,7 +922,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5952000" />
+    <option name="totallyTimeSpent" value="6652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -1081,8 +1079,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05/src/enums/EnumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        <state relative-caret-position="248">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
