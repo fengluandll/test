@@ -3,6 +3,7 @@ function add(x,y) { return x + y; }
 function subtract(x,y) { return x - y; }
 function multiply(x,y) { return x * y; }
 function divide(x,y) { return x / y; }
+
 // Here's a function that takes one of the above functions
 // as an argument and invokes it on two operands
 function operate(operator, operand1, operand2) {
@@ -10,6 +11,8 @@ function operate(operator, operand1, operand2) {
 }
 // We could invoke this function like this to compute the value (2+3) + (4*5):
 var i = operate(add, operate(add, 2, 3), operate(multiply, 4, 5));
+console.log(i);
+
 // For the sake of the example, we implement the simple functions again,
 // this time using function literals within an object literal;
 var operators = {
@@ -29,5 +32,7 @@ function operate2(operation, operand1, operand2) {
 }
 // Compute the value ("hello" + " " + "world") like this:
 var j = operate2("add", "hello", operate2("add", " ", "world"));
+console.log(j);
 // Using the predefined Math.pow() function:
 var k = operate2("pow", 10, 2);
+console.log(k);

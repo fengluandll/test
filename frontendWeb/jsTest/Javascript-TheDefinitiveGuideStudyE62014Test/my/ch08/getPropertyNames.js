@@ -1,7 +1,7 @@
 // Append the names of the enumerable properties of object o to the
 // array a, and return a. If a is omitted, create and return a new array.
 function getPropertyNames(o, /* optional */ a) {
-    if (a === undefined) a = []; // If undefined, use a new array
+    a = a || [];
     for(var property in o) a.push(property);
     return a;
 }

@@ -1,3 +1,10 @@
+'use strict';
+
+var isArray = Function.isArray || function (o) {
+        return typeof o === "object" &&
+            Object.prototype.toString.call(o) === "[object Array]";
+    };
+
 function flexisum(a) {
     var total = 0;
     for(var i = 0; i < arguments.length; i++) {
@@ -14,3 +21,6 @@ function flexisum(a) {
     }
     return total;
 }
+
+var total = flexisum(1,[2,3],null);
+console.log(total);

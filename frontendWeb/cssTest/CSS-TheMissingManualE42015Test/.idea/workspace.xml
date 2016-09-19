@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec348b5e-5af7-4904-9701-6b45ae2c8c95" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/blackWhiteBlack.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/linearGradient.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/linearGradientToBottom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/mixed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/position.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/toBottomRight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/10/rotate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CSS-TheMissingManualE42015Test.iml" afterPath="$PROJECT_DIR$/.idea/CSS-TheMissingManualE42015Test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CSS-TheMissingManualE42015Test.iws" />
@@ -315,7 +306,7 @@
       <workItem from="1473903355658" duration="4607000" />
       <workItem from="1473917545164" duration="9289000" />
       <workItem from="1474030064113" duration="1190000" />
-      <workItem from="1474242831393" duration="21000" />
+      <workItem from="1474242831393" duration="36000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473906909884</created>
@@ -331,11 +322,18 @@
       <option name="project" value="LOCAL" />
       <updated>1473906927691</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change">
+      <created>1474242862526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1474242862526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23672000" />
+    <option name="totallyTimeSpent" value="23687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1018" extended-state="0" />
