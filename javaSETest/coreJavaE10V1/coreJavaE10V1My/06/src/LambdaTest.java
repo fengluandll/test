@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.util.Arrays;
 import java.util.Date;
-import java.util.Timer;
+import javax.swing.Timer;
 
 /**
  * Created by Allbts-IT on 2/08/2016.
@@ -16,7 +16,7 @@ public class LambdaTest {
         System.out.println(Arrays.toString(planets));
         System.out.println("Sorted by length:");
         Arrays.sort(planets, (first, second)-> first.length() - second.length());
-
+        System.out.println(Arrays.toString(planets));
 
         Arrays.sort(planets, (String first, String second) ->
         {
@@ -27,7 +27,9 @@ public class LambdaTest {
 
         System.out.println(Arrays.toString(planets));
 
-//        Timer t = new Timer(1000, event->System.out.println("The time is " + new Date()));
+        Timer t = new Timer(1000, event ->
+                System.out.println("The time is " + new Date()));
+        t.start();
         JOptionPane.showMessageDialog(null,"Quit program?");
         System.exit(0);
     }
