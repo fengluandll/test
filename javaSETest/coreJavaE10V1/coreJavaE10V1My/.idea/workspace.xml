@@ -1,237 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed6be5b5-02c9-4e9f-846f-f68c9e777469" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/resources/com/insightfullogic/java8/examples/chapter02/Function.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/src/CompareStringIgnoreCase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/src/Greeter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/src/StringsToPersonList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/src/TimedGreeter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/src/TimedPrint1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06/src/TimedPrint2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter2/Question2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter2/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter3/FilterUsingReduce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter3/MapUsingReduce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter3/Question1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter3/Question2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter3/StringExercises.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter3/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter4/ArtistsFixed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter4/Performance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter4/PerformanceFixed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter4/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter5/Fibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter5/GroupingBy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter5/LongestName.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter5/WordCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter5/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter6/BuggyReduce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter6/OptimisationExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter6/OptimisationExampleFixed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter6/SerialToParallel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter6/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter9/ArtistAnalyzer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter9/BlockingArtistAnalyzer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter9/CallbackArtistAnalyser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter9/CompletableFutureArtistAnalyser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/answers/chapter9/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter1/Album.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter1/Artist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter1/Chapter1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter1/MusicChapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter1/Performance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter1/SampleData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter1/Track.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter2/ArrayExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter2/CaptureCompileError.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter3/Decisions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter3/Functional.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter3/GeneratingStreams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter3/Iteration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter3/Refactor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter3/StreamExercises.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/Carriage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/Child.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/ChildImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/Jukebox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/Logger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/MusicalCarriage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/Order.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/OrderDomain.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/OrderImperative.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/OrderStreams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/OverridingChild.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/OverridingParent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/Parent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/ParentImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/Primitives.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter4/Rockable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/CollectorExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/MethodReferences.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/Niceties.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/StringCollector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/StringCombiner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/StringExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/AlbumSale.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/AlbumSalesCollector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/AlbumSalesReport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/CollectorExpansions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter5/mutable_custom/Customer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter6/ArrayExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter6/ArraySum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter6/DiceRolls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter6/IntegerSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter6/ManualDiceRolls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter6/MovingAverage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter6/WordCounting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter7/Testing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/DependencyInversionPrinciple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/HeadingLookupException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/OpenClosedPrinciple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/SingleResponsibilityPrinciple.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Action.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Close.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Macro.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Open.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/command/Save.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/observer/Aliens.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/observer/LandingObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/observer/Moon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/observer/Nasa.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/strategy/CompressionStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/strategy/Compressor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/strategy/GzipCompressionStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/strategy/ZipCompressionStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/ApplicationDenied.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/Company.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/lambdas/Company.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/lambdas/CompanyLoanApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/lambdas/Criteria.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/lambdas/LoanApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/traditional/CompanyLoanApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/traditional/EmployeeLoanA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/traditional/LoanApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter8/template_method/traditional/PersonalLoanA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter9/AlbumLookup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter9/AlbumLookupException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter9/CompletableAlbumLookup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter9/Credentials.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter9/FutureAlbumLookup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/examples/chapter9/RxExamples.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/ExerciseNotCompletedException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/Exercises.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter2/Question2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter2/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter3/FilterUsingReduce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter3/MapUsingReduce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter3/Question1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter3/Question2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter3/StringExercises.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter3/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter4/Artists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter4/Performance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter4/PerformanceFixed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter4/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter5/Fibonacci.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter5/GroupingBy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter5/LongestName.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter5/WordCount.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter5/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter6/BuggyReduce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter6/OptimisationExample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter6/SerialToParallel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter6/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter9/ArtistAnalyzer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter9/BlockingArtistAnalyzer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter9/CallbackArtistAnalyser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter9/CompletableFutureArtistAnalyser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/java/com/insightfullogic/java8/exercises/chapter9/package-info.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/main/resources/com/insightfullogic/java8/examples/chapter6/huckleberry_finn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter2/Question2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter3/FilterUsingReduceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter3/MapUsingReduceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter3/Question1Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter3/Question2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter3/StringExercisesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter4/ArtistsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter4/PerformanceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter5/FibonacciTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter5/GroupingByTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter5/LongestNameTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter5/WordCountTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter6/BuggyReduceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter6/SerialToParallelTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter9/ArtistAnalyzerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter9/BlockingArtistAnalyzerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/answers/chapter9/FakeLookupService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter1/TestPerformance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter2/LambdaExercises.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter2/LambdaExpressions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter3/HigherOrderFunctionExamplesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter3/IterationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter3/RefactorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter3/StreamExercisesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter4/MusicalCarriageTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter4/OptionalExampleTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter4/PrimitivesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter4/TestDefaultSubClassing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter4/TestOrder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter5/EncounterOrderTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter5/StringCollectorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter5/StringExamplesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter6/ArrayExamplesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter6/MovingAverageTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter7/OrderDomainExampleTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter7/TestingTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/DependencyInversionPrincipleTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/SingleResponsibilityPrincipleTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/command/MacrosTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/command/MockEditor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Description.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Lets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Runner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Specification.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/Suite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/example/StackSpec.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/expectations/BoundExpectation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/expectations/CollectionExpectation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/expectations/Expect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/ConsoleFormatter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/Report.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/ReportFormatter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/Result.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/SpecificationReport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/lambdabehave/reporting/SuiteReport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter8/template_method/TraditionalTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter9/AlbumLookupTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/examples/chapter9/RxExamplesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter2/Question2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter3/FilterUsingReduceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter3/MapUsingReduceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter3/Question1Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter3/Question2Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter3/StringExercisesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter4/ArtistsTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter4/PerformanceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter5/FibonacciTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter5/GroupingByTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter5/LongestNameTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter5/WordCountTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter6/BuggyReduceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter6/SerialToParallelTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter9/ArtistAnalyzerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter9/BlockingArtistAnalyzerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/java/com/insightfullogic/java8/exercises/chapter9/FakeLookupService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../lambadaTest/Java8Lambdas-FunctionalProgrammingfortheMasses2014TestOrigin/src/test/resources/com/insightfullogic/java8/examples/chapter8/test_file" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ed6be5b5-02c9-4e9f-846f-f68c9e777469" name="Default" comment="" />
     <ignored path="coreJavaE10V1My.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -1188,7 +958,7 @@
       <workItem from="1470615585437" duration="751000" />
       <workItem from="1473832945859" duration="679000" />
       <workItem from="1473833631644" duration="3185000" />
-      <workItem from="1474364469384" duration="8105000" />
+      <workItem from="1474364469384" duration="8117000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473835805962</created>
@@ -1204,11 +974,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474368802089</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change">
+      <created>1474420982974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1474420982974</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14757000" />
+    <option name="totallyTimeSpent" value="14769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
