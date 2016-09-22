@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="change">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/dense.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/denseNonNull.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/every.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/findAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/forEach.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/forEachBreak.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/reduce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/reduceObjects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/reduceRight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch07/some.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist/src/main/resources/static/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
@@ -465,7 +452,7 @@
       <workItem from="1469146841473" duration="52000" />
       <workItem from="1474242878669" duration="9029000" />
       <workItem from="1474422656485" duration="632000" />
-      <workItem from="1474508103444" duration="6786000" />
+      <workItem from="1474508103444" duration="6912000" />
     </task>
     <task id="LOCAL-00001" summary="function examples">
       <created>1457839002032</created>
@@ -600,11 +587,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474254022395</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="change">
+      <created>1474521775001</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1474521775001</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175792000" />
+    <option name="totallyTimeSpent" value="175918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1924" height="1042" extended-state="0" />
@@ -614,7 +608,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33293697" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33293697" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1902497" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
