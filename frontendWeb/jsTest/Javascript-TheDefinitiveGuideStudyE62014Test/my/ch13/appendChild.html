@@ -23,7 +23,7 @@
         this.innerHTML = new Date().toString();
     }
     if (!timestamp.firstChild) {
-        timestamp.appendChild(document.createTextNode(new Date().toString()));
+        timestamp.appendChild(document.createTextNode(new Date().toLocaleString()));
     }
 
     function backgroundColor() {
