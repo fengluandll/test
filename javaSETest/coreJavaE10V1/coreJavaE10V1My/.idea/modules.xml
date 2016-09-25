@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/05/05.iml" filepath="$PROJECT_DIR$/05/05.iml" />
       <module fileurl="file://$PROJECT_DIR$/06/06.iml" filepath="$PROJECT_DIR$/06/06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch08.iml" filepath="$PROJECT_DIR$/.idea/modules/ch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch08_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch08_main.iml" group="ch08" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch08_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch08_test.iml" group="ch08" />
       <module fileurl="file://$PROJECT_DIR$/coreJavaE10V1My.iml" filepath="$PROJECT_DIR$/coreJavaE10V1My.iml" />
     </modules>
   </component>
