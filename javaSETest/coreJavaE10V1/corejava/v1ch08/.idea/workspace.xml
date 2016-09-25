@@ -87,7 +87,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1271">
               <caret line="43" column="58" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="58" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -839,16 +841,16 @@
       <option name="presentableId" value="Default" />
       <updated>1472521662664</updated>
       <workItem from="1472521664264" duration="4097000" />
-      <workItem from="1474723270652" duration="1460000" />
+      <workItem from="1474723270652" duration="1700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5557000" />
+    <option name="totallyTimeSpent" value="5797000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -954,7 +956,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1271">
           <caret line="43" column="58" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="58" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1001,7 +1005,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1271">
           <caret line="43" column="58" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="58" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
