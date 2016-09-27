@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6be5b5-02c9-4e9f-846f-f68c9e777469" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/src/ArrayClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/src/ForName.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/src/ForNameNewInstance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/src/NewInstance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/src/ReflectionTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05/src/clazz/EmployeeClazz.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../frontendWeb/jsTest/Javascript-TheDefinitiveGuideStudyE62014Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../frontendWeb/jsTest/Javascript-TheDefinitiveGuideStudyE62014Test/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05/src/v2/Size.java" afterPath="$PROJECT_DIR$/05/src/v2/Size.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../corejava/v1ch08/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../corejava/v1ch08/.idea/workspace.xml" />
     </list>
     <ignored path="coreJavaE10V1My.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ForName.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ForName.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/05/src/ForName.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="279">
@@ -145,11 +138,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectionTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReflectionTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/05/src/ReflectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1120">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="89" selection-end-column="5" />
+            <state relative-caret-position="275">
+              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1334,7 +1327,7 @@
       <workItem from="1473832945859" duration="679000" />
       <workItem from="1473833631644" duration="3185000" />
       <workItem from="1474364469384" duration="8117000" />
-      <workItem from="1474679303967" duration="14523000" />
+      <workItem from="1474679303967" duration="15425000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473835805962</created>
@@ -1364,11 +1357,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474770240861</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change">
+      <created>1474803965062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1474803965062</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29292000" />
+    <option name="totallyTimeSpent" value="30194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -1860,14 +1860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/src/ForName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05/src/ArrayClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -1894,11 +1886,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05/src/ReflectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1120">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="89" selection-end-column="5" />
+        <state relative-caret-position="275">
+          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05/src/ForName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
