@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec348b5e-5af7-4904-9701-6b45ae2c8c95" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/images/bluegrass.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/images/carpet.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/images/dandelion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/images/grass.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/images/leaves.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/images/pattern.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/images/trowel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/13/floatRight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/13/sideBar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../jsTest/Javascript-TheDefinitiveGuideStudyE62014Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../jsTest/Javascript-TheDefinitiveGuideStudyE62014Test/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" />
@@ -25,35 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="dandelion.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/08/images/dandelion.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="imageCircular.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/08/imageCircular.html">
+      <file leaf-file-name="sideBar.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/13/sideBar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carpet.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/08/images/carpet.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="backgroundImage.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my/08/backgroundImage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="228">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -97,6 +83,8 @@
         <option value="$PROJECT_DIR$/my/10/buttonBigger.html" />
         <option value="$PROJECT_DIR$/my/08/imageCircular.html" />
         <option value="$PROJECT_DIR$/my/08/backgroundImage.html" />
+        <option value="$PROJECT_DIR$/my/13/floatRight.html" />
+        <option value="$PROJECT_DIR$/my/13/sideBar.html" />
       </list>
     </option>
   </component>
@@ -303,47 +291,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -362,19 +310,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkGitSpace\test\frontendWeb\cssTest\CSS-TheMissingManualE42015Test\my\13" />
+      <recent name="D:\WorkGitSpace\test\frontendWeb\cssTest\CSS-TheMissingManualE42015Test\my\images" />
       <recent name="D:\WorkGitSpace\test\frontendWeb\cssTest\CSS-TheMissingManualE42015Test\my\08" />
       <recent name="D:\WorkGitSpace\test\frontendWeb\cssTest\CSS-TheMissingManualE42015Test\my\10" />
       <recent name="D:\WorkGitSpace\test\frontendWeb\cssTest\CSS-TheMissingManualE42015Test\my" />
-      <recent name="D:\WorkGitSpace\test\frontendWeb\cssTest\CSS-TheMissingManualE42015Test\my\09" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.backgroundImage.html">
-    <configuration default="false" name="blackWhiteBlack.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CSS-TheMissingManualE42015Test/my/08/blackWhiteBlack.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="position.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CSS-TheMissingManualE42015Test/my/08/position.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.sideBar.html">
     <configuration default="false" name="scale.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/CSS-TheMissingManualE42015Test/my/10/scale.html">
       <method />
     </configuration>
@@ -382,6 +325,12 @@
       <method />
     </configuration>
     <configuration default="false" name="backgroundImage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/CSS-TheMissingManualE42015Test/my/08/backgroundImage.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="floatRight.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/CSS-TheMissingManualE42015Test/my/13/floatRight.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="sideBar.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/CSS-TheMissingManualE42015Test/my/13/sideBar.html">
       <method />
     </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -449,19 +398,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.blackWhiteBlack.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.position.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.scale.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.imageCircular.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.backgroundImage.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.scale.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.imageCircular.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.backgroundImage.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.floatRight.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sideBar.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.backgroundImage.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.imageCircular.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.scale.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.position.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.blackWhiteBlack.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sideBar.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.floatRight.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.backgroundImage.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.imageCircular.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.scale.html" />
       </list>
     </recent_temporary>
   </component>
@@ -489,7 +438,7 @@
       <workItem from="1474242831393" duration="36000" />
       <workItem from="1474526356516" duration="3059000" />
       <workItem from="1474626203743" duration="17000" />
-      <workItem from="1474872696296" duration="7130000" />
+      <workItem from="1474872696296" duration="8717000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473906909884</created>
@@ -526,11 +475,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474891697998</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change">
+      <created>1474947653749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1474947653749</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33893000" />
+    <option name="totallyTimeSpent" value="35480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1018" extended-state="0" />
@@ -577,55 +533,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my/11/table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/origin/11/form/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/origin/11/table/table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2584">
-          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/11/table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1520">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -746,11 +653,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my/images/tractor.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/images/bg_page.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -932,8 +834,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/08/backgroundImage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="198">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/images/bg_page.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/images/bluegrass.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/images/carpet.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/images/dandelion.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/images/head-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/images/grass.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/13/floatRight.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/13/sideBar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding />
         </state>
       </provider>
