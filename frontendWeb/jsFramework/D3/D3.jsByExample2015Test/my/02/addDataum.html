@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Style</title>
+    
+    <style>
+
+    </style>
+</head>
+<body>
+
+<button onclick="render([10,20,30,40]);">Take action!</button>
+
+<script src="../bower_components/d3/d3.js"></script>
+<script>
+    render([10,20,30]);
+
+    function render(dataToRender) {
+        var selector = d3.select('body').selectAll('div').data(dataToRender);
+        var entering = selector.enter();
+        entering.append('div').text(function (d) {
+            return d;
+        })
+    }
+</script>
+</body>
+</html>
