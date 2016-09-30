@@ -1,6 +1,6 @@
 package enums;
 
-import v2.Size;
+import clone.v2.Size;
 
 import java.util.Scanner;
 

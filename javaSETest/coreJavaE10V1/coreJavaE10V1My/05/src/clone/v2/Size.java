@@ -1,4 +1,4 @@
-package v2;
+package clone.v2;
 
 /**
  * Created by Allbts-IT on 14/09/2016.
