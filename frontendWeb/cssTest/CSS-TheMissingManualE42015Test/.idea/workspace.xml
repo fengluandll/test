@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec348b5e-5af7-4904-9701-6b45ae2c8c95" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/firstColor.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/gradientIE.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/gradientIETransparent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/08/transparent.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/11/form2Column.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/11/inputBlue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my/08/mixed.html" afterPath="$PROJECT_DIR$/my/08/mixed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../jsFramework/D3/D3.jsByExample2015Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../jsFramework/D3/D3.jsByExample2015Test/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ec348b5e-5af7-4904-9701-6b45ae2c8c95" name="Default" comment="" />
     <ignored path="CSS-TheMissingManualE42015Test.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -328,7 +318,7 @@
       <workItem from="1474872696296" duration="8771000" />
       <workItem from="1474957748525" duration="670000" />
       <workItem from="1475028770338" duration="41000" />
-      <workItem from="1475197445046" duration="4863000" />
+      <workItem from="1475197445046" duration="4953000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473906909884</created>
@@ -393,11 +383,25 @@
       <option name="project" value="LOCAL" />
       <updated>1474957393056</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="change">
+      <created>1475207738125</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1475207738125</updated>
+    </task>
+    <task id="LOCAL-00011" summary="change">
+      <created>1475207804414</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1475207804414</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41108000" />
+    <option name="totallyTimeSpent" value="41198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1018" extended-state="0" />

@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch08.iml" filepath="$PROJECT_DIR$/.idea/modules/ch08.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch08_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch08_main.iml" group="ch08" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch08_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch08_test.iml" group="ch08" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch09.iml" filepath="$PROJECT_DIR$/.idea/modules/ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch09_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch09_main.iml" group="ch09" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch09_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch09_test.iml" group="ch09" />
       <module fileurl="file://$PROJECT_DIR$/coreJavaE10V1My.iml" filepath="$PROJECT_DIR$/coreJavaE10V1My.iml" />
     </modules>
   </component>

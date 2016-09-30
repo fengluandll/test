@@ -21,6 +21,8 @@
     <bytecodeTargetLevel target="1.8">
       <module name="ch08_main" target="1.8" />
       <module name="ch08_test" target="1.8" />
+      <module name="ch09_main" target="1.8" />
+      <module name="ch09_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
