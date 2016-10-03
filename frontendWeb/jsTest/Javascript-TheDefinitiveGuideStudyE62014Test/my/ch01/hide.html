@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        .hilite{
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <div id="hide">
+        to be hide
+    </div>
+    <div id="hi">
+        to be highlighted
+    </div>
+    <button onclick="hideClick();">Hide</button>
+    <button onclick="hilite();">Highlight</button>
+<script>
+
+    function hideClick() {
+        var ele = document.getElementById("hide");
+        hide(ele,false);
+    }
+
+    function hide(e,reflow) {
+        if (reflow) {
+            e.style.display = "none";
+        }else{
+            e.style.visibility = "hidden";
+        }
+    }
+
+    function highlight(e) {
+        if (!e.className) e.className = 'hilite';
+        else
+            e.className += 'hilite';
+    }
+    function hilite() {
+        var ele = document.getElementById('hi');
+        console.log("ele: " + ele);
+        highlight(ele);
+    }
+
+</script>
+</body>
+</html>
