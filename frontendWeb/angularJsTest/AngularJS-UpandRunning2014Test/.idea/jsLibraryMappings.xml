@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/my/02/talkingToServers" libraries="{AngularJS-UpandRunning2014Test/my/02/talkingToServers/node_modules}" />
+  </component>
+</project>
