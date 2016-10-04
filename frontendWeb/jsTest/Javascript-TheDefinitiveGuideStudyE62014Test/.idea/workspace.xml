@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f11e67d-5672-4870-833c-9c718214abe2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/bluegrass.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/carpet.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/dandelion.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/grass.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/leaves.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/pattern.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/imgs/trowel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch01/debugJQuery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch01/debugJQuery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch01/hide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch01/hideJs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch01/imageLoad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch01/moveOn.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/java/readinglist/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/java/readinglist/JdbcTemplateCondition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/java/readinglist/ReadingListController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/java/readinglist/ReadingListRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/resources/static/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/resources/templates/readingList.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../cssTest/CSS-TheMissingManualE42015Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../cssTest/CSS-TheMissingManualE42015Test/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch01/loanCalc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/jquery.debug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/println.jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch19/println.jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../angularJsTest/AngularJS-UpandRunning2014Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../angularJsTest/AngularJS-UpandRunning2014Test/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/my/ch19/debug.js" afterPath="$PROJECT_DIR$/my/ch19/jquery.debug.js" />
     </list>
     <ignored path="Javascript-TheDefinitiveGuideStudyE62014Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,61 +34,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hide.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch01/hide.html">
+      <file leaf-file-name="loanCalc.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch01/loanCalc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="1025">
+              <caret line="190" column="47" selection-start-line="190" selection-start-column="47" selection-end-line="190" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="imageLoad.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch01/imageLoad.html">
+      <file leaf-file-name="println.jquery.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch19/println.jquery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="31" selection-end-column="6" />
+            <state relative-caret-position="418">
+              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="debugJQuery.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch01/debugJQuery.js">
+      <file leaf-file-name="jquery.debug.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/ch19/jquery.debug.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="380">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.debug.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch19/jquery.debug.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="836">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01.01.loancalc.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/origin/01.01.loancalc.html">
+      <file leaf-file-name="println.jquery.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/ch19/println.jquery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="debugJQuery.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch01/debugJQuery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hideJs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/ch01/hideJs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="608">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -125,10 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/my/ch09/defineClass.js" />
-        <option value="$PROJECT_DIR$/my/ch09/Complex.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.js" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.html" />
@@ -176,6 +149,10 @@
         <option value="$PROJECT_DIR$/my/ch01/imageLoad.html" />
         <option value="$PROJECT_DIR$/my/ch01/debugJQuery.js" />
         <option value="$PROJECT_DIR$/my/ch01/debugJQuery.html" />
+        <option value="$PROJECT_DIR$/my/ch01/loanCalc.html" />
+        <option value="$PROJECT_DIR$/my/ch19/println.jquery.js" />
+        <option value="$PROJECT_DIR$/my/ch19/println.jquery.html" />
+        <option value="$PROJECT_DIR$/my/ch19/jquery.debug.html" />
       </list>
     </option>
   </component>
@@ -215,6 +192,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Javascript-TheDefinitiveGuideStudyE62014Test">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,8 +223,22 @@
               <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="origin" />
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ch19" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -246,24 +251,28 @@
               <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Javascript-TheDefinitiveGuideStudyE62014Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="imgs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Javascript-TheDefinitiveGuideStudyE62014Test">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,20 +299,20 @@
       <recent name="D:\WorkGitSpace\test\frontendWeb\jsTest\Javascript-TheDefinitiveGuideStudyE62014Test\my\ch08" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.01.01.loancalc.html">
-    <configuration default="false" name="hideJs.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Javascript-TheDefinitiveGuideStudyE62014Test/my/ch01/hideJs.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="hide.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Javascript-TheDefinitiveGuideStudyE62014Test/my/ch01/hide.html">
-      <method />
-    </configuration>
-    <configuration default="false" name="imageLoad.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Javascript-TheDefinitiveGuideStudyE62014Test/my/ch01/imageLoad.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.jquery.debug.html">
     <configuration default="false" name="debugJQuery.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Javascript-TheDefinitiveGuideStudyE62014Test/my/ch01/debugJQuery.html">
       <method />
     </configuration>
     <configuration default="false" name="01.01.loancalc.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/Javascript-TheDefinitiveGuideStudyE62014Test/origin/01.01.loancalc.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="loanCalc.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript-TheDefinitiveGuideStudyE62014Test/my/ch01/loanCalc.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="println.jquery.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript-TheDefinitiveGuideStudyE62014Test/my/ch19/println.jquery.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="jquery.debug.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript-TheDefinitiveGuideStudyE62014Test/my/ch19/jquery.debug.html">
       <method />
     </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -371,19 +380,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.hideJs.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.hide.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.imageLoad.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.debugJQuery.html" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.01.01.loancalc.html" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.debugJQuery.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.01.01.loancalc.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.loanCalc.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.println.jquery.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.jquery.debug.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.01.01.loancalc.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.debugJQuery.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.imageLoad.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.hide.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.hideJs.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.jquery.debug.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.println.jquery.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.loanCalc.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.01.01.loancalc.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.debugJQuery.html" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +443,8 @@
       <workItem from="1474871456117" duration="599000" />
       <workItem from="1475028823647" duration="2585000" />
       <workItem from="1475110726297" duration="607000" />
-      <workItem from="1475467201440" duration="5470000" />
+      <workItem from="1475467201440" duration="6132000" />
+      <workItem from="1475486450692" duration="5910000" />
     </task>
     <task id="LOCAL-00001" summary="function examples">
       <created>1457839002032</created>
@@ -590,22 +600,30 @@
       <option name="project" value="LOCAL" />
       <updated>1475030203617</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="change">
+      <created>1475472915929</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1475472915929</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191413000" />
+    <option name="totallyTimeSpent" value="197985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="0" width="1924" height="1030" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17782539" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17740175" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3305187" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="90" y="100" width="1724" height="830" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1893848" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959828" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4120425" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -613,7 +631,6 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="90" y="100" width="1724" height="830" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -705,41 +722,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my/ch08/callee.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/arguments.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch07/isArrayLike.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/sum.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch08/arrayCopy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my/ch08/flexisum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -940,7 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -948,7 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -956,7 +936,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -964,7 +943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1254">
           <caret line="33" column="17" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -972,9 +950,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -982,7 +957,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -990,7 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="23" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -998,9 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="17" column="14" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1008,9 +978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,7 +985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,13 +992,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="19" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my/ch01/hide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="874">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="45" selection-end-column="5" />
           <folding />
         </state>
@@ -1046,17 +1011,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/ch01/debug.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch01/debug.js" />
     <entry file="file://$PROJECT_DIR$/my/ch01/imageLoad.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="570">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="31" selection-end-column="6" />
           <folding />
         </state>
@@ -1064,7 +1022,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/ch01/debugJQuery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
+        <state relative-caret-position="608">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="23" />
           <folding />
         </state>
@@ -1080,9 +1038,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/origin/01.01.loancalc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="38">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch01/loanCalc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="190" column="47" selection-start-line="190" selection-start-column="47" selection-end-line="190" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/println.jquery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/println.jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/jquery.debug.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ch19/jquery.debug.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
