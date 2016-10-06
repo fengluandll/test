@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+
+    </style>
+</head>
+<body ng-controller="TextController">
+
+<p><span ng-bind="greeting"></span></p>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.1/angular.min.js"></script>
+<script>
+    function TextController($scope) {
+        $scope.greeting = 'U are welcome.';
+    }
+</script>
+</body>
+</html>

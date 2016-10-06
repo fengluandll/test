@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+
+    </style>
+</head>
+<body>
+
+<form ng-controller="SomeController">
+    <input type="checkbox" ng-model="youCheckedIt">
+    checkedIt
+</form>
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.1/angular.min.js"></script>
+<script>
+    function SomeController($scope) {
+        $scope.youCheckedIt = false;
+    }
+</script>
+</body>
+</html>

@@ -28,7 +28,6 @@ public class HelloWorld implements ApplicationContextAware,BeanNameAware, Initia
 	
 	public void setBeanName(String arg0) {
 		System.out.println("setBeanName is called with " + arg0);
-
 	}
 
 	@Override
