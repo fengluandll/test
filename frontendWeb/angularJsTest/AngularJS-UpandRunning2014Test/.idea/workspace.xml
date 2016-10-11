@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f921a31-9222-42cd-b450-d6669faba74e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/checkbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/hello.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/ngbind.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringTest/MockitoforSpring2015Test/MockitoforSpring2015TestOrigin/3780OS_01_Code/SpringOverview/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringTest/MockitoforSpring2015Test/MockitoforSpring2015TestOrigin/3780OS_01_Code/SpringOverview/src/applicationContext3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringTest/MockitoforSpring2015Test/MockitoforSpring2015TestOrigin/3780OS_01_Code/SpringOverview/src/com/packt/lifecycle/my2/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringTest/MockitoforSpring2015Test/MockitoforSpring2015TestOrigin/3780OS_01_Code/SpringOverview/src/com/packt/lifecycle/my2/HelloWorldExample.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my/02/startup-watch.html" afterPath="$PROJECT_DIR$/my/02/startup-watch.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my/02/startup.html" afterPath="$PROJECT_DIR$/my/02/startup.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../jsTest/Javascript-TheDefinitiveGuideStudyE62014Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../jsTest/Javascript-TheDefinitiveGuideStudyE62014Test/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTest/MockitoforSpring2015Test/MockitoforSpring2015TestOrigin/3780OS_01_Code/SpringOverview/SpringOverview.iml" afterPath="$PROJECT_DIR$/../../../springTest/SpringTest/MockitoforSpring2015Test/MockitoforSpring2015TestOrigin/3780OS_01_Code/SpringOverview/SpringOverview.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringTest/MockitoforSpring2015Test/MockitoforSpring2015TestOrigin/3780OS_01_Code/SpringOverview/src/com/packt/lifecycle/HelloWorld.java" afterPath="$PROJECT_DIR$/../../../springTest/SpringTest/MockitoforSpring2015Test/MockitoforSpring2015TestOrigin/3780OS_01_Code/SpringOverview/src/com/packt/lifecycle/HelloWorld.java" />
     </list>
     <ignored path="AngularJS-UpandRunning2014Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -380,7 +368,7 @@
       <workItem from="1475477430320" duration="45000" />
       <workItem from="1475477481877" duration="672000" />
       <workItem from="1475486425581" duration="19000" />
-      <workItem from="1475743853108" duration="4743000" />
+      <workItem from="1475743853108" duration="5388000" />
     </task>
     <task id="LOCAL-00001" summary="IC">
       <created>1467186981136</created>
@@ -396,11 +384,18 @@
       <option name="project" value="LOCAL" />
       <updated>1475477544584</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change">
+      <created>1475749131829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1475749131829</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13631000" />
+    <option name="totallyTimeSpent" value="14276000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="0" width="1924" height="1042" extended-state="0" />
