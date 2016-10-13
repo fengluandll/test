@@ -52,6 +52,7 @@ configure(webProjects) {
     apply plugin: 'jetty'
     apply plugin: 'tomcat'
     apply plugin: 'cargo'
+	apply plugin: 'idea'
 
     dependencies() {
         compile project(':bookstore-shared'), project(':bookstore-web-resources')
@@ -105,6 +106,11 @@ configure(webProjects) {
 
 }
 
+idea{
+	module{
+		downloadJavadoc=true
+	}
+}
 
 subprojects() {
     apply plugin: 'java'

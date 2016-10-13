@@ -45,6 +45,12 @@ eclipse {
     }
 }
 
+idea{
+    module{
+        downloadJavadoc=true
+    }
+}
+
 task wrapper(type: Wrapper) {
     gradleVersion = '1.12'
 }
