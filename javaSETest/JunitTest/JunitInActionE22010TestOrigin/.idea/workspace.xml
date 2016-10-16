@@ -11,7 +11,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/AngularJS-UpandRunning2014Test/my/02/focusDirectiveMy.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/AngularJS-UpandRunning2014Test/my/02/itemsServiceModuleMy.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/AngularJS-UpandRunning2014Test/my/02/titleCaseFilterMy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05-cobertura/cobertura.ser" afterPath="$PROJECT_DIR$/ch05-cobertura/cobertura.ser" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringDataTest/spring-data-book" afterPath="$PROJECT_DIR$/../../../springTest/SpringDataTest/spring-data-book" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/AngularJS-UpandRunning2014Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/AngularJS-UpandRunning2014Test/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/AngularJS-UpandRunning2014Test/my/02/titleCaseFilter.html" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/AngularJS-UpandRunning2014Test/my/02/titleCaseFilter.html" />
@@ -145,7 +144,7 @@
             <state relative-caret-position="-31">
               <caret line="46" column="92" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="e#0#1922#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -965,7 +964,7 @@
       <workItem from="1459696971666" duration="810000" />
       <workItem from="1460858360745" duration="8418000" />
       <workItem from="1460875237431" duration="936000" />
-      <workItem from="1476476958611" duration="1698000" />
+      <workItem from="1476476958611" duration="1733000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1460873613826</created>
@@ -974,7 +973,14 @@
       <option name="project" value="LOCAL" />
       <updated>1460873613826</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change">
+      <created>1476482024401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476482024401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -992,7 +998,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12480000" />
+    <option name="totallyTimeSpent" value="12515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -1049,6 +1055,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="change" />
     <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
@@ -1489,7 +1497,7 @@
         <state relative-caret-position="-31">
           <caret line="46" column="92" selection-start-line="46" selection-start-column="92" selection-end-line="46" selection-end-column="92" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#0#1922#0" expanded="true" />
           </folding>
         </state>
       </provider>

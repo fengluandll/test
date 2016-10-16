@@ -5,7 +5,7 @@
     <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
   </head>
 
-  <body ng-app='HomeModule' ng-controller="HomeController">
+  <body ng-app='HomeModule' ng-controller='HomeController'>
    <h1>{{pageHeading | titleCase}}</h1>
 
   <script>
@@ -24,6 +24,8 @@
       };
       return titleCaseFilter;
     });
+
+
   </script>
   </body>
 </html>
