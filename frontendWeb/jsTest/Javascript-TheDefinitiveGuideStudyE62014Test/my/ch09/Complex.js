@@ -76,11 +76,12 @@ Complex._format = /^\{([^,]+),([^}]+)\}$/;
 
 var c = new Complex(2,3); // Create a new object with the constructor
 var d = new Complex(c.i,c.r); // Use instance properties of c
-c.add(d).toString(); // => "{5,5}": use instance methods
+console.log(c.add(d).toString());; // => "{5,5}": use instance methods
 // A more complex expression that uses a class method and field
-Complex.parse(c.toString()). // Convert c to a string and back again,
+var result = Complex.parse(c.toString()). // Convert c to a string and back again,
 add(c.neg()). // add its negative to it,
-equals(Complex.ZERO) // and it will always equal zero
+equals(Complex.ZERO); // and it will always equal zero
+console.log(result);
 
 Complex.prototype.toString = function() {
     with(this) {

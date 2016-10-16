@@ -45,6 +45,9 @@ range.methods = {
 var r = range(1,3); // Create a range object
 r.includes(2); // => true: 2 is in the range
 console.log("includes 2: " + r.includes(2));
+
+console.log('foreach log:');
+
 r.foreach(console.log); // Prints 1 2 3
 console.log(r); // Prints (1...3)
 

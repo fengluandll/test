@@ -24,6 +24,12 @@ var SimpleRange =
         },
         { upto: function(t) { return new SimpleRange(0, t); } });
 
+var s = new SimpleRange(1,4);
+console.log("s: " + s);
+
+
+var t = SimpleRange.upto(10);
+console.log("t: " + t);
 
 
 
