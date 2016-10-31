@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec348b5e-5af7-4904-9701-6b45ae2c8c95" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/java/readinglist/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/java/readinglist/JdbcTemplateCondition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/java/readinglist/ReadingListController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/java/readinglist/ReadingListRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/resources/static/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/SpringBootinAction2015Test/my/02/readinglist2/src/main/resources/templates/readingList.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringDataTest/spring-data-book" afterPath="$PROJECT_DIR$/../../../springTest/SpringDataTest/spring-data-book" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../angularJsTest/AngularJSTest-drivenDevelopment2015Test/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../angularJsTest/AngularJSTest-drivenDevelopment2015Test/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/SpringMvc/ProSpringMVCwithWebFlow2012Test/bookstore/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../springTest/SpringMvc/ProSpringMVCwithWebFlow2012Test/bookstore/.idea/workspace.xml" />
     </list>
     <ignored path="CSS-TheMissingManualE42015Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,11 +26,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="gradientIETransparent.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gradientIETransparent.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/08/gradientIETransparent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="304">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="93" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch.css" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratch.html" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -64,7 +91,6 @@
         <option value="$PROJECT_DIR$/my/08/linearGradient.html" />
         <option value="$PROJECT_DIR$/my/08/linearGradientToBottom.html" />
         <option value="$PROJECT_DIR$/my/08/toBottomRight.html" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.css" />
         <option value="$PROJECT_DIR$/my/08/blackWhiteBlack.html" />
         <option value="$PROJECT_DIR$/my/08/position.html" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.css" />
@@ -86,6 +112,8 @@
         <option value="$PROJECT_DIR$/my/08/transparent.html" />
         <option value="$PROJECT_DIR$/my/08/gradientIE.html" />
         <option value="$PROJECT_DIR$/my/08/gradientIETransparent.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.css" />
       </list>
     </option>
   </component>
@@ -112,7 +140,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scratches" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -127,59 +155,21 @@
     </navigator>
     <panes>
       <pane id="Scratches">
-        <subPane />
-      </pane>
-      <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CSS-TheMissingManualE42015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="Scratches" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyRootNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane />
       </pane>
       <pane id="Scope" />
     </panes>
@@ -328,6 +318,9 @@
       <workItem from="1475028770338" duration="41000" />
       <workItem from="1475197445046" duration="4953000" />
       <workItem from="1475467180944" duration="15000" />
+      <workItem from="1477540141724" duration="3806000" />
+      <workItem from="1477632395430" duration="709000" />
+      <workItem from="1477878144761" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473906909884</created>
@@ -410,7 +403,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41213000" />
+    <option name="totallyTimeSpent" value="45758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1918" height="1018" extended-state="0" />
@@ -418,8 +411,8 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25685117" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3243574" sideWeight="0.5185384" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3243574" sideWeight="0.48146158" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3243574" sideWeight="0.52498657" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3243574" sideWeight="0.47501343" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3390244" sideWeight="0.49382052" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -457,20 +450,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" column="69" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/origin/09/nav_bar/nav_bar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/origin/09/links/links.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -508,13 +487,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="451">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="76" />
         </state>
       </provider>
     </entry>
@@ -786,8 +758,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/08/gradientIETransparent.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="304">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
         </state>
       </provider>
