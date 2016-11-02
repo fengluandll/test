@@ -1,0 +1,5 @@
+export CLASSPATH=target/classes:lib/datanucleus-enhancer-3.0.1.jar:lib/datanucleus-core-3.0.10.jar:lib/datanucleus-api-jdo-3.0.7.jar:lib/jdo-api-3.1-SNAPSHOT-20110926.jar:lib/asm-3.3.jar
+
+echo $CLASSPATH
+
+java -cp $CLASSPATH org.datanucleus.enhancer.DataNucleusEnhancer target/classes/com/madhusudhan/jsd/jdo/*.class

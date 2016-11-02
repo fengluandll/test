@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/493789/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain
+END
+Trade.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/453757/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/Trade.java
+END
+Price.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/451506/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/Price.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/451506/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/Position.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/451506/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/Address.java
+END
+DomainUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/DomainUtil.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/451506/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/Person.java
+END
+Account.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/451506/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/Account.java
+END

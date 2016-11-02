@@ -1,0 +1,39 @@
+===============================
+To create TRADES table in MySql
+===============================
+
+create table TRADES (ID int NOT NULL, 
+	ACCOUNT VARCHAR(20) NOT NULL, 
+	SECURITY VARCHAR(10) NOT NULL, 
+	QUANTITY INT NOT NULL, 
+	STATUS VARCHAR(10), 
+	DIRECTION VARCHAR(10)
+);
+
+insert into TRADES values (1,'1234AAA','MDMD',100000,'NEW','BUY');
+insert into TRADES values (2,'456BBBA','MJBUE',200000,'NEW','BUY');
+insert into TRADES values (3,'ABC444','BHD',300000,'NEW','SELL');
+insert into TRADES values (4,'000DDWD','AADE',400000,'NEW','BUY');
+insert into TRADES values (5,'452SEVE','XYZ',500000,'NEW','SELL');
+
+create table PERSON ( 
+    FIRST_NAME varchar(50) not null, 
+    LAST_NAME varchar(50) not null, 
+    SEX varchar(10) 
+) 
+
+create table PRICE ( 
+    ID int NOT NULL, 
+    SECURITY varchar(50) not null, 
+    PRICE INT 
+) 
+DELIMITER // CREATE PROCEDURE big_trades (IN in_qty INTEGER) BEGIN SELECT * FROM TRADES where quantity > in_qty // END DELIMITER;
+
+CREATE PROCEDURE trade_by_quantity ( OUT big_trade_id INTEGER)
+BEGIN 
+SELECT id 
+INTO big_trade_id 
+FROM TRADES where quantity = in_qty; 
+END; 
+
+SELECT id INTO big_trade_id FROM trades where quantity > 10000

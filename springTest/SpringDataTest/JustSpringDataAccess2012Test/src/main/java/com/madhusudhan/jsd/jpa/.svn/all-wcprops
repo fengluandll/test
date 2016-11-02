@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/jpa
+END
+JpaTradePersistorUsingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/jpa/JpaTradePersistorUsingDAO.java
+END
+Price.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/jpa/Price.java
+END
+TradeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/jpa/TradeDAO.java
+END
+PriceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/jpa/PriceDAO.java
+END
+EntityManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/jpa/EntityManagerTest.java
+END
+PricePersistorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/jpa/PricePersistorTest.java
+END

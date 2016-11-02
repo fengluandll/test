@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/461953/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/basics
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/451506/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/basics/Test.java
+END
+JdbcTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/basics/JdbcTest.java
+END
+JdbcTemplateInsertsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/basics/JdbcTemplateInsertsTest.java
+END
+JdbcPlainTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/basics/JdbcPlainTest.java
+END
+JavaDBTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/basics/JavaDBTest.java
+END
+AccountHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/453371/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/basics/AccountHolder.java
+END
+JdbcTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/basics/JdbcTemplateTest.java
+END
+JdbcTemplateCallbacksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/461953/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/basics/JdbcTemplateCallbacksTest.java
+END

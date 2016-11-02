@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/476900/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/adv
+END
+JdbcTemplateBatchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/463840/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/adv/JdbcTemplateBatchTest.java
+END
+SimpleJdbcInsertTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/476900/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/adv/SimpleJdbcInsertTest.java
+END
+NamedParameterJdbcTemplateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/461953/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/adv/NamedParameterJdbcTemplateTest.java
+END
+InMemoryDatabaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/476900/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/adv/InMemoryDatabaseTest.java
+END
+JdbcTemplateAdvCallbacksTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/461953/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/adv/JdbcTemplateAdvCallbacksTest.java
+END

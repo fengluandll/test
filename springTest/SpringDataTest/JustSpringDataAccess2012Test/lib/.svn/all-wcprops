@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/499708/internal/books/9781449328382/current/lib
+END
+spring-beans-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/499708/internal/books/9781449328382/current/lib/spring-beans-3.1.1.RELEASE.jar
+END
+derby.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/505901/internal/books/9781449328382/current/lib/derby.jar
+END
+spring-tx-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/499708/internal/books/9781449328382/current/lib/spring-tx-3.1.1.RELEASE.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/499708/internal/books/9781449328382/current/lib/dom4j-1.6.1.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/505901/internal/books/9781449328382/current/lib/asm-3.1.jar
+END
+hibernate-core-3.6.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/499708/internal/books/9781449328382/current/lib/hibernate-core-3.6.0.Final.jar
+END
+asm-3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/501165/internal/books/9781449328382/current/lib/asm-3.3.jar
+END
+jdo-api-3.1-SNAPSHOT-20110926.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/501165/internal/books/9781449328382/current/lib/jdo-api-3.1-SNAPSHOT-20110926.jar
+END
+commons-dbcp-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/505901/internal/books/9781449328382/current/lib/commons-dbcp-1.4.jar
+END
+datanucleus-jdo-query-3.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/501165/internal/books/9781449328382/current/lib/datanucleus-jdo-query-3.0.2.jar
+END
+commons-pool-1.5.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/505901/internal/books/9781449328382/current/lib/commons-pool-1.5.4.jar
+END
+commons-collections-3.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/499708/internal/books/9781449328382/current/lib/commons-collections-3.2.1.jar
+END
+log4j-1.2.16.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/499708/internal/books/9781449328382/current/lib/log4j-1.2.16.jar
+END
+aopalliance-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/505901/internal/books/9781449328382/current/lib/aopalliance-1.0.jar
+END
+mysql-connector-java-5.1.18.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/499708/internal/books/9781449328382/current/lib/mysql-connector-java-5.1.18.jar
+END
+spring-core-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/499708/internal/books/9781449328382/current/lib/spring-core-3.1.1.RELEASE.jar
+END
+spring-orm-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/499708/internal/books/9781449328382/current/lib/spring-orm-3.1.1.RELEASE.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/499708/internal/books/9781449328382/current/lib/jta-1.1.jar
+END
+datanucleus-core-3.0.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/501165/internal/books/9781449328382/current/lib/datanucleus-core-3.0.10.jar
+END
+aspectjweaver-1.6.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/505901/internal/books/9781449328382/current/lib/aspectjweaver-1.6.8.jar
+END
+spring-expression-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/499708/internal/books/9781449328382/current/lib/spring-expression-3.1.1.RELEASE.jar
+END
+javassist-3.12.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/499708/internal/books/9781449328382/current/lib/javassist-3.12.0.GA.jar
+END
+spring-jdbc-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/499708/internal/books/9781449328382/current/lib/spring-jdbc-3.1.1.RELEASE.jar
+END
+cglib-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/505901/internal/books/9781449328382/current/lib/cglib-2.2.jar
+END
+datanucleus-rdbms-3.0.9.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/501165/internal/books/9781449328382/current/lib/datanucleus-rdbms-3.0.9.jar
+END
+datanucleus-enhancer-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/501165/internal/books/9781449328382/current/lib/datanucleus-enhancer-3.0.1.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/505901/internal/books/9781449328382/current/lib/antlr-2.7.7.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/499708/internal/books/9781449328382/current/lib/slf4j-api-1.6.1.jar
+END
+hibernate-commons-annotations-3.2.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/499708/internal/books/9781449328382/current/lib/hibernate-commons-annotations-3.2.0.Final.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/499708/internal/books/9781449328382/current/lib/commons-logging-1.1.1.jar
+END
+datanucleus-api-jdo-3.0.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/501165/internal/books/9781449328382/current/lib/datanucleus-api-jdo-3.0.7.jar
+END
+spring-aop-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/499708/internal/books/9781449328382/current/lib/spring-aop-3.1.1.RELEASE.jar
+END
+spring-asm-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/499708/internal/books/9781449328382/current/lib/spring-asm-3.1.1.RELEASE.jar
+END
+hibernate-entitymanager-3.6.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/499708/internal/books/9781449328382/current/lib/hibernate-entitymanager-3.6.0.Final.jar
+END
+hibernate-jpa-2.0-api-1.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/499708/internal/books/9781449328382/current/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar
+END
+spring-context-3.1.1.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/499708/internal/books/9781449328382/current/lib/spring-context-3.1.1.RELEASE.jar
+END
+slf4j-log4j12-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/499708/internal/books/9781449328382/current/lib/slf4j-log4j12-1.6.1.jar
+END

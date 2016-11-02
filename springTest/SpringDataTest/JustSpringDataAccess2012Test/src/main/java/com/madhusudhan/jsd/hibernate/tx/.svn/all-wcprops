@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/501165/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/hibernate/tx
+END
+Price.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/501165/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/hibernate/tx/Price.java
+END
+PriceDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/hibernate/tx/PriceDAO.java
+END
+PriceDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/hibernate/tx/PriceDAOTest.java
+END
+PriceDAOTest2.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/501165/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/hibernate/tx/PriceDAOTest2.java
+END

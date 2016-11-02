@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/493789/internal/books/9781449328382/current/src/main/resources
+END
+tx-hibernate-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/resources/tx-hibernate-beans.xml
+END
+1hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/resources/1hibernate.cfg.xml
+END
+dn-jdo-enhancer.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/501165/internal/books/9781449328382/current/src/main/resources/dn-jdo-enhancer.rtf
+END
+hibernate-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/resources/hibernate-beans.xml
+END
+java-db-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/resources/java-db-beans.xml
+END
+basics-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/453757/internal/books/9781449328382/current/src/main/resources/basics-beans.xml
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/476900/internal/books/9781449328382/current/src/main/resources/hibernate.properties
+END
+domain-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/453757/internal/books/9781449328382/current/src/main/resources/domain-beans.xml
+END
+jpa-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/resources/jpa-beans.xml
+END
+inmemory-datasources-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/476900/internal/books/9781449328382/current/src/main/resources/inmemory-datasources-beans.xml
+END
+jdo-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/503547/internal/books/9781449328382/current/src/main/resources/jdo-beans.xml
+END
+datasources-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/476900/internal/books/9781449328382/current/src/main/resources/datasources-beans.xml
+END
+jpa-support-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/505901/internal/books/9781449328382/current/src/main/resources/jpa-support-beans.xml
+END
+jdo-template-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/503547/internal/books/9781449328382/current/src/main/resources/jdo-template-beans.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/501165/internal/books/9781449328382/current/src/main/resources/log4j.properties
+END
+jdo-support-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/503969/internal/books/9781449328382/current/src/main/resources/jdo-support-beans.xml
+END

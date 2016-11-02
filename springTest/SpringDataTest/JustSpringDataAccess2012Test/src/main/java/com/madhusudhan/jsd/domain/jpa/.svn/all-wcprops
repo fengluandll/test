@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/jpa
+END
+Trade.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/499708/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/jpa/Trade.java
+END
+EntityManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/503547/internal/books/9781449328382/current/src/main/java/com/madhusudhan/jsd/domain/jpa/EntityManagerTest.java
+END
