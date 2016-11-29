@@ -2,324 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2ff6ae8-f908-4db7-839d-3802841ca583" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/controllers/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/database/production.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/database/seeds/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/database/migrations/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/database/production.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/controllers/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/database/migrations/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/database/production.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/database/seeds/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/database/migrations/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/database/production.sqlite" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 01/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 02/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 03/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 04/assets/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 04/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 04/assets/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 04/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 04/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 05/assets/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 05/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 05/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 06/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 06/assets/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 06/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 06/assets/partials/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 07/assets/js/angular-animate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 07/assets/js/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 07/assets/js/angular-sanitize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 07/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 07/assets/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 07/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 07/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 07/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/assets/js/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/assets/partials/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/config/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/config/compile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/config/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/controllers/ContactsController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/database/migrations/2014_03_16_164213_create_contacts_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/filters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/lang/en/reminders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/start/global.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/start/local.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/storage/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/storage/cache/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/storage/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/app/views/hello.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/bootstrap/paths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/bootstrap/start.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 08/backend/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/config/compile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/config/testing/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/config/testing/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/database/seeds/DatabaseSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/models/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/storage/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/app/storage/meta/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/bootstrap/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/backend/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/components/contacts.service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/components/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/components/gravatar.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/components/truncate.filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/vendor/angular-animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/vendor/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/vendor/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/vendor/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/app/views/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/assets/js/ContactsMgr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/assets/partials/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/assets/partials/editable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/grunt/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/app/components/gravatar.directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/app/components/paragraph.filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/app/module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/app/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/app/vendor/angular-strap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/app/vendor/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/app/vendor/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/app/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/app/views/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/assets/css/angular-motion.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 09/gulp/assets/partials/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/config/cache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/config/compile.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/config/queue.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/config/testing/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/lang/en/reminders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/models/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/storage/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/storage/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/storage/views/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/app/views/emails/auth/reminder.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/bootstrap/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/public/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/backend/server.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/js/modules/contactsMgr.directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/js/modules/contactsMgr.filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/js/modules/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/js/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/js/vendor/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/js/vendor/angular-strap.tpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/assets/partials/editable.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/grunt/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/js/controllers/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/js/controllers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/js/modules/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/js/vendor/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 10/gulp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/config/auth.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/config/mail.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/config/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/config/testing/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/config/workbench.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/database/migrations/2014_03_16_164213_create_contacts_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/filters.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/lang/en/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/models/Contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/start/global.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/storage/sessions/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/app/tests/TestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/bootstrap/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/bootstrap/paths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/backend/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/css/angular-motion.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/js/controllers/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/js/modules/contactsMgr.filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/js/modules/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/js/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/js/vendor/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/js/vendor/angular-strap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/js/vendor/angular-strap.tpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/js/vendor/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 11/frontend/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/config/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/config/remote.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/config/testing/session.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/config/view.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/config/workbench.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/database/migrations/2014_03_16_164213_create_contacts_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/lang/en/pagination.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/lang/en/reminders.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/lang/en/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/models/Contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/routes.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/start/artisan.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/start/global.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/storage/logs/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/app/tests/TestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/artisan" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/bootstrap/paths.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/public/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/backend/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/css/angular-motion.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/controllers/add.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/controllers/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/controllers/index.annotated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/modules/contactsMgr.directives.annotated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/modules/contactsMgr.directives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/modules/contactsMgr.services.annotated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/modules/contactsMgr.services.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/vendor/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/vendor/angular-sanitize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/vendor/angular-strap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/vendor/angular-strap.tpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/js/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/assets/partials/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/grunt/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/js/controllers/contact.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/js/modules/contactsMgr.filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/js/vendor/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/js/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/less/wells.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/assets/partials/add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/origin/Chapter 12/gulp/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../springTest/springGuides/gs-consuming-rest-angularjs/initial/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/helloExp/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/helloExp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/helloExp/js/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/helloExp/js/controller.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../springTest/springGuides/gs-consuming-rest-angularjs/initial/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../springTest/springGuides/gs-consuming-rest-angularjs/initial/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01/first/index.html" afterPath="$PROJECT_DIR$/01/first/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01/hello/index.html" afterPath="$PROJECT_DIR$/01/hello/index.html" />
     </list>
     <ignored path="LearningWebDevelopmentwithBootstrapandAngularJS2015Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -330,7 +20,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -340,11 +30,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01/helloBootstrap/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+            <state relative-caret-position="442">
+              <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/first/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/hello/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/helloExp/js/controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01/helloExp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/hello/js/controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -354,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/angular.min.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -365,8 +105,8 @@
       <file leaf-file-name="controller.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/controller.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="114">
+              <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -382,16 +122,22 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>name</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01/first/index.html" />
         <option value="$PROJECT_DIR$/01/hello/js/controller.js" />
-        <option value="$PROJECT_DIR$/01/hello/index.html" />
         <option value="$PROJECT_DIR$/01/helloBootstrap/index.html" />
+        <option value="$PROJECT_DIR$/01/first/index.html" />
+        <option value="$PROJECT_DIR$/01/hello/index.html" />
+        <option value="$PROJECT_DIR$/01/helloExp/index.html" />
       </list>
     </option>
   </component>
@@ -402,19 +148,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-10" />
-    <option name="width" value="1924" />
-    <option name="height" value="1030" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -431,15 +170,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
@@ -486,19 +218,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
+              <option name="myItemId" value="01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02" />
+              <option name="myItemId" value="helloExp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="contatc" />
+              <option name="myItemId" value="01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="helloExp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -533,10 +279,29 @@
               <option name="myItemId" value="01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -545,17 +310,25 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01" />
+      <recent name="$PROJECT_DIR$/01/hello" />
       <recent name="D:\WorkGitSpace\test\frontendWeb\angularJsTest\LearningWebDevelopmentwithBootstrapandAngularJS2015Test\my\02\contatc" />
       <recent name="D:\WorkGitSpace\test\frontendWeb\angularJsTest\LearningWebDevelopmentwithBootstrapandAngularJS2015Test\01" />
       <recent name="D:\WorkGitSpace\test\frontendWeb\angularJsTest\LearningWebDevelopmentwithBootstrapandAngularJS2015Test\01\first" />
-      <recent name="D:\WorkGitSpace\test\frontendWeb\angularJsTest\LearningWebDevelopmentwithBootstrapandAngularJS2015Test\01\first\js" />
-      <recent name="D:\WorkGitSpace\test\frontendWeb\angularJsTest\LearningWebDevelopmentwithBootstrapandAngularJS2015Test\01\first\css" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/01/hello/index.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/LearningWebDevelopmentwithBootstrapandAngularJS2015Test/01/helloExp/index.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -563,6 +336,12 @@
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -609,6 +388,16 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -627,6 +416,7 @@
       <workItem from="1467187003921" duration="2183000" />
       <workItem from="1467190381736" duration="727000" />
       <workItem from="1467353998351" duration="12000" />
+      <workItem from="1480380528767" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1463380479474</created>
@@ -667,29 +457,32 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6577000" />
+    <option name="totallyTimeSpent" value="7657000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-10" y="0" width="1924" height="1030" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="725" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18301435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -720,7 +513,7 @@
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -728,7 +521,33 @@
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/angular.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/helloBootstrap/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -738,7 +557,7 @@
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -746,7 +565,7 @@
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -754,7 +573,7 @@
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/angular.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -764,7 +583,7 @@
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/controller.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -772,7 +591,7 @@
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -780,49 +599,28 @@
     <entry file="file://$PROJECT_DIR$/01/hello/js/angular.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/hello/js/controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/hello/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="54" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01/first/js/angular.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/first/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01/first/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/angular.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -831,16 +629,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/js/controller.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="114">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01/helloBootstrap/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        <state relative-caret-position="442">
+          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/first/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/hello/js/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/hello/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/helloExp/js/controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/helloExp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="30" />
           <folding />
         </state>
       </provider>
