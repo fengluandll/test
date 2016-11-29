@@ -2,51 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2ff6ae8-f908-4db7-839d-3802841ca583" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/angular_min_js.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloContainerMy/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloContainerMy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloContainerMy/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloContainerMy/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloFormCtrol/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloFormCtrol/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloFormCtrol/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloFormCtrol/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloFormCtrol/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloJumboMy/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloJumboMy/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloJumboMy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloJumboMy/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloJumboMy/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeInput/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeInput/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeInput/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeInput/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeInput/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeLabel/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeLabel/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeLabel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeLabel/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloLargeLabel/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloPageHeaderMy/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloPageHeaderMy/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloPageHeaderMy/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloPageHeaderMy/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/HelloPageHeaderMy/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/helloContrl/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/helloContrl/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/helloContrl/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/helloContrl/js/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01/helloContrl/js/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/ContactSetup/assets/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/ContactSetup/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/ContactSetup/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/ContactSetup/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/my/02/contatc/index.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/my/02/contatc/css/bootstrap.css" afterPath="$PROJECT_DIR$/01/HelloContainerMy/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/my/02/contatc/js/angular.min.js" afterPath="$PROJECT_DIR$/my/02/ContactSetup/assets/js/angular.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/my/02/contatc/js/controller.js" afterPath="$PROJECT_DIR$/my/02/ContactSetup/assets/js/controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LearningWebDevelopmentwithBootstrapandAngularJS2015Test.iml" afterPath="$PROJECT_DIR$/.idea/LearningWebDevelopmentwithBootstrapandAngularJS2015Test.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LearningWebDevelopmentwithBootstrapandAngularJS2015Test.iws" />
@@ -151,8 +106,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my/02/ContactSetup/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="372">
+              <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -252,186 +207,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="origin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="origin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="origin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="origin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="origin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Chapter 01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ContactSetup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ContactSetup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="my" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ContactSetup" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LearningWebDevelopmentwithBootstrapandAngularJS2015Test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -557,7 +332,7 @@
       <workItem from="1467187003921" duration="2183000" />
       <workItem from="1467190381736" duration="727000" />
       <workItem from="1467353998351" duration="12000" />
-      <workItem from="1480380528767" duration="8129000" />
+      <workItem from="1480380528767" duration="8204000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1463380479474</created>
@@ -601,11 +376,18 @@
       <option name="project" value="LOCAL" />
       <updated>1480381904112</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change">
+      <created>1480397026031</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1480397026031</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14706000" />
+    <option name="totallyTimeSpent" value="14781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="6" />
@@ -948,8 +730,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/02/ContactSetup/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="372">
+          <caret line="34" column="6" lean-forward="true" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
           <folding />
         </state>
       </provider>
