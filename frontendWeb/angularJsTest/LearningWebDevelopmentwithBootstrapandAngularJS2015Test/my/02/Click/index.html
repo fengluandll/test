@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app>
+<html lang="en" ng-app ng-controller="AppCtrl">
 
 <head>
     <meta charset="utf-8">
@@ -11,7 +11,7 @@
     <script type="text/javascript" src="assets/js/controller.js"></script>
 </head>
 
-<body ng-controller="AppCtrl">
+<body>
 
 <nav class="navbar navbar-default" role="navigation">
     <div class="navbar-header">
@@ -38,14 +38,7 @@
 <div class="container">
     <div class="row">
         <div class="col-sm-8">
-            <div class="row">
-                <div class="col-sm-6">
-                    <p>Lorem ipsum dolor...<p>
-                </div>
-                <div class="col-sm-6">
-                    <p>Class aptent taciti...</p>
-                </div>
-            </div>
+            <button ng-click="clickHandler()">Click Me</button>
         </div>
         <div class="col-sm-4">
             sidebar

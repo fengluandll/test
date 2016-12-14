@@ -3,6 +3,6 @@
  */
 'use strict';
 
-angular.module('demo',[]).controller('AppCtrl',function ($scope) {
-    $scope.name = 'Squirrel';
-});
+function AppCtrl() {
+
+}
