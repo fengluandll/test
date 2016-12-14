@@ -1,0 +1,31 @@
+package java8_test;
+
+import java.io.*;
+
+/**
+ * Created by YunZhang on 14/9/15.
+ */
+
+class Employee implements Serializable{
+    transient int id = 1;
+    String name = "XYZ";
+    static double salary = 9999.99;
+}
+
+public class EmployeeService {
+    public static void main(String[] args) throws Exception{
+        Employee emp = new Employee();
+
+        ObjectOutputStream out = new ObjectOutputStream(new FileOutputStream("Company.txt"));
+        out.writeObject(emp);
+        out.close();
+        System.out.print(++emp.salary+ " ");
+
+        ObjectInputStream in = new ObjectInputStream(new FileInputStream("Company.txt"));
+        Employee empCopy = (Employee)in.readObject();
+        in.close();
+        System.out.println(String.join(" ",String.valueOf(empCopy.id), empCopy.name, String.valueOf(empCopy.salary)));
+
+
+    }
+}
