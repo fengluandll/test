@@ -1,0 +1,10 @@
+{
+  "name": "MasteringTypeScriptCh07_NodeApp",
+  "version": "0.0.0",
+  "description": "MasteringTypeScriptCh07_NodeApp",
+  "main": "app.js",
+  "author": {
+    "name": "nathanr",
+    "email": ""
+  }
+}

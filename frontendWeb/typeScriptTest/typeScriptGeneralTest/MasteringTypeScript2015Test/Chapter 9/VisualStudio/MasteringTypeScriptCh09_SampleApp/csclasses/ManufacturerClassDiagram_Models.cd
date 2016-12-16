@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.ManufacturerCollection">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAAAAAAAAAAAAACAAAAAAIAAAAAAAAAAAIBAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="models" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Orientation="Bottom" Position="0.1" />
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.ManufacturerModel">
+    <Position X="4" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAMAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="boards" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.BoardModel">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAACAIAAAAAAAEAAEAAAAAAAAAAABAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="sizes" />
+      <Property Name="board_types" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.BoardType">
+    <Position X="9.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.BoardSize">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQEBAAAAAABAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MasteringTypeScriptCh09_SampleApp.csclasses.IFilterProvider">
+    <Position X="0.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MasteringTypeScriptCh09_SampleApp.csclasses.IManufacturerCollection">
+    <Position X="0.75" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

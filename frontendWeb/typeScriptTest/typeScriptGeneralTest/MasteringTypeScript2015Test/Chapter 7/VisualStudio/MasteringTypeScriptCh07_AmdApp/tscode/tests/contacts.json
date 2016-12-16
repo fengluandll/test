@@ -1,0 +1,6 @@
+﻿[
+    { "Name": "Mr Test Contact", "EmailAddress": "mr_test_contact@test.com" },
+    { "Name": "Mrs Test Contact", "EmailAddress": "mrs_test_contact@test.com" },
+    { "Name": "Ms Test Contact", "EmailAddress": "ms_test_contact@test.com" },
+    { "Name": "Dr Test Contact", "EmailAddress": "dr_test_contact@test.com" }
+]

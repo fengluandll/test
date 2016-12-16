@@ -1,0 +1,17 @@
+﻿<div class="panel-heading">
+    <h4 class="panel-title">
+        <a data-toggle="collapse" 
+           data-parent="#accordion" 
+           href="#collapse_<%= filterType %>">
+            <%= filterName %>
+        </a>
+    </h4>
+</div>
+<div id="collapse_<%= filterType %>" 
+     class="panel-collapse collapse">
+    <div class="xpanel-body">
+        <ul id="ul_filter_<%= filterType %>" 
+            class="nav nav-pills nav-stacked">
+        </ul>
+    </div>
+</div>

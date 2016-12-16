@@ -1,0 +1,67 @@
+﻿<div id="content_panel_carousel_2">
+    <div class="row board_detail_top_panel">
+        <div class="col-sm-1">
+            <button id="prev_button" type="button" 
+                    class="btn btn-default btn-large btn_top_navigation">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </button>
+        </div>
+        <div class="col-sm-11"><h4>Board Detail</h4></div>
+    </div>
+    <div id="board_detail_inner_panel" 
+         class="row board_detail_inner_panel_row">
+        <div class="col-sm-12">
+            <div class="row board_detail_row">
+                <div class="col-sm-8">
+                    <div class="row">
+                        <div class="col-sm-12  board_detail_header">
+                            <%= name %>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 board_detail_sub_header">
+                            <%= description %>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <img src="/Content/images/<%= parentIcon %>" 
+                         class="jpa_logo_class" />
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-5">
+                    <img src="/Content/images/<%= image %>" 
+                         class="board_detail_image_height center-block" />
+                </div>
+                <div class="col-sm-7">
+                    <div class="row">
+                        <div class="col-sm-12 board_detail_text">
+                            <%= long_description %>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 board_detail_size_header">
+                            Available Sizes:
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 board_detail_table_panel">
+                            <table class="table table-striped">
+                                <thead>
+                                <th>Volume</th>
+                                <th>Width</th>
+                                <th>Height</th>
+                                <th>Sail Min</th>
+                                <th>Sail Max</th>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

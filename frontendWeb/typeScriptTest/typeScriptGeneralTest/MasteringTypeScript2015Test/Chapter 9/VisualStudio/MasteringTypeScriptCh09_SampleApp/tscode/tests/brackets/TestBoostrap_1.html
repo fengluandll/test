@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="stylesheet" href="/Content/bootstrap.css" />
+    <link rel="stylesheet" href="/Content/app.css" />
+    <script type="text/javascript" src="/Scripts/jquery-2.1.3.js"></script>
+    <script type="text/javascript" src="/Scripts/bootstrap.js"></script>
+</head>
+<body>
+    <nav role="navigation" class="navbar navbar-fixed-top navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/index.html">Board Sales</a>
+                <button type="button" class="navbar-toggle collapsed" 
+                        data-toggle="collapse" data-target="#navbar_collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div id="navbar_collapse" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="/index.html">Home</a></li>
+                    <li><a href="/index.html">Link</a></li>
+                    <li><a href="/index.html">Link</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <div id="page_wrapper">
+        <div id="carousel-main-container" class="carousel slide" 
+             data-ride="carousel"
+             data-interval="0">
+            <div class="carousel-inner" role="listbox">
+                <div id="carousel_panel_1" class="item active carousel-border">
+                    <div id="content_panel_left" class="content_panel_left">
+                        <div class="row filter_header">
+                            <div class="col-sm-12">
+                                <h4>Filter</h4>
+                            </div>
+                        </div>
+
+                        <div id="accordion" class="panel-group filter_accordion">
+                            <!--                       start of panel-->
+                            <div class="panel panel-default filter_panel">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">
+                                        <a data-toggle="collapse" data-parent="#accordion"
+                                           href="#collapseOne">Manufacturer</a>
+                                    </h4>
+                                </div>
+                                <div id="collapseOne" class="panel-collapse collapse">
+                                    <div class="xpanel-body">
+                                        <ul class="nav nav-pills nav-stacked">
+                                            <li role="presentation" class="active"><a>JP Australia</a></li>
+                                            <li role="presentation"><a>RRD</a></li>
+                                            <li role="presentation"><a>Starboard</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--                        end of panel-->
+                            <!--                       start of panel-->
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">
+                                        <a data-toggle="collapse" data-parent="#accordion"
+                                           href="#collapseTwo">Board Type</a>
+                                    </h4>
+                                </div>
+                                <div id="collapseTwo" class="panel-collapse collapse">
+                                    <div class="panel-body">
+                                        <ul class="nav nav-pills nav-stacked">
+                                            <li role="presentation" class="active"><a>Wave</a></li>
+                                            <li role="presentation"><a>Freestyle</a></li>
+                                            <li role="presentation"><a>Slalom</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--                        end of panel-->
+
+                        </div>
+                    </div>
+                    <div id="content_panel_main" class="content_panel_main">
+                        <div class="row boardlist_header">
+                          <div class="col-sm-1">
+                            <button type="button" class="btn btn-default btn-large btn_top_navigation 
+                                  glyphicon glyphicon-chevron-right">
+                              </button>
+                          </div>
+                          <div class="col-sm-10"><h4>Board List <small>showing boards</small></h4></div>
+                          <div class="col-sm-1">&nbsp;</div>
+                        </div>
+                        <div class="row board_row">
+                            <!--start of board summary view-->
+                            <div class="col-sm-4 board_panel">
+                                <div class="board_inner_panel">
+                                    <div class="row board_title_row">
+                                        <div class="col-sm-10">
+                                            <span class="center-block board_name">Radical Quad</span>
+                                            <span class="center-block xboard_title_row">
+                                            Radical Wave Board</span>
+                                        </div>
+                                        <div class="col-sm-2 no_padding_left">
+                                            <img src="/Content/images/starboard_logo.jpg" 
+                                                 class="jpa_logo_class" />
+                                        </div>
+                                    </div>
+                                    <div class="row board_details_row">
+                                        <div class="col-sm-7">
+                                            <img src="/Content/images/quad_c.png" 
+                                                 class="img-thumbnail thumb_img_height center-block" />
+                                        </div>
+                                        <div class="col-sm-5 ">
+                                            <div class="row">
+                                                <span>&nbsp;</span>
+                                            </div>
+                                            <div class="row">
+                                                Sizes:
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-sm-12">
+                                                    75L
+                                                </div>
+                                                <div class="col-sm-12">
+                                                    80L
+                                                </div>
+                                                <div class="col-sm-12">
+                                                    90L
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--end of board summary view-->
+                        </div>
+                    </div>
+                </div>
+                <div id="carousel_panel_2" class="item">
+                     <div class="row">
+                      <div class="col-sm-1">
+                          <button type="button" class="btn btn-default btn-large">
+                      <span class="glyphicon glyphicon-chevron-left"></span>
+                      </button>
+                      </div>
+                      <div class="col-sm-11"><h4>Board Detail</h4></div>
+                    </div>
+                    
+                    <div id="board_detail_panel" class="row">
+                        <div class="col-sm-12">
+                            <div class="row board_detail_row">
+                                <div class="col-sm-8">
+                                    <div class="row">
+                                        <div class="col-sm-12  board_detail_header">
+                                            Radical Quad
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-12 board_detail_sub_header">
+                                            Radical Quad
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-sm-4">
+                                    <img src="/Content/images/jp_australia_logo.png"
+                                         class="jpa_logo_class" />
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5">
+                                    <img src="/Content/images/hardcorewave-ltd-88-2-212x349.png"
+                                         class="center-block" />
+                                </div>
+                                <div class="col-sm-7">
+                                    <div class="row">
+                                        <div class="col-sm-12 board_detail_text">
+                                            There is no question that Twinsers and Quads have significant
+                                            advantages in side shore conditions. All well-known riders have
+                                            switched to this set-up mainly because of the unbelievable
+                                            turning of these boards.
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-12 board_detail_size_header">
+                                            Available Sizes:
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-12 board_detail_table_panel">
+                                            <table class="table table-striped">
+                                                <thead>
+                                                <th>Volume</th>
+                                                <th>Width</th>
+                                                <th>Height</th>
+                                                <th>Sail Min</th>
+                                                <th>Sail Max</th>
+                                                </thead>
+                                                <tbody>
+                                                    <tr>
+                                                        <td>120L</td>
+                                                        <td>229</td>
+                                                        <td>229</td>
+                                                        <td>4.0</td>
+                                                        <td>5.0</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+            
+            <footer class="footer footer_style">
+                <div class="container">
+                    <p class="text-muted"><small>Footer</small>
+                    <a class="" href="#carousel-main-container" 
+                       role="button" data-slide="next">
+                        next
+                    </a>
+                    <a class="" href="#carousel-main-container" 
+                       role="button" data-slide="prev">
+                        prev
+                    </a>
+                   <a class="" onclick="show_panel();" >show</a>
+                   <a class="" onclick="hide_panel();" >hide</a>
+                    </p>
+                </div>
+            </footer>
+
+    <script type="text/javascript">
+        $(document).ready(
+            function() {
+                //var panel_height = $('#main_panel_div').height();
+                var panel_height = $('#page_wrapper').height();
+                $('#carousel_panel_1').height(panel_height - 100);
+                $('#carousel_panel_2').height(panel_height - 100);
+
+            });
+            function show_panel() {
+                $('#content_panel_left').removeClass('sidebar_panel_push_to_left');
+                $('#content_panel_main').removeClass('main_panel_push_to_left');
+
+            }
+            function hide_panel() {
+                $('#content_panel_left').addClass('sidebar_panel_push_to_left');
+                $('#content_panel_main').addClass('main_panel_push_to_left');
+            }
+
+    </script>
+</body>
+</html>

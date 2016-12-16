@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.Manufacturer">
+    <Position X="0.75" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAMAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="boards" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.Board">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAACAIAAAAAAAEAAEAAAAAAAAAAABAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="board_types" />
+      <Property Name="sizes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.BoardType">
+    <Position X="7.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.BoardSize">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQEBAAAAAABAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

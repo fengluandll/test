@@ -1,0 +1,23 @@
+body {
+}
+
+.contact-name-div {
+    color: black;
+    float: left;
+    font-family: sans-serif;
+    padding: 20px
+}
+
+.email-address-div {
+    color: darkslateblue;
+    margin-left: 200px;
+    font-family: sans-serif;
+    padding: 20px
+}
+
+.contact-outer-div {
+    /*width: 400px;*/
+    background-color: #aca9a9;
+    height: 70px;
+    margin: 15px;
+}

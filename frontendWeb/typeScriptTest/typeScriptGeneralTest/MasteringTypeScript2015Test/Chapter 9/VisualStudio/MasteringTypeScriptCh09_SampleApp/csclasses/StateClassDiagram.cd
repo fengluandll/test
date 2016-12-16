@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.State">
+    <Position X="7.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.BoardListOnlyState">
+    <Position X="4.25" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.BoardListWithFilterPanelState">
+    <Position X="7.25" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.DetailPanelState">
+    <Position X="10.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.Mediator">
+    <Position X="0.5" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAAASACAAAACAAAAAEAAAAACACAAAABAAABA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_currentMainPanelState" />
+      <Field Name="_detailPanelState" />
+      <Field Name="_mainPanelState" />
+      <Field Name="_filterPanelState" />
+      <Field Name="_pageViewLayout" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MasteringTypeScriptCh09_SampleApp.csclasses.PageViewLayout">
+    <Position X="4.25" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAABAAAAg=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MasteringTypeScriptCh09_SampleApp.csclasses.IState">
+    <Position X="1.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MasteringTypeScriptCh09_SampleApp.csclasses.IMediatorFunctions">
+    <Position X="1" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAABAAAAg=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MasteringTypeScriptCh09_SampleApp.csclasses.StateType">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAACAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MasteringTypeScriptCh09_SampleApp.csclasses.PanelType">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>csclasses\DataClasses.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
