@@ -1,7 +1,17 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: YunZhang
- * Date: 19/12/16
- * Time: 4:20 PM
- */
+<html>
+
+<head>
+    <title>
+        PHP says hello
+    </title>
+</head>
+
+<body>
+    <b>
+        <?php
+            print "Hello,World"
+        ?>
+    </b>
+</body>
+
+</html>
