@@ -1,0 +1,9 @@
+We have a set of strings which contain measures of length 
+which we would like sorted numerically. 
+Provide a Java application which completes the following Java method:
+
+public List sortStringsNumerically(List input)
+
+
+Example input: [“1m”, “1.5m”, “10m”, “2m”, “2.5m”, “3m”]
+Expected output: [“1m”, “1.5m”, “2m”, “2.5m”, “3m”, “10m”]
