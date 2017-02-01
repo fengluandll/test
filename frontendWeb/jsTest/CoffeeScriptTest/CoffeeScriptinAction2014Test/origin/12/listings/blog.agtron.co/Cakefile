@@ -1,0 +1,66 @@
+
+fs = require 'fs'
+{exec, execFile} = require 'child_process'
+
+buildUtilities = require './build_utilities'  #A
+
+{
+clean,
+compile,
+copy,
+createArtifact,
+runSpecs,
+runApp
+} = buildUtilities.fromDir './'
+
+VERSION = fs.readFileSync('./VERSION', 'utf-8')   #B
+
+task 'clean', 'delete existing build', ->     #C
+  execFile "npm", ["install"], ->             #C
+    clean "compiled"                          #C
+
+task 'build', 'run the build', ->                 #D
+  clean 'compiled', ->                            #D
+    compile 'app', ->                             #D
+      copy 'content', 'compiled', ->              #D
+        createArtifact 'compiled', VERSION, ->    #D
+          console.log 'Build complete'            #D
+
+task 'test' , 'run the tests', ->             #E
+  clean 'compiled', ->                        #E
+    compile 'app', ->                         #E
+      compile 'spec', ->                      #E
+        runSpecs 'compiled', ->               #E
+          console.log 'Tests complete'        #E
+
+task "development:start", "start on development", ->              #F
+  runApp 'development'
+
+SERVER = require('./app/config').production.host
+
+deploy = ->
+  console.log "Deploy..."
+  tarOptions = ["-cvf", "artifact.#{VERSION}.tar", "compiled"]
+  execFile "tar", tarOptions, (err, data) ->
+    console.log '1. Created artifact'
+    execFile 'scp', [
+      "artifact.#{VERSION}.tar",
+      "#{SERVER}:~/."
+    ], (err, data) ->
+      console.log '2. Uploaded artifact'
+      exec """
+      ssh #{SERVER} 'cd ~/;
+      rm -rf compiled;
+      tar -xvf artifact.#{VERSION}.tar;
+      cd ~/compiled;
+      NODE_ENV=production nohup node app/server.js &' &
+      """, (err, data) ->
+        console.log '3. Started server'
+        console.log 'Done'
+
+task "production:deploy", "deploys the app to production", ->
+  clean 'compiled', ->
+    compile 'app', ->
+      copy 'content', 'compiled', ->
+        createArtifact 'compiled', VERSION, ->
+          deploy()
