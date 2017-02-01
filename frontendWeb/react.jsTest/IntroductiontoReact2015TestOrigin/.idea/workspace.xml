@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3724c92-d7b1-4029-ab73-acf056fb526e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch01/createClass/ap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/ch01/createClass/createClass.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/BeginningJavaEE7E12013TestOrigin/.idea/modules.xml" afterPath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/BeginningJavaEE7E12013TestOrigin/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/Diamond.java" afterPath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/Diamond.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/Nio.java" afterPath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/Nio.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/StringCase.java" afterPath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/StringCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/TryFinal.java" afterPath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/TryFinal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/TryResource.java" afterPath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/chapter01/src/TryResource.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/in1.txt" afterPath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/in1.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/source.txt" afterPath="$PROJECT_DIR$/../../../javaEETest/BeginningJavaEE7E12013TestOrigin/agoncal-book-javaee7-master/source.txt" />
     </list>
     <ignored path="IntroductiontoReact2015TestOrigin.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -282,7 +287,7 @@
       <workItem from="1480403045841" duration="549000" />
       <workItem from="1480403674329" duration="413000" />
       <workItem from="1485405472420" duration="14000" />
-      <workItem from="1485405490771" duration="1518000" />
+      <workItem from="1485405490771" duration="1982000" />
     </task>
     <task id="LOCAL-00001" summary="IC">
       <created>1457903079640</created>
@@ -309,10 +314,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2494000" />
+    <option name="totallyTimeSpent" value="2958000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="725" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="725" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24781573" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />

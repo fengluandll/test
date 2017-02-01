@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter01/chapter01.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter01/chapter01.iml" />
       <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02.iml" />
       <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02-putting-together/chapter02-putting-together.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02-putting-together/chapter02-putting-together.iml" />
       <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02-samples/chapter02-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02-samples/chapter02-samples.iml" />
