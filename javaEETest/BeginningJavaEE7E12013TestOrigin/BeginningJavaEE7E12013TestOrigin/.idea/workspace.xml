@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4f30a1c-d785-4b26-a5ce-899d1ab7a3db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter01/src/Diamond.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter01/src/Nio.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter01/src/StringCase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter01/src/TryFinal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter01/src/TryResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../agoncal-book-javaee7-master/in.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../agoncal-book-javaee7-master/in1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../agoncal-book-javaee7-master/source.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/LearningAngularJS2015Test/my/ch01/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/LearningAngularJS2015Test/my/ch01/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/LearningAngularJS2015Test/my/lib/angular-cookies.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/LearningAngularJS2015Test/my/lib/angular-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/LearningAngularJS2015Test/my/lib/angular-route.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../frontendWeb/angularJsTest/LearningAngularJS2015Test/my/lib/angular.min.js" />
     </list>
     <ignored path="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter15/chapter15-service/target/" />
     <ignored path="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter09/chapter09-samples/target/" />
@@ -133,8 +130,8 @@
       <file leaf-file-name="Nio.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter01/src/Nio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="30" selection-end-column="29" />
+            <state relative-caret-position="191">
+              <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -798,7 +795,7 @@
       <option name="presentableId" value="Default" />
       <updated>1485909449000</updated>
       <workItem from="1485909453008" duration="1946000" />
-      <workItem from="1485914776092" duration="3582000" />
+      <workItem from="1485914776092" duration="3843000" />
     </task>
     <task id="LOCAL-00001" summary="ic">
       <created>1485910888711</created>
@@ -818,7 +815,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5528000" />
+    <option name="totallyTimeSpent" value="5789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="6" />
@@ -848,7 +845,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.4806139" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.60339254" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.60339254" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1097,8 +1094,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter01/src/Nio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="30" selection-end-column="29" />
+        <state relative-caret-position="191">
+          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
