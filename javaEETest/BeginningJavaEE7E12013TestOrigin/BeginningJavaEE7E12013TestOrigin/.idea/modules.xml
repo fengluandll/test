@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02-putting-together/chapter02-putting-together.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02-putting-together/chapter02-putting-together.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02-samples/chapter02-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter02/chapter02-samples/chapter02-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter03/chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter03/chapter03-putting-together/chapter03-putting-together.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter03/chapter03-putting-together/chapter03-putting-together.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter03/chapter03-samples/chapter03-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter03/chapter03-samples/chapter03-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter04/chapter04.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter04/chapter04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter04/chapter04-putting-together/chapter04-putting-together.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter04/chapter04-putting-together/chapter04-putting-together.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter05/chapter05.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter05/chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter05/chapter05-samples/chapter05-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter05/chapter05-samples/chapter05-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter06/chapter06.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter06/chapter06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter06/chapter06-samples/chapter06-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter06/chapter06-samples/chapter06-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter07/chapter07.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter07/chapter07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter07/chapter07-samples/chapter07-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter07/chapter07-samples/chapter07-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter08/chapter08.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter08/chapter08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter08/chapter08-consumer/chapter08-consumer.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter08/chapter08-consumer/chapter08-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter08/chapter08-samples/chapter08-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter08/chapter08-samples/chapter08-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter08/chapter08-service/chapter08-service.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter08/chapter08-service/chapter08-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter09/chapter09.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter09/chapter09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter09/chapter09-samples/chapter09-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter09/chapter09-samples/chapter09-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter10/chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter10/chapter10-samples/chapter10-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter10/chapter10-samples/chapter10-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter11/chapter11.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter11/chapter11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter11/chapter11-putting-together/chapter11-putting-together.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter11/chapter11-putting-together/chapter11-putting-together.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter11/chapter11-samples/chapter11-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter11/chapter11-samples/chapter11-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter12/chapter12.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter12/chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter12/chapter12-putting-together/chapter12-putting-together.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter12/chapter12-putting-together/chapter12-putting-together.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter12/chapter12-samples/chapter12-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter12/chapter12-samples/chapter12-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter13/chapter13.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter13/chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter13/chapter13-samples/chapter13-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter13/chapter13-samples/chapter13-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter13/chapter13-se/chapter13-se.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter13/chapter13-se/chapter13-se.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14-consumer/chapter14-consumer.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14-consumer/chapter14-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14-ejb/chapter14-ejb.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14-ejb/chapter14-ejb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14-service/chapter14-service.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14-service/chapter14-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14-wsdl/chapter14-wsdl.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter14/chapter14-wsdl/chapter14-wsdl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter15/chapter15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter15/chapter15-consumer/chapter15-consumer.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter15/chapter15-consumer/chapter15-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter15/chapter15-samples/chapter15-samples.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter15/chapter15-samples/chapter15-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter15/chapter15-service/chapter15-service.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/chapter15/chapter15-service/chapter15-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../agoncal-book-javaee7-master/parent.iml" filepath="$PROJECT_DIR$/../agoncal-book-javaee7-master/parent.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter02-putting-together" />
+        <module name="chapter02-samples" />
+        <module name="chapter03-putting-together" />
+        <module name="chapter03-samples" />
+        <module name="chapter04-putting-together" />
+        <module name="chapter05-samples" />
+        <module name="chapter06-samples" />
+        <module name="chapter07-samples" />
+        <module name="chapter08-consumer" />
+        <module name="chapter08-samples" />
+        <module name="chapter08-service" />
+        <module name="chapter09-samples" />
+        <module name="chapter10-samples" />
+        <module name="chapter11-putting-together" />
+        <module name="chapter11-samples" />
+        <module name="chapter12-putting-together" />
+        <module name="chapter12-samples" />
+        <module name="chapter13-samples" />
+        <module name="chapter13-se" />
+        <module name="chapter14-consumer" />
+        <module name="chapter14-ejb" />
+        <module name="chapter14-service" />
+        <module name="chapter14-wsdl" />
+        <module name="chapter15-consumer" />
+        <module name="chapter15-samples" />
+        <module name="chapter15-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter02" target="1.5" />
+      <module name="chapter02-putting-together" target="1.7" />
+      <module name="chapter02-samples" target="1.7" />
+      <module name="chapter03" target="1.5" />
+      <module name="chapter03-putting-together" target="1.7" />
+      <module name="chapter03-samples" target="1.7" />
+      <module name="chapter04" target="1.5" />
+      <module name="chapter04-putting-together" target="1.7" />
+      <module name="chapter05" target="1.5" />
+      <module name="chapter05-samples" target="1.7" />
+      <module name="chapter06" target="1.5" />
+      <module name="chapter06-samples" target="1.7" />
+      <module name="chapter07" target="1.5" />
+      <module name="chapter07-samples" target="1.7" />
+      <module name="chapter08" target="1.5" />
+      <module name="chapter08-consumer" target="1.7" />
+      <module name="chapter08-samples" target="1.7" />
+      <module name="chapter08-service" target="1.7" />
+      <module name="chapter09" target="1.5" />
+      <module name="chapter09-samples" target="1.7" />
+      <module name="chapter10" target="1.5" />
+      <module name="chapter10-samples" target="1.7" />
+      <module name="chapter11" target="1.5" />
+      <module name="chapter11-putting-together" target="1.7" />
+      <module name="chapter11-samples" target="1.7" />
+      <module name="chapter12" target="1.5" />
+      <module name="chapter12-putting-together" target="1.7" />
+      <module name="chapter12-samples" target="1.7" />
+      <module name="chapter13" target="1.5" />
+      <module name="chapter13-samples" target="1.7" />
+      <module name="chapter13-se" target="1.7" />
+      <module name="chapter14" target="1.5" />
+      <module name="chapter14-consumer" target="1.7" />
+      <module name="chapter14-ejb" target="1.7" />
+      <module name="chapter14-service" target="1.7" />
+      <module name="chapter14-wsdl" target="1.7" />
+      <module name="chapter15" target="1.5" />
+      <module name="chapter15-consumer" target="1.7" />
+      <module name="chapter15-samples" target="1.7" />
+      <module name="chapter15-service" target="1.7" />
+      <module name="parent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
