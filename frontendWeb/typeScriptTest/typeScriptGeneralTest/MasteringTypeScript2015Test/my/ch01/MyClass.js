@@ -1,3 +1,8 @@
-/**
- * Created by YunZhang on 3/2/17.
- */
+class MyClass{
+    add(x,y){
+        return x + y;
+    }
+}
+
+var classInstance = new MyClass();
+console.log(classInstance.add(1, 2));

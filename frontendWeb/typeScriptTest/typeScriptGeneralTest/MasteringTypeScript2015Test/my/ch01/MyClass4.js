@@ -4,12 +4,12 @@ var MyClass = (function () {
     }
     MyClass.prototype.countUp = function () {
         this._count++;
-    }
-    MyClass.prototype.getCountUp = function () {
+    };
+    MyClass.prototype.getCount = function () {
         return this._count;
-    }
+    };
     return MyClass;
 }());
-var test = new MyClass();
-test._count = 17;
-console.log("countUp : " + test.getCountUp());
+var classInstance = new MyClass();
+//console.log(classInstance._count);
+console.log(classInstance.getCount());
