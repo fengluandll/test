@@ -3,7 +3,7 @@
  */
 public class FloatBin {
     public static void main(String[] args) {
-        double x = 0x1.0p-3;
+        double x = 0xf.0p-3;
         System.out.println(x); //=>0.125
     }
 }
