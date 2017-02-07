@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch09_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ch09_main.iml" group="ch09" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch09_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ch09_test.iml" group="ch09" />
       <module fileurl="file://$PROJECT_DIR$/coreJavaE10V1My.iml" filepath="$PROJECT_DIR$/coreJavaE10V1My.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v2ch02/v2ch02.iml" filepath="$PROJECT_DIR$/v2ch02/v2ch02.iml" />
     </modules>
   </component>
 </project>
