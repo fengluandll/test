@@ -4,24 +4,45 @@
  * @flow
  */
 
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import {
-    AppRegistry,
-    StyleSheet,
-    Text,
-    View
+  AppRegistry,
+  StyleSheet,
+  Text,
+  View
 } from 'react-native';
 
 export default class HelloWorld extends Component {
-    render() {
-        console.log('debug from chrome');
-        return (
-            <View style={{ backgroundColor: 'blue', flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-                <Text style={{ color: '#fff', fontSize: 22 }}>Hello World</Text>
-            </View>
-        );
-    }
+  render() {
+    return (
+      <View style={{
+      backgroundColor: 'blue',
+      flex: 1,
+      justifyContent: 'center',
+      alignItems: 'center'
+  }}>
+        <Text style={{
+    fontSize: 40,
+      color:'#fff'
+  }}>
+          Hello, bear
+        </Text>
+      </View>
+    );
+  }
 }
 
+const styles = StyleSheet.create({
+  container: {
+      backgroundColor: 'blue',
+      flex: 1,
+      justifyContent: 'center',
+      alignItems: 'center'
+  },
+  welcome: {
+    fontSize: 40,
+      color:'#fff'
+  },
+});
 
 AppRegistry.registerComponent('HelloWorld', () => HelloWorld);
