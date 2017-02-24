@@ -5,16 +5,18 @@
  */
 
 import React, { Component } from 'react';
+//noinspection JSUnresolvedVariable
 import {
     AppRegistry,
     StyleSheet,
     Text,
-    View
+    View,
+    TouchableHighlight
 } from 'react-native';
 
-export default class HelloWorld extends Component {
+export default class demoComponent extends Component {
     render() {
-      <DemoComponent/>
+      return <DemoComponent/>
     }
 }
 
@@ -48,4 +50,4 @@ const btnPrimary = {
     borderColor:'#5ca941'
 }
 
-AppRegistry.registerComponent('HelloWorld', () => HelloWorld);
+AppRegistry.registerComponent('demoComponent', () => demoComponent);
