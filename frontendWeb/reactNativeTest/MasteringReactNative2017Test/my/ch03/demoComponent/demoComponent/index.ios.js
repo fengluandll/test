@@ -42,7 +42,7 @@ const btn ={
     borderRadius: 3,
     padding: 3,
     paddingLeft: 5,
-    PaddingRight: 5
+    paddingRight: 5
 };
 
 const btnPrimary = {
