@@ -2,6 +2,7 @@ class Dispatcher{
 
     constructor() {
         this.isDispatching = false;
+        this.actionHanlers = [];
     }
 
     dispatch(action){
@@ -9,8 +10,12 @@ class Dispatcher{
             throw new Error('Cannot dispatch in the middle of a dispatch');
         }
         this.isDispatching = true;
-        //TODO: TO STORE
+        this.actionHanlers.forEach(handler => handler(action));
         this.isDispatching = false;
+    }
+
+    register(actionHandler){
+        this.actionHanlers.push(actionHandler);
     }
 }
 
