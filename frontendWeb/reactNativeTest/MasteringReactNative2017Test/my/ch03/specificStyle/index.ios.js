@@ -21,7 +21,7 @@ export default class specificStyle extends Component {
                     <Text>Default Normal</Text>
                 </TouchableHighlight>
                 <TouchableHighlight style={[buttonStyles.core,buttonStyles.hairlineBorder,
-                buttonStyles.spacer]} underlayColor='#efefef' activeOpacity={0.8}>
+                buttonStyles.spacer]} underlayColor='#efefef' activeOpacity={0.8} onPress={()=>{}}>
                     <Text>Default Hairline</Text>
                 </TouchableHighlight>
                 <TouchableHighlight style={[buttonStyles.core,buttonStyles.primary,
