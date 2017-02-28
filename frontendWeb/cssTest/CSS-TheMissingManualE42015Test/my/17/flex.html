@@ -2,23 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
-
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
-          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <title></title>
     <style>
+        .container{
+            display: -webkit-flex;
+            display: flex;
+            flex-flow: row-reverse nowrap;
+        }
 
+        .container div{
+            flex: 1;
+            border-style: dotted;
+            border-width: 2px;
+        }
+
+        .container div:nth-of-type(1n+2){
+            //margin-left: 20px;
+        }
     </style>
 </head>
 <body>
-$END$
-<script src="https://code.jquery.com/jquery-1.12.2.js" integrity="sha256-VUCyr0ZXB5VhBibo2DkTVhdspjmxUgxDGaLQx7qb7xY="
-        crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"
-        integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
-        crossorigin="anonymous"></script>
-<script>
 
-</script>
+<div class="container">
+    <div>a flex item</div>
+    <div>another flex item</div>
+    <div>a third flex item</div>
+</div>
+
 </body>
 </html>
