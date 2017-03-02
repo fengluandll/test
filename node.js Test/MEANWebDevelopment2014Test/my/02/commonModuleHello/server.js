@@ -3,4 +3,5 @@
  */
 
 var hello = require('./hello');
-hello.sayHello();
+// hello.sayHello();
+hello();

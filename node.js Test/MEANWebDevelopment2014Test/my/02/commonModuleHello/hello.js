@@ -3,6 +3,10 @@
  */
 var message = 'Hello';
 
-exports.sayHello = function () {
+// exports.sayHello = function sayHello() {
+//     console.log(message);
+// }
+
+module.exports = function () {
     console.log(message);
 }
