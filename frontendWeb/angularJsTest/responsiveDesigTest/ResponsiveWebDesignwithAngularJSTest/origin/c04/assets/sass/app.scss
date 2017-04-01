@@ -1,0 +1,82 @@
+@import "icon-font";
+@import "responsive-paragraph";
+@import "responsive-header";
+@import "responsive-list";
+@import "responsive-text";
+body {
+  background: #eee;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  overflow-x:hidden;
+  .my-profile-container {
+    background: white;
+    width: 90%;
+    margin: auto;
+    box-shadow: 2px 2px 2px 2px lightgrey;
+    .row {
+      .pic {
+        text-align: center;
+        padding: 0 0 20px;
+        .profile-image {
+          border-radius: 100%;
+          -o-border-radius: 100%;
+        }
+      }
+      .about {
+        display: flex;
+        .btn {
+          border: 0 none;
+          color: green;
+          height: 60px;
+          width: 50%;
+          margin: 5px 0px;
+          font-weight: 100;
+          font-size: 16px;
+          cursor: pointer;
+          &:hover {
+            background: green;
+            color: #eee;
+          }
+          &.selected {
+            background: green;
+            color: #eee;
+            cursor: text;
+          }
+
+        }
+      }
+      .display {
+        height: 100%;
+        padding: 0px 10px;
+        .detailProfessional, .detailPersonal {
+          .section {
+            display: flex;
+            .divider {
+              width: 50%;
+              &:first-child{
+                margin-right:10px;
+              }
+              h4 {
+                font-weight: 300;
+                color: green;
+                margin:0px;
+              }
+            }
+          }
+          position: relative;
+          padding: 2px;
+        }
+      }
+      .footer {
+        background: #eee;
+        text-align: center;
+        a {
+          color: green;
+          text-decoration: none;
+          font-weight: 300%;
+        }
+      }
+    }
+  }
+}
