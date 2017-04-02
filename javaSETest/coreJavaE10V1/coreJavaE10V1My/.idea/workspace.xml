@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6be5b5-02c9-4e9f-846f-f68c9e777469" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v2ch01/src/CreatingStreams.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coreJavaE10V1My.iws" />
@@ -131,8 +130,8 @@
       <file leaf-file-name="CreatingStreams.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/v2ch01/src/CreatingStreams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="70">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1609,7 +1608,7 @@
       <workItem from="1486264347836" duration="10068000" />
       <workItem from="1486545045596" duration="477000" />
       <workItem from="1491131620393" duration="14000" />
-      <workItem from="1491131701674" duration="4051000" />
+      <workItem from="1491131701674" duration="4120000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473835805962</created>
@@ -1716,11 +1715,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491133113205</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="change">
+      <created>1491136325962</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1491136325962</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75050000" />
+    <option name="totallyTimeSpent" value="75119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2078,8 +2084,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v2ch01/src/CreatingStreams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="70">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
