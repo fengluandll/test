@@ -16730,7 +16730,7 @@ function $FilterProvider($provide) {
          });
        };
 
-       it('should search across all fields when filtering with a string', function() {
+       it(search, function() {
          var searchText = element(by.model('searchText'));
          searchText.clear();
          searchText.sendKeys('m');
@@ -16741,7 +16741,7 @@ function $FilterProvider($provide) {
          expectFriendNames(['John', 'Julie'], 'friend');
        });
 
-       it('should search in specific fields when filtering with a predicate object', function() {
+       it(search, function() {
          var searchAny = element(by.model('search.$'));
          searchAny.clear();
          searchAny.sendKeys('i');
