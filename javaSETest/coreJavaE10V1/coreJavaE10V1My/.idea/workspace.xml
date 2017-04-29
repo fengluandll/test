@@ -5,7 +5,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/ch08.iml" afterPath="$PROJECT_DIR$/.idea/modules/ch08.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="coreJavaE10V1My.iws" />
@@ -1512,7 +1511,7 @@
       <workItem from="1491131620393" duration="14000" />
       <workItem from="1491131701674" duration="4140000" />
       <workItem from="1491165529086" duration="6072000" />
-      <workItem from="1493158354372" duration="4809000" />
+      <workItem from="1493158354372" duration="4882000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473835805962</created>
@@ -1647,11 +1646,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493162661967</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="change">
+      <created>1493338847939</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1493338847939</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86020000" />
+    <option name="totallyTimeSpent" value="86093000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
