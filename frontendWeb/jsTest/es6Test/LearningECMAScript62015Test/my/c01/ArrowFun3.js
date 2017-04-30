@@ -7,6 +7,7 @@ var object = {
         f2();
         setTimeout(f2,1000);
     }
+
 };
 
 object.f1();
