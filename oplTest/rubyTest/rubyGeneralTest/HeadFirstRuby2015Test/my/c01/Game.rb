@@ -6,4 +6,6 @@ print "What's your name?"
 
 input = gets
 
-puts "Welcome, #{input}"
+puts "Welcome, #{input}!"
+
+p input
