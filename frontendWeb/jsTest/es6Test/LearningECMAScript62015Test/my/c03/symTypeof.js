@@ -1,3 +1,3 @@
-/**
- * Created by YunZhang on 29/7/17.
- */
+let s = Symbol();
+
+console.log(typeof s);

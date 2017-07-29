@@ -1,0 +1,29 @@
+.presentation{
+    margin-top: 30px;
+    background: #feca5c;
+}
+
+.highlight-col{
+    text-align: center;
+    padding: 0 40px;
+}
+.highlight-icon{
+    background: lightgray;
+    width: 140px;
+    height: 140px;
+    font-size: 60px;
+    border-radius: 50%;
+    padding-top: 35px;
+}
+.feature-divider{
+    margin: 50px 0;
+}
+
+.copy{
+    background: #f8f8f8;
+    padding: 20px 0;
+}
+
+#features .feature{
+    font-size: 1.2em;
+}
