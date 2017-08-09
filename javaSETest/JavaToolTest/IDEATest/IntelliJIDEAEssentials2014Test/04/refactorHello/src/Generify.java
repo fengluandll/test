@@ -1,14 +1,17 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Generify {
-    private List strList = new ArrayList();
+public class Generify extends A {
+    private List<String> strList = new ArrayList<>();
 
     public Generify() {
         strList.add("abc");
+        if (strList != null) {
+
+        }
     }
 
-    public String getString(){
-        return (String) strList.get(0);
+    public String getString() {
+        return strList.get(0);
     }
 }
