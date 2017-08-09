@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/InlineRefactor/InlineRefactor.iml" filepath="$PROJECT_DIR$/InlineRefactor/InlineRefactor.iml" />
       <module fileurl="file://$PROJECT_DIR$/MethodObject/MethodObject.iml" filepath="$PROJECT_DIR$/MethodObject/MethodObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/refactorHello.iml" filepath="$PROJECT_DIR$/refactorHello.iml" />
     </modules>
