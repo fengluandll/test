@@ -1,0 +1,9 @@
+{
+  "name": "npmHello",
+  "version": "0.0.1",
+  "dependencies": {
+    "request": "*",
+    "nano": "3.3.x",
+    "async": "~0.2"
+  }
+}
