@@ -4,7 +4,7 @@ import './App.css';
 
 var RecentChangesTable = React.createClass({
     render: function () {
-        return (<table>
+        return (<table className="recentChangeTable">
             {this.props.children}
         </table>);
     }
