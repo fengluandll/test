@@ -16,5 +16,7 @@ var data = [
 
 var headings = ['When', 'Who', 'Description'];
 
-ReactDOM.render(<App headings={headings} changeSets={data}/>, document.getElementById('root'));
+var props = {headings: headings, changeSets: data};
+
+ReactDOM.render(<App {...props} headings={['Updated at ', 'Author', 'Change']} />, document.getElementById('root'));
 registerServiceWorker();
