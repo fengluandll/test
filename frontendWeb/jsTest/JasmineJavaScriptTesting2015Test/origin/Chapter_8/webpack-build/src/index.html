@@ -1,0 +1,11 @@
+<html>
+<head>
+  <title>jasmine-testing-example Demo</title>
+</head>
+<body>
+  <div id="application-container"></div>
+  {% for (var chunk in o.htmlWebpackPlugin.assets) { %}
+    <script src="{%=o.htmlWebpackPlugin.assets[chunk]%}"></script>
+  {% } %}
+</body>
+</html>

@@ -1,0 +1,24 @@
+import $ from 'jquery';
+
+
+function Stock (parameters) {
+  var params = parameters || {};
+  this.symbol = params.symbol;
+  this.sharePrice = params.sharePrice;
+}
+
+
+Stock.prototype.fetch = function(parameters) {
+  var that = this;
+  var params = parameters || {};
+  var success = params.success || function () {};
+  var url = 'http://localhost:8000/stocks/'+that.symbol;
+
+  $.getJSON(url, function (data) {
+    that.sharePrice = data.sharePrice;
+    success(that);
+  });
+};
+
+
+export default Stock;

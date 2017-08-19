@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather+Sans);
+
+body {
+  background: #2c3e50;
+  color: white;
+  font-family: 'Merriweather Sans', sans-serif;
+  padding: 1em;
+}
+
+a {
+  color: #e67e22;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

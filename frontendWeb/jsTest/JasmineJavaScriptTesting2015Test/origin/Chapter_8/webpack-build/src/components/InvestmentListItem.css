@@ -1,0 +1,41 @@
+.investment-list-item {
+  float: left;
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+  width: 10em;
+  list-style: none;
+}
+
+.investment-list-item .investment {
+  display: block;
+  overflow: hidden;
+}
+
+.investment-list-item h1 {
+  margin: 0.5em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.investment-list-item .roi {
+  text-align: center;
+  display: block;
+  margin: 1em;
+}
+
+.investment-list-item button {
+  width: 100%;
+  border: none;
+  background: black;
+  color: white;
+  padding: 1em 0;
+  cursor: pointer;
+}
+
+.investment-list-item .good-investment {
+  background: #27ae60;
+}
+
+.investment-list-item .bad-investment {
+  background: #e74c3c;
+}

@@ -1,0 +1,5 @@
+/*@import 'normalize.css';*/
+@import './components/InvestmentListItem.css';
+@import './components/InvestmentList.css';
+@import './components/NewInvestment.css';
+@import './Application.css';

@@ -1,0 +1,12 @@
+{
+  "name": "investment-tracker",
+  "description": "Jasmine Testing Example Application",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  }
+}
