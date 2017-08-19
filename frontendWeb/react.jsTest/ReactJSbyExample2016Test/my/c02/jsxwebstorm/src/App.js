@@ -12,7 +12,9 @@ var RecentChangesTable = React.createClass({
 
 RecentChangesTable.Heading = React.createClass({
     render: function () {
-        return ( <th>{this.props.heading}</th> )
+        var headingStyle = {backgroundColor: 'FloralWhite',
+                            fontSize: '19px'};
+        return ( <th style={headingStyle}>{this.props.heading}</th> )
     }
 });
 
@@ -30,7 +32,8 @@ RecentChangesTable.Headings = React.createClass({
 
 RecentChangesTable.Row = React.createClass({
     render: function () {
-        return (<tr>
+        var trStyle= {backgroundColor: 'aliceblue'};
+        return (<tr style={trStyle}>
             <td>
                 {this.props.changeSet.when}
             </td>
