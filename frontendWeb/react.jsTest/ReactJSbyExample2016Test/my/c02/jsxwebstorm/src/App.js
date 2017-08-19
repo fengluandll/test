@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -20,8 +20,8 @@ RecentChangesTable.Heading = React.createClass({
 
 RecentChangesTable.Headings = React.createClass({
     render: function () {
-        var headings = this.props.headings.map(function (heading) {
-            return <RecentChangesTable.Heading heading={heading}/>
+        var headings = this.props.headings.map(function (heading,index) {
+            return <RecentChangesTable.Heading key={index} heading={heading}/>
         });
         return (<thead>
         <tr>{headings}</tr>
@@ -45,10 +45,30 @@ RecentChangesTable.Row = React.createClass({
 
 RecentChangesTable.Rows = React.createClass({
     render: function () {
-        var rows = this.props.changeSets.map(function (changeSet) {
-            return (<RecentChangesTable.Row changeSet={changeSet}/>);
+        var rows = this.props.changeSets.map(function (changeSet,index) {
+            return (<RecentChangesTable.Row changeSet={changeSet} key={index}/>);
         });
         return (<tbody>{rows}</tbody>);
+    }
+});
+
+RecentChangesTable.AmpDiv = React.createClass({
+    render: function () {
+        // return <div>Mike &amp; Shawn</div>
+
+        // var first = "Mike";
+        // var second = "Shawn";
+        // return <div>{first + '&amp;' + second}</div>;
+
+        var first = "Mike";
+        var second = "Shawn";
+        return <div>{[first, <span>&amp;</span>,second]}</div>
+    }
+});
+
+RecentChangesTable.InnerHtml = React.createClass({
+    render: function () {
+        return (<div dangerouslySetInnerHTML={{__html:'Mike &amp; Shawn'}}/>);
     }
 });
 
@@ -61,6 +81,8 @@ var App = React.createClass(
             return (<RecentChangesTable>
                 <RecentChangesTable.Headings headings={this.props.headings}/>
                 <RecentChangesTable.Rows changeSets={this.props.changeSets}/>
+                {/*<RecentChangesTable.AmpDiv/>*/}
+                {/*<RecentChangesTable.InnerHtml/>*/}
             </RecentChangesTable>);
         }
     }
