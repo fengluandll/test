@@ -13,10 +13,8 @@ let greeter = new Greeter('world');
 console.log(greeter.greet());;
 
 class EmailGreeter extends Greeter{
-    private email:string;
 
-
-    constructor(message: string, email: string) {
+    constructor(message: string, private email: string) {
         super(message);
         this.email = email;
     }

@@ -25,6 +25,7 @@ var EmailGreeter = (function (_super) {
     function EmailGreeter(message, email) {
         var _this = _super.call(this, message) || this;
         _this.email = email;
+        _this.email = email;
         return _this;
     }
     EmailGreeter.prototype.mailTo = function () {
