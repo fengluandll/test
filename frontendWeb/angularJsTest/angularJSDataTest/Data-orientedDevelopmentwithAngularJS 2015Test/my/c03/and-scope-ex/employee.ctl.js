@@ -7,3 +7,4 @@ app.controller('EmployeeCtrl',['$scope',
         }
     }
 ]);
+
