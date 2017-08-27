@@ -1,7 +1,7 @@
 'use strict';
 
 var app = angular.module('atScopeApp', [
-    'ngRoute'
+  'ngRoute'
 ]);
 
 app.config(function ($routeProvider) {
