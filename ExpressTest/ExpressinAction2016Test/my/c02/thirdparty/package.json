@@ -1,5 +1,6 @@
 {
   "name": "my-fun-project",
+  "private": true,
   "version": "0.2.0",
   "description": "lazy",
   "main": "index.js",
