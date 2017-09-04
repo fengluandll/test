@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c62cc5f-e85d-4890-922f-495cdedbb74f" name="Default" comment="" />
+    <list default="true" id="8c62cc5f-e85d-4890-922f-495cdedbb74f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/routing-test/public/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/static-test/public/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/ejs-hello/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/ejs-hello/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/ejs-hello/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/ejs-hello/views/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/guestbook/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/guestbook/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/guestbook/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/guestbook/views/404.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/guestbook/views/footer.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/guestbook/views/header.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/guestbook/views/index.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/guestbook/views/new-entry.ejs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/routing-test/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/routing-test/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/routing-test/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/routing-test/route-example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/static-test/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/static-test/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/static-test/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/c02/Str6Test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/c02/String32Bit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/c02/codePointLength.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/c02/strCodePoint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/c04/computedProp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/c04/createPerson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/c04/person.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/alice30.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/v2ch02/src/CreatingStreams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/v2ch02/src/OptionalTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/v2ch02/src/RegexTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/middleware-changed/app.js" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/middleware-changed/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/middleware-changed/package-lock.json" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/middleware-changed/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/middleware-changed/package.json" afterPath="$PROJECT_DIR$/../../../../ExpressTest/ExpressinAction2016Test/my/c03/middleware-changed/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/modules/ch08.iml" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/modules/ch08.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/v2ch01/src/CountLongWords.java" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/v2ch01/src/CountLongWords.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,27 +56,98 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ButtonClick.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/ButtonClick.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            <state relative-caret-position="54">
+              <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ButtonClick.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ButtonClick.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/ButtonClick.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            <state relative-caret-position="126">
+              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Str6Test.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/c02/Str6Test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="strCodePoint.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/c02/strCodePoint.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String32Bit.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/c02/String32Bit.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codePointLength.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/c02/codePointLength.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="createPerson.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/c04/createPerson.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="person.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/c04/person.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="computedProp.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/c04/computedProp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -43,16 +158,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/my/ButtonClick.js" />
         <option value="$PROJECT_DIR$/my/ButtonClick.html" />
+        <option value="$PROJECT_DIR$/my/c02/Str6Test.js" />
+        <option value="$PROJECT_DIR$/my/c02/strCodePoint.js" />
+        <option value="$PROJECT_DIR$/my/c02/String32Bit.js" />
+        <option value="$PROJECT_DIR$/my/c02/codePointLength.js" />
+        <option value="$PROJECT_DIR$/my/c04/createPerson.js" />
+        <option value="$PROJECT_DIR$/my/c04/person.js" />
+        <option value="$PROJECT_DIR$/my/c04/computedProp.js" />
       </list>
     </option>
   </component>
@@ -73,6 +198,9 @@
     <option name="width" value="1280" />
     <option name="height" value="725" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -88,6 +216,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -104,9 +233,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnderstandingECMAScript62016Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnderstandingECMAScript62016Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="c04" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnderstandingECMAScript62016Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UnderstandingECMAScript62016Test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="c02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -120,12 +284,47 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.computedProp.js">
+    <configuration default="false" name="String32Bit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="String32Bit.js" working-dir="$PROJECT_DIR$/my/c02">
+      <method />
+    </configuration>
+    <configuration default="false" name="codePointLength.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="codePointLength.js" working-dir="$PROJECT_DIR$/my/c02">
+      <method />
+    </configuration>
+    <configuration default="false" name="createPerson.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="createPerson.js" working-dir="$PROJECT_DIR$/my/c04">
+      <method />
+    </configuration>
+    <configuration default="false" name="person.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="person.js" working-dir="$PROJECT_DIR$/my/c04">
+      <method />
+    </configuration>
+    <configuration default="false" name="computedProp.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="computedProp.js" working-dir="$PROJECT_DIR$/my/c04">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -153,6 +352,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -175,6 +380,22 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.String32Bit.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.codePointLength.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.createPerson.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.person.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.computedProp.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.computedProp.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.person.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.createPerson.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.codePointLength.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.String32Bit.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -187,31 +408,41 @@
       <option name="presentableId" value="Default" />
       <updated>1488241542412</updated>
       <workItem from="1488241544217" duration="925000" />
+      <workItem from="1504522519995" duration="3455000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="925000" />
+    <option name="totallyTimeSpent" value="4380000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="725" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.49722" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328594" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328594" sideWeight="0.49722" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -228,16 +459,88 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/my/ButtonClick.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        <state relative-caret-position="54">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my/ButtonClick.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="162">
           <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ButtonClick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/ButtonClick.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/c02/Str6Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/c02/strCodePoint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/c02/String32Bit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/c02/codePointLength.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/c04/createPerson.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/c04/person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/c04/computedProp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
