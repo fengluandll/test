@@ -18,6 +18,8 @@ public enum Size {
     public static void main(String[] args) {
 //        System.out.println(Size.SMALL);
 
+        System.out.println("Small to String: " + Size.SMALL.toString());
+
         Size s = Enum.valueOf(Size.class,"SMALL");
         System.out.println(s == Size.SMALL);
 
