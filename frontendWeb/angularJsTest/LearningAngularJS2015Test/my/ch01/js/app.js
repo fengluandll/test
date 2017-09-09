@@ -9,7 +9,7 @@ helloWorldApp.config(['$routeProvider', '$locationProvider',
     function($routeProvider, $locationProvider) {
         $routeProvider.
         when('/', {
-            templateUrl: 'partials/main.html',
+            templateUrl: 'partials/partials.html',
             controller: 'MainCtrl'
         }).when('/show', {
             templateUrl: 'partials/show.html',

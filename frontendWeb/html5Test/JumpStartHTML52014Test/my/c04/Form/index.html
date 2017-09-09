@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="s.css">
+</head>
+<body>
+
+<form action="./script/" method="POST">
+    <p>
+        <label for="your_name">Your name:</label>
+        <input type="text" name="your_name" id="your_name" required>
+    </p>
+
+    <p>
+        <label for="city">City of residence:</label>
+        <input type="text" name="city" id="city">
+    </p>
+
+    <p>
+        <label for="email">E-mail Address</label>
+        <input type="email" name="email" id="email">
+    </p>
+
+    <p>
+        <label for="phone_number">Telephone number:</label>
+        <input type="tel" name="phone_number" id="phone_number" placeholder="(000) 000-0000"
+         pattern="\([2-9][0-9]{2}\) [0-9]{3}-[0-9]{4}">
+    </p>
+
+    <p>
+        <label for="website">Please provide a web site where we can learn more (if applicable):</label>
+        <input type="url" name="website" id="website"
+               placeholder="http://www.yourdomain.com"
+               pattern="http(|s)://[-0-9a-z]{1,253}\.[.a-z]{2,7}">
+    </p>
+
+    <p>
+
+    <p>
+        <button type="submit">Send it!</button>
+    </p>
+</form>
+
+</body>
+</html>
