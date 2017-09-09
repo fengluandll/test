@@ -21,5 +21,17 @@ helloWorldApp.config(['$routeProvider', '$locationProvider',
             controller: 'CustomerCtrl'
         });
 
+        $routeProvider.when('/addCustomer', {
+            templateUrl: 'partials/newCustomer.html',
+            controller: 'AddCustomerCtrl'
+        });
+
+
+        $routeProvider.when('/addedCustomer/:customer/:city', {
+            templateUrl: 'partials/addedCustomer.html',
+            controller: 'AddedCustomerCtrl'
+        });
+
+
         $locationProvider.html5Mode(false).hashPrefix('!');
     }]);

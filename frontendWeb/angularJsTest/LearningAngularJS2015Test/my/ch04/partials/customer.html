@@ -1,4 +1,16 @@
 <div>
     <b>Customer Name: </b> {{customerName}}
     <b>Customer Number: </b> {{customerNumber}}
+
+    <form action="">
+        <div>
+            <input type="text" ng-model="cName" required>
+        </div>
+        <div>
+            <input type="text" ng-model="cNumber" required>
+        </div>
+        <div>
+            <button ng-click="changeCustomer();">Change Customer</button>
+        </div>
+    </form>
 </div>
