@@ -2,6 +2,9 @@ package com.edu.chapter01;
 
 public class TaxCalculator {
     public double calculate(double taxableIncome) {
-        return (taxableIncome / 10);
+        if (taxableIncome > 500000) {
+            return 110000;
+        }
+        return taxableIncome / 10;
     }
 }
