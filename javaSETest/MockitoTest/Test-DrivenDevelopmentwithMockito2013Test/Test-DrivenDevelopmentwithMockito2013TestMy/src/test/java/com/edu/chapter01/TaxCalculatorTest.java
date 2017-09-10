@@ -29,4 +29,12 @@ public class TaxCalculatorTest {
 
         assertTrue(expectedTotalTax == payableTax);
     }
+
+
+    @Test
+    public void when_income_more_than_10lacs_then_deducts_150000_plus_30_percent_above_10lacs() {
+        TaxCalculator taxCalculator = new TaxCalculator();
+        double payableTax = taxCalculator.calculate(1200000.00);
+        assertTrue((150000 + 60000) == payableTax);
+    }
 }
