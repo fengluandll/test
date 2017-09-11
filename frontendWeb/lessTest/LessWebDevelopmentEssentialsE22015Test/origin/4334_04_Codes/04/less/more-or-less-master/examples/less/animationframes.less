@@ -1,0 +1,360 @@
+@import '../../less/fn/_for';
+@import '../../less/css3/_animation';
+@import '../../less/css3/misc/_box-sizing';
+@import '../../less/css3/misc/_border-radius';
+
+@boxBigDimension: 140px;
+@boxSmallDimension: ceil(@boxBigDimension / 2);
+@border-radius: ceil(@boxSmallDimension / 8);
+@movement: ceil(@boxBigDimension - @boxSmallDimension);
+@boxMargin: 10px;
+@animation-duration: 500ms;
+@animation-timing-function: linear;
+
+@run1: '0%,100%{top:0;left:0;}';
+@run2: '25%{top:0;left:@{movement};}';
+@run3: '50%{top:@{movement};left:@{movement};}';
+@run4: '75%{top:@{movement};left:0;}';
+
+@movementMiddle: (@boxBigDimension * 0.5) - (@boxSmallDimension * 0.5);
+
+@diamond-run1: '0%,100%{top:0;left:@{movementMiddle};}';
+@diamond-run2: '25%{top:@{movementMiddle};left:@{movement};}';
+@diamond-run3: '50%{top:@{movement};left:@{movementMiddle};}';
+@diamond-run4: '75%{top:@{movementMiddle};left:0;}';
+
+@cross-run1: '0%,100%{top:0;left:@{movementMiddle};}';
+@cross-run2: '12.5%,37.5%,62.5%,87.5%{top:@{movementMiddle};left:@{movementMiddle};}';
+@cross-run3: '25%{top:@{movementMiddle};left:@{movement};}';
+@cross-run4: '50%{top:@{movement};left:@{movementMiddle};}';
+@cross-run5: '75%{top:@{movementMiddle};left:0;}';
+
+@shrink0: '0%{height:@{boxBigDimension};width:@{boxBigDimension}}';
+@shrink100: '100%{height:@{boxSmallDimension};width:@{boxSmallDimension}}';
+
+@grow0: '0%{height:@{boxSmallDimension};width:@{boxSmallDimension}}';
+@grow100: '100%{height:@{boxBigDimension};width:@{boxBigDimension}}';
+
+@fadeout-shrink0: '0%{opacity:1;height:@{boxBigDimension};width:@{boxBigDimension}}';
+@fadeout-shrink100: '100%{opacity:0;height:@{boxSmallDimension};width:@{boxSmallDimension}}';
+
+@fadein-grow0: '0%{opacity:0;height:@{boxSmallDimension};width:@{boxSmallDimension}}';
+@fadein-grow100: '100%{opacity:1;height:@{boxBigDimension};width:@{boxBigDimension}}';
+
+@rainbow1: '0%,100%{background:#868692}';
+@rainbow2: '16.66%{background:#6f927f}';
+@rainbow3: '33.33%{background:#928974}';
+@rainbow4: '49.99%{background:#927169}';
+@rainbow5: '66.66%{background:#92646c}';
+@rainbow6: '73.33%{background:#926d8e}';
+
+
+@animations:
+
+slideout
+    '0%{left:0}100%{left:100%}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+slidein
+    '0%{left:100%}100%{left:0}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+marquee
+    '0%{left:100%}100%{left:-100%}'
+    (@animation-duration * 2)
+    @animation-timing-function
+    infinite
+    none,
+
+fadeout
+    '0%{opacity:1}100%{opacity:0}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+fadein
+    '0%{opacity:0}100%{opacity:1}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+colorfade
+    '0%{background-color:#605d48}100%{background-color:#92646c}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+rainbow
+    '@{rainbow1}@{rainbow2}@{rainbow3}@{rainbow4}@{rainbow5}@{rainbow6}'
+    (@animation-duration * 6)
+    @animation-timing-function
+    infinite
+    none,
+
+blink
+    '0%,50%,100%{opacity:0}50.01%,99.99%{opacity:1}'
+    @animation-duration
+    @animation-timing-function
+    infinite
+    none,
+
+flicker
+    '0%,5%,20%,25%,100%{opacity:0}5.01%,19.99%,25.01%,99.99%{opacity:1}'
+    @animation-duration
+    @animation-timing-function
+    infinite
+    none,
+
+grow
+    '@{grow0}@{grow100}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+shrink
+    '@{shrink0}@{shrink100}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+fadein-grow
+    '@{fadein-grow0}@{fadein-grow100}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+fadeout-shrink
+    '@{fadeout-shrink0}@{fadeout-shrink100}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+bounce-y
+    '0%,100%{top:0;}50%{top:@{movement}}'
+    (@animation-duration * 2)
+    @animation-timing-function
+    infinite
+    none,
+
+bounce-x
+    '0%,100%{left:0;}50%{left:@{movement}}'
+    (@animation-duration * 2)
+    @animation-timing-function
+    infinite
+    none,
+
+bounce-xy
+    '0%,100%{top:0;left:0;}50%{top:@{movement};left:@{movement}}'
+    (@animation-duration * 2)
+    @animation-timing-function
+    infinite
+    none,
+
+drop
+    '0%{top:0;}100%{top:@{movement}}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+rise
+    '0%{top:@{movement}}100%{top:0;}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+kaleidoscope-in
+    '0%{border-width:0}100%{border-width:@{boxSmallDimension}}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+kaleidoscope-out
+    '0%{border-width:@{boxSmallDimension}}100%{border-width:0}'
+    @animation-duration
+    @animation-timing-function
+    1
+    forwards,
+
+radar
+    '0%,100%{border-width:0}50%{border-width:@{boxBigDimension}}'
+    (@animation-duration * 2)
+    @animation-timing-function
+    infinite
+    none,
+
+run
+    '@{run1}@{run2}@{run3}@{run4}'
+    (@animation-duration * 4)
+    @animation-timing-function
+    infinite
+    none,
+
+cross-run
+    '@{cross-run1}@{cross-run2}@{cross-run3}@{cross-run4}@{cross-run5}'
+    (@animation-duration * 8)
+    @animation-timing-function
+    infinite
+    none,
+
+diamond-run
+    '@{diamond-run1}@{diamond-run2}@{diamond-run3}@{diamond-run4}'
+    (@animation-duration * 4)
+    @animation-timing-function
+    infinite
+    none;
+
+*, *:before, *:after {
+    .box-sizing(border-box);
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #fff8c2;
+}
+
+#content {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.box {
+    height: @boxBigDimension;
+    width: @boxBigDimension;
+    margin:@boxMargin;
+    background: #cec79c;
+    position: relative;
+    list-style: none;
+    display: inline-block;
+    .border-radius(@border-radius);
+    overflow: hidden;
+
+    &:before {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        z-index: 2;
+        height: 30px;
+        width: @boxBigDimension;
+        line-height: 30px;
+        text-align: center;
+        color: #333226;
+        font-family: sans-serif;
+        font-weight: 700;
+        font-size: 12px;
+    }
+}
+
+.box-inner {
+    height: @boxSmallDimension;
+    width: @boxSmallDimension;
+    background: #868692;
+    position: absolute;
+    display: block;
+    .border-radius(@border-radius);
+    z-index: 0;
+
+    .fadein &,
+    .fadein-grow & {
+        opacity: 0;
+    }
+
+    .rise & {
+        top: @movement;
+    }
+
+    .kaleidoscope-in &{
+        background: none;
+        border: 0 dashed #868692;
+   }
+
+    .kaleidoscope-out & {
+        background: none;
+        border: @boxSmallDimension dashed #868692;
+    }
+
+    .radar & {
+        background: none;
+        border: 0 double #868692;
+        height: (@boxBigDimension * 2);
+        width: (@boxBigDimension * 2);
+        top: (@boxBigDimension / -2);
+        left: (@boxBigDimension / -2);
+        .border-radius(@boxBigDimension);
+    }
+
+    .slidein &,
+    .marquee & {
+        left: 100%;
+    }
+
+    .diamond-run &,
+    .cross-run & {
+        left: @movementMiddle;
+    }
+
+    .shrink &,
+    .fadeout-shrink &,
+    .slidein &,
+    .slideout &,
+    .marquee &,
+    .fadein &,
+    .fadeout &,
+    .kaleidoscope-in &,
+    .kaleidoscope-out &,
+    .blink &,
+    .colorfade &,
+    .rainbow &,
+    .flicker &{
+        height: @boxBigDimension;
+        width: @boxBigDimension;
+    }
+}
+
+.box {
+    .for(@animations);.-each(@i) {
+        @animation-name: extract(@i,1);
+        @animation-duration: extract(@i,3);
+        @animation-timing-function: extract(@i,4);
+        @animation-iteration-count: extract(@i,5);
+        @animation-fill-mode: extract(@i,6);
+
+        &.@{animation-name}:hover .box-inner  {
+            .animation(
+                @animation-name
+                @animation-duration
+                @animation-timing-function
+                @animation-iteration-count;);
+
+            .animation-fill-mode(@animation-fill-mode);
+        }
+
+        &.@{animation-name}:before  {
+            content: '@{animation-name}';
+        }
+    }
+}
+
+& {
+    .for(@animations);.-each(@i) {
+        @animation-name: extract(@i,1);
+        @animation-frames: extract(@i,2);
+        .keyframes(@animation-name;@animation-frames;);
+    }
+}

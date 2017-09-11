@@ -1,0 +1,22 @@
+// Box sizing
+.box-sizing(@boxmodel) {
+  -webkit-box-sizing: @boxmodel;
+     -moz-box-sizing: @boxmodel;
+          box-sizing: @boxmodel;
+}
+
+// Reset the box-sizing
+*,
+*:before,
+*:after {
+  .box-sizing(border-box);
+}
+
+@width:50;
+div {
+	border: 1px solid black;
+	width:unit(@width,px);
+	&.big {
+		width: unit(twotimes(@width),px);
+	} 
+}

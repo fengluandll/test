@@ -1,0 +1,20 @@
+#clearless { 
+@import "clearless-master/mixins/all.less"; 
+@sprite-image: "../images/less-sprite.png";
+@sprite-grid: 80px; //image height
+@using-modernizr: true;
+}
+
+.logo {
+	
+	#clearless > .sprite-sized(0,0,200px,80px);
+	
+	&:hover {
+	#clearless > .sprite-sized(0,1,200px,80px);
+	}
+}
+
+/* Usage: */
+.example {
+    #clearless > .prepend-icon( 'img/icon.png', 16px, 32px );
+}

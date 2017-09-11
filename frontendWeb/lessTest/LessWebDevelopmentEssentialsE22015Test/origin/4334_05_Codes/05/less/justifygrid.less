@@ -1,0 +1,23 @@
+@import "justifygrid/justifygrid.less";
+.container {
+  #grid;
+}
+header, 
+footer, 
+section, 
+section div, 
+nav {
+  #grid > .cell;
+}  
+
+@media screen and (min-width: 48em) {   
+section {
+ #grid > .span(8);
+ div {
+  #grid > .span(4);
+ }
+}
+nav {
+ #grid > .span(4);
+} 
+}

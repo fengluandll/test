@@ -1,0 +1,26 @@
+.make-columns(@number) {
+	width: 100%;
+	@media(min-width: @break-point) {
+	  float: left;
+	  width: (@grid-container-width* ( @number / @grid-columns ));
+	}
+}
+
+/* variables */
+@grid-columns: 12;
+@grid-container-width: 800px;
+@break-point: 768px;
+
+#header,#footer{.make-columns(12);}
+#content{.make-columns(8);}
+#sidebar{.make-columns(4);}
+
+.make-grid-classes(@number) when (@number>0) {
+	
+	.make-grid-classes(@number - 1);
+	.col-@{number} {
+  		 .make-columns(@number);
+	}
+}
+
+.make-grid-classes(12);

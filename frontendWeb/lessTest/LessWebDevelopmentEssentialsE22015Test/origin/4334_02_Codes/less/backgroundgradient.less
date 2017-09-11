@@ -1,0 +1,9 @@
+.backgroundgradient(@degrees: 0deg; @start-color: green; @between-color:yellow; @end-color: red; @between:50%){
+  background-image: -moz-linear-gradient(@degrees, @start-color 0%, @between-color @between, @end-color 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, @start-color), color-stop(@between,@between-color), color-stop(100%,@end-color));
+  background-image : -webkit-linear-gradient(@degrees, @start-color 0%, @between-color @between, @end-color 100%);
+  background-image: -o-linear-gradient(@degrees, @start-color 0%, @between-color @between, @end-color 100%);
+  background-image: -ms-linear-gradient(@degrees, @start-color 0%, @between-color @between, @end-color 100%);
+  background-image: linear-gradient((@degrees - 90deg), @start-color 0%, @between-color @between, @end-color 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@startcolor', endColorstr='@endcolor',GradientType=0 );
+}

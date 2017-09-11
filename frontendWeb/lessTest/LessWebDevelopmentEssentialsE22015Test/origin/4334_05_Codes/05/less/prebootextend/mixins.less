@@ -1,0 +1,32 @@
+.make-columns(@columns) {
+  // Prevent columns from collapsing when empty
+  min-height: 1px;
+  // Set inner padding as gutters instead of margin
+  padding-left: @grid-column-padding;
+  padding-right: @grid-column-padding;
+  // Proper box-model (padding doesn't add to width)
+  .box-sizing(border-box);
+}
+
+.float-columns(@columns) {
+    float: left;
+    // Calculate width based on number of columns available
+    width: percentage(@columns / @grid-columns);
+}
+
+.make-grid-columns(@number) when (@number>0) {
+	
+	.make-grid-columns(@number - 1);
+	
+	.col-small-@{number},.col-large-@{number} {
+	   .make-columns(@number) 
+	}
+}
+.float-grid-columns(@number; @grid-size: large;) when (@number>0) {
+	
+	.float-grid-columns(@number - 1,@grid-size);
+	
+	.col-@{grid-size}-@{number} {
+	   .float-columns(@number) 
+	}
+}

@@ -1,0 +1,15 @@
+.widths() {
+.set("small",100px);
+.set("medium",200px);
+.set("large",400px);
+}
+
+div {
+.widths();
+.set(@name,@width) {
+        @classname: ~"@{name}";
+        &.@{classname} {
+        width: @width;
+        }
+}
+}

@@ -1,0 +1,21 @@
+@import 'less/more-or-less-master/less/fn/_if';
+@import 'less/more-or-less-master/less/fn/_for';
+
+.color(@color) {
+.if(iscolor(@color), {
+	.-then() {
+		color: white;
+	}
+	.-else() {
+		color: black;
+	}
+});
+}
+div {
+@array: white, none;
+.for(@array); .-each(@value) {
+&.@{value} {
+.color(@value);
+}
+}
+}

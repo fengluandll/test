@@ -1,0 +1,42 @@
+/* Contruct a navigation structure.
+
+    <ul class="nav">
+		<li><a href="#">item 1</a></li>
+		<li><a href="#">item 2</a></li>
+		<li class="active"><a href="#">item 3</a></li>
+    </ul> 
+*/
+.nav {
+	  li {
+	    a {
+		  text-decoration: none;
+	      color: @menu-font-color;
+	      &:hover {
+			color:@menu-hover-font-color;
+			background-color:@menu-hover-background-color;
+	      }
+
+	      width:100%;
+	      display: block;
+	      padding: 10px 0 10px 10px;
+	      border: 1px solid @menu-border-color;
+	      margin-top: -1px;// prevent double border	      
+		}
+		&.active {
+		 a {
+		   color:@menu-active-font-color;
+		   background-color:@menu-active-background-color;
+		   }
+	    }
+	    &:first-child a {
+	      border-radius: 15px 15px 0 0; 
+	    }
+		&:last-child a{
+		  border-radius: 0 0 15px 15px;
+		}
+	    
+	  }
+	  
+	  list-style: none outside none;
+	  padding:0;
+	}

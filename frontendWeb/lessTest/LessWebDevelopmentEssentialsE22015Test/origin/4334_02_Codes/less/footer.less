@@ -1,0 +1,22 @@
+footer {
+  div {
+    float: left;
+	width: ((@basic-width/3)-@footer-gutter);
+    min-height: @footer-height;
+    background-color: @footer-dark-color;
+    margin: @footer-gutter (@footer-gutter / 2);
+    .border-radius(15px);
+    .box-shadow(0 0 10px, 70%);
+    p {padding:10px;}
+  }
+  div:first-child {
+    margin: @footer-gutter @footer-gutter @footer-gutter 0; 
+    width: ((@basic-width/3) - @footer-gutter);
+  }
+  div:last-child {
+    margin: @footer-gutter 0 @footer-gutter @footer-gutter; 
+    width: ((@basic-width/3) - @footer-gutter);
+  }
+  color: @footer-light-color;
+  .center-content;      
+}

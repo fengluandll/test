@@ -1,0 +1,12 @@
+
+@import (reference) "basics";
+@import (reference) "mixins";
+@import (reference) "variables";
+@import (reference) "customsidebar";
+
+.second-sidebar {
+	&:extend( #sidebar all);
+	ul li a {
+	background-color: green;
+	}
+}

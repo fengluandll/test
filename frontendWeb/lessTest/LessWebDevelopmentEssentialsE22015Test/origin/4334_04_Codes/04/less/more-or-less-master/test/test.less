@@ -1,0 +1,364 @@
+@import '../_more';
+
+/***********************
+testing CSS3 misc-mixins
+***********************/
+.border-radius {
+    .border-radius(1px 2px 3px 4px);
+}
+
+.box-shadow {
+    .box-shadow(1px 0 2px rgba(0,0,0,0.3), 0 1px 2px rgba(255,0,0,0.3););
+}
+
+.box-sizing {
+    .box-sizing(border-box);
+}
+
+.background-size {
+    .background-size(10px auto, 100px auto;);
+}
+
+.calc {
+    .calc(height;'100% - 10px');
+    .calc(width;'50% - 20px');
+}
+
+.opacity {
+    .opacity(0.4);
+}
+
+input {
+    .placeholder({
+        color: #aaa;
+        font-size: 20px;
+        });
+}
+
+.text-overflow-ellipsis {
+    .text-overflow(ellipsis);
+}
+
+/*****************************
+testing CSS3 transition-mixins
+*****************************/
+
+.transition-oneline {
+    .transition(transform 200ms linear 400ms);
+}
+
+.transition-oneline {
+    .transition(transform 200ms, height 500ms;);
+}
+
+.transition-oneline {
+    .transition(transform 200ms linear, height 500ms linear, box-shadow 500ms linear, opacity 500ms linear;);
+}
+
+.transition-separated {
+    .transition-property(all);
+    .transition-duration(200ms);
+    .transition-timing-function(linear);
+    .transition-delay(400ms);
+}
+
+.transition-prop-transform {
+    .transition-property(transform;);
+}
+.transition-prop-mutli-with-transform {
+    .transition-property(transform, color, height;);
+}
+
+.transition-prop-mutli-with-transform-and-boxShadow {
+    .transition-property(transform, color, box-shadow;);
+}
+
+.transition-prop {
+    .transition-property(height;);
+}
+.transition-multi {
+    .transition-property(height, top, left;);
+}
+
+/*****************************
+testing CSS3 animation-mixins
+*****************************/
+
+.animation-oneline {
+    .animation(test-animation 200ms linear 200ms);
+}
+
+.animation-delay {
+    .animation-delay(200ms);
+}
+
+.animation-timing-function {
+    .animation-timing-function(linear);
+}
+
+.animation-timing-function {
+    .animation-timing-function(linear);
+}
+
+.animation-fill-mode {
+    .animation-fill-mode(forward);
+}
+
+/****************************
+testing CSS3 transform-mixins
+****************************/
+
+.transforms {
+    .transform(translate(2px, 3px) rotate(3deg) scale(0.4));
+}
+.transforms {
+    .transform(perspective(700px) rotate3d(1, 1, 0, 180deg));
+}
+
+/****************
+testing gradients
+****************/
+
+.background-image {
+    .background-image(
+        linear-gradient(to top, #000, #fff),
+        radial-gradient(45px 45px, farthest-corner, #fff 0%, #000 100%),
+        url('test.png'));
+}
+
+.background-image-top {
+    .background-image(linear-gradient(to top left, #000, #fff));
+}
+
+.background-image-right-bottom {
+    .background-image(linear-gradient(to bottom right, #000, #fff));
+}
+
+.background-image-right {
+    .background-image(linear-gradient(to right, #000, #fff));
+}
+
+.background-image-bottom {
+    .background-image(linear-gradient(to bottom, #000, #fff));
+}
+
+
+test-svg {
+    .linear-gradient(to bottom, #000, #f00);
+}
+
+test-svg {
+    .linear-gradient(to bottom right, #000, #f00);
+}
+
+test-svg {
+    .radial-gradient(#000, #f00);
+}
+
+/****************
+testing font-face
+****************/
+
+.font-face(myFont);
+
+
+/*************
+testing filter
+*************/
+
+.filter {
+    .filter(grayscale(0.5) blur(10px));
+}
+
+/****************
+testing keyframes
+****************/
+
+& {
+    .keyframes(testanimation);.-frames(@-...){
+        0% {
+            left: 0;
+            @{-}transform: translate(10px, 20px);
+        }
+
+        100% {
+            left: 100%;
+            @{-}transform: translate(100px, 200px);
+        }
+    }
+}
+
+/************************
+testing animation library
+************************/
+
+&{.slide-in()}
+&{.slide-out()}
+&{.fade-in()}
+&{.fade-out()}
+/*************
+testing repeat
+*************/
+& {
+    .repeat('.test', 5);
+    @{string} {
+        float: right;
+    }
+}
+
+& {
+    .repeat('.test', ' + ', 5);
+    @{string} {
+        float: right;
+    }
+}
+/***********
+testing join
+***********/
+
+& {
+    @animals: 'cat', 'tiger', 'lion';
+    .join(@animals, ' and ');
+    .animals:after {
+        content: '@{string}';
+    }
+}
+
+/*******************
+testing index (find)
+*******************/
+
+.tools:before {
+    @tools: saw, hammer, screwdriver, wrench;
+
+    .find(@tools, saw);
+    content: "@{-}";
+}
+
+.fruits {
+    @fruits: apple, orange, banana;
+
+    & {
+        .index(@fruits, banana);
+        .banana:before {
+            content: "@{-}";
+        }
+    }
+    & {
+        .index(@fruits, orange);
+        .orange:before {
+            content:"@{@}-";
+        }
+    }
+    & {
+        .index(@fruits, tomato);
+        .tomato:before {
+            content: "@{-}";
+        }
+    }
+}
+
+/*******************
+testing inArray (in)
+*******************/
+
+.fruits {
+    @fruits: apple, orange, banana;
+
+    & {
+        .inArray(@fruits, banana);
+        .banana:before {
+            content: "@{-}";
+        }
+    }
+    & {
+        .inArray(@fruits, orange);
+        .orange:before {
+            content: "@{-}";
+        }
+    }
+    & {
+        .inArray(@fruits, tomato);
+        .tomato:before {
+            content: "@{-}";
+        }
+    }
+}
+
+/**************
+testing if-else
+**************/
+
+.if(isnumber(2), {
+    .-then(){
+        .log:before {
+            content: "then";
+        }
+    }
+    .-else(){
+        .log:before {
+            content: "else";
+        }
+    }
+});
+
+
+.if(true, {
+    .-then(){
+        .log:before {
+            content: "then";
+        }
+    }
+    .-else(){
+        .log:before {
+            content: "else";
+        }
+    }
+});
+
+
+.if(false, {
+    .-then(){
+        .log:before {
+            content: "then";
+        }
+    }
+    .-else(){
+        .log:before {
+            content: "else";
+        }
+    }
+});
+
+
+.if(1 gt 2, {
+    .-then(){
+        .log:before {
+            content: "then";
+        }
+    }
+    .-else () {
+        .log:before {
+            content: "else";
+        }
+
+    }
+});
+
+
+.if(1 lte 2, {
+    .-then(){
+        .log:before {
+            content: "then";
+        }
+    }
+});
+
+.if(lightness(#fff) gt (20% * 2), {
+    .-then(){
+        .log:before {
+            content: "then";
+        }
+    }
+});
+

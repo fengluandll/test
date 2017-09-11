@@ -1,0 +1,25 @@
+.color(@color) {
+&.@{color} {
+	
+	& when (iscolor(@color)) {
+		color: white;
+	}
+
+	& when not(iscolor(@color)) {
+		color: black;
+	}
+}
+}
+
+.loop(@colors; @i:1) when (@i <= length(@colors)) {
+
+	@value: extract(@colors,@i);
+	.color(@value);
+	.loop(@colors; (@i + 1));
+}
+
+@array: white, none;
+
+div {
+.loop(@array);
+}

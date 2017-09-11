@@ -1,0 +1,15 @@
+.large(@rules) {
+	@media (min-width:960px){
+	@rules();
+	}
+}
+
+p { 
+	font-size: 1em;
+	.large( {font-size: 2em;});
+}
+
+img.large {
+	display:none;
+	.large( {display:block; max-width:100%;});
+}

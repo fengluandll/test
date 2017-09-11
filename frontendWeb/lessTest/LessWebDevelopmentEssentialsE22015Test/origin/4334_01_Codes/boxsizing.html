@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>LESS Web Develoment Essentials :: Boxsizing</title>
+  <meta name="description" content="Example code for boxsizing">
+  <meta name="author" content="Bass Jobsen">
+
+  <link rel="stylesheet/less" type="text/css" href="less/boxsizing.less" />
+  <script type="text/javascript">var less = { env: 'development' };</script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.2.0/less.min.js"></script>
+
+</head>
+
+<body>
+<div class="wrapper" style="width:300px;">
+	<div style="background-color:red;width;100%;"><span>1</span></div>
+	<div style="background-color:green;width:50%;float:left;"><span>2</span></div>
+	<div style="background-color:blue;width:50%;float:right;"><span>3</span></div>
+</div>
+
+<br>	
+<br>	
+	
+<div class="wrapper" style="width:300px;">
+<div style="background-color:red;width:100%;"><span>1</span></div>
+<div style="background-color:green;width:50%;float:left;border:5px solid yellow;"><span>2</span></div>
+<div style="background-color:blue;width:50%;border:5px solid yellow;float:right;"><span>3</span></div>
+</div>
+<br>
+<br>
+
+<div class="wrapper" style="width:300px;">
+<div style="background-color:red;width;100%;"><span>1</span></div>
+<div style="background-color:green;float:left;width:50%;padding-right:5px;"><div style="background-color:yellow;"><span>2</span></div></div>
+<div style="background-color:blue;width:50%;padding-right:5px;float:right;"><span>3</span></div>
+</div>
+<br clear="all">
+<br>
+<div class="wrapperboxsizing">
+<div style="width:300px;">
+<div style="background-color:red;width:100%;"><span>1</span></div>
+<div style="background-color:green;width:50%;float:left;border:5px solid yellow;"><span>2</span></div>
+<div style="background-color:blue;width:50%;border:5px solid yellow;float:right;"><span>3</span></div>
+</div>
+<br>
+<div  style="width:300px;">
+<div style="background-color:red;width;100%;"><span>1</span></div>
+<div style="background-color:green;float:left;width:50%;padding-right:5px;"><div style="background-color:yellow;"><span>2</span></div></div>
+<div style="background-color:blue;width:50%;padding-right:5px;float:right;"><span>3</span></div>
+</div>	
+</div>
+</body>
+</html>

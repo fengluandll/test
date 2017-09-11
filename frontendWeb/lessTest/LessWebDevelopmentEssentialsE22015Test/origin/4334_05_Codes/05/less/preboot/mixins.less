@@ -1,0 +1,7 @@
+.make-grid-classes(@number) when (@number>0) {
+	
+	.make-grid-classes(@number - 1);
+	.col-@{number} {
+  		#preboot > .make-column(@number);
+	}
+}

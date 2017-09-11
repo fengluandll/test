@@ -1,0 +1,46 @@
+/* general styles, example settings */
+
+body{ background-color: lightblue;}
+div
+{
+width:500px; 
+height:50px; 
+margin: 0 auto; //center content
+margin-bottom:10px;
+}
+
+/* mixins */
+.roundedcornersmixin(@radius: 10px)
+{
+    -webkit-border-radius: @radius;
+    -moz-border-radius: @radius;
+    border-radius: @radius;
+}
+
+.gradient (@start: black, @stop: white,@origin: left) {
+    background-color: @start;
+    background-image: -webkit-linear-gradient(@origin, @start, @stop);
+    background-image: -moz-linear-gradient(@origin, @start, @stop);
+    background-image: -o-linear-gradient(@origin, @start, @stop);
+    background-image: -ms-linear-gradient(@origin, @start, @stop);
+    background-image: linear-gradient(@origin, @start, @stop);
+}
+
+#header{
+background-color: red;
+.roundedcornersmixin();
+.gradient(red,yellow);
+}
+
+#content{
+background-color: white;
+min-height: 300px;
+.roundedcornersmixin(20px);
+.gradient();
+}
+
+#footer{
+background-color: navy;
+.roundedcornersmixin(20px);
+.gradient(navy,lightblue);
+}

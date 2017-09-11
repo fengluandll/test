@@ -1,0 +1,55 @@
+/* variables */
+
+/* colors */
+@dark-color: darkblue;
+@light-color: lighten(@dark-color,40%);
+
+/* fonts */
+@base-font: "Arial";
+@base-font-color: darken(@dark-color,20%);
+
+/* layout */
+@basic-width: 900px;
+
+
+/* header */
+@header-dark-color: @dark-color;
+@header-light-color: @light-color;
+@header-height: 75px;
+
+/* content */
+@content-dark-color: @dark-color;
+
+/* footer */
+@footer-dark-color:  @dark-color;
+@footer-light-color:  @light-color;
+@footer-height: 100px;
+@footer-gutter: 10px;
+
+/* side bar */
+@header-color: black;
+@header-font-size: 16px;
+
+/* menu */
+/*@menu-background-color: white;
+@menu-font-color: green;
+@menu-border-color: darkgreen;
+@menu-hover-background-color: darkgreen;
+@menu-hover-font-color: white;
+@menu-active-background-color: lightgreen;
+@menu-active-font-color: white;*/
+
+@menucolor: green;
+@menu-background-color: white;
+@menu-font-color: contrast(@menu-background-color);
+@menu-border-color: darken(@menucolor,10%);
+@menu-hover-background-color: darken(@menucolor,10%);
+@menu-hover-font-color: contrast(@menu-hover-background-color);
+@menu-active-background-color: lighten(@menucolor,10%);
+@menu-active-font-color: contrast(@menu-active-background-color);
+
+/* grid */
+@grid-columns:          3;
+@grid-column-padding:   30px;
+@grid-float-breakpoint: 768px;
+@grid-float-breakpoint-min: (@grid-float-breakpoint - 1);

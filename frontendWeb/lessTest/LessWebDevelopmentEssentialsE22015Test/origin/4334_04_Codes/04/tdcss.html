@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+	  <title>Style guide LESS Web Development Essentials</title>
+	  <meta name="description" content="Style guide LESS Web Development Essentials">
+	  <meta name="author" content="Bass Jobsen">
+	  
+	<!-- Your LESS code -->
+	  <link rel="stylesheet/less" type="text/css" href="less/styles.less" />
+	  <script type="text/javascript">less = { env: 'development' };</script>
+	  <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.2.0/less.min.js"></script>
+
+	<!-- TDCSS -->
+	<link rel="stylesheet" href="tdcss/tdcss.css" type="text/css" media="screen">
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+	<script type="text/javascript" src="tdcss/tdcss.js"></script>
+	<script type="text/javascript">
+		 $(function(){
+			 $("#tdcss").tdcss();
+		 })
+	</script>
+
+</head>
+
+<body>
+<div id="tdcss">
+    <!-- # Navigation -->
+    <!-- & Style lists used for navigation. -->
+    <!-- : Basic navigation -->
+       <ul class="nav">
+		<li><a href="#">item 1</a></li>
+		<li><a href="#">item 2</a></li>
+		<li class="active"><a href="#">item 3</a></li>
+    	</ul> 
+</div>
+
+</body>
+</html>

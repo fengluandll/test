@@ -1,0 +1,25 @@
+.container {
+max-width: @grid-width;
+padding: 0 @grid-column-padding; 
+}
+
+.row {
+	#preboot > .make-row()
+}
+
+//.make-grid-columns(12); 
+
+div[class~="col-"] {
+  // Prevent columns from collapsing when empty
+  min-height: 1px;
+  // Set inner padding as gutters instead of margin
+  padding-left: @grid-column-padding;
+  padding-right: @grid-column-padding;
+  // Proper box-model (padding doesn't add to width)
+  .box-sizing(border-box);
+}
+
+.float-grid-columns(12,small); 
+@media (min-width: @grid-float-breakpoint) {
+.float-grid-columns(12); 
+}

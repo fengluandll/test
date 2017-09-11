@@ -1,0 +1,19 @@
+@import "normalize.less";
+@import "basics.less";
+@grid-container-width: 940px;
+@column-number: 2;
+
+.container {
+
+	width: @grid-container-width;
+	
+	.row {
+		.col {
+		          float: left;
+	   	          width: (@grid-container-width/@column-number);
+		}
+		.col2{
+		   	width: 100%;
+		}
+	}
+}

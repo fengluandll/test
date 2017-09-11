@@ -1,0 +1,310 @@
+body {
+  background: #fff8c2;
+}
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.animal {
+  display: inline-block;
+  vertical-align: top;
+  white-space: nowrap;
+  background: #cec79c;
+  color: #333226;
+  position: relative;
+  font-weight: 700;
+  font-family: sans-serif;
+  font-size: 12px;
+  margin: 5px;
+  padding: 5px;
+  list-style: none;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-box-shadow: 2px 2px 0 0 #868692;
+  -moz-box-shadow: 2px 2px 0 0 #868692;
+  box-shadow: 2px 2px 0 0 #868692;
+}
+.animal:hover {
+  background: #868692;
+  -webkit-box-shadow: 2px 2px 0 0 #333226;
+  -moz-box-shadow: 2px 2px 0 0 #333226;
+  box-shadow: 2px 2px 0 0 #333226;
+}
+.animal:after,
+.animal:before {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 5px;
+}
+.animal:before {
+  background-image: url('../images/sprites/animaless.png');
+  background-size: auto 100px;
+  height: 50px;
+  width: 50px;
+  content: '';
+}
+.animal.alpaca:before {
+  background-position: 0px -50px;
+  background-position: 0px 0;
+}
+.animal.bat:before {
+  background-position: -50px -50px;
+  background-position: -50px 0;
+}
+.animal.bear:before {
+  background-position: -100px -50px;
+  background-position: -100px 0;
+}
+.animal.beaver:before {
+  background-position: -150px -50px;
+  background-position: -150px 0;
+}
+.animal.bee:before {
+  background-position: -200px -50px;
+  background-position: -200px 0;
+}
+.animal.cat:before {
+  background-position: -250px -50px;
+  background-position: -250px 0;
+}
+.animal.chicken:before {
+  background-position: -300px -50px;
+  background-position: -300px 0;
+}
+.animal.cow:before {
+  background-position: -350px -50px;
+  background-position: -350px 0;
+}
+.animal.crocodile:before {
+  background-position: -400px -50px;
+  background-position: -400px 0;
+}
+.animal.dog:before {
+  background-position: -450px -50px;
+  background-position: -450px 0;
+}
+.animal.duck:before {
+  background-position: -500px -50px;
+  background-position: -500px 0;
+}
+.animal.elasmosaurus:before {
+  background-position: -550px -50px;
+  background-position: -550px 0;
+}
+.animal.elephant:before {
+  background-position: -600px -50px;
+  background-position: -600px 0;
+}
+.animal.giraffe:before {
+  background-position: -650px -50px;
+  background-position: -650px 0;
+}
+.animal.gnu:before {
+  background-position: -700px -50px;
+  background-position: -700px 0;
+}
+.animal.goat:before {
+  background-position: -750px -50px;
+  background-position: -750px 0;
+}
+.animal.hippo:before {
+  background-position: -800px -50px;
+  background-position: -800px 0;
+}
+.animal.kangaroo:before {
+  background-position: -850px -50px;
+  background-position: -850px 0;
+}
+.animal.leopard:before {
+  background-position: -900px -50px;
+  background-position: -900px 0;
+}
+.animal.lion:before {
+  background-position: -950px -50px;
+  background-position: -950px 0;
+}
+.animal.monkey:before {
+  background-position: -1000px -50px;
+}
+.animal.moose:before {
+  background-position: -1050px -50px;
+}
+.animal.mouse:before {
+  background-position: -1100px -50px;
+}
+.animal.owl:before {
+  background-position: -1150px -50px;
+}
+.animal.panda:before {
+  background-position: -1200px -50px;
+}
+.animal.peacock:before {
+  background-position: -1250px -50px;
+}
+.animal.penguin:before {
+  background-position: -1300px -50px;
+}
+.animal.pig:before {
+  background-position: -1350px -50px;
+}
+.animal.prontosaurus:before {
+  background-position: -1400px -50px;
+}
+.animal.pterodactylus:before {
+  background-position: -1450px -50px;
+}
+.animal.rabbit:before {
+  background-position: -1500px -50px;
+}
+.animal.rhino:before {
+  background-position: -1550px -50px;
+}
+.animal.sheep:before {
+  background-position: -1600px -50px;
+}
+.animal.squirrel:before {
+  background-position: -1650px -50px;
+}
+.animal.tiger:before {
+  background-position: -1700px -50px;
+}
+.animal.trex:before {
+  background-position: -1750px -50px;
+}
+.animal.triceratops:before {
+  background-position: -1800px -50px;
+}
+.animal.turkey:before {
+  background-position: -1850px -50px;
+}
+.animal.zebra:before {
+  background-position: -1900px -50px;
+}
+.animal.alpaca:after {
+  content: 'The alpaca can be seen on a safari.';
+}
+.animal.bat:after {
+  content: 'The bat can fly.';
+}
+.animal.bear:after {
+  content: 'The bear lives in a forest  is dangerous.';
+}
+.animal.beaver:after {
+  content: 'The beaver lives in a forest.';
+}
+.animal.bee:after {
+  content: 'The bee lives in a forest can fly.';
+}
+.animal.cat:after {
+  content: 'The cat can be held as a pet.';
+}
+.animal.chicken:after {
+  content: 'The chicken lives on a farm is a bird can fly.';
+}
+.animal.cow:after {
+  content: 'The cow lives on a farm.';
+}
+.animal.crocodile:after {
+  content: 'The crocodile  is dangerous can be seen on a safari.';
+}
+.animal.dog:after {
+  content: 'The dog lives on a farm can be held as a pet.';
+}
+.animal.duck:after {
+  content: 'The duck lives on a farm is a bird can fly.';
+}
+.animal.elasmosaurus:after {
+  content: 'The elasmosaurus  is dangerous is a dinosaur lives underwater is extinct.';
+}
+.animal.elephant:after {
+  content: 'The elephant  is dangerous can be seen on a safari.';
+}
+.animal.giraffe:after {
+  content: 'The giraffe can be seen on a safari.';
+}
+.animal.gnu:after {
+  content: 'The gnu  is dangerous can be seen on a safari.';
+}
+.animal.goat:after {
+  content: 'The goat lives on a farm.';
+}
+.animal.hippo:after {
+  content: 'The hippo  is dangerous can be seen on a safari.';
+}
+.animal.kangaroo:after {
+  content: 'The kangaroo  is dangerous.';
+}
+.animal.leopard:after {
+  content: 'The leopard  is dangerous can be seen on a safari.';
+}
+.animal.lion:after {
+  content: 'The lion  is dangerous can be seen on a safari.';
+}
+.animal.monkey:after {
+  content: 'The monkey can be seen on a safari.';
+}
+.animal.moose:after {
+  content: 'The moose can be seen on a safari.';
+}
+.animal.mouse:after {
+  content: 'The mouse lives in a forest lives on a farm can be held as a pet.';
+}
+.animal.owl:after {
+  content: 'The owl lives in a forest is a bird can fly.';
+}
+.animal.panda:after {
+  content: 'The panda  is dangerous.';
+}
+.animal.peacock:after {
+  content: 'The peacock is a bird.';
+}
+.animal.penguin:after {
+  content: 'The penguin is a bird.';
+}
+.animal.pig:after {
+  content: 'The pig lives on a farm.';
+}
+.animal.prontosaurus:after {
+  content: 'The prontosaurus  is dangerous is a dinosaur is extinct.';
+}
+.animal.pterodactylus:after {
+  content: 'The pterodactylus  is dangerous is a dinosaur can fly is extinct.';
+}
+.animal.rabbit:after {
+  content: 'The rabbit lives in a forest lives on a farm can be held as a pet.';
+}
+.animal.rhino:after {
+  content: 'The rhino  is dangerous can be seen on a safari.';
+}
+.animal.sheep:after {
+  content: 'The sheep lives on a farm.';
+}
+.animal.squirrel:after {
+  content: 'The squirrel lives in a forest.';
+}
+.animal.tiger:after {
+  content: 'The tiger  is dangerous can be seen on a safari.';
+}
+.animal.trex:after {
+  content: 'The trex  is dangerous is a dinosaur is extinct.';
+}
+.animal.triceratops:after {
+  content: 'The triceratops  is dangerous is a dinosaur is extinct.';
+}
+.animal.turkey:after {
+  content: 'The turkey lives on a farm is a bird can fly.';
+}
+.animal.zebra:after {
+  content: 'The zebra can be seen on a safari.';
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-moz-min-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .animal:before {
+    background-image: url('../images/sprites/animaless@2x.png');
+  }
+}

@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>LESS Web Develoment Essentials :: custom functions</title>
+  <meta name="description" content="Custom functions.">
+  <meta name="author" content="Bass Jobsen">
+
+  <link rel="stylesheet/less" type="text/css" href="less/custom.less" />
+  <script type="text/javascript">var less = { env: 'development',
+	  functions: { 
+		twotimes : function(input) { return new(less.tree.Dimension)(input.value * 2);}
+		}
+	  };</script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.2.0/less.min.js"></script>
+
+</head>
+
+<body>
+<div>Small</div>
+<div class="big">Big</div>
+
+</body>
+</html>

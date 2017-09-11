@@ -1,0 +1,23 @@
+.wrapper {
+  .make-row();
+  #content {
+	.make-column(2);
+    min-height:200px;
+    aside {
+	  float:right;
+   }
+  }
+  //one third of @basic-width 
+  #sidebar {
+	.make-column(1);
+	@media (min-width: @grid-float-breakpoint) {
+	float:right;
+	}
+  } 
+      
+  h2 {
+    color: @content-dark-color;
+  }
+   
+
+}

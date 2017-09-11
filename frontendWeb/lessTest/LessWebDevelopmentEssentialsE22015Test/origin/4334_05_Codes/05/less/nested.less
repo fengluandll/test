@@ -1,0 +1,22 @@
+.make-columns(@number) {
+        width: 100%;
+        @media(min-width: @break-point) {
+          float: left;
+          width: (@grid-container-width* ( @number / @grid-columns ));
+        }
+}
+
+/* variables */
+@grid-columns: 12;
+@grid-container-width: 100%;
+@break-point: 768px;
+
+header,footer{.make-columns(12);}
+section#content {
+.make-columns(8);
+	div.content-column {
+		.make-columns(4);
+	}
+}
+#sidebar{.make-columns(4);}
+
