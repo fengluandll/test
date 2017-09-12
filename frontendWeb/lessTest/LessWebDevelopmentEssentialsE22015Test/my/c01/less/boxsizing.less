@@ -1,0 +1,18 @@
+.box-sizing(@boxmodel) {
+  -webkit-box-sizing: @boxmodel;
+     -moz-box-sizing: @boxmodel;
+          box-sizing: @boxmodel;
+}
+
+.wrapperboxsizing *,
+.wrapperboxsizing *:before,
+.wrapperboxsizing *:after {
+	 .box-sizing(border-box);
+}
+div[style*="background-color"]
+{
+	text-align:center;
+	span {
+		background-color: white;
+	}
+}
