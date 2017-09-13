@@ -22,6 +22,8 @@ exports.handler = function(event, context, callback){
         ACL: 'public-read'
     };
 
+    // callback("setPermission bucket: " + sourceBucket + ' , key: ' + sourceKey);
+
     s3.putObjectAcl(params, function(err, data){
         if (err) {
             callback(err);
