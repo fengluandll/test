@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Say Hi</title>
+    <script src="jquery-1.11.3.min.js"></script>
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <script src="bootstrap.min.js"></script>
+    <script>
+
+    </script>
+    <script>
+        $(document).ready(function () {
+            $('#btnCallServer').click(function () {
+                $.ajax({
+                    url: 'http://bonaventuresystems.com/Apress/BeginningHMAD/CH04/SayHello.ashx',
+                    type: 'GET',
+                    success: function (result)
+                    {
+                        debugger;
+                        $('#txtName').val(result.Name);
+                        $('#txtAddress').val(result.Address);
+                    },
+                    error: function (err)
+                    {
+                        debugger;
+                        alert('Error!');
+                    }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <br /><br /><br />
+    <div class="container">
+        <div class="col-lg-3">
+            Name: <input type="text" id="txtName" value="" />
+        </div>
+        <div class="col-lg-3">
+            Address: <input type="text" id="txtAddress" value="" />
+        </div>
+        <div class="col-lg-3">
+            <input type="button" id="btnCallServer" value="Call Server" />
+        </div>
+    </div>
+</body>
+</html>

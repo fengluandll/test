@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Say Hi</title>
+    <script src="jquery-1.11.3.min.js"></script>
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <script src="bootstrap.min.js"></script>
+    <script>
+                
+        $(document).ready(function () {
+
+            $(document).on("click", "#btnSayHi", function () {
+                var nameData = $(this).attr('title');
+                alert('hi! ' + nameData);
+            });
+
+            
+            $('#btnCallServer').click(function () {
+                $.ajax({
+                    url: 'http://bonaventuresystems.com/Apress/BeginningHMAD/CH07/SayHello.ashx',
+                    type: 'GET',
+                    success: function (result)
+                    {
+                        var template1 = '<div class="col-lg-3">Name: <input type="text" id="txtName" value="';
+                        var template2 = '<div class="col-lg-3">Address: <input type="text" id="txtAddress" value="';
+                        var template3 = '<div class="col-lg-3"><input type="button" id="btnSayHi" value="Say Hi" title="';
+                        var template4 = '" /></div>';
+                        var oneRecord = '' ;
+                        for (var i = 0; i < result.length; i++) {
+                            oneRecord = oneRecord + template1 + result[i].Name + template4 + template2 + result[i].Address +
+                                        template4 + template3 + result[i].Name + template4;
+                        }
+                        $('#container').append(oneRecord);
+                    },
+                    error: function (err)
+                    {
+                        debugger;
+                        alert('Error!');
+                    }
+                });
+
+            });
+        });
+
+       
+    </script>
+</head>
+<body>
+    <input type="button" id="btnCallServer" value="Call Server" />
+    <br /><br /><br />
+    <div class="container" id="container">
+    </div>
+</body>
+</html>
+

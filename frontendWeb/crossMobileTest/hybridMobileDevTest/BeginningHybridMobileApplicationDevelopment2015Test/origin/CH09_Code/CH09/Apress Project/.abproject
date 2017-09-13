@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Apress Project",
+  "ProjectGuid": "fd09ee26-81dd-4903-b091-3de124851501",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ApressProject",
+  "DisplayName": "Apress Project",
+  "Author": "",
+  "Description": "Apress Project",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{94d06664-bcd0-4e54-8edc-dc50226a579c}",
+  "WP8ProductID": "{5d58d588-8cd3-46ea-bc88-88045f7cf517}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ApressProject",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}

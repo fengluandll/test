@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Say Hi</title>
+    <script src="jquery-1.11.3.min.js"></script>
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/index.css" />
+    
+    <script src="bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#btnCallServer').click(function () {
+                $.ajax({
+                    url: 'http://bonaventuresystems.com/Apress/BeginningHMAD/CH04/SayHello.ashx',
+                    type: 'GET',
+                    success: function (result)
+                    {
+                        $('#txtName').val(result.Name);
+                        $('#txtAddress').val(result.Address);
+                    },
+                    error: function (err) { alert('Error!'); }
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+    <br /><br /><br />
+    <div class="container">
+        <div class="col-lg-3">
+            Name: <input type="text" id="txtName" value="" />
+        </div>
+        <div class="col-lg-3">
+            Address: <input type="text" id="txtAddress" value="" />
+        </div>
+        <div class="col-lg-3">
+            <input type="button" id="btnCallServer" value="Call Server" />
+        </div>
+    </div>
+    
+     <div id="deviceready" class="blink">
+                <p class="event listening">Connecting to Device</p>
+                <p class="event received">Device is Ready</p>
+     </div>
+      <script type="text/javascript" src="cordova.js"></script>
+      <script type="text/javascript" src="js/index.js"></script>
+      <script type="text/javascript">
+            app.initialize();
+      </script>
+</body>
+</html>
