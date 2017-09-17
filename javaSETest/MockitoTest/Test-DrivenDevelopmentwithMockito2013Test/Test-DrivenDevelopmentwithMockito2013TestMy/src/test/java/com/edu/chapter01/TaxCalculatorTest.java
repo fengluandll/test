@@ -2,6 +2,8 @@ package com.edu.chapter01;
 
 import org.junit.Test;
 
+import java.util.Date;
+
 import static org.junit.Assert.assertTrue;
 
 public class TaxCalculatorTest {
@@ -10,10 +12,9 @@ public class TaxCalculatorTest {
         TaxCalculator taxCaculator = new TaxCalculator();
         double payableTax = taxCaculator.calculate(400000);
         assertTrue(40000 == payableTax);
-
         payableTax = taxCaculator.calculate(0);
         assertTrue(0 == payableTax);
-
+        Date date = new Date();
         payableTax = taxCaculator.calculate(500000.00);
         assertTrue(50000 == payableTax);
     }
