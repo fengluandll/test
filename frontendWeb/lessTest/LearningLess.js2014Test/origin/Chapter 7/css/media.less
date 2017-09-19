@@ -1,0 +1,47 @@
+@mobile: ~"only screen and (max-width: 529px)";
+@tablet: ~"only screen and (min-width: 530px) and (max-width: 949px)";
+@desktop: ~"only screen and (min-width: 950px) and (max-width: 1128px)";
+@desktop-xl: ~"only screen and (min-width: 1129px)";
+
+// Generate a straightforward type scale
+@font-size-base:          14px;
+@font-size-large:         @font-size-base * 1.25; // ~18px
+@font-size-small:         @font-size-base * 0.85; // ~12px
+@font-size-mini:          @font-size-base * 0.75; // ~11px
+
+// "undefined" media size set by default
+body:after { background: red; color: #ffffff; content: "undefined"; left: 0;
+  opacity: 0.8; filter: alpha(opacity=80); padding: .5em 1em; position: absolute;
+  text-align: center; top: 0; z-index: 99; }
+
+// mixin to determine which media size is being used
+.mediaMixin(@background, @content, @width, @fontsize) {
+  body:after { background: @background; content: @content; }
+  section { width: @width; font-size: @fontsize;  }
+}
+
+// mixins for each media breakpoint
+@media @mobile { .mediaMixin( orange; "mobile"; 85%; @font-size-mini ); }
+@media @tablet { .mediaMixin( purple; "tablet"; 37%; @font-size-small ); }
+@media @desktop { .mediaMixin( green; "desktop"; 40%; @font-size-base ); }
+@media @desktop-xl { .mediaMixin( blue; "desktop xl"; 45%; @font-size-large ); }
+
+body { background: #fffaef; color: #4f4351; font-family: Arial, Helvetica, sans-serif; margin: 5em 2em; }
+
+h2 { color: #4f4351; letter-spacing: -0.05em; text-align: center; text-shadow: 0 1px 2px rgba(255, 255, 255, 0.5); }
+
+p { line-height: 1.4; }
+
+section {
+  background: rgba(233, 229, 155, 0.2);
+  border: 1px solid rgba(233, 229, 155, 0.5);
+  border-radius: 4px;
+  box-shadow: 0 1px 2px rgba(154, 136, 100, 0.5);
+  display: block;
+  float: left;
+  min-height: 300px;
+  overflow: auto;
+  padding: 1em;
+  position: relative;
+  h2 { line-height: 1; margin: 0 0 1em 0; min-height: 2.5em; padding: 0; }
+}

@@ -1,0 +1,15 @@
+#transitionbox {
+    width: 120px;
+    height: 120px;
+    background: #85486d;
+    -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 2s;
+}
+
+#text {
+    width: 300px;
+}
+
+#transitionbox:hover {
+    width: 300px;
+}

@@ -1,0 +1,81 @@
+@import url("../twentytwelve/style.css");
+
+body{ color:#eee; background-color: #E6E6E6; }
+body a { text-decoration: none; }
+
+body.site { box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3); margin-bottom: 3.42857rem; margin-top: 3.42857rem; padding: 1.85714rem; }
+body.template-front-page .site-content, 
+body.attachment .site-content, 
+body.full-width .site-content { width: 70%; }
+
+a{ color: #F95812; font-weight: bold; }
+
+.nav-menu { float: left; margin-top: -25px; }
+.nav-menu { background-color: #971B95; height: 30px; width: 99.9%; }
+.nav-menu ul { margin: 0; padding: 0; }
+.nav-menu li { display: block; float: left; line-height: 30px; height: 30px; margin: 0; padding: 0; position: relative; }
+.nav-menu li a  { display: block; height: 30px; line-height: 30px; padding: 0 15px; width: 8rem; }
+.nav-menu .current-menu-item a, 
+.nav-menu .current_page_item a, 
+.nav-menu a:hover { color: #000; }
+.nav-menu li:hover a  { display: block; height: 30px; line-height: 30px; padding: 0 15px; background-color: #d0a3f9; }
+
+ul.sub-menu { position: absolute; top: 30px; }
+ul.sub-menu li { float: none; width: 150px; }
+ul.sub-menu li a { padding: 5px 10px; display: none; }
+ul.sub-menu li:hover a { padding: 0px 15px; display: block; }
+
+.nav-links { float: left; margin-top: -40px; position: absolute; }
+
+.site { background-color: #333333; margin: 0 auto; max-width: 68.5714rem; overflow: hidden; padding: 1.71429rem; }
+
+.site-title a{color:#fff}
+.site-header h1 { font-size: 2.35714rem; line-height: 1.84615; margin-bottom: 0; }
+.site-header h1 a, .site-header h2 a{color:#fff}
+.site-header h1 a:hover, .site-header h2 a:hover{color:#4d8b97}
+.site-header h2{color:#eee}
+
+.site-content article { margin-top: -25px; -moz-hyphens: auto; padding-bottom: 1.71429rem; word-wrap: break-word; border-bottom: 1px double #fff; margin-bottom: 3.5rem; }
+
+.entry-header .entry-title a{color:#fff}
+.entry-header .entry-title a:hover{color:#335c64}
+.entry-header a, .entry-meta a { color: #f95812; }
+.entry-header a:hover,.entry-meta a:hover{color:#335c64}
+.entry-header .entry-title{color:#fff}
+
+.entry-meta { clear: both; font-size: 10px; margin-top: -5px; }
+
+#secondary { border-left: 1px solid #666666; float: right; padding-left: 20px; }
+
+.search-field { float: right; margin-top: -50px; margin-right: 67px; }
+.search-submit{ float: right; margin-top: -49px; }
+#s, #searchsubmit{background:#666;border-color:#666;color:#fff}
+
+footer[role="contentinfo"] { border-top: 1px solid #EDEDED; clear: both; font-size: 0.857143rem; line-height: 2; margin-left: auto; margin-right: auto;
+    margin-top: 1.71429rem; max-width: 68.5714rem; padding: 0 0 1.5rem; }
+
+footer[role="contentinfo"] a{color:#4d8b97}
+footer[role="contentinfo"] a:hover{color:#335c64}
+
+#site-header img { width: 99.9%; }
+
+.avatar.photo { float: left; padding-right: 5px; }
+
+.comments-link > a { font-size: 10px; }
+
+.comment-meta { border-bottom: 1px solid #FFFFFF; padding: 3px 3px 9px; background-color: #FFA500; }
+
+.comment-metadata time { font-size: 11px; }
+
+.comment-content > p { padding: 8px; }
+
+.comments-area { margin-top: 25px; }
+
+.comment-body { border: 1px solid #FFFFFF; border-radius: 2px; background-color: #fff; color: #000; }
+
+.reply { float: right; margin-right: -30px; margin-top: -145px; width: 75px; }
+
+.widget-area { float: right; width: 100%; }
+.widget-area .widget a { color: #F95812; }
+.widget-area .widget a:hover { color: #f8b598; }
+.widget-area .widget .widget-title { border-bottom: 2px solid #666666; color: #C6E097; font-family: 'Rock Salt',cursive; }

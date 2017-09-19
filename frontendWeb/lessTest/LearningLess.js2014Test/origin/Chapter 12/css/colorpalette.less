@@ -1,0 +1,60 @@
+@baseColor: rgba(166,112,151,1);
+@distance: 120; 
+@triad1: @baseColor; 
+@triad2: spin(@baseColor, (180 - (@distance * 0.5))); 
+@triad3: spin(@baseColor, (180 + (@distance * 0.5)));
+
+.triad1() {
+    background-color: @triad1; 
+}
+
+.triad2() {
+    background-color: @triad2;  
+}
+
+.triad3() {
+    background-color: @triad3;  
+}
+
+.font-style() {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+	width: 160px;
+	font-size: 12px;
+	text-align: center;
+	padding: 15px;
+    font-size: 14px;
+    line-height: 1.42857;   
+    margin-top: 5px; 
+	color: #ffffff;
+}
+
+.box {
+	margin-left: 250px;
+	.font-style;
+}
+
+.firstcolor {
+	.triad1;	
+}
+
+.secondcolor {
+	.triad2;
+}
+
+.thirdcolor {
+	.triad3;	
+}
+
+body {
+	margin-left: 10px;
+	padding: 0;
+}
+
+h3 {
+	margin-top: 10px;
+	margin-bottom: -5px;
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+	width: 300px;
+	position: absolute;
+	float: left;
+}

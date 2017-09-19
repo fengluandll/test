@@ -1,0 +1,67 @@
+@text-color: hsl(0,0%,53.3%);
+
+body {
+  background: hsl(0,0%,13.3%);
+}
+
+.text-color(@text-color) when (lightness(@text-color) > 40%) {
+    color: #000000;
+}
+
+.text-color(@text-color) when (lightness(@text-color) < 40%) {
+    color: #ffffff;
+}
+
+.h3-text() {
+  background-repeat: no-repeat;
+  font-size: 1.5rem;
+  padding-left: 40px;  
+}
+
+.button(@button_type) {
+  text-decoration: none;
+  padding: 1em 3em;
+  width: 20%;
+  margin: 1% auto;
+  display: block;
+  text-align: center;
+  font-family: sans-serif;
+  border-radius: 5px;
+  line-height: 40px;
+  border: 1px solid #000000;
+  background: @button_type;
+}
+
+@button_confirm: #008000;
+@button_warning: #ffc53a;
+@button_error: #ff0000;
+
+#confirm {
+  .button(@button_confirm);
+  .text-color(@button_confirm);
+  
+  h3 {
+    background-image: url(confirmation.png);
+    .h3-text;
+  }
+}
+
+#warning {
+  .button(@button_warning);
+  .text-color(@button_warning);
+  
+  h3 {
+    background-image: url(warning.png);
+    .h3-text;
+  }
+}
+
+#error {
+  .button(@button_error);
+  .text-color(@button_error);
+  
+  h3 {
+    background-image: url(error.png);
+    .h3-text;
+  }
+}

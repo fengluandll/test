@@ -1,0 +1,49 @@
+.keyframes (@name, @color0, @color25, @color50, @color100) {
+    @-webkit-keyframes @name { 
+        0% {background: @color0} 
+        25%  {background: @color25;}
+        50%  {background: @color50;}
+        100% {background: @color100;}
+    }
+        
+    @keyframes @name { 
+        0% {background: @color0} 
+        25%  {background: @color25;}
+        50%  {background: @color50;}
+        100% {background: @color100;}
+    }
+}
+
+#animatebox {
+    width: 120px;
+    height: 120px;
+    background: #85486d;
+    -webkit-animation: animbox 5s; /* Chrome, Safari, Opera */
+    animation: animbox 5s;
+}
+
+#text {
+    float: left;
+    padding-left: 130px;
+    width: 300px;
+}
+
+.keyframes(animbox, #85486d, #9F6287, #B87BA0, #B87BA0);
+
+
+/*
+@-webkit-keyframes animbox {
+    0%   {background: #85486d;}
+    25%  {background: #9F6287;}
+    50%  {background: #B87BA0;}
+    100% {background: #B87BA0;}
+}
+
+/* Standard syntax 
+@keyframes animbox {
+    0%   {background: #85486d;}
+    25%  {background: #9F6287;}
+    50%  {background: #B87BA0;}
+    100% {background: #D295BA;}
+}
+*/

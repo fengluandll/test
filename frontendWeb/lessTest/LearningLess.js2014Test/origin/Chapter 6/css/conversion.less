@@ -1,0 +1,33 @@
+@import "lesshat.less";
+@import "variables.less";
+
+.columnsize( @height, @width) {
+	float: left;
+	height: @height; 
+	width: @width;
+	padding: 10px;
+}
+
+div { font-family: @KiteOne; margin-bottom: 5px; margin-top: 5px; padding: 5px; }
+
+#container { border: 1px solid @black; .border-radius(4px);
+.box-shadow(4px 4px 0 rgba(0, 0, 0, 0.5)); margin: 5% auto; width: 800px; }
+
+#title { color: @white; font-size: 32px; padding-left: 100px; padding-top: 30px; position: absolute; }
+
+#header { background-image: url("../img/leaves.jpg"); font-size: 18px; height: 150px; }
+
+#leftmargin { 
+	.box-sizing(border-box); border-right: 1px solid @lightgray; .columnsize(575px, 306px);
+	li { list-style: none outside none; }
+	a { 
+		text-decoration: none; 
+		&:hover { text-decoration: underline; }
+	}
+}
+
+#content { .box-sizing(border-box); .columnsize(575px, 494px); }
+
+#footer { border-top: 1px solid @lightgray; clear: both; font-size: 12px; height: 65px; }
+
+#social { width: 175px; height: 60px; background-image: url('../img/sprites.png'); float: right;}

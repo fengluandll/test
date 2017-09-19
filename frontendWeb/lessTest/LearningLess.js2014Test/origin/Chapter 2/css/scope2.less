@@ -1,0 +1,17 @@
+@boxcolor1: lightgreen;
+
+html { font-family: 'Over the Rainbow', cursive; font-weight: bold; font-size: 20px; }
+div {  width: 200px; height: 100px; padding: 3px; border-radius: 3px; float: left; position: absolute; }
+
+#box1 { margin-left: 0; }
+#box2 { margin-left: 225px; }
+#box3 { margin-left: 450px; }
+
+#container {
+  @boxcolor2: red;
+  #box1 { background-color: @boxcolor1; }
+  #box2 { background-color: @boxcolor2; }
+
+  @boxcolor3: orange;
+  #box3 { background-color: @boxcolor3; }
+}

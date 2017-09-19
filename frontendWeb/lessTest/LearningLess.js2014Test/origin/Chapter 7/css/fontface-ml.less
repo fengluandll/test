@@ -1,0 +1,19 @@
+@import "lesshat.less";
+
+@my-font-name: 'pt_sansregular';
+@fontfile: '../fonts/PTS55F-webfont';
+
+@font-face {
+	.font-face(@my-font-name, @fontfile);
+}
+
+.myfont() {
+	font-family: @my-font-name, arial;
+}
+
+h1 { .myfont; color: #808080; }
+h2 { .myfont; color: #ff0000; }
+h3 { .myfont; color: #008000; }
+h4 { .myfont; color: #ffa500; }
+h5 { .myfont; color: #800080; }
+h6 { .myfont; color: #000000; }

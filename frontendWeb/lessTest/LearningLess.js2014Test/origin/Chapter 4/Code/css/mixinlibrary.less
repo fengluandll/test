@@ -1,0 +1,31 @@
+.background (@bkgrd) {
+  background: @bkgrd;
+}
+
+.border-radius (@radius) {
+  -webkit-border-radius: @radius;
+     -moz-border-radius: @radius;
+          border-radius: @radius;
+}
+
+.box-shadow (@x: 0; @y: 0; @blur: 1px; @color: #000) {
+  -webkit-box-shadow: @x @y @blur @color;
+     -moz-box-shadow: @x @y @blur @color;
+          box-shadow: @x @y @blur @color;
+}
+
+.formfont() {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.button (@color1, @color2, @color3) {
+  background: -moz-linear-gradient(top, @color1 0%, @color2 6%, @color3 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, @color1), color-stop(6%, @color2), color-stop(100%, @color3));
+  background: -webkit-linear-gradient(top, @color1 0%, @color2 6%, @color3 100%);
+  background: -o-linear-gradient(top, @color1 0%, @color2 6%, @color3 100%);
+  background: -ms-linear-gradient(top, @color1 0%, @color2 6%, @color3 100%);
+  background: linear-gradient(to bottom, @color1 0%, @color2 6%, @color3 100%);  
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='@middle', endColorstr='@stop', GradientType=0);
+  border: 1px solid #980c10;  
+} 

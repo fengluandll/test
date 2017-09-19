@@ -1,0 +1,22 @@
+<!DOCType html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Installing LESS using Bower</title>
+    <link rel="stylesheet" type="text/less" href="include.less">
+    <!--<script src="http://cdnjs.cloudflare.com/ajax/libs/less.js/1.6.1/less.min.js"></script>-->
+    <script type="text/javascript" src="http://localhost/chapter3/bower_components/less/dist/less-1.6.1.js"></script>
+    <script type="text/javascript">
+      less.modifyVars({
+        '@color-button': '#61783F'
+      });
+    </script>
+  </head>
+<body>
+  <form action="">
+    Name: <input type="text" class="input" />
+    Password: <input type="password" class="input" />
+    <input type="submit" id="submitfrm" value="This is a button" />
+  </form>
+</body>
+</html>

@@ -1,0 +1,27 @@
+// posts.less
+
+.site-content {
+	article {
+		border-bottom: 4px double @border-color;
+	}
+}
+
+.entry-header {
+	.entry-title {
+		.links(@entry-title-link, @entry-title-link-hover);
+	}
+}
+
+.entry-header, .entry-meta {
+	.links(@entry-title-link, @entry-title-link-hover);
+}
+
+.entry-header .entry-title {
+	.links(@entry-title-color, @entry-title-link-hover);
+}
+
+.entry-meta {
+    clear: both;
+    font-size: 10px;
+    margin-top: -5px;
+}

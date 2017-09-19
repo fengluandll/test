@@ -1,0 +1,36 @@
+.font-family() {
+	font-family: Helvetica, arial, times new roman;
+	font-weight: bold;
+}
+
+@base_color: #893939;
+
+h1 {
+	color: @base_color;
+	.font-family;
+}
+
+h2 { 
+	color: saturate(@base_color, 30%);
+	.font-family;
+}
+
+h3 {
+	color: fadeout(red, 70%);
+	.font-family;
+}
+
+h4 {
+	color: mix(blue, @base_color, 50%);
+	.font-family;
+}
+
+h5{
+	color: lighten(@base_color, 20%);
+	.font-family;
+}
+
+h6 {
+	color: darken(@base_color, 20%);
+	.font-family;
+}

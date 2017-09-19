@@ -1,0 +1,29 @@
+#animatebox {
+    width: 120px;
+    height: 120px;
+    background: #85486d;
+    -webkit-animation: animbox 5s; /* Chrome, Safari, Opera */
+    animation: animbox 5s;
+}
+
+#text {
+    float: left;
+    padding-left: 130px;
+    width: 300px;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes animbox {
+    0%   {background: #85486d;}
+    25%  {background: #9F6287;}
+    50%  {background: #B87BA0;}
+    100% {background: #D295BA;}
+}
+
+/* Standard syntax */
+@keyframes animbox {
+    0%   {background: #85486d;}
+    25%  {background: #9F6287;}
+    50%  {background: #B87BA0;}
+    100% {background: #D295BA;}
+}

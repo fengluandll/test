@@ -1,0 +1,55 @@
+.background (@color1, @color2) {
+  background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, @color1), color-stop(1, @color2) );
+  background: -moz-linear-gradient( center top, @color1 5%, @color2 100% );
+  background-color: @color1;
+  border: 1px solid @color1;
+}
+
+#button() {
+  .base {
+	border-radius: 6px; 
+	color: #fff;
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: normal;
+	height: 32px;
+	text-align: center;
+	text-shadow: 1px 1px 0px #000;
+	margin-left: 5px;
+	&:active { position: relative; top: 1px; }
+  }
+
+  .red {
+	.background(#cc1c28, #a01620);
+	box-shadow: inset 0px 1px 0px 0px #b61924;
+	&:hover { .background(#a01620, #cc1c28) }
+  }
+
+	.purple {
+	  .background(#800080, #9a009a);
+	  box-shadow: inset 0px 1px 0px 0px #670067;
+	  &:hover { .background(#9a009a, #800080) }		
+	}
+
+	.blue {
+	  .background(#004771, #00578a);
+	  box-shadow: inset 0px 1px 0px 0px #0067a4;
+	  &:hover { .background(#00578a, #004771) }		
+	}
+}
+
+.redbutton {
+	#button > .base;
+	#button > .red;
+}
+
+.purplebutton {
+	#button > .base;
+	#button > .purple;	
+}
+
+.bluebutton {
+	#button > .base;
+	#button > .blue
+}

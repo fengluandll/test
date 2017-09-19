@@ -1,0 +1,52 @@
+// navigation.less
+
+.nav-menu { 
+	float: left; margin-top: -25px; 
+	background-color: #971B95; height: 30px; width: 99.9%; 
+
+	ul { 
+		margin: 0; padding: 0; 
+	}
+
+	li { 
+		display: block; float: left; line-height: 30px; height: 30px; margin: 0; padding: 0; position: relative; 
+		a  { 
+			display: block; height: 30px; line-height: 30px; padding: 0 15px; width: 8rem; 
+		}
+	}
+
+}
+
+.nav-menu {
+	.current-menu-item a { 
+		color: @black; 
+	}
+
+	.current_page_item a {
+		color: @black; 
+	}
+
+	a:hover { 
+		color: @black; 
+	}
+
+	li:hover a { 
+		display: block; height: 30px; line-height: 30px; padding: 0 15px; background-color: #d0a3f9; 
+	}
+}
+
+ul.sub-menu { 
+	position: absolute; top: 30px; 
+
+	li { 
+		float: none; width: 150px; 
+		a { padding: 5px 10px; display: none; }
+		&:hover a { padding: 0px 15px; display: block; }
+	}
+}
+
+.nav-links { 
+	float: left; 
+	margin-top: -40px; 
+	position: absolute; 
+}
