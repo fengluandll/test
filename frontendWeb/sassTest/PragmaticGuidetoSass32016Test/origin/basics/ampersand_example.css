@@ -1,10 +1,21 @@
 .infobox {
-  color: blue; }
-  .user .infobox {
-    color: gray; }
+    color: blue;
+}
+
+.user .infobox {
+    color: gray;
+}
+
 .message {
-  color: gray; }
-  .message.new {
-    color: red; }
+    color: gray;
+}
+
+.message.new {
+    color: red;
+}
+
 .user .infobox .message {
-  content: "Selector is '.user .infobox .message'"; }
+    content: "Selector is '.user .infobox .message'";
+}
+
+/*# sourceMappingURL=ampersand_example.css.map */

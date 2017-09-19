@@ -1,11 +1,19 @@
 .infobox {
   color: blue;
   .user & {
-    color: gray; } }
+    color: gray;
+  }
+}
+
 .message {
   color: gray;
   &.new {
-    color: red; } }
+    color: red;
+  }
+}
+
 .infobox {
   .user & .message {
-    content: "Selector is '.user .infobox .message'"; } }
+    content: "Selector is '.user .infobox .message'";
+  }
+}
