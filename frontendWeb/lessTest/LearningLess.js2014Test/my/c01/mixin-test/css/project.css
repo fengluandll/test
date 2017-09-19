@@ -1,0 +1,16 @@
+.green-gradient {
+  background: #5cb100;
+  background: linear-gradient(to top, #5cb100, #305d00);
+  background: -o-linear-gradient(top, #5cb100, #305d00);
+  background: -webkit-linear-gradient(top, #5cb100, #305d00);
+}
+.shape1 {
+  background: #5cb100;
+  background: linear-gradient(to top, #5cb100, #305d00);
+  background: -o-linear-gradient(top, #5cb100, #305d00);
+  background: -webkit-linear-gradient(top, #5cb100, #305d00);
+  height: 100px;
+  width: 80px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
