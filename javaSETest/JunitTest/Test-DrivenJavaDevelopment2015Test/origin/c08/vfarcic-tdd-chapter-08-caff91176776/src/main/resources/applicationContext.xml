@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+  http://www.springframework.org/schema/beans/spring-beans.xsd"
+        >
+
+    <!--This has been left in case you want to @Autowire the components-->
+    <bean class="com.packtpublishing.tddjava.ch08.alexandria.BooksEndpoint">
+        <constructor-arg ref="booksRepository"/>
+    </bean>
+
+    <bean class="com.packtpublishing.tddjava.ch08.alexandria.CustomExceptionMapper"/>
+
+    <bean id="booksRepository" class="com.packtpublishing.tddjava.ch08.alexandria.BooksRepository" scope="singleton"/>
+
+    <bean class="com.packtpublishing.tddjava.ch08.alexandria.UserRepository" scope="singleton"/>
+
+</beans>
