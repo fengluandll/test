@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="414dad5c-6c55-4f9f-8605-1c927242aa76" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" />
+      <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" />
+      <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" />
+      <change beforePath="$PROJECT_DIR$/.idea/typescript-compiler.xml" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/compileOpt.ts" afterPath="$PROJECT_DIR$/my/smallTest/compileOpt.ts" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/number-helper.ts" afterPath="$PROJECT_DIR$/my/smallTest/number-helper.ts" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/structType.ts" afterPath="$PROJECT_DIR$/my/smallTest/structType.ts" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/tsconfig.json" afterPath="$PROJECT_DIR$/my/smallTest/tsconfig.json" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/utils/date-helper.js" afterPath="$PROJECT_DIR$/my/smallTest/utils/date-helper.js" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/utils/enum-helper.js" afterPath="$PROJECT_DIR$/my/smallTest/utils/enum-helper.js" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/utils/event-emitter.js" afterPath="$PROJECT_DIR$/my/smallTest/utils/event-emitter.js" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/utils/number-helper.js" afterPath="$PROJECT_DIR$/my/smallTest/utils/number-helper.js" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/utils/polyfills.js" afterPath="$PROJECT_DIR$/my/smallTest/utils/polyfills.js" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/utils/polyfills/object-assign.js" afterPath="$PROJECT_DIR$/my/smallTest/utils/polyfills/object-assign.js" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/utils/select-helper.js" afterPath="$PROJECT_DIR$/my/smallTest/utils/select-helper.js" />
+      <change beforePath="$PROJECT_DIR$/my/smallTest/utils/string-helper.js" afterPath="$PROJECT_DIR$/my/smallTest/utils/string-helper.js" />
+      <change beforePath="$PROJECT_DIR$/original/server-app/package.json" afterPath="$PROJECT_DIR$/original/server-app/package.json" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="number-helper.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/smallTest/number-helper.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="structType.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/smallTest/structType.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="61" lean-forward="false" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compileOpt.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/smallTest/compileOpt.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compileOpt.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/smallTest/compileOpt.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compileOpt.js.map" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/smallTest/compileOpt.js.map">
+          <provider editor-type-id="sourcemapFileViewerProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="number-helper.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/smallTest/number-helper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="date-helper.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/smallTest/utils/date-helper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="number-helper.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/original/web-app/src/scripts/utils/number-helper.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/original/readme.md" />
+        <option value="$PROJECT_DIR$/my/smallTest/number-helper.js" />
+        <option value="$PROJECT_DIR$/my/smallTest/number-helper.ts" />
+        <option value="$PROJECT_DIR$/my/smallTest/structType.ts" />
+        <option value="$PROJECT_DIR$/my/smallTest/tsconfig.json" />
+        <option value="$PROJECT_DIR$/my/smallTest/compileOpt.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/original/server-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/original/web-app/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MasteringTypeScriptC2016" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringTypeScriptC2016" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringTypeScriptC2016" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringTypeScriptC2016" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringTypeScriptC2016" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringTypeScriptC2016" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+              <item name="smallTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MasteringTypeScriptC2016" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MasteringTypeScriptC2016" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+              <item name="smallTest" type="462c0819:PsiDirectoryNode" />
+              <item name="compileOpt.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="add_unversioned_files" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my/smallTest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.structType.js">
+    <configuration name="number-helper.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="number-helper.js" working-dir="$PROJECT_DIR$/my/smallTest" />
+    <configuration name="structType.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="structType.js" working-dir="$PROJECT_DIR$/my/smallTest" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.number-helper.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.structType.js" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.structType.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.number-helper.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="414dad5c-6c55-4f9f-8605-1c927242aa76" name="Default" comment="" />
+      <created>1507863820405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507863820405</updated>
+      <workItem from="1507863821864" duration="411000" />
+      <workItem from="1507864949188" duration="3559000" />
+    </task>
+    <task id="LOCAL-00001" summary="ic">
+      <created>1507865104822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507865104822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3970000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17640863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.50277996" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.49722" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2979146" sideWeight="0.49722" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/my/smallTest/number-helper.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/actions/order-actions.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/actions/about-actions.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/actions/food-item-actions.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/resources.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/utils.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/main.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/server.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/actions.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/app-dispatcher.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/stores.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/server-factory.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/tests/utils/select-helper-tests.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/tests/utils/string-helper-tests.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/tests/utils/number-helper-tests.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/tests/utils/enum-helper-tests.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/tests/utils/event-emitter-tests.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/tests/utils/date-helper-tests.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/utils/polyfills/object-assign.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/utils/string-helper.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/utils/polyfills.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/utils/date-helper.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/utils/enum-helper.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/utils/event-emitter.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/utils/select-helper.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/utils/number-helper.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/stores/base/base-store.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/stores/order-store.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/stores/base.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/stores/food-item-store.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/server/enums/food-item-status.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/server/enums/order-status.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/server/enums/order-priority.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/server/order.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/server/enums.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/server/server.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/server/food-item.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/resources/get-order-priority-string.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/resources/get-order-status-string.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/resources/get-food-item-status-string.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/pages/partials/sidebar.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/pages/orders/order-edit.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/pages/orders/order-list.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/pages/misc/about.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/pages/food-items/food-item-edit.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/pages/food-items/food-item-list.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/config/structure/config-structure.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/config/config-default.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/config/config.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/tables/table.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/page/page-header.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/page/page-content.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/inputs/base/base-input.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/inputs/base/base-input-props.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/inputs/select-input.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/inputs/select-input-option.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/inputs/currency-input.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/inputs/base.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/inputs/text-input.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/groups/base/base-group.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/groups/button-group.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/groups/control-group.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/groups/base.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/forms/base/base-form.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/forms/base/base-form-props.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/forms/base.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/forms/control-form.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/buttons/base/base-button-props.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/buttons/base/base-button.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/buttons/submit-button.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/buttons/danger-button.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/buttons/reset-button.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/buttons/button.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/buttons/base.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/buttons/cancel-button.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/tables.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/page.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/groups.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/forms.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/inputs.js" />
+        <option value="$PROJECT_DIR$/original/web-app/src/scripts/components/buttons.js" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils.js" />
+        <option value="$PROJECT_DIR$/my/smallTest/structType.js" />
+        <option value="$PROJECT_DIR$/my/smallTest/compileOpt.js" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/compileOpt.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/structType.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/number-helper.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils/polyfills/object-assign.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils/string-helper.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils/polyfills.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils/number-helper.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils/event-emitter.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils/date-helper.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils/select-helper.js.map" />
+        <option value="$PROJECT_DIR$/my/smallTest/utils/enum-helper.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="ic" />
+    <option name="LAST_COMMIT_MESSAGE" value="ic" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/original/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original/overview.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original/web-app/src/scripts/utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/number-helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/utils/date-helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original/web-app/src/scripts/utils/number-helper.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/number-helper.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/structType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/structType.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="61" lean-forward="false" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/compileOpt.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/compileOpt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/smallTest/compileOpt.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
