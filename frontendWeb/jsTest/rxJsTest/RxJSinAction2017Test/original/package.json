@@ -1,0 +1,38 @@
+{
+  "name": "rxjs-in-action",
+  "version": "1.0.0",
+  "description": "Server for running RxJS in Action samples",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://paulpdaniels@bitbucket.org/rxjsia/rxjs-in-action.git"
+  },
+  "keywords": [
+    "rxjs",
+    "rx",
+    "reactive",
+    "reactive-extensions",
+    "samples",
+    "functional",
+    "lambda"
+  ],
+  "author": "Paul P. Daniels and Luis Atencio",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/rxjsia/rxjs-in-action#readme",
+  "dependencies": {
+    "@reactivex/rxjs": "^5.0.0-beta.7",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request-promise": "^3.0.0",
+    "rxjs-es": "^5.0.0-beta.9",
+    "websocket": "^1.0.23",
+    "expect": "0.3.1",
+    "assert": "0.5.0",
+    "chai": "3.5.0",
+    "ramda": "0.22.1"
+  }
+}
