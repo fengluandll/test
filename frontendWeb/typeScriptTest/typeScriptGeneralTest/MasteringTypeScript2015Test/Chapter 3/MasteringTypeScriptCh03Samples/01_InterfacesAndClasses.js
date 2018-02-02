@@ -1,5 +1,4 @@
-﻿//interface IComplexType {
-
+//interface IComplexType {
 //var complexType: IComplexType = {
 //    id: 1,
 //    name: "complexType",
@@ -32,13 +31,13 @@ var ComplexType = (function () {
         }
     };
     ComplexType.prototype.usingDefaultParameters = function (defaultArg1) {
-        if (typeof defaultArg1 === "undefined") { defaultArg1 = 0; }
+        if (defaultArg1 === void 0) { defaultArg1 = 0; }
         this.id = defaultArg1;
     };
     ComplexType.prototype.usingRestSyntax = function () {
         var argArray = [];
-        for (var _i = 0; _i < (arguments.length - 0); _i++) {
-            argArray[_i] = arguments[_i + 0];
+        for (var _i = 0; _i < arguments.length; _i++) {
+            argArray[_i] = arguments[_i];
         }
         if (argArray.length > 0) {
             this.id = argArray[0];
@@ -48,11 +47,9 @@ var ComplexType = (function () {
         callback(this.id);
     };
     return ComplexType;
-})();
-
+}());
 var complexType = new ComplexType(1, "complexType");
 var complexType_2 = new ComplexType("1", "1");
-
 //var complexType_3: ComplexType = new ComplexType(true, true);
 complexType.usingTheAnyKeyword(true);
 complexType.usingTheAnyKeyword({ id: 1, name: "test" });
@@ -66,7 +63,6 @@ function myCallbackFunction(id) {
     return id.toString();
 }
 complexType.usingFunctionCallbacks(myCallbackFunction);
-
 //var complexType_2: ComplexType = new ComplexType(2, "complexType_2");
 window.onload = function () {
     console.log(complexType.print());
@@ -75,4 +71,3 @@ window.onload = function () {
 //if (complexType == complexType_2) {
 //    console.log("types are equal");
 //}
-//# sourceMappingURL=01_InterfacesAndClasses.js.map
