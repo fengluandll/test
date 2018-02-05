@@ -5,6 +5,8 @@
  *  @author Luis Atencio
  */
 
+var Observable = require('rxjs/Observable').Observable;
+
 Observable.create(observer => {
     var i = 1;
     const timeoutId = setTimeout(() => {
