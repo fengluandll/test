@@ -6,25 +6,26 @@
  * We make no guarantees that this code is fit for any purpose.
  * Visit http://www.pragmaticprogrammer.com/titles/smreactjs for more book information.
 ***/
-function iteratorFromArray(arr) {
+function IteratorFromArray(arr) {
   this.cursor = 0;
   this.array = arr;
 }
 
-iteratorFromArray.prototype.next = function() {
+IteratorFromArray.prototype.next = function() {
   while (this.cursor < this.array.length) {
     return this.array[this.cursor++];
   }
 };
 
-iteratorFromArray.prototype.hasNext = function() {
+IteratorFromArray.prototype.hasNext = function() {
   return this.cursor < this.array.length - 1;
 };
-var consumer = new iteratorFromArray([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
+var consumer = new IteratorFromArray([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
 
 console.log(consumer.next(), consumer.hasNext()); // 1 true
 console.log(consumer.next(), consumer.hasNext()); // 2 true
 console.log(consumer.next(), consumer.hasNext()); // 3 true
+
 function iterateOnMultiples(arr, divisor) {
   this.cursor = 0;
   this.array = arr;

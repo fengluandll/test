@@ -1,0 +1,21 @@
+{
+  "name": "my",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "YunZhang2014 <jslgdxzy@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/YunZhang2014/test",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rxjs-dom": "rx-dom#^7.0.3"
+  }
+}
