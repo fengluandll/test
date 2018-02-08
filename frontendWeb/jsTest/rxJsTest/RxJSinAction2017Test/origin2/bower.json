@@ -1,0 +1,29 @@
+{
+  "name": "rxjs-in-action",
+  "description": "The code sample repository for the RxJS in Action book",
+  "main": "index.js",
+  "authors": [
+    "Paul Daniels"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "rx",
+    "rxjs",
+    "reactive-programming",
+    "async",
+    "functional",
+    "frp"
+  ],
+  "homepage": "https://github.com/YunZhang2014/test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rxjs": "^4.1.0",
+    "moment": "^2.20.1"
+  }
+}

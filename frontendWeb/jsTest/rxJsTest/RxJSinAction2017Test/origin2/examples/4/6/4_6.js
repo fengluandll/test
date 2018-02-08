@@ -4,6 +4,9 @@
  *  @author Paul Daniels
  *  @author Luis Atencio
  */
+
+var Rx = require('rxjs');
+
 Rx.Observable.timer(1000)
    .delay(2000)
    .timeInterval()

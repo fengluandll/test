@@ -4,6 +4,9 @@
  *  @author Paul Daniels
  *  @author Luis Atencio
  */
+
+var Rx = require('rxjs');
+
 const promise = new Promise((resolve, reject) => {  
     setTimeout(() => {
        resolve(42);

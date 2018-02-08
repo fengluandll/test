@@ -14,4 +14,5 @@ const source$ = Rx.Observable.create(observer => {
   });
 
 source$.subscribe(() =>
-  document.querySelector('#panel').style.backgroundColor = 'red');
+  document.querySelector('#panel').style.backgroundColor = 'red',
+    null,() => console.log('complete'));

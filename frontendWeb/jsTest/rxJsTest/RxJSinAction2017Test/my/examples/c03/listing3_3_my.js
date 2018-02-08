@@ -1,8 +1,30 @@
 var Rx = require('rxjs');
 
-Rx.Observable.from([
-    'The quick brown fox', 'jumps over the lazy dog'
-])
-.map(str => str.split(' '))
-.do(arr => console.log(arr.length))
-.subscribe(console.log);
+const progressBar$ = Rx.Observable.create(
+    observer => {
+        const OFFSET = 3000;
+        const SPEED = 50;
+
+        let val = 0;
+        let timeoutId = 0;
+
+        function progress() {
+            if (++val <= 100){
+                observer.next(val);
+                timeoutId = setTimeout(progress, SPEED);
+                console.log(`val: ${val}, timeoutId: ${timeoutId}`);
+            }else {
+                observer.complete();
+            }
+        }
+
+        timeoutId = setTimeout(progress, OFFSET);
+        console.log(`start time id: ${timeoutId}`);
+
+        return () => {
+            clearTimeout(timeoutId);
+        };
+    }
+);
+
+progressBar$.subscribe(console.log);

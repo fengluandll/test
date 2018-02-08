@@ -4,6 +4,8 @@
  *  @author Paul Daniels
  *  @author Luis Atencio
  */
+
+var Rx = require('rxjs');
 Rx.Observable.from([1, 2])
     .delay(2000)
     .concat(Rx.Observable.from([3, 4]))

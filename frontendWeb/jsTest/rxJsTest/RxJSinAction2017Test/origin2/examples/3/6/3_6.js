@@ -4,6 +4,9 @@
  *  @author Paul Daniels
  *  @author Luis Atencio
  */
+
+var Rx = require('rxjs');
+
 function exclude(predicate) {
   return Rx.Observable.create(subscriber => {
       let source = this;

@@ -4,6 +4,7 @@
  *  @author Paul Daniels
  *  @author Luis Atencio
  */
+var Rx = require('rxjs');
 Rx.Observable.of([1, 2, 3, 4, 5])
       .do(x => console.log(`Emitted: ${x}`)) //#A
       .delay(200)

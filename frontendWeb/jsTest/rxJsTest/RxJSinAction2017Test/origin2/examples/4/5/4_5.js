@@ -4,6 +4,9 @@
  *  @author Paul Daniels
  *  @author Luis Atencio
  */
+
+var Rx = require('rxjs');
+
 const Money = function (currency, val) {
   return {
     value: function () {
@@ -32,4 +35,4 @@ Rx.Observable.interval(2000)
   // WARNING: NOT IN TEXT
   // Added to address #11 (https://github.com/RxJSInAction/rxjs-in-action/issues/11)
   .map(usd => usd.toString())
-  .forEach(console.log);
+  .subscribe(console.log);
