@@ -1,0 +1,21 @@
+.infobox {
+    width: 201px;
+}
+
+.infobox .message {
+    border: 1px solid red;
+}
+
+.infobox .message .title {
+    color: red;
+}
+
+.infobox .user {
+    border: 2px solid black;
+}
+
+.infobox .user .title {
+    color: blue;
+}
+
+/*# sourceMappingURL=example_nesting.css.map */
