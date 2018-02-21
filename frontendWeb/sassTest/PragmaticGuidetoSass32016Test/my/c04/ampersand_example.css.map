@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,QAAQ;EACN,KAAK,EAAE,IAAI;;AAEX,cAAO;EACL,KAAK,EAAE,IAAI",
+"sources": ["ampersand_example.scss"],
+"names": [],
+"file": "ampersand_example.css"
+}
