@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c62cc5f-e85d-4890-922f-495cdedbb74f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/stringExample.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../jsFunctionalTest/BeginningFunctionalJavaScript2017Test/my/c04/closure1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../jsFunctionalTest/BeginningFunctionalJavaScript2017Test/my/c04/func2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../jsFunctionalTest/BeginningFunctionalJavaScript2017Test/my/c04/func3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/codePointTest.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/stickyEx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/strSort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/my/02/yFlag.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,11 +24,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stringExample.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my/02/stringExample.js">
+      <file leaf-file-name="strSort.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/02/strSort.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="190">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yFlag.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/02/yFlag.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stickyEx.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/02/stickyEx.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -88,6 +107,10 @@
         <option value="$PROJECT_DIR$/my/08/generator.js" />
         <option value="$PROJECT_DIR$/my/08/createIterator2.js" />
         <option value="$PROJECT_DIR$/my/02/stringExample.js" />
+        <option value="$PROJECT_DIR$/my/02/codePointTest.js" />
+        <option value="$PROJECT_DIR$/my/02/strSort.js" />
+        <option value="$PROJECT_DIR$/my/02/yFlag.js" />
+        <option value="$PROJECT_DIR$/my/02/stickyEx.js" />
       </list>
     </option>
   </component>
@@ -177,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.stringExample.js">
+  <component name="RunManager" selected="Node.js.stickyEx.js">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -243,25 +266,25 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration name="codePointTest.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="codePointTest.js" working-dir="$PROJECT_DIR$/my/02" />
     <configuration name="createIterator2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="createIterator2.js" working-dir="$PROJECT_DIR$/my/08" />
-    <configuration name="createIterator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="createIterator.js" working-dir="$PROJECT_DIR$/my/08" />
-    <configuration name="generator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="generator.js" working-dir="$PROJECT_DIR$/my/08" />
+    <configuration name="stickyEx.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="stickyEx.js" working-dir="$PROJECT_DIR$/my/02" />
     <configuration name="stringExample.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="stringExample.js" working-dir="$PROJECT_DIR$/my/02" />
-    <configuration name="traditionalFor.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="traditionalFor.js" working-dir="$PROJECT_DIR$/my/08" />
+    <configuration name="yFlag.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="yFlag.js" working-dir="$PROJECT_DIR$/my/02" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.traditionalFor.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.createIterator.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.generator.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.createIterator2.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.stringExample.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.createIterator2.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.stringExample.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.codePointTest.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.yFlag.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.stickyEx.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.stringExample.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.createIterator2.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.generator.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.createIterator.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.traditionalFor.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.stickyEx.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.yFlag.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.codePointTest.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.stringExample.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.createIterator2.js" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +304,7 @@
       <workItem from="1488241544217" duration="925000" />
       <workItem from="1504522519995" duration="14597000" />
       <workItem from="1504819582503" duration="536000" />
-      <workItem from="1519299179706" duration="469000" />
+      <workItem from="1519299179706" duration="2449000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1504526984847</created>
@@ -311,11 +334,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504609898610</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change">
+      <created>1519299804069</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1519299804069</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16527000" />
+    <option name="totallyTimeSpent" value="18507000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,10 +384,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23698781" sideWeight="0.5078699" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23698781" sideWeight="0.5078699" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.4940429" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23698781" sideWeight="0.4921301" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32779622" sideWeight="0.4940429" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23698781" sideWeight="0.4921301" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1673662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -385,38 +415,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my/08/generator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/08/createIterator2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/01/tdz.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/01/nonTdz.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/my/01/forVar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -760,7 +758,39 @@
     <entry file="file://$PROJECT_DIR$/my/02/stringExample.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/02/codePointTest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/02/strSort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/02/yFlag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/02/stickyEx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
           <folding />
         </state>
       </provider>
