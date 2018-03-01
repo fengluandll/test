@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+.row-example{
+  width: 800px;
+  height: 600px;
+
+}
+
+.row-example div {
+  background-color: aqua;
+}
