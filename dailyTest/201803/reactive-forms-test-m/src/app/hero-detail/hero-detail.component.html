@@ -9,7 +9,36 @@
   </div>
 
   <div formArrayName="secretLairs" class="well well-lg">
-    <div *ngFor="let address of secretLairs.controls; let i = index;" ></div>
+    <div *ngFor="let address of secretLairs.controls; let i = index;" [formGroupName]="i" >
+      <h4>Address #{{i + 1}}</h4>
+      <div style="margin-left: 1em;">
+        <div class="form-group">
+          <label class="center-block">Street
+            <input type="text" class="form-control" formControlName="street">
+          </label>
+        </div>
+
+        <div class="form-group">
+          <label class="center-block">City:
+            <input class="form-control" formControlName="city">
+          </label>
+        </div>
+
+        <div class="form-group">
+          <label class="center-block">State:
+            <select class="form-control" formControlName="state">
+              <option *ngFor="let state of states" [value]="state">{{state}}</option>
+            </select>
+          </label>
+        </div>
+        <div class="form-group">
+          <label class="center-block">Zip Code:
+            <input class="form-control" formControlName="zip">
+          </label>
+        </div>
+
+      </div>
+    </div>
   </div>
 
   <div class="form-group radio">
@@ -25,10 +54,11 @@
     </label>
   </div>
 
+  <button (click)="addLair()" type="button">Add a Secret Lair</button>
 </form>
 
 <p>Form value {{heroForm.value | json}}</p>
 <p>Form status {{heroForm.status | json}}</p>
 
-<p>Name value: {{heroForm.get('name').value}} </p>
-<p>Street value: {{heroForm.get('address.street').value}}
+<p>Name value: {{heroForm.get('name')?.value}} </p>
+<p>Street value: {{heroForm.get('address.street')?.value}}

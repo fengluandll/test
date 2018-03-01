@@ -50,4 +50,8 @@ export class HeroDetailComponent implements OnInit, OnChanges {
     return this.heroForm.get('secretLairs') as FormArray;
   }
 
+  addLair() {
+    this.secretLairs.push(this.fb.group(new Address()));
+  }
+
 }
