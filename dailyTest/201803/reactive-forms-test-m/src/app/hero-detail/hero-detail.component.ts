@@ -1,6 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnChanges, OnInit, SimpleChanges} from '@angular/core';
 import {FormBuilder, FormGroup, Validators} from '@angular/forms';
-import {Address, states} from '../data-model';
+import {Address, Hero, states} from '../data-model';
 
 
 @Component({
@@ -8,7 +8,9 @@ import {Address, states} from '../data-model';
   templateUrl: './hero-detail.component.html',
   styleUrls: ['./hero-detail.component.css']
 })
-export class HeroDetailComponent implements OnInit {
+export class HeroDetailComponent implements OnInit, OnChanges {
+
+  @Input() hero: Hero;
 
   states = states;
 
@@ -19,6 +21,14 @@ export class HeroDetailComponent implements OnInit {
   }
 
   ngOnInit() {
+  }
+
+
+  ngOnChanges(changes: SimpleChanges): void {
+    this.heroForm.reset({
+      name: this.hero.name,
+      address: this.hero.addresses[0] || new Address(),
+    });
   }
 
   private createForm() {
