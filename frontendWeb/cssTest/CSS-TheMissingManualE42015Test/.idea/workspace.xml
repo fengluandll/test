@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec348b5e-5af7-4904-9701-6b45ae2c8c95" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterPath="$PROJECT_DIR$/../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterPath="$PROJECT_DIR$/../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterPath="$PROJECT_DIR$/../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" />
     </list>
     <ignored path="CSS-TheMissingManualE42015Test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +27,7 @@
       <file leaf-file-name="gradientIETransparent.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/08/gradientIETransparent.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="57">
               <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
@@ -35,28 +37,28 @@
       <file leaf-file-name="flex.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my/17/flex.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="494">
               <caret line="26" column="26" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/origin/14/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="283">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="flex2.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="flex2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my/17/flex2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -143,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -151,6 +152,17 @@
             <path>
               <item name="CSS-TheMissingManualE42015Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSS-TheMissingManualE42015Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSS-TheMissingManualE42015Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSS-TheMissingManualE42015Test" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CSS-TheMissingManualE42015Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CSS-TheMissingManualE42015Test" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+              <item name="17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CSS-TheMissingManualE42015Test" type="b2602c69:ProjectViewProjectNode" />
@@ -167,6 +179,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,6 +330,7 @@
       <workItem from="1488232568586" duration="2237000" />
       <workItem from="1518919379530" duration="754000" />
       <workItem from="1518934817685" duration="2357000" />
+      <workItem from="1519859238417" duration="779000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473906909884</created>
@@ -406,16 +420,16 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51106000" />
+    <option name="totallyTimeSpent" value="51885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1887" height="954" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09220985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15434083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32312405" sideWeight="0.53125" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23129252" sideWeight="0.46875" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23050058" sideWeight="0.46875" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21280853" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3390244" sideWeight="0.49382052" order="7" side_tool="false" content_ui="tabs" />
@@ -724,7 +738,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my/08/gradientIETransparent.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="57">
           <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
@@ -733,26 +747,26 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.styl" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
-    <entry file="file://$PROJECT_DIR$/my/17/flex2.html">
+    <entry file="file://$PROJECT_DIR$/origin/14/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="283">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my/17/flex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="494">
           <caret line="26" column="26" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/origin/14/index.html">
+    <entry file="file://$PROJECT_DIR$/my/17/flex2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="330">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding />
         </state>
       </provider>
