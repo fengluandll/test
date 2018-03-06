@@ -5,6 +5,8 @@
  *  @author Luis Atencio
  */
 
+var Rx = require('rxjs/Rx');
+
 const computeHalf = x => Math.floor(x / 2);
 
 Rx.Observable.of(2,4,5,8,10)
