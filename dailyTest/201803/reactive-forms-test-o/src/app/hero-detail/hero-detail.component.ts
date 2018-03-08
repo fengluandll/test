@@ -1,5 +1,5 @@
 import { Component, Input, OnChanges }       from '@angular/core';
-import { FormArray, FormBuilder, FormGroup } from '@angular/forms';
+import { FormArray, FormBuilder, FormGroup, Validators } from '@angular/forms';
 
 import { Address, Hero, states } from '../data-model';
 import { HeroService }           from '../hero.service';
@@ -26,7 +26,7 @@ export class HeroDetailComponent implements OnChanges {
 
   createForm() {
     this.heroForm = this.fb.group({
-      name: '',
+      name: ['', Validators.required],
       secretLairs: this.fb.array([]),
       power: '',
       sidekick: ''
