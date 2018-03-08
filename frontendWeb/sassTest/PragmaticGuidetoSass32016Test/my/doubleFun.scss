@@ -1,0 +1,9 @@
+@function double ($value){
+  @return $value * 2;
+}
+
+$normal_padding: 10px;
+
+.sidebar {
+  padding: $normal_padding double($normal_padding);
+}

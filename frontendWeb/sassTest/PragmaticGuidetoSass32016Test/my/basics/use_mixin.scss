@@ -1,0 +1,6 @@
+@import "../define_mixin";
+
+.input-error{
+  @include alert-text;
+  margin-bottom: 10px;
+}

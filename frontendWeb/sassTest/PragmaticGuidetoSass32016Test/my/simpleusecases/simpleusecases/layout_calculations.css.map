@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,KAAM;EACJ,KAAK,EALC,KAAK;;AAOX,cAAS;EACP,KAAK,EAAE,KAAyB;;AAGlC,cAAS;EACP,KAAK,EAAE,KAA+B",
+"sources": ["layout_calculations.scss"],
+"names": [],
+"file": "layout_calculations.css"
+}

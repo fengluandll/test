@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAM;EACJ,KAAK,EAAE,OAAkB;EACzB,gBAAgB,EAAE,OAAwB",
+"sources": ["grayscaleTest.scss"],
+"names": [],
+"file": "grayscaleTest.css"
+}
