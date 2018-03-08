@@ -1,0 +1,8 @@
+$primary-color: #336699;
+.page {
+  color: adjust-hue($primary-color, 180);
+}
+
+.page {
+  color: adjust-hue(desaturate($primary-color, 10%), 90);
+}
