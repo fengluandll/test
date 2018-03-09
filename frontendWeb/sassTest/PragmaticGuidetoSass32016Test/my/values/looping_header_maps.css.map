@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGE,EAAQ;EACN,SAAS,EAJK,IAAI;;;AAGpB,EAAQ;EACN,SAAS,EAJe,IAAI;;;AAG9B,EAAQ;EACN,SAAS,EAJyB,IAAI",
+"sources": ["looping_header_maps.scss"],
+"names": [],
+"file": "looping_header_maps.css"
+}
