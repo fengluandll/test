@@ -3,8 +3,8 @@ let node = {
     name: "foo"
 };
 
-type ="2";
-name = "x";
+let type;
+let name;
 
 ({type,name} = node);
 
