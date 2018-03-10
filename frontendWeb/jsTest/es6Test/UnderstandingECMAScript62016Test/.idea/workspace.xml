@@ -2,55 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c62cc5f-e85d-4890-922f-495cdedbb74f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c05/destructFun.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c05/duplicateProp.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c05/objectDestruct.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c06/symDesc.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c06/symType.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c06/symbolHello.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c06/useSym.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c11/example.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c11/readFileTest.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/package.json" />
-      <change beforePath="$PROJECT_DIR$/.idea/UnderstandingECMAScript62016Test.iml" afterPath="$PROJECT_DIR$/.idea/UnderstandingECMAScript62016Test.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/my/01/Iife.js" afterPath="$PROJECT_DIR$/my/c01/Iife.js" />
-      <change beforePath="$PROJECT_DIR$/my/01/constObj.js" afterPath="$PROJECT_DIR$/my/c01/constObj.js" />
-      <change beforePath="$PROJECT_DIR$/my/01/forFun.js" afterPath="$PROJECT_DIR$/my/c01/forFun.js" />
-      <change beforePath="$PROJECT_DIR$/my/01/forVar.js" afterPath="$PROJECT_DIR$/my/c01/forVar.js" />
-      <change beforePath="$PROJECT_DIR$/my/01/getValue.js" afterPath="$PROJECT_DIR$/my/c01/getValue.js" />
-      <change beforePath="$PROJECT_DIR$/my/01/loopLet.js" afterPath="$PROJECT_DIR$/my/c01/loopLet.js" />
-      <change beforePath="$PROJECT_DIR$/my/01/nonTdz.js" afterPath="$PROJECT_DIR$/my/c01/nonTdz.js" />
-      <change beforePath="$PROJECT_DIR$/my/01/tdz.js" afterPath="$PROJECT_DIR$/my/c01/tdz.js" />
-      <change beforePath="$PROJECT_DIR$/my/02/codePointTest.js" afterPath="$PROJECT_DIR$/my/c02/codePointTest.js" />
-      <change beforePath="$PROJECT_DIR$/my/02/stickyEx.js" afterPath="$PROJECT_DIR$/my/c02/stickyEx.js" />
-      <change beforePath="$PROJECT_DIR$/my/02/strSort.js" afterPath="$PROJECT_DIR$/my/c02/strSort.js" />
-      <change beforePath="$PROJECT_DIR$/my/02/stringExample.js" afterPath="$PROJECT_DIR$/my/c02/stringExample.js" />
-      <change beforePath="$PROJECT_DIR$/my/02/yFlag.js" afterPath="$PROJECT_DIR$/my/c02/yFlag.js" />
-      <change beforePath="$PROJECT_DIR$/my/05/destructAssign.js" afterPath="$PROJECT_DIR$/my/c05/destructAssign.js" />
-      <change beforePath="$PROJECT_DIR$/my/05/objAssignParam.js" afterPath="$PROJECT_DIR$/my/c05/objAssignParam.js" />
-      <change beforePath="$PROJECT_DIR$/my/05/objDestruct.js" afterPath="$PROJECT_DIR$/my/c05/objDestruct.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/forEachArrow.js" afterPath="$PROJECT_DIR$/my/c07/forEachArrow.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/forEachThis.js" afterPath="$PROJECT_DIR$/my/c07/forEachThis.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/mimickSet.js" afterPath="$PROJECT_DIR$/my/c07/mimickSet.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/mimickmap.js" afterPath="$PROJECT_DIR$/my/c07/mimickmap.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/objKey.js" afterPath="$PROJECT_DIR$/my/c07/objKey.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/propNum.js" afterPath="$PROJECT_DIR$/my/c07/propNum.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/setForEach.js" afterPath="$PROJECT_DIR$/my/c07/setForEach.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/setHello.js" afterPath="$PROJECT_DIR$/my/c07/setHello.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/setToArray.js" afterPath="$PROJECT_DIR$/my/c07/setToArray.js" />
-      <change beforePath="$PROJECT_DIR$/my/07/setobjectkey.js" afterPath="$PROJECT_DIR$/my/c07/setobjectkey.js" />
-      <change beforePath="$PROJECT_DIR$/my/08/createIterator.js" afterPath="$PROJECT_DIR$/my/c08/createIterator.js" />
-      <change beforePath="$PROJECT_DIR$/my/08/createIterator2.js" afterPath="$PROJECT_DIR$/my/c08/createIterator2.js" />
-      <change beforePath="$PROJECT_DIR$/my/08/generator.js" afterPath="$PROJECT_DIR$/my/c08/generator.js" />
-      <change beforePath="$PROJECT_DIR$/my/08/traditionalFor.js" afterPath="$PROJECT_DIR$/my/c08/traditionalFor.js" />
-      <change beforePath="$PROJECT_DIR$/my/09/PersonClass.js" afterPath="$PROJECT_DIR$/my/c09/PersonClass.js" />
-      <change beforePath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/misc.xml" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../../../javaSETest/coreJavaE10V1/coreJavaE10V1My/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,11 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="codePointLength.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my/c02/codePointLength.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -199,6 +161,12 @@
               <item name="UnderstandingECMAScript62016Test" type="462c0819:PsiDirectoryNode" />
               <item name="my" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="UnderstandingECMAScript62016Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnderstandingECMAScript62016Test" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+              <item name="c02" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -217,6 +185,7 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -340,7 +309,7 @@
       <workItem from="1504522519995" duration="14597000" />
       <workItem from="1504819582503" duration="536000" />
       <workItem from="1519299179706" duration="2490000" />
-      <workItem from="1520671839404" duration="4050000" />
+      <workItem from="1520671839404" duration="4219000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1504526984847</created>
@@ -384,11 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519306890627</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change">
+      <created>1520682077150</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1520682077150</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22598000" />
+    <option name="totallyTimeSpent" value="22767000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,24 +378,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1906" height="975" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1673662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.49722" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23698781" sideWeight="0.5078699" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23698781" sideWeight="0.4921301" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23698781" sideWeight="0.4921301" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32779622" sideWeight="0.4940429" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1673662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973767" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -477,13 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my/c02/codePointLength.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -828,8 +798,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/c02/codePointLength.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
           <folding />
         </state>
       </provider>
