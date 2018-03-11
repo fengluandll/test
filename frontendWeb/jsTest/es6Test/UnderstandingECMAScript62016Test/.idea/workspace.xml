@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c62cc5f-e85d-4890-922f-495cdedbb74f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c09/arrayFind.js" />
+    <list default="true" id="8c62cc5f-e85d-4890-922f-495cdedbb74f" name="Default" comment="change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/my/c09/arrayFind.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="57">
-              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+              <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -327,7 +326,7 @@
       <workItem from="1504522519995" duration="14597000" />
       <workItem from="1504819582503" duration="536000" />
       <workItem from="1519299179706" duration="2490000" />
-      <workItem from="1520671839404" duration="6130000" />
+      <workItem from="1520671839404" duration="6169000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1504526984847</created>
@@ -399,11 +398,18 @@
       <option name="project" value="LOCAL" />
       <updated>1520682273707</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="change">
+      <created>1520758316240</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1520758316240</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24678000" />
+    <option name="totallyTimeSpent" value="24717000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -839,7 +845,7 @@
     <entry file="file://$PROJECT_DIR$/my/c09/arrayFind.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+          <caret line="3" column="44" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
           <folding />
         </state>
       </provider>
