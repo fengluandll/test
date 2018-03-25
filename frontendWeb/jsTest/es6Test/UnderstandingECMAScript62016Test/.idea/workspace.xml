@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c62cc5f-e85d-4890-922f-495cdedbb74f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c01/for5.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c01/for6.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c01/forInLet.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c01/funInLoop.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c01/funInLoop2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c01/funInLoop3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c01/varGlobal/varGlobal.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/my/c01/varGlobal/varGlobal.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -41,8 +33,8 @@
       <file leaf-file-name="varGlobal.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my/c01/varGlobal/varGlobal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            <state relative-caret-position="190">
+              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -52,7 +44,7 @@
         <entry file="file://$PROJECT_DIR$/my/c01/varGlobal/varGlobal.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -356,7 +348,7 @@
       <workItem from="1519299179706" duration="2490000" />
       <workItem from="1520671839404" duration="6420000" />
       <workItem from="1520804746438" duration="4560000" />
-      <workItem from="1521285873772" duration="3112000" />
+      <workItem from="1521285873772" duration="4419000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1504526984847</created>
@@ -463,11 +455,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521286964027</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="change">
+      <created>1521326836197</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1521326836197</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32640000" />
+    <option name="totallyTimeSpent" value="33947000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -481,13 +480,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1906" height="975" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1673662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.49722" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23698781" sideWeight="0.5078699" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23698781" sideWeight="0.4921301" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23698781" sideWeight="0.4921301" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32779622" sideWeight="0.4940429" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -900,15 +900,15 @@
     <entry file="file://$PROJECT_DIR$/my/c01/varGlobal/varGlobal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my/c01/varGlobal/varGlobal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        <state relative-caret-position="190">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
