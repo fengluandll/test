@@ -1,0 +1,12 @@
+$colors: (geranium: #B23C56,
+        daffodil: #FFF889,
+        iris: #45A8CC
+);
+
+.separator {
+  background: map-get($colors, daffodil);
+}
+
+.rainbow-selector{
+  background: linear-gradient(map-values($colors));
+}

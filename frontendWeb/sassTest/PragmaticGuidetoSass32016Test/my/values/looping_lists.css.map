@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGE,WAAkB;EAChB,UAAU,EAJL,GAAG;;;AAGV,aAAkB;EAChB,UAAU,EAJA,KAAK;;;AAGjB,YAAkB;EAChB,UAAU,EAJO,IAAI",
+"sources": ["looping_lists.scss"],
+"names": [],
+"file": "looping_lists.css"
+}

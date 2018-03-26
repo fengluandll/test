@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKE,eAAiB;EACf,UAAU,EANY,KAAK;;;AAK7B,aAAiB;EACf,UAAU,EAN0B,GAAG",
+"sources": ["map_remove.scss"],
+"names": [],
+"file": "map_remove.css"
+}

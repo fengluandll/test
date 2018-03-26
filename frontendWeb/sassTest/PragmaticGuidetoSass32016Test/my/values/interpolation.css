@@ -1,0 +1,17 @@
+.button-alert {
+  color: "red";
+  width: 100px;
+}
+.button-alert .icon {
+  background: url("images/icon.png");
+}
+
+.button-register {
+  color: "green";
+  width: 100px;
+}
+.button-register .icon {
+  background: url("images/icon.png");
+}
+
+/*# sourceMappingURL=interpolation.css.map */

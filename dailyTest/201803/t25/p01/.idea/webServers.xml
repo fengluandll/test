@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fd89d25e-008f-40d0-b372-e63cf16c742b" name="inPlaceServerTest" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="b5c317cf-b957-4a0a-b03b-1a8955d75b30" name="allbtsSsh" url="http://ec2-52-62-139-99.ap-southeast-2.compute.amazonaws.com">
+        <fileTransfer host="ec2-52-62-139-99.ap-southeast-2.compute.amazonaws.com" port="22" privateKey="$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/Documents/workdoc/workProjDoc/Allbts/aws_allbts_key2.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

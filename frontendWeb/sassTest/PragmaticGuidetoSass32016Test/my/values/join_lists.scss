@@ -1,0 +1,11 @@
+$primary-colors: red, yellow;
+
+$secondary_color: orange, green;
+
+$all-colors: join($primary-colors, $secondary_color);
+
+.rainbow {
+  width: 100%;
+  height: 100px;
+  background: linear-gradient($all-colors);
+}

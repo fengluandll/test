@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAGE,WAAe;EACb,KAAK,EAJa,KAAK;;;AAGzB,YAAe;EACb,KAAK,EAJ4B,KAAK;;;AAGxC,WAAe;EACb,KAAK,EAJ0C,KAAK",
+"sources": ["looping_maps.scss"],
+"names": [],
+"file": "looping_maps.css"
+}
