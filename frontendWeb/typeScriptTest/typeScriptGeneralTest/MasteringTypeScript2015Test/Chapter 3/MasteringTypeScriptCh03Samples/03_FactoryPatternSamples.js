@@ -8,7 +8,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-var Person = (function () {
+var Person = /** @class */ (function () {
     function Person(dateOfBirth) {
         this._dateOfBirth = dateOfBirth;
     }
@@ -17,7 +17,7 @@ var Person = (function () {
     };
     return Person;
 }());
-var Infant = (function (_super) {
+var Infant = /** @class */ (function (_super) {
     __extends(Infant, _super);
     function Infant() {
         return _super !== null && _super.apply(this, arguments) || this;
@@ -28,7 +28,7 @@ var Infant = (function (_super) {
     Infant.prototype.canSignContracts = function () { return false; };
     return Infant;
 }(Person));
-var Child = (function (_super) {
+var Child = /** @class */ (function (_super) {
     __extends(Child, _super);
     function Child() {
         return _super !== null && _super.apply(this, arguments) || this;
@@ -39,7 +39,7 @@ var Child = (function (_super) {
     Child.prototype.canSignContracts = function () { return false; };
     return Child;
 }(Person));
-var Adult = (function (_super) {
+var Adult = /** @class */ (function (_super) {
     __extends(Adult, _super);
     function Adult() {
         return _super !== null && _super.apply(this, arguments) || this;
@@ -50,7 +50,7 @@ var Adult = (function (_super) {
     Adult.prototype.canSignContracts = function () { return true; };
     return Adult;
 }(Person));
-var PersonFactory = (function () {
+var PersonFactory = /** @class */ (function () {
     function PersonFactory() {
     }
     PersonFactory.prototype.getPerson = function (dateOfBirth) {
