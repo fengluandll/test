@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81d21a17-d688-4e45-af66-6041fe086229" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../reactive-forms-test-o/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../reactive-forms-test-o/.idea/workspace.xml" />
+      <change afterPath="$PROJECT_DIR$/../angular-testing-o/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-testing-o/.idea/angular-testing-o.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-testing-o/.idea/angular-testing-o.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-testing-o/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-testing-o/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -18,20 +21,48 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="false" />
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".angular-cli.json" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".angular-cli.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.angular-cli.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="-767">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forbidden-name.directive.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/shared/forbidden-name.directive.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NG_VALI</find>
+      <find>#name</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -47,30 +78,24 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="937" />
+    <option name="width" value="1280" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -79,6 +104,24 @@
               <item name="form-validation-o" type="b2602c69:ProjectViewProjectNode" />
               <item name="form-validation-o" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="form-validation-o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="form-validation-o" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="form-validation-o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="form-validation-o" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="form-validation-o" type="b2602c69:ProjectViewProjectNode" />
+              <item name="form-validation-o" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -86,13 +129,280 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/node_modules/tslint" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/node_modules/tslint" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/Java8Test/Java8inAction2014Test/Java8inAction2014TestOrigin/.gitignore</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/Java8Test/Java8inAction2014Test/Java8inAction2014TestOrigin/build.gradle.kts</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/Java8Test/Java8inAction2014Test/Java8inAction2014TestOrigin/gradle/wrapper/gradle-wrapper.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/Java8Test/Java8inAction2014Test/Java8inAction2014TestOrigin/gradle/wrapper/gradle-wrapper.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/Java8Test/Java8inAction2014Test/Java8inAction2014TestOrigin/gradlew</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/Java8Test/Java8inAction2014Test/Java8inAction2014TestOrigin/gradlew.bat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/Java8Test/Java8inAction2014Test/Java8inAction2014TestOrigin/settings.gradle</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/.idea/.name</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/build.gradle</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/gradle/wrapper/gradle-wrapper.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/gradlew</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/gradlew.bat</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/settings.gradle</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../javaSETest/testNgTest/TestNGBeginnerGuide2013Test/my/c01/testNgFirst/src/test/java/FirstTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/kotlinTest/KotlininAction2017Test/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/kotlinTest/KotlininAction2017Test/.idea/kotlinc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/kotlinTest/KotlininAction2017Test/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/kotlinTest/KotlininAction2017Test/.idea/modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/kotlinTest/KotlininAction2017Test/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/kotlinTest/KotlininAction2017Test/KotlininAction2017Test.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/kotlinTest/KotlininAction2017Test/src/my/c01/List1_1.kt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/my/c01/tddFirst/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/my/c01/tddFirst/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/my/c01/tddFirst/.idea/modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/my/c01/tddFirst/.idea/tddFirst.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/my/c01/tddFirst/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/my/c01/tddFirst/functional_tests.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/admin.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/apps.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/authentication.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/migrations/0001_initial.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/migrations/0002_token.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/migrations/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/models.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/tests/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/tests/test_authentication.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/tests/test_models.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/tests/test_views.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/urls.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/accounts/views.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/deploy_tools/fabfile.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/deploy_tools/gunicorn-systemd.template.service</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/deploy_tools/nginx.template.conf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/deploy_tools/provisioning_notes.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/base.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/list_page.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/management/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/management/commands/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/management/commands/create_session.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/my_lists_page.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/server_tools.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/test_layout_and_styling.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/test_list_item_validation.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/test_login.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/test_my_lists.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/test_sharing.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/functional_tests/test_simple_list_creation.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/admin.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/api.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/api_urls.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/apps.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/forms.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/migrations/0001_initial.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/migrations/0002_item_text.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/migrations/0003_list.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/migrations/0004_item_list.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/migrations/0005_list_item_unique_together.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/migrations/0006_list_owner.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/migrations/0007_list_shared_with.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/migrations/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/models.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/base.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/css/bootstrap-theme.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/css/bootstrap-theme.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/css/bootstrap-theme.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/css/bootstrap.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/css/bootstrap.css.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/css/bootstrap.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/fonts/glyphicons-halflings-regular.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/fonts/glyphicons-halflings-regular.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/fonts/glyphicons-halflings-regular.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/fonts/glyphicons-halflings-regular.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/fonts/glyphicons-halflings-regular.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/js/bootstrap.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/js/bootstrap.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/bootstrap/js/npm.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/jquery-3.1.1.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/list.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/tests/qunit-2.0.1.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/tests/qunit-2.0.1.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/tests/runner.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/tests/sinon-1.17.6.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/static/tests/tests.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/templates/base.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/templates/home.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/templates/list.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/templates/my_lists.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/tests/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/tests/test_api.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/tests/test_forms.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/tests/test_models.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/tests/test_views.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/urls.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/lists/views.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/manage.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/requirements.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/superlists/__init__.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/superlists/settings.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/superlists/urls.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../oplTest/pythonTest/pythonTddTest/Test-DrivenDevelopmentwithPythonE22017Test/origin/superlists/wsgi.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/.idea/compiler.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/.idea/encodings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/pom.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/springmvc-jpa-demo-m.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/java/com/apress/demo/config/AppConfig.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/java/com/apress/demo/config/SpringWebAppInitializer.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/java/com/apress/demo/config/WebMvcConfig.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/java/com/apress/demo/domain/User.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/java/com/apress/demo/repositories/UserRepository.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/java/com/apress/demo/web/controllers/HomeController.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/resources/application.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/resources/data.sql</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/resources/log4j.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/webapp/WEB-INF/views/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/my/c01/springmvc-jpa-demo-m/src/main/webapp/WEB-INF/web.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-04/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-04/.idea/compiler.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-04/.idea/encodings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-04/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-04/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-14/.idea/deployment.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-14/.idea/webServers.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-15/.idea/compiler.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-15/.idea/encodings.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-15/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-15/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-15/springboot-testing-demo/src/test/java/com/apress/demo/services/AppConfig.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringBootTest/BeginningSpringBoot22017Test/origin/chapter-15/springboot-testing-demo/src/test/java/com/apress/demo/services/UserServiceTests.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringTest/SpringMicroservicesinAction2017Test/my/c01/springMicroserviceHello/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringTest/SpringMicroservicesinAction2017Test/my/c01/springMicroserviceHello/.mvn/wrapper/maven-wrapper.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringTest/SpringMicroservicesinAction2017Test/my/c01/springMicroserviceHello/.mvn/wrapper/maven-wrapper.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringTest/SpringMicroservicesinAction2017Test/my/c01/springMicroserviceHello/mvnw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringTest/SpringMicroservicesinAction2017Test/my/c01/springMicroserviceHello/mvnw.cmd</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringTest/SpringMicroservicesinAction2017Test/my/c01/springMicroserviceHello/pom.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringTest/SpringMicroservicesinAction2017Test/my/c01/springMicroserviceHello/src/main/java/com/example/demo/DemoApplication.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringTest/SpringMicroservicesinAction2017Test/my/c01/springMicroserviceHello/src/main/resources/application.properties</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/../../../springTest/SpringTest/SpringMicroservicesinAction2017Test/my/c01/springMicroserviceHello/src/test/java/com/example/demo/DemoApplicationTests.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -106,8 +416,8 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,6 +427,7 @@
       <option name="presentableId" value="Default" />
       <updated>1520474954857</updated>
       <workItem from="1520474957055" duration="366000" />
+      <workItem from="1527558046158" duration="2641000" />
     </task>
     <task id="LOCAL-00001" summary="ic">
       <created>1520475002351</created>
@@ -143,28 +454,33 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="366000" />
+    <option name="totallyTimeSpent" value="3007000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="723" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5059571" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.49086577" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3290938" sideWeight="0.4940429" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.49722" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5059571" side_tool="true" weight="0.32857144" />
+      <window_info anchor="right" x="0" y="0" width="270" height="523" id="Documentation" side_tool="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49086577" weight="0.32857144" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4940429" weight="0.11022364" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49722" visible="true" weight="0.32747602" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14943457" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,16 +521,39 @@
     <MESSAGE value="ic" />
     <option name="LAST_COMMIT_MESSAGE" value="ic" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.angular-cli.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
+        <state relative-caret-position="180">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-767">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/shared/forbidden-name.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/template/hero-form-template.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
