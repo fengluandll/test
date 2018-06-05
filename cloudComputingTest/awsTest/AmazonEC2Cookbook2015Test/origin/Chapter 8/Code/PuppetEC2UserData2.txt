@@ -1,0 +1,16 @@
+#!/bin/bash
+set -e -x
+PuppetServer=puppet.esjobprofile.esjobprofile.i9.internal.cloudapp.net
+AgentCertName=$(curl -s http://169.254.169.254/latest/meta-data/instance-id)
+cd ~; wget https://apt.puppetlabs.com/puppetlabs-release-trusty.deb
+dpkg -i puppetlabs-release-trusty.deb
+apt-get update
+apt-get -y install puppet
+echo "
+[agent]
+server=$PuppetServer
+certname=$AgentCertName
+runinterval=5
+" >> /etc/puppet/puppet.conf
+sed -i /etc/default/puppet -e 's/START=no/START=yes/'
+service puppet restart

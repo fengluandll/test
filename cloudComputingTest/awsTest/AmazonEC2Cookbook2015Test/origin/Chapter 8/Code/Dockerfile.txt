@@ -1,0 +1,26 @@
+# Specify the base image.
+FROM ubuntu:12.04
+
+# Update the local repository.
+RUN apt-get update
+
+# Add Java 7 repository.
+RUN apt-get -y install software-properties-common python-software-properties
+RUN add-apt-repository ppa:webupd8team/java
+RUN apt-get -y update
+
+# Accept the Oracle Java license.
+RUN echo "oracle-java7-installer shared/accepted-oracle-license-v1-1 boolean true" | debconf-set-selections
+
+# Install Oracle Java.
+RUN apt-get -y install oracle-java7-installer
+
+# Install Tomcat7.
+RUN apt-get -y install tomcat7
+RUN echo "JAVA_HOME=/usr/lib/jvm/java-7-oracle" >> /etc/default/tomcat7
+
+# Set environment variable.
+ENV CATALINA_BASE=/var/lib/tomcat7
+
+# Set entry point.
+ENTRYPOINT [ "/usr/share/tomcat7/bin/catalina.sh", "run" ]

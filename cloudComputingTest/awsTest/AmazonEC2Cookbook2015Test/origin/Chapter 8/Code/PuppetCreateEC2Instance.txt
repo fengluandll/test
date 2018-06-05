@@ -1,0 +1,12 @@
+class aws_prod {
+
+ ec2_instance { 'instance-02':
+   ensure        =>  present,
+   key_name      => 'ProvisionerKeyPair',
+   region        => 'us-east-1',
+   image_id      => 'ami-a6afb8ce',
+   instance_type => 't1.micro',
+   user_data     => template('aws_prod/install-agent.sh')
+ }
+
+}

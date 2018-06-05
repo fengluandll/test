@@ -1,0 +1,14 @@
+node 'i-6e3553b8' {
+  
+  class { 'apache':
+    default_vhost => false
+  }
+  apache::vhost { 'example.com':
+    port    => '80',
+    docroot => '/var/www'
+  }
+  file { '/var/www/index.html':
+    source => "puppet:///modules/apache/index.html"
+  }
+
+}

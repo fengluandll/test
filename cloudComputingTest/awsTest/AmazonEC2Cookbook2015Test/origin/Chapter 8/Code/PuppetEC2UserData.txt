@@ -1,0 +1,13 @@
+#!/bin/bash
+set -e -x
+PuppetServer=Puppet Server URL
+AgentCertName=$(curl -s http://169.254.169.254/latest/meta-data/instance-id)
+apt-get update
+apt-get -y install puppet
+echo "
+[agent]
+server=$PuppetServer
+certname=$AgentCertName
+" >> /etc/puppet/puppet.conf
+sed -i /etc/default/puppet -e 's/START=no/START=yes/'
+service puppet restart

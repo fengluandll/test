@@ -1,0 +1,122 @@
+{
+  "AWSTemplateFormatVersion" : "2010-09-09",
+  "Description" : "AWS CloudFormation template for Apache Server.",
+  "Parameters" : {
+	"ImageId" : {
+      "Description" : "AMI Id.",
+      "Type" : "String",
+      "Default" : "ami-7e2c612c"
+    },
+    "InstanceType" : {
+      "Description" : "Tomcat EC2 instance type.",
+      "Type" : "String",
+      "Default" : "m3.medium",
+      "AllowedValues" : ["t2.small", "t2.medium", "m1.small", "m1.medium", "m3.medium","m3.large"]
+    },
+	"VpcId" : {
+		"Type" : "String",
+		"Description" : "VPC Id.",
+		"Default" : "vpc-0214e967"
+	},
+	"Subnet" : {
+	  "Type" : "String",
+	  "Default" : "subnet-0240b575",
+	  "Description" : "Subnet Id."
+	},
+    "KeyPairName" : {
+      "Description" : "EC2 Key Pair to allow SSH access to the instances.",
+      "Type" : "String",
+	  "Default" : "ApacheServerKeyPair"
+    },
+	"InstanceName" : {
+      "Description" : "Name for the instance.",
+      "Type" : "String",
+	  "Default" : "apacheserver-01"
+    }
+  },
+
+  "Mappings" : {
+     
+  },
+
+  "Resources" : {
+	"ApacheServer" : {
+        "Type" : "AWS::EC2::Instance",
+		"Metadata" : {
+		   "Comment" : "Deploy HTML application to Apache Web Server",
+		   "AWS::CloudFormation::Init" : {
+				"config" : {
+					"packages" : {
+						"apt" : {
+							"apache2" : []
+						}
+					},
+					"sources" : {
+						"/var/www/" : "https://s3-ap-southeast-1.amazonaws.com/c3htmlapp/application.zip"
+					},
+					"services" : {
+						"sysvinit" : {
+							"apache2"    : { "enabled" : "true", "ensureRunning" : "true" }
+						}
+					}
+				}
+			}
+		},
+         "Properties" : {
+			"UserData": {"Fn::Base64": {"Fn::Join": ["", [
+                 "#!/bin/bash -xe\n",
+				 "sudo apt-get update\n",
+				 "sudo apt-get -y install python-setuptools python-pip\n",
+				 "sudo easy_install https://s3.amazonaws.com/cloudformation-examples/aws-cfn-bootstrap-latest.tar.gz\n",
+                 "sudo cfn-init -s ",{ "Ref" : "AWS::StackName" }," -r ApacheServer"," --region ", { "Ref" : "AWS::Region" }, "\n",
+				 "sudo cfn-signal -e 0 --stack ", { "Ref": "AWS::StackName" }, " --resource ApacheServer"," --region ", { "Ref" : "AWS::Region" },"\n"
+            ]]}},
+            "ImageId" : { "Ref" : "ImageId" },
+            "KeyName" : { "Ref" : "KeyPairName" },
+			"SecurityGroupIds" : [{ "Ref" : "SecurityGroup" }],
+			"InstanceType" : { "Ref" : "InstanceType" },
+			"SubnetId" : { "Ref" : "Subnet" },
+			"Tags" : [ {"Key" : "Name", "Value" : { "Ref" : "InstanceName"} } ]
+        },
+		"CreationPolicy" : {
+			"ResourceSignal" : {
+				"Timeout" : "PT5M"
+			}
+		}
+    },
+	"IPAddress" : {
+      "Type" : "AWS::EC2::EIP",
+      "Properties" : {
+        "Domain" : "vpc",
+        "InstanceId" : { "Ref" : "ApacheServer" }
+      }
+    },
+	"SecurityGroup": {
+		"Type": "AWS::EC2::SecurityGroup",
+		"Properties": {
+			"GroupDescription": "Enable port 80 access from anywhere.",
+			"VpcId" : { "Ref" : "VpcId" },
+			"SecurityGroupIngress": [{
+		                        	 "IpProtocol": "tcp",
+		                        	 "FromPort": "80" ,
+									 "ToPort": "80" ,
+				                     "CidrIp" : "0.0.0.0/0"
+									},
+									{
+		                        	 "IpProtocol": "tcp",
+		                        	 "FromPort": "22" ,
+									 "ToPort": "22" ,
+				                     "CidrIp" : "0.0.0.0/0"
+									}]
+					}
+	}
+  },
+  "Outputs": {
+		"URL": {
+				"Value": {
+					"Fn::Join": ["", ["http://", {"Fn::GetAtt": ["ApacheServer", "PublicIp" ]}]]
+				},
+				"Description" : "Apache Server Public Ip Address."
+			}
+	}
+}
