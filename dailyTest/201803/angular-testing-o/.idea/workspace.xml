@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d037347c-1e34-4af6-bed8-dcdbed417c0b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/my/c01/merge2darray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/my/c01/lazyFibonacci.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/my/c01/c01.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/my/c01/c01.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="welcome.component.spec.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/welcome/welcome.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="-93">
+              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
               <folding>
                 <element signature="e#0#74#0" expanded="true" />
               </folding>
@@ -161,7 +160,7 @@
       <workItem from="1520548722580" duration="423000" />
       <workItem from="1527560097560" duration="1719000" />
       <workItem from="1529037543250" duration="1537000" />
-      <workItem from="1529278613686" duration="595000" />
+      <workItem from="1529278613686" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="ic">
       <created>1520549034203</created>
@@ -181,7 +180,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4274000" />
+    <option name="totallyTimeSpent" value="4290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="6" />
@@ -323,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/welcome/welcome.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        <state relative-caret-position="-93">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
           <folding>
             <element signature="e#0#74#0" expanded="true" />
           </folding>
