@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d037347c-1e34-4af6-bed8-dcdbed417c0b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/my/c01/c01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/my/c01/merge2darray.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/my/c01/c01.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/jsTest/jsFunctionalTest/FunctionalProgramminginJavaScript2015Test/my/c01/c01.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
@@ -40,8 +41,8 @@
       <file leaf-file-name="welcome.component.spec.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/welcome/welcome.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="333">
+              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
               <folding>
                 <element signature="e#0#74#0" expanded="true" />
               </folding>
@@ -93,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,7 +124,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,6 +161,7 @@
       <workItem from="1520548722580" duration="423000" />
       <workItem from="1527560097560" duration="1719000" />
       <workItem from="1529037543250" duration="1537000" />
+      <workItem from="1529278613686" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="ic">
       <created>1520549034203</created>
@@ -179,23 +181,24 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3679000" />
+    <option name="totallyTimeSpent" value="4274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4968051" visible="true" weight="0.010500807" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.010500807" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32961783" />
-      <window_info id="Structure" order="1" sideWeight="0.50319487" side_tool="true" visible="true" weight="0.010500807" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3290735" />
+      <window_info id="Structure" order="1" sideWeight="0.50476193" side_tool="true" visible="true" weight="0.010500807" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.22204472" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,13 +224,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/welcome/welcome.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/welcome/welcome.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/karma.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -242,9 +259,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1400">
           <caret line="75" column="62" lean-forward="true" selection-start-line="75" selection-start-column="62" selection-end-line="75" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#96#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -252,9 +266,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -269,9 +280,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -286,9 +294,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -296,9 +301,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1400">
           <caret line="75" column="62" selection-start-line="75" selection-start-column="62" selection-end-line="75" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#96#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -321,8 +323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/welcome/welcome.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        <state relative-caret-position="333">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
           <folding>
             <element signature="e#0#74#0" expanded="true" />
           </folding>
