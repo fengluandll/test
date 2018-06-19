@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0951b9d2-2f60-4ecb-ae2e-c0e23b907475" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../es6Test/LearningECMAScript62015Test/my/c03/iterableTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../es6Test/LearningECMAScript62015Test/my/c03/iteratorTest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../es6Test/LearningECMAScript62015Test/my/c03/getSymProps.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../es6Test/LearningECMAScript62015Test/my/c03/getSymProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../es6Test/LearningECMAScript62015Test/my/c03/generator_function.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../es6Test/LearningECMAScript62015Test/my/c03/nextOptional.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
