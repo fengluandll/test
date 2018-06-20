@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f927c3a-ab41-4a59-ae01-c69459b99657" name="Default" comment="change">
-      <change afterPath="$PROJECT_DIR$/my/c04/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my/c04/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my/c04/src/composite.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my/c05/command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my/c05/command.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my/c05/command.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my/c05/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my/c05/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my/c05/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MasteringTypeScript2015Test/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my/c04/src/composite.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my/c04/src/composite.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +24,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="command.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="command.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/origin/Chapter 5/src/command.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="6">
               <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builder.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my/c03/builder.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="197" column="8" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="abstract-factory.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/origin/Chapter 3/src/abstract-factory.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -170,6 +176,19 @@
               <item name="TypeScriptDesignPatterns2016Test" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScriptDesignPatterns2016Test" type="462c0819:PsiDirectoryNode" />
               <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TypeScriptDesignPatterns2016Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TypeScriptDesignPatterns2016Test" type="462c0819:PsiDirectoryNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TypeScriptDesignPatterns2016Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TypeScriptDesignPatterns2016Test" type="462c0819:PsiDirectoryNode" />
+              <item name="origin" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -249,7 +268,7 @@
       <workItem from="1516315979000" duration="2611000" />
       <workItem from="1529382346521" duration="4181000" />
       <workItem from="1529452112317" duration="2445000" />
-      <workItem from="1529454712637" duration="4954000" />
+      <workItem from="1529454712637" duration="7339000" />
     </task>
     <task id="LOCAL-00001" summary="ic">
       <created>1516316126154</created>
@@ -279,14 +298,22 @@
       <option name="project" value="LOCAL" />
       <updated>1529454587631</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change">
+      <created>1529460741683</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529460741683</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14334000" />
+    <option name="totallyTimeSpent" value="16719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" show_stripe_button="false" sideWeight="0.4979592" weight="0.32956383" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -480,13 +507,6 @@
     <entry file="file://$PROJECT_DIR$/my/c03/builder.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/c03/builder.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="197" column="8" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/origin/Chapter 3/src/builder.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -568,6 +588,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my/c03/builder.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="197" column="8" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin/Chapter 3/src/abstract-factory.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>

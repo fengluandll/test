@@ -1,8 +1,10 @@
 rangeList = range(10)
-print rangeList;
+print rangeList
 
 for number in rangeList:
     if number in (3, 4, 7, 9):
+        # "Break" ends the for instruction without the else clause
+        print str(number) + " is (3, 4, 7, 9)"
         break
     else:
         continue
@@ -15,5 +17,7 @@ elif rangeList[1] == 3:
     print "the second element is 3"
 else:
     print "I don't know"
+
 while rangeList[1] == 1:
+    print 1
     pass
