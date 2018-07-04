@@ -132,6 +132,7 @@ describe('demo (no TestBed):', () => {
       expect(comp.message).toMatch(/is off/i, 'off at first');
       comp.clicked();
       expect(comp.message).toMatch(/is on/i, 'on after clicked');
+      expect(comp.message).to;
     });
   });
 

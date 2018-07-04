@@ -4,8 +4,8 @@ let arr3 = [1, 2, 3, 4];
 let arr4 = [1, 2, 3, 4];
 let arr5 = [1, 2, 3, 4];
 
-arr1.fill(5);
-arr2.fill(5, 1, 2);
+arr1.fill(5); // 5 5 5 5
+arr2.fill(5, 1, 2); //1 5 5 4
 arr3.fill(5, 1, 3);
 arr4.fill(5, -3, 2);
 arr5.fill(5, 0, -2);
