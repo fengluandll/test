@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81ce0016-6a4d-49e4-8e9c-9e09baec9ce0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../cssTest/cSSinDepth2018Test/my/c11/list11-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
@@ -142,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531113454148</updated>
-      <workItem from="1531113455803" duration="1745000" />
+      <workItem from="1531113455803" duration="1752000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1531115046970</created>
@@ -155,19 +154,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1745000" />
+    <option name="totallyTimeSpent" value="1752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" show_stripe_button="false" sideWeight="0.4979592" weight="0.32956383" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48083067" side_tool="true" visible="true" weight="0.22160445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48083067" side_tool="true" visible="true" weight="0.22160445" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.19648562" />
       <window_info anchor="bottom" id="Docker" order="8" weight="0.17092651" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.34975767" side_tool="true" weight="0.24760383" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4951535" weight="0.31948882" />
-      <window_info active="true" anchor="bottom" id="Version Control" internal_type="SLIDING" order="9" sideWeight="0.6462036" visible="true" weight="0.35303515" />
+      <window_info anchor="bottom" id="Version Control" internal_type="SLIDING" order="9" sideWeight="0.6462036" visible="true" weight="0.35303515" />
       <window_info id="Structure" order="1" sideWeight="0.51916933" side_tool="true" weight="0.22213247" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.6502423" weight="0.30511183" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4951535" weight="0.22364217" />
