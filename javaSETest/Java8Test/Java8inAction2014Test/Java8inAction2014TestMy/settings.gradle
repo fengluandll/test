@@ -1,3 +1,4 @@
 rootProject.name = 'java8inaction'
 include 'c01'
+include 'c08'
 
