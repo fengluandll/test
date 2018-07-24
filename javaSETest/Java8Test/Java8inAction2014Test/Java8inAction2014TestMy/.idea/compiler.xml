@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="c01_main" target="1.8" />
       <module name="c01_test" target="1.8" />
+      <module name="c07_main" target="1.8" />
+      <module name="c07_test" target="1.8" />
       <module name="c08_main" target="1.8" />
       <module name="c08_test" target="1.8" />
       <module name="java8inaction_main" target="1.8" />

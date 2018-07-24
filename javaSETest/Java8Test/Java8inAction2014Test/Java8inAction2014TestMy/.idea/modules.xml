@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/c01/c01.iml" filepath="$PROJECT_DIR$/.idea/modules/c01/c01.iml" group="c01" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/c01/c01_main.iml" filepath="$PROJECT_DIR$/.idea/modules/c01/c01_main.iml" group="c01" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/c01/c01_test.iml" filepath="$PROJECT_DIR$/.idea/modules/c01/c01_test.iml" group="c01" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/c07.iml" filepath="$PROJECT_DIR$/.idea/modules/c07.iml" group="c07" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/c07/c07_main.iml" filepath="$PROJECT_DIR$/.idea/modules/c07/c07_main.iml" group="c07" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/c07/c07_test.iml" filepath="$PROJECT_DIR$/.idea/modules/c07/c07_test.iml" group="c07" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/c08.iml" filepath="$PROJECT_DIR$/.idea/modules/c08.iml" group="c08" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/c08/c08_main.iml" filepath="$PROJECT_DIR$/.idea/modules/c08/c08_main.iml" group="c08" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/c08/c08_test.iml" filepath="$PROJECT_DIR$/.idea/modules/c08/c08_test.iml" group="c08" />
