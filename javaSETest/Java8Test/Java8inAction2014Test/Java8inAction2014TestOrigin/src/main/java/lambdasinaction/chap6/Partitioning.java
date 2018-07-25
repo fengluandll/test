@@ -19,7 +19,8 @@ public class Partitioning {
     }
 
     private static Map<Boolean, Map<Dish.Type, List<Dish>>> vegetarianDishesByType() {
-        return menu.stream().collect(partitioningBy(Dish::isVegetarian, groupingBy(Dish::getType)));
+        return menu.stream()
+                .collect(partitioningBy(Dish::isVegetarian, groupingBy(Dish::getType)));
     }
 
     private static Object mostCaloricPartitionedByVegetarian() {
