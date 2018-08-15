@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/441051/internal/books/9781449311605/snapshots/manuscript_to_prod/examples/authorization-code-flow
+END
+refresh_token.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/441051/internal/books/9781449311605/snapshots/manuscript_to_prod/examples/authorization-code-flow/refresh_token.php
+END
+http_client.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/441051/internal/books/9781449311605/snapshots/manuscript_to_prod/examples/authorization-code-flow/http_client.inc
+END
+oauth2callback.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/441051/internal/books/9781449311605/snapshots/manuscript_to_prod/examples/authorization-code-flow/oauth2callback.php
+END
+access_request_template.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/441051/internal/books/9781449311605/snapshots/manuscript_to_prod/examples/authorization-code-flow/access_request_template.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/441051/internal/books/9781449311605/snapshots/manuscript_to_prod/examples/authorization-code-flow/index.php
+END
+get_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/441051/internal/books/9781449311605/snapshots/manuscript_to_prod/examples/authorization-code-flow/get_data.php
+END

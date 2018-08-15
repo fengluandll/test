@@ -1,0 +1,67 @@
+<html>
+<head>
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="http://cookies.googlecode.com/svn/trunk/jquery.cookies.js"></script>
+  <script type="text/javascript">
+    var clientId = '1032068783357.apps.googleusercontent.com';
+    var authorizationUrlBase = 'https://accounts.google.com/o/oauth2/auth';
+    var redirectUri = 'http://photoviewer.saasyapp.com/pv/oauth2callback.html';
+    var scope = 'https://www.google.com/m8/feeds/';
+    
+    function startOauth() {
+      var url = authorizationUrlBase;
+      url += '?response_type=token'
+          +  '&redirect_uri=' + redirectUri
+          +  '&client_id=' + clientId
+          +  '&scope=' + scope;
+      var w = window.open(url, 'oauth', 'width=500,height=400'); 
+    }
+    
+    function setOauthParams(oauthParamsPassed) {
+      //$.cookies.set('oauth_params', JSON.stringify(oauthParams));
+      this.oauthParams = oauthParamsPassed;
+    }
+
+    function getOAuthParams() {
+      return this.oauthParams;
+    }
+
+    function callApi() {
+      var contactsUrl = 'https://www.google.com/m8/feeds/contacts/default/full?v=3.0&alt=json-in-script&';
+      document.getElementById('access_request').style.display = 'none'; 
+      var url = contactsUrl;
+      var oauthParams = this.getOAuthParams(); // $.cookies.get('oauth_params');
+      url += "access_token=" + oauthParams['access_token'];
+      $.ajax({
+        'url': url,
+        'dataType': 'jsonp',
+        'success': function(data) {
+            setResponse(data);
+          }
+      });
+    }    
+
+    function setResponse(response) {
+      var list = $("#contacts_list").append('<ul></ul>').find('ul');
+
+      var data = response.feed.entry;
+      $.each(data, function(i, item) {
+        list.append('<li>' + data[i].title.$t + '</li>');
+      });
+
+       
+    }
+  </script>
+</head>
+<body>    
+<div id="access_request">
+<h2>Please let us access your contacts</h2>
+
+<p>We know that sharing your photos with your friends is important to you-- we've made it easy by allowing you to select from your Google Contacts.  Click "Let's Go" below to give us permission to access your contacts.  We won't e-mail your friends without your consent.</p>
+
+<input type="button" onClick="return startOauth();" value="Let's Go" />
+</div>
+<div id="contacts_list">
+</div>
+</body>
+</html>

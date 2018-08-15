@@ -1,0 +1,36 @@
+
+<html>
+<head>
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="http://cookies.googlecode.com/svn/trunk/jquery.cookies.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+var oauthParams = {};
+
+var hash = window.location.hash.substring(1);
+var pairs = hash.split('&');
+for (item in pairs) {
+  var nvp = pairs[item]; 
+  var nvpSplit = nvp.split('=');
+  oauthParams[ nvpSplit[0] ] = nvpSplit[1];
+}
+
+var href = window.location.href;
+var mainParts = href.split('?');
+if (mainParts.length > 1) {
+  var queryString = mainParts[1];
+  var pairs = queryString.split('&');
+  for (item in pairs) {
+    var nvp = pairs[item]; 
+    var nvpSplit = nvp.split('=');
+    oauthParams[ nvpSplit[0] ] = nvpSplit[1];
+  }
+}
+
+window.opener.setOauthParams(oauthParams);
+window.opener.callApi();
+window.close();
+</script>
+</body>
+</html>
