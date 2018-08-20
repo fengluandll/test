@@ -5,6 +5,7 @@ package unsynch;
  * @version 1.31 2015-06-21
  * @author Cay Horstmann
  */
+@SuppressWarnings("Duplicates")
 public class UnsynchBankTest
 {
    public static final int NACCOUNTS = 100;

@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="LearningReactiveProgrammingWithJava82015TestOrigin_main" target="1.8" />
       <module name="LearningReactiveProgrammingWithJava82015TestOrigin_test" target="1.8" />
+      <module name="My_main" target="1.8" />
+      <module name="My_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

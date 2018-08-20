@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="592927d7-d958-4fd3-aa51-c3e1ed3a2382" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/v1ch14/v1ch14.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coreJavaE102Origin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/coreJavaE102Origin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/v2ch11/transferText/TextTransferFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/v2ch11/transferText/TextTransferFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v1ch14/unsynch/UnsynchBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/v1ch14/unsynch/UnsynchBankTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,32 +24,36 @@
     <session id="-951602992">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="2" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="10" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="2" />
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="3" />
-          <entry key="txt" value="6" />
+          <entry key="txt" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -61,11 +62,11 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v1ch14/bounce/Bounce.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
+            <state relative-caret-position="1368">
               <caret line="74" column="22" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="22" />
             </state>
           </provider>
@@ -80,11 +81,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v1ch14/bounceThread/BounceThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="228">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1ch14/unsynch/Bank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v1ch14/unsynch/UnsynchBankTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="e#164#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/v1ch14/synch/Bank.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#1844#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -95,6 +129,8 @@
     <findStrings>
       <find>Ball ball = new Ball()</find>
       <find>ball.move(panel.getBounds())</find>
+      <find>unsafe when called from multiple threads</find>
+      <find>Lock bankLock = new ReentrantLock()</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/v1ch14/bounce</dir>
@@ -124,6 +160,7 @@
       <list>
         <option value="$PROJECT_DIR$/v2ch11/transferText/TextTransferFrame.java" />
         <option value="$PROJECT_DIR$/v1ch14/bounce/Bounce.java" />
+        <option value="$PROJECT_DIR$/v1ch14/unsynch/UnsynchBankTest.java" />
       </list>
     </option>
   </component>
@@ -156,7 +193,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -167,33 +206,48 @@
             <path>
               <item name="coreJavaE102Origin" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="coreJavaE102Origin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="out" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="coreJavaE102Origin" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="coreJavaE102Origin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="out" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="production" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="coreJavaE102Origin" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="coreJavaE102Origin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="out" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="production" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="v1ch14" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="coreJavaE102Origin" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="coreJavaE102Origin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="out" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="production" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="v1ch14" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="bounceThread" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="synch" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="coreJavaE102Origin" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="coreJavaE102Origin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="v1ch14" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="bounceThread" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="BounceThread.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="v1ch14" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="coreJavaE102Origin" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="v1ch14" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="v1ch14" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534228976606" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534380716605" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -213,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BounceThread">
+  <component name="RunManager" selected="Application.UnsynchBankTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -262,6 +316,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UnsynchBankTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unsynch.UnsynchBankTest" />
+      <module name="v1ch14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unsynch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -286,9 +354,11 @@
       <item itemvalue="Application.Bounce" />
       <item itemvalue="Application.Bounce (1)" />
       <item itemvalue="Application.BounceThread" />
+      <item itemvalue="Application.UnsynchBankTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UnsynchBankTest" />
         <item itemvalue="Application.BounceThread" />
         <item itemvalue="Application.Bounce (1)" />
         <item itemvalue="Application.Bounce" />
@@ -305,7 +375,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534226778555</updated>
-      <workItem from="1534226780542" duration="3053000" />
+      <workItem from="1534226780542" duration="3688000" />
+      <workItem from="1534302404330" duration="2138000" />
+      <workItem from="1534378716511" duration="2040000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1534227155639</created>
@@ -321,29 +393,30 @@
       <option name="project" value="LOCAL" />
       <updated>1534227167423</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change">
+      <created>1534232705989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534232705989</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3053000" />
+    <option name="totallyTimeSpent" value="7866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="721" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Amazon EC2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3290938" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32114467" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24801272" />
@@ -351,16 +424,23 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Mongo Explorer" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Amazon EC2" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290938" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.046104927" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,13 +457,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/v1ch02/ImageViewer/ImageViewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/v2ch01/collecting/CollectingIntoMaps.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -399,10 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-          <folding>
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1146#1147#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -422,7 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v1ch14/bounce/Bounce.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
+        <state relative-caret-position="1368">
           <caret line="74" column="22" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="22" />
         </state>
       </provider>
@@ -436,8 +506,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v1ch14/bounceThread/BounceThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="228">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1ch14/unsynch/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/v1ch14/unsynch/Bank.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1ch14/unsynch/UnsynchBankTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#164#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/v1ch14/synch/Bank.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#1844#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -499,7 +605,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
