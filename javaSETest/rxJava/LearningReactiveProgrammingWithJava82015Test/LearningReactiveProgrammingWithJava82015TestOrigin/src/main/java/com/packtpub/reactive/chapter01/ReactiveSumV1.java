@@ -43,11 +43,9 @@ public class ReactiveSumV1 implements Program {
 		private void subscribe(Observable<Double> a, Observable<Double> b) {
 			// combineLatest creates an Observable, sending notifications on changes of either of its sources.
 			// This notifications are formed using a Func2.
-			this.subscription = Observable.combineLatest(a, b, new Func2<Double, Double, Double>() {
-				public Double call(Double a, Double b) {
-					return a + b;
-				}
-			}).subscribeOn(Schedulers.io()).subscribe(this);
+			this.subscription = Observable
+					.combineLatest(a, b, (a1, b1) -> a1 + b1).subscribeOn(Schedulers.io())
+					.subscribe(this);
 		}
 		
 		public void unsubscribe() {

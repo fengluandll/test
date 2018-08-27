@@ -14,23 +14,8 @@ public class ObservListener {
     public static void main(String[] args) {
         List<String> list = Arrays.asList("One","2","3","4","five");
         Observable<String> observable = Observable.from(list);
-        observable.subscribe(new Action1<String>() {
-                                 @Override
-                                 public void call(String s) {
-                                     System.out.println(s);
-                                 }
-                             },
-                new Action1<Throwable>() {
-                    @Override
-                    public void call(Throwable t) {
-                        System.err.println(t);
-                    }
-                },
-                new Action0() {
-                    @Override
-                    public void call() {
-                        System.out.println("Finished");
-                    }
-                });
+        observable.subscribe(System.out::println,
+                System.err::println,
+                () -> System.out.println("Finished"));
     }
 }

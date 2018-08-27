@@ -13,12 +13,6 @@ public class Observ {
     public static void main(String[] args) {
         List<String> list = Arrays.asList("One","2","3","4","five");
         Observable<String> observable = Observable.from(list);
-        observable.subscribe(new Action1<String>() {
-            @Override
-            public void call(String s) {
-                System.out.println(s);
-            }
-        });
-
+        observable.subscribe(System.out::println);
     }
 }
