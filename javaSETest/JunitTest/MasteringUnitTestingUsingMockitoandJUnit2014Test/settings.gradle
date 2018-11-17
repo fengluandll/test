@@ -1,4 +1,5 @@
 rootProject.name = 'junit'
 include 'My'
 findProject(':My')?.name = 'my'
+include 'mockitoTest'
 
