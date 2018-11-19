@@ -77,3 +77,15 @@ db.products.insert({
   }
 });
 
+// c03
+
+db.transactions.insert({
+  state: 'new',
+  ts: ISODate('2013-10-02T01:11:18.965Z'),
+  amt: 55.22,
+  src: 1,
+  dst: 2
+});
+
+db.accounts.insert({ _id: 1, balance: 100, txns: []});
+db.accounts.insert({ _id: 2, balance: 0, txns: []});
