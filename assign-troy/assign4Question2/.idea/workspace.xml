@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4487d43d-6b8b-49ee-935a-59826dfc8c0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Comany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Cruise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Itinerary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/NumberGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Port.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Sailor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../assign4/src/main/java/Survey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assign4Question2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Question2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign4/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../assign4/build.gradle" afterDir="false" />
+    <list default="true" id="4487d43d-6b8b-49ee-935a-59826dfc8c0e" name="Default Changelist" comment="change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +20,7 @@
     <session id="-184566937">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="3" />
@@ -59,11 +41,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="1118" />
+          <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1118" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -152,7 +136,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541822950814" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541823667272" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -194,12 +178,27 @@
       <updated>1541682400520</updated>
       <workItem from="1541682404516" duration="3606000" />
       <workItem from="1541752197687" duration="485000" />
-      <workItem from="1541820694187" duration="665000" />
+      <workItem from="1541820694187" duration="1333000" />
     </task>
+    <task id="LOCAL-00001" summary="change">
+      <created>1541822935417</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541822935417</updated>
+    </task>
+    <task id="LOCAL-00002" summary="change">
+      <created>1541822945892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541822945892</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4756000" />
+    <option name="totallyTimeSpent" value="5424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1326" extended-state="6" />
@@ -251,6 +250,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Question2.java">
