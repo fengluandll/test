@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="chap06" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+      <excludeFolder url="file://$MODULE_DIR$/out"/>
+    </content>
+    <orderEntry type="inheritedJdk"/>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-fontawesome/4.6.3/5e57666b79cb0ebf718003d2e0475c967b1fb4b8/fontawesomefx-fontawesome-4.6.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-fontawesome/4.6.3/82f9466f9a965283b7c889e26729f4712a9ae534/fontawesomefx-fontawesome-4.6.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-materialdesignfont/1.6.50/f0d821163d013f88d2589fd1095df64076c351b4/fontawesomefx-materialdesignfont-1.6.50.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-materialdesignfont/1.6.50/14cf8d23623dc281380c0f8aa68d96a1f213ea71/fontawesomefx-materialdesignfont-1.6.50-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-materialicons/2.2.0/f7d038eef9ba572e02013c92abf0b53495e815c5/fontawesomefx-materialicons-2.2.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-materialicons/2.2.0/6c3621bd0bcd459ebc9d29abcf391f065ba6aa95/fontawesomefx-materialicons-2.2.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-octicons/4.3.0/9be43352b26760da0de8fc83fd6a5d67b15e5e8/fontawesomefx-octicons-4.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-octicons/4.3.0/756e039ec6f1ddb5745983846e646d0c36cc2cb3/fontawesomefx-octicons-4.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-icons525/2.6.0/d3da9792e3ca3743839ab4ecf5d0101f10aa2ad9/fontawesomefx-icons525-2.6.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-icons525/2.6.0/bd611752dc0d49cc84d1d0eb485ba86f4b35ace5/fontawesomefx-icons525-2.6.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-weathericons/2.0-3/f134dd34a7ec6192569d2b201b0e3f0a60ec333c/fontawesomefx-weathericons-2.0-3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-weathericons/2.0-3/541e32f77ef97e7a5f1d1df725816e87c45eace1/fontawesomefx-weathericons-2.0-3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-commons/8.12/5fb54d7611ed086a1dc157370c495ce89d52a951/fontawesomefx-commons-8.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-commons/8.12/386667700f79a7afdd3cf33172e2cbab422d3cb1/fontawesomefx-commons-8.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-fontawesome/4.6.3/5e57666b79cb0ebf718003d2e0475c967b1fb4b8/fontawesomefx-fontawesome-4.6.3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-fontawesome/4.6.3/82f9466f9a965283b7c889e26729f4712a9ae534/fontawesomefx-fontawesome-4.6.3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-materialdesignfont/1.6.50/f0d821163d013f88d2589fd1095df64076c351b4/fontawesomefx-materialdesignfont-1.6.50.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-materialdesignfont/1.6.50/14cf8d23623dc281380c0f8aa68d96a1f213ea71/fontawesomefx-materialdesignfont-1.6.50-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-materialicons/2.2.0/f7d038eef9ba572e02013c92abf0b53495e815c5/fontawesomefx-materialicons-2.2.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-materialicons/2.2.0/6c3621bd0bcd459ebc9d29abcf391f065ba6aa95/fontawesomefx-materialicons-2.2.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-octicons/4.3.0/9be43352b26760da0de8fc83fd6a5d67b15e5e8/fontawesomefx-octicons-4.3.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-octicons/4.3.0/756e039ec6f1ddb5745983846e646d0c36cc2cb3/fontawesomefx-octicons-4.3.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-icons525/2.6.0/d3da9792e3ca3743839ab4ecf5d0101f10aa2ad9/fontawesomefx-icons525-2.6.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-icons525/2.6.0/bd611752dc0d49cc84d1d0eb485ba86f4b35ace5/fontawesomefx-icons525-2.6.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-weathericons/2.0-3/f134dd34a7ec6192569d2b201b0e3f0a60ec333c/fontawesomefx-weathericons-2.0-3.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-weathericons/2.0-3/541e32f77ef97e7a5f1d1df725816e87c45eace1/fontawesomefx-weathericons-2.0-3-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-commons/8.12/5fb54d7611ed086a1dc157370c495ce89d52a951/fontawesomefx-commons-8.12.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar:///Users/popese-yun/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx-commons/8.12/386667700f79a7afdd3cf33172e2cbab422d3cb1/fontawesomefx-commons-8.12-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
