@@ -10,12 +10,12 @@ public class Ship extends Idable{
     /**
      * weight (tons)
      */
-    private double weight;
+    private Double weight;
     // year built
-    private int builtYear;
+    private Integer builtYear;
 
     // passenger capacity
-    private int passengerCapacity;
+    private Integer passengerCapacity;
 
     public Set<Sailor> getSailors() {
         return sailors;
@@ -29,27 +29,27 @@ public class Ship extends Idable{
         this.name = name;
     }
 
-    public double getWeight() {
+    public Double getWeight() {
         return weight;
     }
 
-    public void setWeight(double weight) {
+    public void setWeight(Double weight) {
         this.weight = weight;
     }
 
-    public int getBuiltYear() {
+    public Integer getBuiltYear() {
         return builtYear;
     }
 
-    public void setBuiltYear(int builtYear) {
+    public void setBuiltYear(Integer builtYear) {
         this.builtYear = builtYear;
     }
 
-    public int getPassengerCapacity() {
+    public Integer getPassengerCapacity() {
         return passengerCapacity;
     }
 
-    public void setPassengerCapacity(int passengerCapacity) {
+    public void setPassengerCapacity(Integer passengerCapacity) {
         this.passengerCapacity = passengerCapacity;
     }
 }
