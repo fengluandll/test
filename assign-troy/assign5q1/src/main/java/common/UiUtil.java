@@ -11,7 +11,7 @@ import static javafx.stage.Modality.APPLICATION_MODAL;
 
 public class UiUtil {
 
-    public static void showModalWindow(String stageTitle, Class<?> aClass, String fxmlFileName) {
+    public static Stage showModalWindow(String stageTitle, Class<?> aClass, String fxmlFileName) {
         // open the portList stage
         Parent root;
         try {
@@ -22,8 +22,10 @@ public class UiUtil {
             stage.setScene(new Scene(root, 800, 600));
             // set menu item event handlers
             stage.show();
+            return stage;
         } catch (IOException e) {
             System.err.println("Failed to load portList.fxml");
+            return null;
         }
     }
 }

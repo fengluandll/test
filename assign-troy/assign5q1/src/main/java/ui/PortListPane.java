@@ -9,6 +9,7 @@ import javafx.fxml.Initializable;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
+import javafx.stage.Stage;
 import model.Port;
 import repository.PortRepository;
 
@@ -39,6 +40,9 @@ public class PortListPane implements Initializable {
     @FXML
     private TableColumn tcDockingFee;
 
+    private ObservableList<Port> data;
+
+
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         loadData();
@@ -49,7 +53,10 @@ public class PortListPane implements Initializable {
                 .getInstance()
                 .findAll();
 
-        final ObservableList<Port> data = FXCollections.observableArrayList(ports);
+//        if (data != null) {
+//            data.clear();
+//        }
+        data = FXCollections.observableArrayList(ports);
         tablePort.setItems(data);
 
         tcId.setCellValueFactory(new PropertyValueFactory<Port, Long>("id"));
@@ -61,7 +68,7 @@ public class PortListPane implements Initializable {
     }
 
     public void onAddPort(ActionEvent actionEvent) {
-        UiUtil.showModalWindow("Port Creation", this.getClass(), "portCreationPane.fxml");
-        loadData();
+        Stage stage = UiUtil.showModalWindow("Port Creation", this.getClass(), "portCreationPane.fxml");
+        stage.setOnHidden(event -> loadData());
     }
 }
