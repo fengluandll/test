@@ -1,7 +1,6 @@
 package model;
 
-public class Port {
-    private long id;
+public class Port extends Idable {
     private String country;
     private String name;
     private Integer population;
@@ -9,14 +8,6 @@ public class Port {
     private boolean passportRequired;
     // its current docking fee
     private Double dockingFee;
-
-    public long getId() {
-        return id;
-    }
-
-    public void setId(long id) {
-        this.id = id;
-    }
 
     public String getCountry() {
         return country;
@@ -61,7 +52,7 @@ public class Port {
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Port{");
-        sb.append("id=").append(id);
+        sb.append("id=").append(getId());
         sb.append(", country='").append(country).append('\'');
         sb.append(", name='").append(name).append('\'');
         sb.append(", population=").append(population);

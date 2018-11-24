@@ -58,13 +58,13 @@ public class PortAddModifyPane {
 
             port.setPassportRequired(passportRequired.isSelected());
 
-            if (!population.getText().isEmpty()) {
+            if (population.getText() != null && !population.getText().isEmpty()) {
                 ValidatorUtil.ensureInteger(population.getText(), "Population");
                 ValidatorUtil.ensurePositiveInteger(Integer.parseInt(population.getText()), "Population");
                 port.setPopulation(Integer.parseInt(population.getText()));
             }
 
-            if (!dockingFee.getText().isEmpty()) {
+            if (dockingFee.getText() != null && !dockingFee.getText().isEmpty()) {
                 ValidatorUtil.ensureDouble(dockingFee.getText(), "Docking Fee");
                 ValidatorUtil.ensurePositiveDouble(Double.parseDouble(dockingFee.getText()), "Docking Fee");
             }
