@@ -71,4 +71,15 @@ public class PortListPane implements Initializable {
         Stage stage = UiUtil.showModalWindow("Port Creation", this.getClass(), "portCreationPane.fxml");
         stage.setOnHidden(event -> loadData());
     }
+
+    public void onRemovePort(ActionEvent actionEvent) {
+        if (tablePort.getSelectionModel().getSelectedItem() != null) {
+            Object selectedObject = tablePort.getSelectionModel().getSelectedItem();
+            if (selectedObject instanceof Port) {
+                Port port = (Port)selectedObject;
+                PortRepository.getInstance().removeOne(port);
+                loadData();
+            }
+        }
+    }
 }

@@ -2,6 +2,7 @@ package repository;
 
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoDatabase;
+import com.mongodb.client.model.Filters;
 import common.DbUtil;
 import model.Port;
 
@@ -53,6 +54,7 @@ public class PortRepository {
     }
 
 
-
-
+    public void removeOne(Port port) {
+        getMongoCollection().deleteOne(Filters.eq("_id", port.getId()));
+    }
 }

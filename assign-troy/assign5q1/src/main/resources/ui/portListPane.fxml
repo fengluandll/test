@@ -8,6 +8,7 @@
         <ButtonBar prefHeight="40.0" prefWidth="200.0" BorderPane.alignment="CENTER">
             <buttons>
                 <Button alignment="CENTER" mnemonicParsing="false" onAction="#onAddPort" text="Add" />
+                <Button alignment="CENTER" mnemonicParsing="false" onAction="#onRemovePort" text="Remove" />
             </buttons>
          <padding>
             <Insets left="25.0" right="25.0" />
