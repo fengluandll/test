@@ -5,6 +5,7 @@ import java.util.Set;
 
 public class Ship extends Idable{
     private Set<Sailor> sailors = new HashSet<>();
+    private Set<Long> sailorIds = new HashSet<>();
     // ship name
     private String name;
     /**
@@ -51,5 +52,17 @@ public class Ship extends Idable{
 
     public void setPassengerCapacity(Integer passengerCapacity) {
         this.passengerCapacity = passengerCapacity;
+    }
+
+    public void setSailors(Set<Sailor> sailors) {
+        this.sailors = sailors;
+    }
+
+    public Set<Long> getSailorIds() {
+        return sailorIds;
+    }
+
+    public void setSailorIds(Set<Long> sailorIds) {
+        this.sailorIds = sailorIds;
     }
 }
