@@ -65,7 +65,7 @@ public class PortListPane implements Initializable {
         tcDockingFee.setCellValueFactory(new PropertyValueFactory<Port, Double>("dockingFee"));
     }
 
-    public void onAddPort(ActionEvent actionEvent) {
+    public void onAdd(ActionEvent actionEvent) {
         onAddOrModify("Port Creation", null);
     }
 
@@ -76,7 +76,7 @@ public class PortListPane implements Initializable {
         stage.setOnHidden(event -> loadData());
     }
 
-    public void onRemovePort(ActionEvent actionEvent) {
+    public void onRemove(ActionEvent actionEvent) {
         if (tablePort.getSelectionModel().getSelectedItem() != null) {
             Object selectedObject = tablePort.getSelectionModel().getSelectedItem();
             if (selectedObject instanceof Port) {
