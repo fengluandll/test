@@ -2,20 +2,12 @@ package model;
 
 import java.time.LocalDate;
 
-public class Sailor {
-    private int identificationNumber;
+public class Sailor extends Idable {
     private String name;
     private LocalDate dateOfBirth;
     private String nationality;
+    private Long supervisorId;
     private Sailor supervisor;
-
-    public int getIdentificationNumber() {
-        return identificationNumber;
-    }
-
-    public void setIdentificationNumber(int identificationNumber) {
-        this.identificationNumber = identificationNumber;
-    }
 
     public String getName() {
         return name;
@@ -47,5 +39,13 @@ public class Sailor {
 
     public void setSupervisor(Sailor supervisor) {
         this.supervisor = supervisor;
+    }
+
+    public Long getSupervisorId() {
+        return supervisorId;
+    }
+
+    public void setSupervisorId(Long supervisorId) {
+        this.supervisorId = supervisorId;
     }
 }
