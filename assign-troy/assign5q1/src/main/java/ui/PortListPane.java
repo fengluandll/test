@@ -1,24 +1,19 @@
 package ui;
 
 import common.UiUtil;
-import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.fxml.Initializable;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.Stage;
 import model.Port;
 import model.common.WindowResult;
+import repository.AbstractRepository;
 import repository.PortRepository;
 
-import java.net.URL;
-import java.util.List;
-import java.util.ResourceBundle;
-
-public class PortListPane implements Initializable {
+public class PortListPane extends AbstractListPane<Port> {
 
     @FXML
     private TableView tablePort;
@@ -43,26 +38,20 @@ public class PortListPane implements Initializable {
 
     private ObservableList<Port> data;
 
-
     @Override
-    public void initialize(URL location, ResourceBundle resources) {
-        loadData();
-    }
-
-    private void loadData() {
-        final List<Port> ports=  PortRepository
-                .getInstance()
-                .findAll();
-
-        data = FXCollections.observableArrayList(ports);
-        tablePort.setItems(data);
-
+    protected void setCellValueFactories() {
         tcId.setCellValueFactory(new PropertyValueFactory<Port, Long>("id"));
         tcCountry.setCellValueFactory(new PropertyValueFactory<Port, String>("country"));
         tcName.setCellValueFactory(new PropertyValueFactory<Port, String>("name"));
         tcPassportRequired.setCellValueFactory(new PropertyValueFactory<Port, Boolean>("passportRequired"));
         tcPopulation.setCellValueFactory(new PropertyValueFactory<Port, Integer>("population"));
         tcDockingFee.setCellValueFactory(new PropertyValueFactory<Port, Double>("dockingFee"));
+    }
+
+    @Override
+    protected AbstractRepository<Port> getRepositoryInstance() {
+        return PortRepository
+                .getInstance();
     }
 
     public void onAdd(ActionEvent actionEvent) {
