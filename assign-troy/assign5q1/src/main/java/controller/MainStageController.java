@@ -26,6 +26,15 @@ public class MainStageController implements Initializable {
     @FXML
     private void showPortsWindow(ActionEvent event)
     {
+        Port departingPort = new Port();
+        departingPort.setId(PortRepository.getInstance().nextId());
+        departingPort.setCountry("UK");
+        departingPort.setName("North Port");
+        departingPort.setPasswordRequired(true);
+        departingPort.setPopulation(55000);
+        departingPort.setDockingFee(5000);
+
+        PortRepository.getInstance().insertOne(departingPort);
 
         final List<Port> ports=  PortRepository
                 .getInstance()
@@ -33,11 +42,6 @@ public class MainStageController implements Initializable {
 
         ports.forEach(port -> System.out.println(port));
 
-        Port departingPort = new Port();
-        departingPort.setCountry("UK");
-        departingPort.setName("North Port");
-        departingPort.setPasswordRequired(true);
-        departingPort.setPopulation(55000);
-        departingPort.setDockingFee(5000);
+
     }
 }

@@ -1,7 +1,7 @@
 package model;
 
 public class Port {
-    private int id;
+    private long id;
     private String country;
     private String name;
     private int population;
@@ -10,11 +10,11 @@ public class Port {
     // its current docking fee
     private double dockingFee;
 
-    public int getId() {
+    public long getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(long id) {
         this.id = id;
     }
 
