@@ -61,6 +61,6 @@ public class PortListPane implements Initializable {
 
 
     public void onAddPort(ActionEvent actionEvent) {
-        UiUtil.showModalWindow("Port Creation", this.getClass(), "portCreationStage.fxml");
+        UiUtil.showModalWindow("Port Creation", this.getClass(), "portCreationPane.fxml");
     }
 }
