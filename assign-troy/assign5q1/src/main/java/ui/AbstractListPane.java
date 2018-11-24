@@ -62,9 +62,11 @@ public abstract class AbstractListPane<T extends Idable> implements Initializabl
     public void onRemove(ActionEvent actionEvent) {
         if (tableView.getSelectionModel().getSelectedItem() != null) {
             Object selectedObject = tableView.getSelectionModel().getSelectedItem();
-            T entity = (T)selectedObject;
+            T entity = (T) selectedObject;
             getRepositoryInstance().removeOne(entity);
             loadData();
+        } else {
+            System.err.println("Please select an entity");
         }
     }
 

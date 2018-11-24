@@ -51,16 +51,16 @@ public class PortAddModifyPane extends AbstractAddModifyPane<Port> {
 
         port.setPassportRequired(passportRequired.isSelected());
 
-        if (population.getText() != null && !population.getText().isEmpty()) {
-            ValidatorUtil.ensureInteger(population.getText(), "Population");
-            ValidatorUtil.ensurePositiveInteger(Integer.parseInt(population.getText()), "Population");
-            port.setPopulation(Integer.parseInt(population.getText()));
-        }
+        port.setPopulation(ValueUtil.getStringAsPositiveInteger(population.getText(), "Popluation"));
 
         if (dockingFee.getText() != null && !dockingFee.getText().isEmpty()) {
             ValidatorUtil.ensureDouble(dockingFee.getText(), "Docking Fee");
             ValidatorUtil.ensurePositiveDouble(Double.parseDouble(dockingFee.getText()), "Docking Fee");
         }
+
+
+
         return port;
     }
+
 }

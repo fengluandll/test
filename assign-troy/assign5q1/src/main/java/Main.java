@@ -20,16 +20,6 @@ public class Main extends Application {
 
         launch(args);
 
-//
-//
-//        final NumberGenerator shipNumberGenerator = new NumberGenerator();
-//        Ship ship = new Ship();
-//        ship.setNumber(shipNumberGenerator.next());
-//        ship.setName("Jack Pirate");
-//        ship.setBuiltYear(1988);
-//        ship.setPassengerCapacity(230);
-//        ship.setWeight(2);
-//
 //        // Create a cruise (with ships, sailors, ports)
 //        final Cruise cruise = new Cruise();
 //        final NumberGenerator cruiseNumberGenerator = new NumberGenerator();

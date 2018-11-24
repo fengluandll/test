@@ -13,6 +13,8 @@ import java.util.function.Consumer;
 
 public abstract class AbstractRepository<T extends Idable> {
 
+    private static final String ID = "_id";
+
     protected AbstractRepository() {
     }
 
@@ -32,6 +34,7 @@ public abstract class AbstractRepository<T extends Idable> {
             @Override
             public void accept(Document document) {
                 final T object = createObject();
+                object.setId(document.getLong(ID));
                 setDocumentToObject(document, object);
                 objects.add(object);
             }
