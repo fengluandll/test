@@ -12,6 +12,7 @@ import java.util.ResourceBundle;
  * The Controller class for mainStage.fxml
  */
 public class MainStageController implements Initializable {
+
     @Override
     public void initialize(URL location, ResourceBundle resources) {
     }
@@ -23,6 +24,9 @@ public class MainStageController implements Initializable {
     @FXML
     private void showPortsWindow(ActionEvent event)
     {
+
+
+
         Port departingPort = new Port();
         departingPort.setCountry("UK");
         departingPort.setName("North Port");
