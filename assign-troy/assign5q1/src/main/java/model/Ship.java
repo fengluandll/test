@@ -3,8 +3,7 @@ package model;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Ship {
-    private int number;
+public class Ship extends Idable{
     private Set<Sailor> sailors = new HashSet<>();
     // ship name
     private String name;
@@ -17,14 +16,6 @@ public class Ship {
 
     // passenger capacity
     private int passengerCapacity;
-
-    public int getNumber() {
-        return number;
-    }
-
-    public void setNumber(int number) {
-        this.number = number;
-    }
 
     public Set<Sailor> getSailors() {
         return sailors;
