@@ -12,19 +12,22 @@ import static org.bson.codecs.configuration.CodecRegistries.fromRegistries;
 
 public class DbUtil {
 
-    private static CodecRegistry pojoCodecRegistry = fromRegistries(fromProviders(PojoCodecProvider.builder().automatic(true).build()));
+    private static final CodecRegistry pojoCodecRegistry = fromRegistries(MongoClientSettings.getDefaultCodecRegistry(),
+            fromProviders(PojoCodecProvider.builder().automatic(true).build()));
 
-    MongoClientSettings settings = MongoClientSettings.builder()
+    private static final MongoClientSettings settings = MongoClientSettings.builder()
             .codecRegistry(pojoCodecRegistry)
             .build();
 
     // connect to local Mongo database server
-    private static MongoClient mongoClient = MongoClients.create();
+    private static final MongoClient mongoClient = MongoClients.create(settings);
 
     // the database name is cruises
-    private static MongoDatabase mongoDatabase = mongoClient.getDatabase("cruises");
+    private static final MongoDatabase mongoDatabase = mongoClient.getDatabase("cruises");
 
     public static MongoDatabase getMongoDatabase() {
+        CodecRegistry pojoCodecRegistry = fromRegistries(MongoClientSettings.getDefaultCodecRegistry(),
+                fromProviders(PojoCodecProvider.builder().automatic(true).build()));
         return mongoDatabase;
     }
 
