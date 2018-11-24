@@ -10,9 +10,19 @@ import java.util.List;
 import java.util.function.Consumer;
 
 public class PortRepository {
+
+    private static final PortRepository PORT_REPOSITORY = new PortRepository();
+
+    public static PortRepository getInstance() {
+        return PORT_REPOSITORY;
+    }
+
+    private PortRepository() {
+    }
+
     public List<Port> findAll() {
         final MongoDatabase mongoDatabase = DbUtil.getMongoDatabase();
-        final MongoCollection mongoCollection = mongoDatabase.getCollection("port", Port.class);
+        final MongoCollection<Port> mongoCollection = mongoDatabase.getCollection("port", Port.class);
         final List<Port> ports = new LinkedList<>();
         mongoCollection.find().forEach(new Consumer<Port>() {
             @Override
@@ -22,4 +32,6 @@ public class PortRepository {
         });
         return ports;
     }
+
+    
 }

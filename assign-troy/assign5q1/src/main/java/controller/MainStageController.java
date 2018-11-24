@@ -4,8 +4,10 @@ import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import model.Port;
+import repository.PortRepository;
 
 import java.net.URL;
+import java.util.List;
 import java.util.ResourceBundle;
 
 /**
@@ -25,7 +27,11 @@ public class MainStageController implements Initializable {
     private void showPortsWindow(ActionEvent event)
     {
 
+        final List<Port> ports=  PortRepository
+                .getInstance()
+                .findAll();
 
+        ports.forEach(port -> System.out.println(port));
 
         Port departingPort = new Port();
         departingPort.setCountry("UK");

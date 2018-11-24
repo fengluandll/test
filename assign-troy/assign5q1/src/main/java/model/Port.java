@@ -57,4 +57,17 @@ public class Port {
     public void setDockingFee(double dockingFee) {
         this.dockingFee = dockingFee;
     }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Port{");
+        sb.append("id=").append(id);
+        sb.append(", country='").append(country).append('\'');
+        sb.append(", name='").append(name).append('\'');
+        sb.append(", population=").append(population);
+        sb.append(", passwordRequired=").append(passwordRequired);
+        sb.append(", dockingFee=").append(dockingFee);
+        sb.append('}');
+        return sb.toString();
+    }
 }
