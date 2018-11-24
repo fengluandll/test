@@ -6,7 +6,7 @@
     <top>
         <ButtonBar prefHeight="40.0" prefWidth="200.0" BorderPane.alignment="CENTER">
             <buttons>
-                <Button mnemonicParsing="false" text="Add" />
+                <Button mnemonicParsing="false" onAction="#onAddPort" text="Add" />
             </buttons>
         </ButtonBar>
     </top>

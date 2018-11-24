@@ -26,8 +26,6 @@ public class DbUtil {
     private static final MongoDatabase mongoDatabase = mongoClient.getDatabase("cruises");
 
     public static MongoDatabase getMongoDatabase() {
-        CodecRegistry pojoCodecRegistry = fromRegistries(MongoClientSettings.getDefaultCodecRegistry(),
-                fromProviders(PojoCodecProvider.builder().automatic(true).build()));
         return mongoDatabase;
     }
 
