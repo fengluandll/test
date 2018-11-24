@@ -10,11 +10,8 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("ui/mainStage.fxml"));
         primaryStage.setTitle("Cruise Management");
-        primaryStage.setScene(new Scene(root, 300, 275));
-
+        primaryStage.setScene(new Scene(root, 1024, 800));
         // set menu item event handlers
-
-
         primaryStage.show();
     }
 

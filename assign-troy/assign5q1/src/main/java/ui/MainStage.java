@@ -2,10 +2,14 @@ package ui;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import model.Port;
-import repository.PortRepository;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
+import javafx.stage.Stage;
 
-import java.util.List;
+import java.io.IOException;
+
+import static javafx.stage.Modality.APPLICATION_MODAL;
 
 /**
  * The Controller class for mainStage.fxml
@@ -30,12 +34,18 @@ public class MainStage {
 //
 //        PortRepository.getInstance().insertOne(departingPort);
 
-        final List<Port> ports=  PortRepository
-                .getInstance()
-                .findAll();
-
-        ports.forEach(port -> System.out.println(port));
-
-
+        // open the portList stage
+        Parent root = null;
+        try {
+            root = FXMLLoader.load(getClass().getResource("portListStage.fxml"));
+            Stage stage = new Stage();
+            stage.initModality(APPLICATION_MODAL);
+            stage.setTitle("Port Management");
+            stage.setScene(new Scene(root, 800, 600));
+            // set menu item event handlers
+            stage.show();
+        } catch (IOException e) {
+            System.err.println("Failed to load ui/portList.fxml");
+        }
     }
 }
