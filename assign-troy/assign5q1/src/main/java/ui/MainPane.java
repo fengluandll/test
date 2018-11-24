@@ -20,4 +20,8 @@ public class MainPane {
         UiUtil.showModalWindow("Port Management", this.getClass(), "portListPane.fxml");
     }
 
+    @FXML
+    public void showShipsWindow(ActionEvent actionEvent) {
+        UiUtil.showModalWindow("Ship Management", this.getClass(), "shipListPane.fxml");
+    }
 }

@@ -15,7 +15,7 @@
                     <items>
                         <MenuItem fx:id="portList" mnemonicParsing="false" onAction="#showPortsWindow" text="Port"/>
                         <MenuItem mnemonicParsing="false" text="Sailor"/>
-                        <MenuItem mnemonicParsing="false" text="Ship"/>
+                        <MenuItem mnemonicParsing="false" text="Ship" onAction="#showShipsWindow"/>
                     </items>
                 </Menu>
                 <Menu mnemonicParsing="false" text="Passenger">

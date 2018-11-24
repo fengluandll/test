@@ -1,18 +1,13 @@
 package ui;
 
-import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
 import javafx.scene.control.TableColumn;
-import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import model.Port;
 import repository.AbstractRepository;
 import repository.PortRepository;
 
 public class PortListPane extends AbstractListPane<Port> {
-
-    @FXML
-    private TableView tablePort;
 
     @FXML
     private TableColumn tcId;
@@ -31,8 +26,6 @@ public class PortListPane extends AbstractListPane<Port> {
 
     @FXML
     private TableColumn tcDockingFee;
-
-    private ObservableList<Port> data;
 
     @Override
     protected void setCellValueFactories() {
