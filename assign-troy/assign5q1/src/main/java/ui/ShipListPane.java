@@ -40,7 +40,7 @@ public class ShipListPane extends AbstractListPane<Ship>{
 
     @Override
     protected String getAddModifyPaneFxmlFileName() {
-        return "ShipListPane.fxml";
+        return "shipAddModifyPane.fxml";
     }
 
     @Override
