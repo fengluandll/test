@@ -21,8 +21,7 @@ public class PortRepository {
     }
 
     public List<Port> findAll() {
-        final MongoDatabase mongoDatabase = DbUtil.getMongoDatabase();
-        final MongoCollection<Port> mongoCollection = mongoDatabase.getCollection("port", Port.class);
+        final MongoCollection<Port> mongoCollection = getMongoCollection();
         final List<Port> ports = new LinkedList<>();
         mongoCollection.find().forEach(new Consumer<Port>() {
             @Override
@@ -33,5 +32,24 @@ public class PortRepository {
         return ports;
     }
 
-    
+    private MongoCollection<Port> getMongoCollection() {
+        final MongoDatabase mongoDatabase = DbUtil.getMongoDatabase();
+        return mongoDatabase.getCollection("port", Port.class);
+    }
+
+    public void insertOne(Port port) {
+        getMongoCollection().insertOne(port);
+    }
+
+    public long count() {
+        return getMongoCollection().countDocuments();
+    }
+
+    public long nextId() {
+        return count() + 1;
+    }
+
+
+
+
 }
