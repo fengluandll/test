@@ -4,11 +4,11 @@ public class Port {
     private long id;
     private String country;
     private String name;
-    private int population;
+    private Integer population;
     // whether a passport is required for the passengers to disembark there
     private boolean passportRequired;
     // its current docking fee
-    private double dockingFee;
+    private Double dockingFee;
 
     public long getId() {
         return id;
@@ -34,11 +34,11 @@ public class Port {
         this.name = name;
     }
 
-    public int getPopulation() {
+    public Integer getPopulation() {
         return population;
     }
 
-    public void setPopulation(int population) {
+    public void setPopulation(Integer population) {
         this.population = population;
     }
 
@@ -50,11 +50,11 @@ public class Port {
         this.passportRequired = passportRequired;
     }
 
-    public double getDockingFee() {
+    public Double getDockingFee() {
         return dockingFee;
     }
 
-    public void setDockingFee(double dockingFee) {
+    public void setDockingFee(Double dockingFee) {
         this.dockingFee = dockingFee;
     }
 

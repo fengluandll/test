@@ -11,6 +11,7 @@ import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.stage.Stage;
 import model.Port;
+import model.common.WindowResult;
 import repository.PortRepository;
 
 import java.net.URL;
@@ -53,9 +54,6 @@ public class PortListPane implements Initializable {
                 .getInstance()
                 .findAll();
 
-//        if (data != null) {
-//            data.clear();
-//        }
         data = FXCollections.observableArrayList(ports);
         tablePort.setItems(data);
 
@@ -68,7 +66,13 @@ public class PortListPane implements Initializable {
     }
 
     public void onAddPort(ActionEvent actionEvent) {
-        Stage stage = UiUtil.showModalWindow("Port Creation", this.getClass(), "portCreationPane.fxml");
+        onAddOrModify("Port Creation", null);
+    }
+
+    private void onAddOrModify(String stageTitle, Port port) {
+        WindowResult<PortAddModifyPane> windowResult = UiUtil.showModalWindow(stageTitle, this.getClass(), "portAddModifyPane.fxml");
+        Stage stage = windowResult.getStage();
+        windowResult.getController().loadObject(port);
         stage.setOnHidden(event -> loadData());
     }
 
@@ -79,6 +83,16 @@ public class PortListPane implements Initializable {
                 Port port = (Port)selectedObject;
                 PortRepository.getInstance().removeOne(port);
                 loadData();
+            }
+        }
+    }
+
+    public void onModify(ActionEvent actionEvent) {
+        if (tablePort.getSelectionModel().getSelectedItem() != null) {
+            Object selectedObject = tablePort.getSelectionModel().getSelectedItem();
+            if (selectedObject instanceof Port) {
+                Port port = (Port)selectedObject;
+                onAddOrModify("Port Change", port);
             }
         }
     }
