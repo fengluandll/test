@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * The Controller class for mainStage.fxml
  */
-public class MainStageController {
+public class MainStage {
 
 
     /**

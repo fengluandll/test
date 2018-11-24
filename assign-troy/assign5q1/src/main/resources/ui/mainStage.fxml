@@ -7,7 +7,7 @@
             prefHeight="960.0" prefWidth="1024.0"
             xmlns="http://javafx.com/javafx/8.0.172-ea"
             xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="ui.MainStageController">
+            fx:controller="ui.MainStage">
     <top>
         <MenuBar BorderPane.alignment="CENTER">
             <menus>
