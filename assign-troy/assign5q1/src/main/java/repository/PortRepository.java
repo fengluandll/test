@@ -38,6 +38,9 @@ public class PortRepository {
     }
 
     public void insertOne(Port port) {
+        if (port.getId() == 0) {
+            port.setId(nextId());
+        }
         getMongoCollection().insertOne(port);
     }
 

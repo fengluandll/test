@@ -41,7 +41,10 @@ public class PortListPane implements Initializable {
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
+        loadData();
+    }
 
+    private void loadData() {
         final List<Port> ports=  PortRepository
                 .getInstance()
                 .findAll();
@@ -51,16 +54,14 @@ public class PortListPane implements Initializable {
 
         tcId.setCellValueFactory(new PropertyValueFactory<Port, Long>("id"));
         tcCountry.setCellValueFactory(new PropertyValueFactory<Port, String>("country"));
-        tcName.setCellValueFactory(new PropertyValueFactory<Port, String>("tcName"));
+        tcName.setCellValueFactory(new PropertyValueFactory<Port, String>("name"));
         tcPassportRequired.setCellValueFactory(new PropertyValueFactory<Port, Boolean>("passportRequired"));
         tcPopulation.setCellValueFactory(new PropertyValueFactory<Port, Integer>("population"));
         tcDockingFee.setCellValueFactory(new PropertyValueFactory<Port, Double>("dockingFee"));
-
-        ports.forEach(System.out::println);
     }
-
 
     public void onAddPort(ActionEvent actionEvent) {
         UiUtil.showModalWindow("Port Creation", this.getClass(), "portCreationPane.fxml");
+        loadData();
     }
 }
