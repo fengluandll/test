@@ -6,7 +6,7 @@ public class Port {
     private String name;
     private int population;
     // whether a passport is required for the passengers to disembark there
-    private boolean passwordRequired;
+    private boolean passportRequired;
     // its current docking fee
     private double dockingFee;
 
@@ -42,12 +42,12 @@ public class Port {
         this.population = population;
     }
 
-    public boolean isPasswordRequired() {
-        return passwordRequired;
+    public boolean isPassportRequired() {
+        return passportRequired;
     }
 
-    public void setPasswordRequired(boolean passwordRequired) {
-        this.passwordRequired = passwordRequired;
+    public void setPassportRequired(boolean passportRequired) {
+        this.passportRequired = passportRequired;
     }
 
     public double getDockingFee() {
@@ -65,7 +65,7 @@ public class Port {
         sb.append(", country='").append(country).append('\'');
         sb.append(", name='").append(name).append('\'');
         sb.append(", population=").append(population);
-        sb.append(", passwordRequired=").append(passwordRequired);
+        sb.append(", passportRequired=").append(passportRequired);
         sb.append(", dockingFee=").append(dockingFee);
         sb.append('}');
         return sb.toString();
