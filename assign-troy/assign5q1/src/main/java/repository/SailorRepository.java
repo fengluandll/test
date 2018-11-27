@@ -15,7 +15,7 @@ public class SailorRepository extends AbstractRepository<Sailor> {
 
     private static final SailorRepository SAILOR_REPOSITORY = new SailorRepository();
 
-    private static final SailorRepository getInstance() {
+    public static final SailorRepository getInstance() {
         return SAILOR_REPOSITORY;
     }
 
