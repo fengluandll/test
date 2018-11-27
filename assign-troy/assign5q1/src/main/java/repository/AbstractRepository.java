@@ -79,5 +79,31 @@ public abstract class AbstractRepository<T extends Idable> {
     }
 
 
+    public T findById(Long id){
+        final MongoCollection<Document> mongoCollection = getMongoCollection();
+        final T object = createObject();
+        final Document document = mongoCollection.find(Filters.eq(ID, id)).first();
+        if (document != null) {
+            object.setId(document.getLong(ID));
+            setDocumentToObject(document, object);
+            return object;
+        } else {
+            return null;
+        }
+    }
 
+    public List<T> findByIds(List<Long> ids){
+        final MongoCollection<Document> mongoCollection = getMongoCollection();
+        final List<T> objects = new LinkedList<>();
+        mongoCollection.find(Filters.in(ID, ids)).forEach(new Consumer<Document>() {
+            @Override
+            public void accept(Document document) {
+                final T object = createObject();
+                object.setId(document.getLong(ID));
+                setDocumentToObject(document, object);
+                objects.add(object);
+            }
+        });
+        return objects;
+    }
 }

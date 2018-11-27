@@ -57,11 +57,35 @@ public class Cruise extends Idable {
         return sailedPassengers;
     }
 
+    public void setPortsOfAll(List<Port> portsOfAll) {
+        this.portsOfAll = portsOfAll;
+    }
+
+    public void setSailors(List<Sailor> sailors) {
+        this.sailors = sailors;
+    }
+
+    public void setBookedPassengers(List<Passenger> bookedPassengers) {
+        this.bookedPassengers = bookedPassengers;
+    }
+
+    public void setSailedPassengers(List<Passenger> sailedPassengers) {
+        this.sailedPassengers = sailedPassengers;
+    }
+
     public Port getDeparturePort() {
         return departurePort;
     }
 
     public void setDeparturePort(Port departurePort) {
         this.departurePort = departurePort;
+    }
+
+    public String getDeparturePortName() {
+        return departurePort == null ? null : departurePort.getName();
+    }
+
+    public String getShipName() {
+        return ship == null ? null : ship.getName();
     }
 }

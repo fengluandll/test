@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.BorderPane?>
 <BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0"
             prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="ui.SailorListPane">
+            fx:controller="ui.CruiseListPane">
     <top>
         <ButtonBar prefHeight="40.0" prefWidth="200.0" BorderPane.alignment="CENTER">
             <buttons>
@@ -25,9 +25,10 @@
             <columns>
                 <TableColumn fx:id="id" prefWidth="75.0" text="ID"/>
                 <TableColumn fx:id="name" prefWidth="150.0" text="Name"/>
-                <TableColumn fx:id="dateOfBirth" prefWidth="150" text="Date of Birth"/>
-                <TableColumn fx:id="nationality" prefWidth="150" minWidth="-Infinity" text="Nationality"/>
-                <TableColumn fx:id="supervisorName" prefWidth="144.0" text="Supervisor Name"/>
+                <TableColumn fx:id="departurePort" prefWidth="150" text="Departure Port"/>
+                <TableColumn fx:id="ship" prefWidth="150" minWidth="-Infinity" text="Ship"/>
+                <TableColumn fx:id="sailingDate" prefWidth="144.0" text="Sailing Date"/>
+                <TableColumn fx:id="returnDate" prefWidth="144.0" text="Return Date"/>
             </columns>
         </TableView>
     </center>
