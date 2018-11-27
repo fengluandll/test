@@ -2,9 +2,7 @@ package model;
 
 import java.time.LocalDate;
 
-public class Passenger {
-    // unique passenger number
-    private int number;
+public class Passenger extends Idable {
     private String name;
     //home address
     private String homeAddress;
@@ -12,14 +10,6 @@ public class Passenger {
     private LocalDate dateOfBirth;
     // MoneySpentOnCruise (calculated by totalling amount of money spent by the passenger on-board cruise)
     private double moneySpentOnCruise;
-
-    public int getNumber() {
-        return number;
-    }
-
-    public void setNumber(int number) {
-        this.number = number;
-    }
 
     public String getName() {
         return name;
@@ -68,7 +58,7 @@ public class Passenger {
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Passenger{");
-        sb.append("number=").append(number);
+        sb.append("id=").append(getId());
         sb.append(", name='").append(name).append('\'');
         sb.append(", homeAddress='").append(homeAddress).append('\'');
         sb.append(", nationality='").append(nationality).append('\'');
