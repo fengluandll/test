@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.BorderPane?>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity"
+            minHeight="-Infinity" minWidth="-Infinity"
+            prefHeight="960.0" prefWidth="1024.0"
+            xmlns="http://javafx.com/javafx/8.0.172-ea"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="ui.MainPane">
+    <top>
+        <MenuBar BorderPane.alignment="CENTER">
+            <menus>
+                <Menu mnemonicParsing="false" text="Staff">
+                    <items>
+                        <MenuItem fx:id="portList" mnemonicParsing="false" onAction="#showPortsWindow" text="Port"/>
+                        <MenuItem mnemonicParsing="false" text="Sailor"/>
+                        <MenuItem mnemonicParsing="false" text="Ship" onAction="#showShipsWindow"/>
+                        <MenuItem mnemonicParsing="false" text="Passenger"/>
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Passenger">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Survey"/>
+                    </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Report">
+                    <items>
+                        <MenuItem mnemonicParsing="false" text="Spending"/>
+                    </items>
+                </Menu>
+            </menus>
+        </MenuBar>
+    </top>
+</BorderPane>
