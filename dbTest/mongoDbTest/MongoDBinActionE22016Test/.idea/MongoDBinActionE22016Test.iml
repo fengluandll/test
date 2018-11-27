@@ -9,4 +9,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.2, ruby-2.0.0-p648) [gem]" level="application" />
   </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="1" string0="$MODULE_DIR$/my" />
+    <I18N_FOLDERS number="0" />
+  </component>
 </module>
