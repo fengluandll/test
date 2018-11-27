@@ -65,4 +65,9 @@ public class Ship extends Idable{
     public void setSailorIds(Set<Long> sailorIds) {
         this.sailorIds = sailorIds;
     }
+
+    @Override
+    public String toString() {
+        return name + " #" + getId();
+    }
 }

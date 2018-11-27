@@ -51,14 +51,6 @@ public class Port extends Idable {
 
     @Override
     public String toString() {
-        final StringBuilder sb = new StringBuilder("Port{");
-        sb.append("id=").append(getId());
-        sb.append(", country='").append(country).append('\'');
-        sb.append(", name='").append(name).append('\'');
-        sb.append(", population=").append(population);
-        sb.append(", passportRequired=").append(passportRequired);
-        sb.append(", dockingFee=").append(dockingFee);
-        sb.append('}');
-        return sb.toString();
+        return name + " #" + getId();
     }
 }
