@@ -4,9 +4,7 @@ import java.time.LocalDate;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Cruise {
-    //serial number
-    private int serialNumber;
+public class Cruise extends Idable {
     // sailing date
     private LocalDate sailingDate;
     // return date
@@ -18,14 +16,6 @@ public class Cruise {
     private List<Sailor> sailors = new LinkedList<>();
     private List<Passenger> bookedPassengers = new LinkedList<>();
     private List<Passenger> sailedPassengers = new LinkedList<>();
-
-    public int getSerialNumber() {
-        return serialNumber;
-    }
-
-    public void setSerialNumber(int serialNumber) {
-        this.serialNumber = serialNumber;
-    }
 
     public LocalDate getSailingDate() {
         return sailingDate;
@@ -67,11 +57,35 @@ public class Cruise {
         return sailedPassengers;
     }
 
+    public void setPortsOfAll(List<Port> portsOfAll) {
+        this.portsOfAll = portsOfAll;
+    }
+
+    public void setSailors(List<Sailor> sailors) {
+        this.sailors = sailors;
+    }
+
+    public void setBookedPassengers(List<Passenger> bookedPassengers) {
+        this.bookedPassengers = bookedPassengers;
+    }
+
+    public void setSailedPassengers(List<Passenger> sailedPassengers) {
+        this.sailedPassengers = sailedPassengers;
+    }
+
     public Port getDeparturePort() {
         return departurePort;
     }
 
     public void setDeparturePort(Port departurePort) {
         this.departurePort = departurePort;
+    }
+
+    public String getDeparturePortName() {
+        return departurePort == null ? null : departurePort.getName();
+    }
+
+    public String getShipName() {
+        return ship == null ? null : ship.getName();
     }
 }

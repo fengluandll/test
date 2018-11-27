@@ -24,4 +24,18 @@ public class MainPane {
     public void showShipsWindow(ActionEvent actionEvent) {
         UiUtil.showModalWindow("Ship Management", this.getClass(), "shipListPane.fxml");
     }
+
+    @FXML
+    public void showSailorsWindow(ActionEvent actionEvent) {
+        UiUtil.showModalWindow("Sailor Management", this.getClass(), "sailorListPane.fxml");
+    }
+
+    @FXML
+    public void showPassengersWindow(ActionEvent actionEvent) {
+        UiUtil.showModalWindow("Passenger Management", this.getClass(), "passengerListPane.fxml");
+    }
+
+    public void showCruisesWindow(ActionEvent actionEvent) {
+        UiUtil.showModalWindow("Cruise Management", this.getClass(), "cruiseListPane.fxml");
+    }
 }

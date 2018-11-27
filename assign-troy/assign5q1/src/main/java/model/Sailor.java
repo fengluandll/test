@@ -48,4 +48,12 @@ public class Sailor extends Idable {
     public void setSupervisorId(Long supervisorId) {
         this.supervisorId = supervisorId;
     }
+
+    public String getSupervisorName() {
+        if (supervisor != null) {
+            return supervisor.name;
+        } else {
+            return null;
+        }
+    }
 }

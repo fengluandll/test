@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.BorderPane?>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0"
+            prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="ui.CruiseListPane">
+    <top>
+        <ButtonBar prefHeight="40.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <buttons>
+                <Button alignment="CENTER" mnemonicParsing="false" onAction="#onAdd" text="Add"/>
+                <Button alignment="CENTER" mnemonicParsing="false" onAction="#onModify" text="Modify"/>
+                <Button alignment="CENTER" mnemonicParsing="false" onAction="#onRemove" text="Remove"/>
+            </buttons>
+            <padding>
+                <Insets left="25.0" right="25.0"/>
+            </padding>
+        </ButtonBar>
+    </top>
+    <center>
+    </center>
+    <center>
+        <TableView fx:id="tableView" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+            <columns>
+                <TableColumn fx:id="id" prefWidth="75.0" text="ID"/>
+                <TableColumn fx:id="name" prefWidth="150.0" text="Name"/>
+                <TableColumn fx:id="departurePort" prefWidth="150" text="Departure Port"/>
+                <TableColumn fx:id="ship" prefWidth="150" minWidth="-Infinity" text="Ship"/>
+                <TableColumn fx:id="sailingDate" prefWidth="144.0" text="Sailing Date"/>
+                <TableColumn fx:id="returnDate" prefWidth="144.0" text="Return Date"/>
+            </columns>
+        </TableView>
+    </center>
+</BorderPane>

@@ -15,7 +15,7 @@ public class SailorRepository extends AbstractRepository<Sailor> {
 
     private static final SailorRepository SAILOR_REPOSITORY = new SailorRepository();
 
-    private static final SailorRepository getInstance() {
+    public static final SailorRepository getInstance() {
         return SAILOR_REPOSITORY;
     }
 
@@ -41,10 +41,11 @@ public class SailorRepository extends AbstractRepository<Sailor> {
 
     @Override
     protected void setObjectToDocument(Sailor sailor, Document document) {
+        final Long supervisorId = sailor.getSupervisor() != null ? sailor.getSupervisor().getId() : null;
         document.append(NAME, sailor.getName())
                 .append(NATIONALITY, sailor.getNationality())
                 .append(DATE_OF_BIRTH, sailor.getDateOfBirth())
-                .append(SUPERVISOR_ID, sailor.getSupervisor().getId());
+                .append(SUPERVISOR_ID, supervisorId);
     }
 
     @Override
