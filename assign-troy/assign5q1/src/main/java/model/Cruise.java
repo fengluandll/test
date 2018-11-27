@@ -4,9 +4,7 @@ import java.time.LocalDate;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Cruise {
-    //serial number
-    private int serialNumber;
+public class Cruise extends Idable {
     // sailing date
     private LocalDate sailingDate;
     // return date
@@ -18,14 +16,6 @@ public class Cruise {
     private List<Sailor> sailors = new LinkedList<>();
     private List<Passenger> bookedPassengers = new LinkedList<>();
     private List<Passenger> sailedPassengers = new LinkedList<>();
-
-    public int getSerialNumber() {
-        return serialNumber;
-    }
-
-    public void setSerialNumber(int serialNumber) {
-        this.serialNumber = serialNumber;
-    }
 
     public LocalDate getSailingDate() {
         return sailingDate;

@@ -34,4 +34,8 @@ public class MainPane {
     public void showPassengersWindow(ActionEvent actionEvent) {
         UiUtil.showModalWindow("Passenger Management", this.getClass(), "passengerListPane.fxml");
     }
+
+    public void showCruisesWindow(ActionEvent actionEvent) {
+        UiUtil.showModalWindow("Cruise Management", this.getClass(), "cruiseListPane.fxml");
+    }
 }

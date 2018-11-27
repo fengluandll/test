@@ -17,6 +17,7 @@
                         <MenuItem mnemonicParsing="false" text="Sailor" onAction="#showSailorsWindow"/>
                         <MenuItem mnemonicParsing="false" text="Ship" onAction="#showShipsWindow"/>
                         <MenuItem mnemonicParsing="false" text="Passenger" onAction="#showPassengersWindow"/>
+                        <MenuItem mnemonicParsing="false" text="Cruise" onAction="#showCruisesWindow"/>
                     </items>
                 </Menu>
                 <Menu mnemonicParsing="false" text="Passenger">
