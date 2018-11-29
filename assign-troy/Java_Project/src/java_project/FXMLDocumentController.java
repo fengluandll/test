@@ -34,6 +34,11 @@ public class FXMLDocumentController implements Initializable {
     static String botName = "super";
     private static final boolean TRACE_MODE = false;
     
+    @FXML
+    private Button btnVoiceInput;
+    
+    private boolean voiceInput = false;
+    
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
@@ -57,6 +62,20 @@ public class FXMLDocumentController implements Initializable {
         displaytext.setText(s_display);
         entertext.setText("");
         
+    }
+    
+    @FXML
+    private void onVoiceInput(ActionEvent event){
+        voiceInput = !voiceInput;
+        if (voiceInput){
+            btnVoiceInput.setText("Stop voice Input");
+        } else{
+            btnVoiceInput.setText("Start Voice Input");
+        }
+        
+        if (voiceInput){
+            
+        }
     }
 
     private static String getResourcesPath() {
