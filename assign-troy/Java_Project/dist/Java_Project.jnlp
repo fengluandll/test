@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Java_Project.jnlp">
+  <information>
+    <title>Java_Project</title>
+    <vendor>Rahul Jindal</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Java_Project.jar" size="721232" download="eager" />
+    <jar href="lib\Ab.jar" size="8378464" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Java_Project" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="java_project.Java_Project"  name="Java_Project" />
+  <update check="always"/>
+</jnlp>
