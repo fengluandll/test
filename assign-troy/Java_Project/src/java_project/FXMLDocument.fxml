@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="669.0" prefWidth="603.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="java_project.FXMLDocumentController">
+    <children>
+        <Button fx:id="submit" layoutX="508.0" layoutY="613.0" onAction="#submitButton" text="Submit" />
+      <TextArea fx:id="displaytext" layoutX="14.0" layoutY="101.0" prefHeight="389.0" prefWidth="569.0" style="-fx-background-color: #d3d3d3;" />
+      <Text layoutX="50.0" layoutY="60.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to Popese's Chat Assistant " textAlignment="CENTER" wrappingWidth="509.205078125">
+         <font>
+            <Font name="Arial Bold" size="28.0" />
+         </font>
+      </Text>
+      <TextField fx:id="entertext" layoutX="14.0" layoutY="503.0" prefHeight="98.0" prefWidth="569.0" promptText="Tell me about..." />
+    </children>
+</AnchorPane>
