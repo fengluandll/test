@@ -1,0 +1,12 @@
+.rounded {
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+#menu {
+  color: grey;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+/*# sourceMappingURL=borderRadiusLessTest.css.map */
