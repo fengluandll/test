@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category><pattern>WHO ARE YOU</pattern><template>Hi. Im a bot for popese.com website who can guide you through the various events that happen through our website,</template></category>
+<category><pattern>WHAT IS POPESE.COM</pattern><template>Popese is an online ticketing system that provides ticketing solutions with seat plans.</template></category>
+<category><pattern>HOW CAN YOU HELP ME</pattern><template>I can help you with most of your enquires regarding the events, venues and time. Type the name of the event you want to know about</template></category>
+<category><pattern>CAN I BUY POPESE TICKETS FROM UNAUTHORIZED TICKET VENDORS</pattern><template>It is not suggested to buy the tickets from unauthorized third parters due to their terms and conditions. The ticket(s) may not, without the authorised written agreement of Popese and the Promoter, be resold (including via online auction or other unauthorised resale platforms) or used for commercial purposes and activities (including advertising, complimentary ticket promotion). If the ticket is sold or used violating the condition, the ticket may be cancelled without a refund and the ticketholder may be refused admission.</template></category>
+<category><pattern>WHAT HAPPENS WHEN A SHOW IS CANCELLED OR POSTPONED</pattern><template>Popese cannot exchange or refund a ticket following purchase unless instructed to do so by the organisation responsible for the event (the Promoter) or the event is required to be cancelled by the Promoter other than the force majeure situations.</template></category>
+<category><pattern>WILL THERE BE ANY TIME LIMIT WHEN I BUY TICKETS ON-LINE</pattern><template>Yes, you have 120mins to complete the pruchase after you choosing the seat(s). You can pa</template></category>
+<category><pattern>ARE CAMERAS AND/OR VIDEO CAMERAS ALLOWED AT VENUES</pattern><template>Cameras are not permitted for most venues. Please contact the venue for more information. </template></category>
+<category><pattern>HOW DO I MAKE CORPORATE AND GROUP PURCHASES</pattern><template>10% discount will be offered to a group with 10 people and above. Please connect our staff to get the group promotion code. Email:info@popese.com,  Monday to Friday 10am -5pm.</template></category>
+<category><pattern>WHAT HAPPENS WHEN A SHOW IS CANCELLED OR POSTPONED</pattern><template>Our staff will contact you if the show is cancelled or postopend. You can ask for a fully refuned if if the show is cancelled or postopend.</template></category>
+<category><pattern>HOW DO I FIND AN EVENT AND BOOK MY TICKET</pattern><template>You can find the events on https://popese.com. Just click your favoutite event and choose the seat on our website by registering an account.</template></category>
+<category><pattern>CAN YOU HELP ME WITH THE VENUE INFORMATION</pattern><template>Which venue information are you look for 1.Adelaide Festival Theatre, 2. Adelaide City Town Hall. 3. Dunstan Play House, 4. Her Majestys Theatre</template></category>
+<category><pattern>WHAT SHOULD I DO IF MY TICKETS ARE LOST OR STOLEN</pattern><template>You can use your online account purchase histroy as a proof of pruchase if your ticket(s) is/are lost or stolen. </template></category>
+<category><pattern>HOW LONG DOES IT TAKE FOR TICKETS TO REACH ME BY MAIL</pattern><template>It will take 2-3 business days to send the e-ticket(s) to your email after we confirm your payment.</template></category>
+<category><pattern>CAN I BOOK MY TICKETS IN ADVANCE</pattern><template>Yes, you can book the ticekt in advance after the organisor lanuching the event on popese.com. </template></category>
+<category><pattern>WHAT IF THERE IS A TRANSACTION ERROR</pattern><template>Please contact our staffs if there is a payment/transaction error. Email: info@popese.com</template></category>
+<category><pattern>WHAT SHOULD I DO IF MY TICKETS ARE LOST OR STOLEN</pattern><template>Please contact our staffs immediately if your ticket(s) is/are lost or stolen. Email: info@popese.com</template></category>
+<category><pattern>DO I NEED TO PURCHASE TICKETS FOR MY CHILD</pattern><template>Yes, . The child is not promite to the concert </template></category>
+<category><pattern>DO YOU GIVE ANY DISCOUNTS</pattern><template>We offer 10% discount for group pruchase with 10 people and above and Popese Popese VIP Member. for the events. </template></category>
+<category><pattern>DO YOU GIVE ANY DISCOUNTS ON THE BASIS OF A PARTICULAR PAYMENT TYPE</pattern><template>Sorry, there is no discount for a particular payment.</template></category>
+<category><pattern>IS THERE ANY BOOKING FEE</pattern><template>The booking fee may be various from different events. It is normally 0-2% of the ticket(s) price. </template></category>
+<category><pattern>IS THERE ANY EARLY BIRD SCHEME</pattern><template>The early bird price may be various from different events. </template></category>
+<category><pattern>WHAT IS THE REFUNDS PROCESS</pattern><template>The refunds process will takes 7-10 days to refund the money to your provide bank account. Our staffs will contact with you by email if there is a refund.</template></category>
+<category><pattern>DO YOU PLAN TO HOST SHOWS OUTSIDE OF ADELAIDE</pattern><template>We currently only host events in South Australia. </template></category>
+<category><pattern>WHAT IS THE CANCELLING POLICY</pattern><template>Popese cannot exchange or refund a ticket following purchase unless instructed to do so by the organisation responsible for the event (the Promoter) or the event is required to be cancelled by the Promoter other than the force majeure situations.</template></category>
+<category><pattern>IS IT NECESSARY TO REGISTER FOR BOOKING TICKETS</pattern><template>Yes, you have to register an accountant to buy the ticket(s) online.</template></category>
+<category><pattern>WHAT ARE THE BENEFITS OF REGISTERING WITH POPESE</pattern><template>By registering an accountant with popese, you can buy the ticket(s) online.</template></category>
+<category><pattern>I HAVE FORGOTTEN MY PASSWORD, HOW DO I PROCEED</pattern><template>You can reset your password on https://popese.com/public/user/getBackPassword.</template></category>
+<category><pattern>HOW CAN I CHANGE MY PASSWORD</pattern><template>You can change your password by reset your password on https://popese.com/public/user/getBackPassword.</template></category>
+<category><pattern>HOW DO I REGISTER WITH POPESE.COM</pattern><template>You can register your account on https://popese.com/user/register.</template></category>
+<category><pattern>DO YOU HAVE ANY SPECIFIC MEMBER BENEFITS</pattern><template>We offer 10% discount for Popese VIP Member.</template></category>
+<category><pattern>DO YOU CHARGE FOR BEING THE MEMBER</pattern><template>We will charge $199 per year for the Popese VIP membership.</template></category>
+<category><pattern>WHAT IS THE VALIDITY OF THE MEMBERSHIP : IS IT LIFETIME</pattern><template>The Popese VIP membership is vaild for one year after we received </template></category>
+<category><pattern>WHY SHOULD I BOOK MY TICKETS WITH POPESE</pattern><template>By booking ticekts with Popese. you can choose the seat(s) online and manage your purchase history.</template></category>
+<category><pattern>CAN I BOOK MY TICKETS BY VISITING YOUR COUNTER ON THE DAY OF EVENT</pattern><template>Yes, you can buy the ticekt at our office or on the event day. Our office is at 811/147 Pirie Street, Adelaide, Monday to Friday 10am -5pm.</template></category>
+<category><pattern>WHAT IS THE WAY TO GET MY QUERY RESOLVED</pattern><template>You contact with us by email for your query. Email: info@popese.com, Monday to Friday 10am -5pm.</template></category>
+<category><pattern>WHAT IS THE AVERAGE RESPONSE TIME FOR MY QUERY TO BE RESOLVED</pattern><template>Our staffs wil contact you within 24 hours (Business days) after we recived your query, Monday to Friday 10am -5pm.</template></category>
+<category><pattern>WHAT IS THE PROCESS OF REFUNDS IF I DECIDE TO CANCEL AT THE LAST MOMENT</pattern><template>Popese cannot exchange or refund a ticket following purchase unless instructed to do so by the organisation responsible for the event (the Promoter) or the event is required to be cancelled by the Promoter other than the force majeure situations.</template></category>
+<category><pattern>I HAD BOOKED TICKETS THROUGH POPESE, BUT THE SHOW HAS BEEN CANCELLED. HOW DO I GET THE REFUND</pattern><template>Our staff will contact you if the show is cancelled or postopend. You can ask for a fully refuned if if the show is cancelled or postopend.</template></category>
+<category><pattern>CAN I CANCEL ONLY PART OF THE TICKETS</pattern><template>Popese cannot exchange or refund a ticket following purchase unless instructed to do so by the organisation responsible for the event (the Promoter) or the event is required to be cancelled by the Promoter other than the force majeure situations.</template></category>
+<category><pattern>DO I NEED TO SHOW THE PHYSICAL PRINTOUT OF TICKETS, OR CAN IT BE SHOWN VIA A DIGITAL DEVICE</pattern><template>We accept both e-ticket(s) and printted ticket(s).</template></category>
+<category><pattern>DO YOU ASK FOR ANY ID FOR VERFICATION</pattern><template>No, we do not ask you for the ID unless there is a repeat ticket.</template></category>
+<category><pattern>HOW SECURE IS YOUR SITE ( ON THE LINES OF DATA PRIVACY)</pattern><template>Please note that, without your consent or confirmation, the Website will not use the information that you provided in order to participate in certain activities of this Website for other commercial purposes (excluding for the improvement and upgrades of service quality). Actions according to the following 6th provision where the Website may disclose your information per requests from the government or the legal system are not subject to this article.</template></category>
+<category><pattern>WHAT IS YOUR PRIVACY POLICY</pattern><template>For our privacy Declaration please visit: https://popese.com/ticket/public/privacyDeclaration</template></category>
+<category><pattern>WHAT BROWSER WORKS BEST WITH POPESE.COM</pattern><template>We suggest to use safari, Chrome.</template></category>
+<category><pattern>WHY IS THE SPEED OF THIS WEBSITE SO SLOW</pattern><template>Please check your internet environment if the loading speed is very slow.</template></category>
+<category><pattern>WHAT DO I DO IF MY BOOKING IS NOT COMPLETED</pattern><template>We will send you confirmation email after we received your payment.</template></category>
+<category><pattern>WHAT ARE THE MODES OF PAYMENT AVAILABLE TO BOOK TICKETS</pattern><template>We accept Paypal, and bank transfer online. We accept Paypal, bank transfer and cash payment at the office. </template></category>
+<category><pattern>WHAT EMAILS WILL ATTENDEES AUTOMATICALLY RECEIVE</pattern><template>We will send you the confrimation information, e-ticket(s), and other event related infortmation by email.</template></category>
+<category><pattern>WHEN I ENTER MY CREDIT CARD INFORMATION, THE WEBSITE ASKS FOR A CVV CODE. WHAT IS THE CVV CODE</pattern><template>The CVV is the pin number on the back of your bank card. Normally 3 digital numbers.</template></category>
+<category><pattern>MY BOOKING HAS BEEN REJECTED, BUT MY CREDIT CARD HAS BEEN CHARGED WHAT DO I DO</pattern><template>Please contact our staffs if there is a payment/transaction error. Email: info@popese.com</template></category>
+<category><pattern>THE REFUND HAS STILL NOT BEEN CREDITED IN MY CREDIT CARD ACCOUNT</pattern><template>Please contact our staffs if you did not receive the refund after 7 business days. Email: info@popese.com</template></category>
+<category><pattern>CAN I BOOK MY TICKETS WITHOUT MY CREDIT CARD SINCE I DONT WANT TO DISCLOSE MY CREDIT CARD DETAILS</pattern><template>Yes, you can use Paypal to make a payment online or you can pay cash at our office. </template></category>
+<category><pattern>DO YOU HAVE A MOBILE APP</pattern><template>We currently only have the website edition.</template></category>
+<category><pattern>I AM A STUDENT, DO YOU GIVE STUDENT DISCOUNTS</pattern><template>We only offer 10% discount for group pruchase with 10 people and above and Popese Popese VIP Member. for the events. </template></category>
+<category><pattern>I APPLIED FOR AN OFFER, BUT MY TRANSACTION DID NOT GET THROUGH. NOW I AM UNABLE TO AVAIL THE DISCOUNT</pattern><template>You can reuse your promotion code/offer if the transaction is now successful. </template></category>
+<category><pattern>DO I NEED TO CARRY MY CREDIT/ DEBIT CARD WHEN I COLLECT MY TICKETS</pattern><template>We will only need your ID when you collect your ticket(s).</template></category>
+<category><pattern>IS THERE A TELEPHONE NUMBER WHERE I CAN CONTACT YOU AND BOOK MY TICKETS</pattern><template>You can call 0458 511 111 to ask events information. We currently do not accept payment over the phoe. </template></category>
+<category><pattern>I ACCIDENTALLY BOOKED MY TICKETS FOR TODAY INSTEAD OF TOMORROW, CAN YOU CHANGE THE TICKETS</pattern><template>Please contact our staffs immediately for an exchange if you choose the wrong date/time. We cannot do the exchange or refund if the start of the event is less than 24 hours. Email: info@popese.com</template></category>
+<category><pattern>DO YOU CHARGE EXTRA FEES FOR A BOOKING</pattern><template>We will charge a transaction fee from different bank cards. It is normally 1.5-2.5% of the total price. </template></category>
+<category><pattern>CAN I PROVIDE FEEDBACK WITH REGARDS TO THE EVENTS ON YOUR WEBSITE</pattern><template>Please contact our staffs if you have any question or suggest. Email: info@popese.com</template></category>
+<category><pattern>DO YOU HAVE A NEWSLETTER HOW CAN I SIGN UP</pattern><template>We do not have a newsletter. We can find the latest events on our website: https://popese.com</template></category>
+<category><pattern>IS THERE ANY LOYALTY PROGRAM ATTACHED WITH MEMBER SIGNUPS</pattern><template>We will offer 10% discount for the next purchase if you booked five events with us. Please contact our staffs for the promotion code/offer. Email: info@popese.com</template></category>
+<category><pattern>* KEYWORDS - QUESTIONS FOLLOWING A STAR SHOULD COME HERE</pattern><template></template></category>
+<category><pattern>ARTIST</pattern><template></template></category>
+<category><pattern>MASKIM MRVICA</pattern><template>The event is in Adelaide town hall on 23rd september at 7:30 pm. The different prices of tickets we have are: 69, 99, 129, 159 (AUD)</template></category>
+<category><pattern>PETER BENCE</pattern><template>The event is in Scott Theatrel on12th April at 7:30 pm. The different prices of tickets we have are: 49, 59, 79, 99 (AUD)</template></category>
+<category><pattern>BUTTERFLY LADIES</pattern><template>The event is in Dunstan Playhouse on 21st January at 7:30 pm. The different prices of tickets we have are: 45 and 55 (AUD)</template></category>
+<category><pattern>DE YUN</pattern><template>The event is in Adelaide Festival Theatre on 7th Octiber at 7:30 pm. The different prices of tickets we have are: 99, 159, 199, 229 (AUD)</template></category>
+<category><pattern>TWO DOGS</pattern><template>The event is in Her Majestys Theatre on 1st October at 7 pm. The different prices of tickets we have are: 45, 55 (AUD)</template></category>
+<category><pattern>YIRUMA</pattern><template>The event is in Adelaide festival Theatre on 26th July at 7:30 pm. The different prices of tickets we have are: 99, 159, 199, 229 (AUD)</template></category>
+<category><pattern>LOCATION BASED</pattern><template></template></category>
+<category><pattern>ADELAIDE TOWN HALL</pattern><template>Event by Maskim mrvica on 23rd September at 7:30 pm. Various price options are:  69, 99, 129, 159 (AUD)</template></category>
+<category><pattern>SCOTT THEATRE</pattern><template>Event by Peter Bence on 12th April at 7:30 pm. Various price options are: 49, 59, 79, 99 (AUD)</template></category>
+<category><pattern>DUNSTAN PLAYHOUSE</pattern><template>Event by Butterfly Ladies on 21st January at 7:30 pm. Various price options are: 45 and 55 (AUD)</template></category>
+<category><pattern>ADELAIDE FESTIVAL THEATRE</pattern><template>Event by De Yun on 7th Octiber at 7:30 pm and by Yiruma on 26th July at 7 pm.. Various price options are: 99, 159, 199, 229 (AUD)</template></category>
+<category><pattern>HER MAJESTYS THEATRE</pattern><template>Event by Two Dogs on 1st October at 7:30 pm. Various price options are: 45 and 55 (AUD)</template></category>
+<category><pattern>EVENTS</pattern><template>Popese has 6 events by the following artists. Type the name of the artist you want to knwo the events details of. Artists are: Maskim mrvica
+Peter Bence
+Butterfly Ladies
+De Yun
+Two Dogs
+Yiruma</template></category>
+<category><pattern>LOCATION/VENUE/WHERE IS THE EVENT/MAA CHUDAE JAVA</pattern><template>Which events location do you want to know We have events of the following artists:Type the name of the artist please to know further: Maskim mrvica
+Peter Bence
+Butterfly Ladies
+De Yun
+Two Dogs
+Yiruma</template></category>
+<category><pattern>PRICE/RATE/COST/CHARGES/SEATS/GAND MAARLI</pattern><template>Which events price do you want to know We have events of the following artists:Type the name of the artist please to know further: Maskim mrvica
+Peter Bence
+Butterfly Ladies
+De Yun
+Two Dogs
+Yiruma</template></category>
+<category><pattern>CAN YOU TELL ME ABOUT THE EVENTS TAKING PLACE IN ADELAIDE</pattern><template>We currently have six events coming in Adelaide. 1. Maksim Mrvica (Piano) 2.Peter Bence(Piano) 3. Butterfly Ladies(Traditional Chinese Bands) 4. Two Dogs(Comedy) 5. De Yun(Comedy) 6. Yiruma(Piano)</template></category>
+<category><pattern>DO YOU HAVE EVENTS ON THE BASIS OF GENRE OF ARTISTS</pattern><template>We currently have four types of events. 1. Piano 2.Traditional Chinese Bands 4. Comedy </template></category>
+<category><pattern>WHAT KIND OF EVENTS DO YOU HAVE CURRENTLY</pattern><template>We currently have six events coming in Adelaide. 1. Maksim Mrvica (Piano) 2.Peter Bence(Piano) 3. Butterfly Ladies(Traditional Chinese Bands) 4. Two Dogs(Comedy) 5. De Yun(Comedy) 6. Yiruma(Piano)</template></category>
+<category><pattern>DO THESE EVENTS HAPPEN ONLY IN ADELAIDE</pattern><template>We currently have six events coming in Adelaide. 1. Maksim Mrvica (Piano) 2.Peter Bence(Piano) 3. Butterfly Ladies(Traditional Chinese Bands) 4. Two Dogs(Comedy) 5. De Yun(Comedy) 6. Yiruma(Piano)</template></category>
+<category><pattern>I AM CURRENTLY LIVING IN CBD, HOW FAR IS THE PLACE OF THE EVENTS</pattern><template>We currently have four venues for the events in Adelaide CBD. 1.Adelaide Festival Theatre, 2. Adelaide City Town Hall. 3. Dunstan Play House, 4. Her Majestys Theatre</template></category>
+<category><pattern>CAN YOU HELP ME WITH INFORMATION OF THE EVENTS AT ADELAIDE</pattern><template>We only provide information from popese.com. For other events, you can check the local events or venues websites.</template></category>
+<category><pattern>WHERE IS ADELAIDE TOWNHALL</pattern><template>Adelaide Town Hall is a landmark building on 128 King William Street in Adelaide, South Australia, Australia.</template></category>
+<category><pattern>WHERE IS ADELAIDE FESTIVAL THEATRE</pattern><template>The Adelaide Festival Centre, Australias first multi-purpose arts centre, was built in 1973 and opened three months before the Sydney Opera House. King William Street in Adelaide, South Australia, Australia.</template></category>
+<category><pattern>WHERE IS SCOTT THEATRE</pattern><template>Scott Theatre is at The University of Adelaide, Kintore Ave, Adelaide SA 5005</template></category>
+<category><pattern>WHERE IS HER MAJESTYS THEATRE</pattern><template>Her Majestys theatre is at 58 Grote St, Adelaide SA 5000</template></category>
+<category><pattern>HOW MANY EVENTS ARE YOU ASSOCIATED WITH</pattern><template>We currently have six events coming in Adelaide. 1. Maksim Mrvica (Piano) 2.Peter Bence(Piano) 3. Butterfly Ladies(Traditional Chinese Bands) 4. Two Dogs(Comedy) 5. De Yun(Comedy) 6. Yiruma(Piano)</template></category>
+<category><pattern>HOW EARLY DO I NEED TO REACH AT THE EVENTS VENUE</pattern><template>The venue may not open to public until a certain time. </template></category>
+<category><pattern>CAN I BRING MY DOG TO THE EVENTS VENUE</pattern><template>The pets are not permitted for most venues. Please contact the venue for more information. </template></category>
+<category><pattern>IS FOOD ALLOWED ON THE VENUE</pattern><template>The food is not permitted for most venues. Please contact the venue for more information. </template></category>
+<category><pattern>WHAT IS THE AVERAGE DURATION OF THE EVENTS</pattern><template>The duration is various from different events. It is normally 2-3 hours.</template></category>
+<category><pattern>I AM AN EVENT MANAGEMENT FIRM, WHAT IS THE PROCESS OF TIEING UP WITH POPESE FOR EVENTS</pattern><template>You can contact our business team for business cooperation. Email: info@popese.com, Monday to Friday 10am -5pm.</template></category>
+<category><pattern>I AM A SOLO PERFORMER, CAN POPESE HELP ME WITH EVENTS</pattern><template>You can contact our event team if you want to put your event on our website. Email: info@popese.com, Monday to Friday 10am -5pm.</template></category>
+<category><pattern>WHAT KIND OF MARKETING DO YOU HELP THE PERFORMERS OF THESE EVENTS</pattern><template>We have online marketing team and offline business partners for our event marketing promotion.</template></category>
+<category><pattern>HOW WILL I GET INFORMATION ABOUT FUTURE EVENTS</pattern><template>You can find all the events on our website: popese.com</template></category>
+<category><pattern>HOW DO I GET TO MY EVENT</pattern><template>You can find all the events on our website: popese.com</template></category>
+<category><pattern>CAN I SELECT A SPECIFIC AVAILABLE SEAT</pattern><template>You can select the any avaiable on popese.com for each event.</template></category>
+<category><pattern>CHOOSE TO ALLOW THE SYSTEM TO SELECT THE BEST AVAILABLE SEATS FOR THE PRICE CATEGORY. HOW ARE SEATS ALLOCATED</pattern><template>The seats plan is set based on the layout of different venue.</template></category>
+<category><pattern>HOW MANY TICKETS CAN I BOOK IN ONE TRANSACTION</pattern><template>You can book upto 10 tickets per day. Please contact us if you need to choose more than 10 seats. Email: info@popese.com. </template></category>
+<category><pattern>CAN YOU HELP ME WITH THE PRICING STRUCTURE FOR THE SHOWS</pattern><template>The ticket price is set based on the distance from the stage. The front row and the central of the row is normally the best  location for the same prive level tickets.  </template></category>
+<category><pattern>WHAT BENEFITS CAN I FIND WITH HIGHER-PRICED TICKETS</pattern><template>The higher priced tickets will give you a better view and sound effect based on the distance to the stage.</template></category>
+<category><pattern>CAN I BOOK EVENTS FROM YOUR SOCIAL MEDIA ACCOUNTS</pattern><template>You cannot book tickets on our social media. For tickets booking, please visit https://popese.com.</template></category>
+<category><pattern>WILL MORE SHOWS BE ADDED IN THE COMING FUTURE</pattern><template>We will have more events on our website in 2019.</template></category>
+<category><pattern>WHY HAVE YOU CHOSEN ADELAIDE TOWN HALL
+SCOTT THEATRE/DUNSTAN PLAYHOUSE/ADELAIDE FESTIAL THEATRE/HER MAJESTYS THEATRE/ADELAIDE FESTIAL THEATRE FOR YOUR EVENTS</pattern><template>We choose the venue based on the capicty and available of the venue. We will give our clients the best feeling with the right size venue, </template></category>
+<category><pattern>WHAT IS A RESTRICTED/OBSTRUCTED VIEW</pattern><template>The restricted/obstrructed view means the view is partly blocked by the equipment within the venue. </template></category>
+<category><pattern>CAN YOU HELP ME WITH THE PARKING INFORMATION SCOTT THEATRE/DUNSTAN PLAYHOUSE/ADELAIDE FESTIAL THEATRE/HER MAJESTYS THEATRE/ADELAIDE FESTIAL THEATRE FOR YOUR EVENTS</pattern><template>The parking may various from different venues. Please contact the venue for more parking information.</template></category>
+<category><pattern>WHAT IS THE DIFFERENCE BETWEEN 45 AND 55 AUD FOR 2 DOGS AT HER MAJESTYS THEATRE</pattern><template>For Two dogs show, the normal ticket price is $55, the Popese VIP membership price is $45. </template></category>
+<category><pattern>WHY IS THE PRICING DIFFERENCE SO MUCH FOR DEYUN CONCERT</pattern><template>For DeYun comedy, the price range is large due to the big size of the venue. </template></category>
+<category><pattern>CAN YOU HELP ME WITH TIMINGS FOR MAKSIM MRVICA
+</pattern><template>The Maksim Mrvica concert 2018 is on the 23rd September 2018, start 7:00pm, at Adelaide City Town. For ticket booking please visit https://popese.com.</template></category>
+<category><pattern>CAN YOU HELP ME WITH TIMINGS FOR DEYUN</pattern><template>The Deyun comedy 2016 is on the 07th October 2018, start 7:30pm, at Adelaide Festival Theatre. For ticket booking please visit https://popese.com.</template></category>
+<category><pattern>CAN YOU HELP ME WITH TIMINGS FOR PETER BENCE
+</pattern><template>The Peter Bence concert 2018 is on the 12th April 2018, start 7:30pm, at Adelaide City Town. For ticket booking please visit https://popese.com.</template></category>
+<category><pattern>CAN YOU HELP ME WITH TIMINGS FOR TWO DOGS
+</pattern><template>The Two Dogs comedu 2016 is on the 01st October 2018, start 7:30pm, at Her Majestys theatre. For ticket booking please visit https://popese.com.</template></category>
+<category><pattern>CAN YOU HELP ME WITH TIMINGS FOR YIRUMA</pattern><template>The Yiruma concert 2016 is on the 26th July 2018, start 7:30pm, at Adelaide Festival Theatre. For ticket booking please visit https://popese.com.</template></category>
+<category><pattern>CAN YOU HELP ME WITH TIMINGS FOR BUTTERFLY LADIES</pattern><template>The Butterfly ladies concert 2017 is on the 21st January 2018, start 7:30pm, at Dunstan play house. For ticket booking please visit https://popese.com.</template></category>
+<category><pattern>CAN I BLOCK SEATS IN MASS</pattern><template>Sorry, we currently only support to choose one seat. We will improve the system very soon. </template></category>
+<category><pattern>CAN YOU TELL ME ABOUT PETER BENCE</pattern><template>Peter Bence is an internationally acclaimed virtuoso pianist, recording artist, composer, and producer who holds the Guinness World Record for being the “Fastest Piano Player”. He has taken the Internet by storm with his piano arrangements of Michael Jackson, Queen, and Sia collecting over 500 million video hits and a huge following on YouTube and Facebook over the past 2 years.</template></category>
+<category><pattern>CAN YOU HELP ME WITH THE EVENT ASSOCIATED WITH PETER BENCE</pattern><template>This event is on 12th april  and at Scott theatre. check the price and seats availability by typing Price or Seats</template></category>
+<category><pattern>CAN YOU HELP ME WITH THE LOCATION/VENUE ASSOCIATED WITH PETER</pattern><template>This event is on 12th april  and at Scott theatre. check the price and seats availability by typing Price or Seats</template></category>
+<category><pattern>WHICH GENRE DOES PETER SPECIALISE IN</pattern><template>Peter Bence is specialised in popular piano. </template></category>
+<category><pattern>WHAT IS THE DURATION OF PETERS EVENT</pattern><template>The duration of the Peter Bence concert is about 2 hours.</template></category>
+<category><pattern>HOW CAN I BOOK FOR PETERS EVENT</pattern><template>Please visit https://popese.com to book the Peter Bence concert 2018 in Adelaide.</template></category>
+<category><pattern>WHY IS THERE A SINGLE SLOT OF EVENT FOR PETER</pattern><template>We only sell the tickets for Peter Bence Concert in South Australia. For more Peter Bence concerts, please visit http://peterbence.com.</template></category>
+<category><pattern>DO YOU ALSO SELL ANY MERCHANDISES RELATED TO PETER</pattern><template>We do not sell merchandises for Peter Bence.</template></category>
+<category><pattern>CAN I  MEET PETER BENCE</pattern><template>Photo is available for the $99 VIP ticket holder.</template></category>
+<category><pattern>IS THERE ANY MEET/GREET EVENT ASSOCIATED WITH PETER BENCE</pattern><template>There is no meet and greet event. Photo is available for the $99 VIP ticket holder. </template></category>
+<category><pattern>WHAT IS THE SCHEDULE OF PETER BENCE IN 2019</pattern><template>Please visit http://peterbence.com for Peter Bence Concerts in 2019. The Peter Bence concert 2018 is on the 12th April 2018, start 7:30pm at Scott Theatre, SA5000.</template></category>
+<category><pattern>IS THERE ANY ADVANCE BOOKING AVAILABLE FOR PETERS EVENT</pattern><template>We do not offer advance/early-bird booking for Peter Bence concert. You can book the ticket(s) on popese.com when the event is available.</template></category>
+<category><pattern>WHY ARE YOU FOCUSED ON ONLY 6 ARTISTS AT THE MOMENT</pattern><template>We currently have six events coming in Adelaide. 1. Maksim Mrvica (Piano) 2.Peter Bence(Piano) 3. Butterfly Ladies(Traditional Chinese Bands) 4. Two Dogs(Comedy) 5. De Yun(Comedy) 6. Yiruma(Piano). We will have more events on our website in 2019.</template></category>
+<category><pattern>ARE YOU LOOKING TO ADD MORE PERFORMERS/ARTISTS IN YOUR SCHEDULE</pattern><template>We always looking for more events on our website. You can email us if you have any good event that you want to sell tickets on popese.com. </template></category>
+<category><pattern>I AM AN ARTIST, HOW CAN YOU HELP ME</pattern><template>We have you with the event manangement related enquires, including venues management, online ticketing system, and marketing promotion. </template></category>
+<category><pattern>DO YOU SPONSOR ARTISTS CURRENTLY</pattern><template>We do not sponsor any artists. </template></category>
+
+</aiml>
