@@ -1,0 +1,8 @@
+<script>
+if($(window).width() > 960) {
+	$('img').each(function(){
+		$(this).attr('src', $(this).data('desktop'));
+	});
+}
+</script>
+<img alt="Cochichous" src="logo-mobile.png" data-desktop="logo-desktop.png"/>
