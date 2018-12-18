@@ -48,7 +48,12 @@ app.get('/authorize', function(req, res){
 	/*
 	 * Send the user to the authorization server
 	 */
-	
+	var authorizeUrl = buildUrl(authServer.authorizationEndpoint, {
+		response_type: 'code',
+		client_id: client.client_id,
+		redirect_uri: client.redirect_uris[0]
+	});
+	res.redirect(authorizeUrl);
 });
 
 app.get('/callback', function(req, res){
@@ -56,7 +61,40 @@ app.get('/callback', function(req, res){
 	/*
 	 * Parse the response from the authorization server and get a token
 	 */
-	
+	var code = req.query.code;
+	var form_data = qs.stringify({
+		grant_type: 'authorization_code',
+		code: code,
+		redirect_uri: client.redirect_uris[0]
+	});
+
+	var headers = {
+		'Content-Type': 'application/x-www-form-urlencoded',
+		'Authorization': 'Basic ' + encodeClientCredentials(client.client_id, client.client_secret)
+	};
+
+	var tokRes = request('POST', authServer.tokenEndpoint, {
+		body: form_data,
+		headers: headers
+	});
+
+	if (tokRes.statusCode >= 200 && tokRes.statusCode < 300) {
+
+		var body = JSON.parse(tokRes.getBody());
+
+		access_token = body.access_token;
+
+		console.log('Got access token: %s', access_token);
+
+		res.render('index', {access_token: access_token, scope: scope});
+
+	} else {
+
+		res.render('error', {error: 'Unable to fetch access token, server response: ' + tokRes.statusCode})
+
+	}
+
+
 });
 
 app.get('/fetch_resource', function(req, res) {
