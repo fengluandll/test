@@ -111,6 +111,10 @@ app.get('/fetch_resource', function(req, res) {
 	/*
 	 * Use the access token to call the resource server
 	 */
+	if (!access_token) {
+		res.render('error', {error: 'Missing access token.'});
+		return;
+	}
 	
 });
 
