@@ -30,12 +30,8 @@ var clients = [
 	{
 		"client_id": "oauth-client-1",
 		"client_secret": "oauth-client-secret-1",
-		"redirect_uris": ["http://localhost:9000/callback"]
-
-		/*
-		 * Add a set of allowed scopes for this client
-		 */
-
+		"redirect_uris": ["http://localhost:9000/callback"],
+		"scope": "foo bar"
 	}
 ];
 
