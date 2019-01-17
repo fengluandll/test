@@ -1,0 +1,4 @@
+{"access_token":"RFsjGSIDiYlgtw9AnfRT1mTr0v7XX3Rq","client_id":"oauth-client-1","scope":["movies","music"],"user":"alice"}
+{"refresh_token":"L6dG42J9zQUrvUPNibHcQAs8RNQ0mDIN","client_id":"oauth-client-1","scope":["movies","music"],"user":{"sub":"9XE3-JI34-00132A","preferred_username":"alice","name":"Alice","email":"alice.wonderland@example.com","email_verified":true}}
+{"access_token":"t0AWOIRP2uFc5cQdwMKwAxOH4sAJtHR4","client_id":"oauth-client-1","scope":["movies","foods","music"],"user":"bob"}
+{"refresh_token":"Jp5yNdNfe6EXJgRp5MEIE2jREi9wegE0","client_id":"oauth-client-1","scope":["movies","foods","music"],"user":{"sub":"1ZT5-OE63-57383B","preferred_username":"bob","name":"Bob","email":"bob.loblob@example.net","email_verified":false}}
