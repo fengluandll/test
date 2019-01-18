@@ -237,6 +237,8 @@ app.post("/token", function(req, res){
 				return;
 			}
 		});
+	} else if(req.body.grant_type == "client_credentials"){
+
 	} else {
 		console.log('Unknown grant type %s', req.body.grant_type);
 		res.status(400).json({error: 'unsupported_grant_type'});
