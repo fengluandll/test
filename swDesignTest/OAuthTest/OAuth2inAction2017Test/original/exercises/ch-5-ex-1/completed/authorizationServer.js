@@ -146,7 +146,8 @@ app.post("/token", function(req, res){
 	}
 	
 	if (client.client_secret != clientSecret) {
-		console.log('Mismatched client secret, expected %s got %s', client.client_secret, clientSecret);
+		console.log('Mismatched client secret, expected %s got %s',
+			client.client_secret, clientSecret);
 		res.status(401).json({error: 'invalid_client'});
 		return;
 	}

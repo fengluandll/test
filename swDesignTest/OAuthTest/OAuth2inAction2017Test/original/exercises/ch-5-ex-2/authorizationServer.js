@@ -173,7 +173,10 @@ app.post("/token", function(req, res){
 				console.log('Issuing access token %s', access_token);
 				console.log('with scope %s', code.scope);
 
-				var token_response = { access_token: access_token, token_type: 'Bearer', refresh_token: refresh_token };
+				var token_response = {
+				    access_token: access_token,
+                    token_type: 'Bearer',
+                    refresh_token: refresh_token };
 
 				res.status(200).json(token_response);
 				console.log('Issued tokens for code %s', req.body.code);
