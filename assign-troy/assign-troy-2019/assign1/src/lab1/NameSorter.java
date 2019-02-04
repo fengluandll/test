@@ -1,6 +1,9 @@
+package lab1;
+
+import java.util.Arrays;
 import java.util.Scanner;
 
-/**NameSorter class takes n number of names in the form of string inputs 
+/**lab1.NameSorter class takes n number of names in the form of string inputs
  * from the user. It then asks user for which name to search for. 
  * It sorts the names entered by the user, and then prints the 
  * position of the search-name in the sorted list of the names, 
@@ -16,16 +19,35 @@ public class NameSorter {
 	 * It returns the array filled with names entered by the user.
 	 */
 	String[] getNameInputs(int n) {
-		//write your code here
-		return null;
+		if (n <= 0) {
+			System.out.println("The number of names shall be positive");
+			System.exit(-1);
+		}
+		String [] result = new String[n];
+		for (int i = 1; i <= n; i++) {
+			System.out.println("Enter name " + i);
+			result[i-1] = input.next();
+		}
+		return result;
 	}
 	
 	/**toTitleCase() takes one string argument as name and returns the string in title case. 
 	 * If the name is null or the string is empty, it returns null.
 	 */
 	String toTitleCase(String name) {
-		//write your code here
-		return null;
+		if (name == null || name.length() == 0) {
+			return null;
+		} else {
+			final StringBuffer sb = new StringBuffer();
+			for (int i = 0; i < name.length(); i++) {
+				if (i == 0) {
+					sb.append(Character.toUpperCase(name.charAt(i)));
+				} else {
+					sb.append(Character.toLowerCase(name.charAt(i)));
+				}
+			}
+			return sb.toString();
+		}
 	}
 
 	/**sortAndSearch() takes two arguments. The first is an array of strings and the second
@@ -36,8 +58,22 @@ public class NameSorter {
 	 * If it is not found, then it returns -1.
 	 */
 	int sortAndsearch(String[] strings, String searchString) {
-		//write your code here
-		return 0;
+		if (strings != null) {
+			Arrays.sort(strings);
+
+			// print names
+			System.out.println("*** Names in sorted order ***");
+			for (int i = 0; i < strings.length; i++) {
+				System.out.println( (i + 1) + ". " + strings[i]);
+			}
+
+			for (int i = 0; i < strings.length; i++) {
+				if (strings[i] != null && searchString != null && strings[i].equalsIgnoreCase(searchString)) {
+					return i;
+				}
+			}
+		}
+		return -1;
 	}
 
 	/**DO NOT CHANGE THIS METHOD */
