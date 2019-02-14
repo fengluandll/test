@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grade.iml" filepath="$PROJECT_DIR$/.idea/modules/grade.iml" group="grade" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grade/grade_main.iml" filepath="$PROJECT_DIR$/.idea/modules/grade/grade_main.iml" group="grade" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grade/grade_test.iml" filepath="$PROJECT_DIR$/.idea/modules/grade/grade_test.iml" group="grade" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mockito_essen.iml" filepath="$PROJECT_DIR$/.idea/modules/mockito_essen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mockito_essen_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mockito_essen_main.iml" group="mockito_essen" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mockito_essen_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mockito_essen_test.iml" group="mockito_essen" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grade/com.yz.test.java.mockito.grade.iml" filepath="$PROJECT_DIR$/.idea/modules/grade/com.yz.test.java.mockito.grade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grade/com.yz.test.java.mockito.grade.main.iml" filepath="$PROJECT_DIR$/.idea/modules/grade/com.yz.test.java.mockito.grade.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grade/com.yz.test.java.mockito.grade.test.iml" filepath="$PROJECT_DIR$/.idea/modules/grade/com.yz.test.java.mockito.grade.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yz.test.java.mockito.mockito_essen.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yz.test.java.mockito.mockito_essen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yz.test.java.mockito.mockito_essen.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yz.test.java.mockito.mockito_essen.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.yz.test.java.mockito.mockito_essen.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.yz.test.java.mockito.mockito_essen.test.iml" />
     </modules>
   </component>
 </project>
