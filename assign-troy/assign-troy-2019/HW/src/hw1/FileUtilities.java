@@ -1,6 +1,12 @@
 package hw1;
 
-/** FileUtilities class provides some basic tools to read a file, count words, search and replace strings. 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.sql.SQLOutput;
+
+/** FileUtilities class provides some basic tools to read a file, count words, search and replace strings.
  */
 public class FileUtilities {
 
@@ -11,7 +17,22 @@ public class FileUtilities {
 	 */
 	public StringBuilder readFile(String filename)  {
 		//write your code here
-		return null;				
+		try {
+			BufferedReader bufferedReader = new BufferedReader(new FileReader(filename));
+			StringBuilder stringBuilder = new StringBuilder();
+			String line = bufferedReader.readLine();
+			while (line != null) {
+				stringBuilder.append(line + '\n');
+				line = bufferedReader.readLine();
+			}
+			return stringBuilder;
+		} catch (FileNotFoundException e) {
+			System.out.println("File is not found");
+			return null;
+		} catch (IOException e) {
+			System.out.println("File cannot be read");
+			return null;
+		}
 	}
 	
 	/** wordCount method receives text content in a StringBuilder object and 
