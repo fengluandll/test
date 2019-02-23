@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import java.sql.SQLOutput;
 
 /** FileUtilities class provides some basic tools to read a file, count words, search and replace strings.
  */
@@ -39,8 +38,12 @@ public class FileUtilities {
 	 * returns its word count. It considers white-space as a word-delimiter.  
 	 */
 	int countWords(StringBuilder fileContent) {
-		//write your code here
-		return 0;
+		if (fileContent == null || fileContent.length() == 0) {
+			return 0;
+		} else {
+			// use the white space to split the file content
+			return fileContent.toString().split("\\s+").length;
+		}
 	}
 	
 	/**searchAll() method receives text content in a StringBuilder and 
@@ -56,13 +59,51 @@ public class FileUtilities {
 	 * the searchString is found, and second time to store its positions. 
 	 */
 	int[] searchAll(StringBuilder fileContent, String searchString) {
-		// find the number of times the searchString is found
-		String content = fileContent.toString();
 
-		int foundNumber = 0;
-		content.indexOf(searchString);
-		//write your code here
-		return null;
+		// find how many times searchString is found in fileContent
+		int matches = countMatchNumber(fileContent, searchString);
+
+		// if there is not matches, return null
+		if (matches == 0) {
+			return null;
+		} else {
+			int foundIndex;  // position of a match, it is -1 if is not found
+			int matchNumbers = 0;  // how matches are found
+			int result[] = new int[matches]; // the positions
+			int startIndex = 0; // from which index to begin searching
+
+			while (true) {
+				foundIndex = fileContent.indexOf(searchString, startIndex);
+				if (foundIndex != -1) {
+					matchNumbers++;
+					result[matchNumbers - 1] = foundIndex;  // store the index where the searchString is found
+					startIndex = foundIndex + searchString.length();  // move the index to begin next search
+				} else {
+					return result;
+				}
+			}
+		}
+	}
+
+	/**
+	 * return how many times searchString is found in fileContent
+	 * @param fileContent file content
+	 * @param searchString search string
+	 * @return
+	 */
+	private int countMatchNumber(StringBuilder fileContent, String searchString) {
+		int foundIndex;  // position of a match, it is -1 if is not found
+		int matchNumbers = 0;
+		int startIndex = 0;
+		while (true) {
+			foundIndex = fileContent.indexOf(searchString, startIndex);
+			if (foundIndex != -1) {
+				matchNumbers++; // increase the match number by 1
+				startIndex = foundIndex + searchString.length();  // move the index to begin next search
+			} else {
+				return matchNumbers;
+			}
+		}
 	}
 
 
@@ -72,7 +113,16 @@ public class FileUtilities {
 	 * If oldString is not found, it means that no replacement happens. In such a case, it returns 0.
 	 */
 	int replace(StringBuilder fileContent, String oldString, String newString) {
-		//write your code here
-		return 0;
+		int[] foundIndexes = searchAll(fileContent, oldString);
+		int replaceNumber = 0; // how many times the strings are replaced
+		if (foundIndexes != null) {
+			// from the end to begin to replace the strings;
+			for (int i = foundIndexes.length - 1; i >= 0; i--) {
+				int foundIndex = foundIndexes[i];
+				fileContent.replace(foundIndex, foundIndex + oldString.length(), newString);
+				replaceNumber++; // increment replaceNumber by 1 each time a string is replaced
+			}
+		}
+		return replaceNumber;
 	}
 }
