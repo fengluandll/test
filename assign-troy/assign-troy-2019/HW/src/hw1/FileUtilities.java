@@ -56,6 +56,11 @@ public class FileUtilities {
 	 * the searchString is found, and second time to store its positions. 
 	 */
 	int[] searchAll(StringBuilder fileContent, String searchString) {
+		// find the number of times the searchString is found
+		String content = fileContent.toString();
+
+		int foundNumber = 0;
+		content.indexOf(searchString);
 		//write your code here
 		return null;
 	}
