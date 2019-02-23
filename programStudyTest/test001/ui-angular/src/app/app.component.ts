@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import {HttpClient} from '@angular/common/http';
+import {Greeting} from './model/greeting';
 
 @Component({
   selector: 'app-root',
@@ -7,5 +9,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Demo';
-  greeting = {'id': 'XXX', 'content': 'Hello World'};
+  greeting: Greeting = {'id': 'XXX', 'content': 'Hello World'};
+
+  constructor(private http: HttpClient) {
+    http.get('http://localhost:8080/resource').subscribe((data: Greeting) => this.greeting = data);
+  }
 }
