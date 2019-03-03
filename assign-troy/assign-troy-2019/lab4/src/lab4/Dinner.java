@@ -1,3 +1,5 @@
+package lab4;
+
 /** This is a dinner simulation program to illustrate several OO concepts
  * such as abstract classes, interfaces, static variables, static final constants, and polymorphism.
  * The Dinner class starts the program.

@@ -1,3 +1,5 @@
+package lab4;
+
 public class Chips extends Food{
 	static final int CHIPS_CALORIES = 200;
 
