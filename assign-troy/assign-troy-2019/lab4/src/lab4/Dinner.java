@@ -26,7 +26,13 @@ public class Dinner {
 	 * for choices 1, 2, and 3 respectively.  
 	 */
 	public Food getFood(int choice) {
-		// enter your code here
+		if (choice == 1) {
+			return new Pizza();
+		} else if (choice == 2) {
+			return new Chips();
+		} else if (choice== 3) {
+			return new IceCream();
+		}
 		return null;
 	}
 	
@@ -37,6 +43,11 @@ public class Dinner {
 	 */
 	
 	public void eatFood(Food f) {
-		// enter your code here
+		// the type of f is Pizza, cast f into Pizza type
+		if (f instanceof Pizza) {
+			Pizza pizza = (Pizza)f;
+			pizza.heatIt();
+		}
+		System.out.println(f.eat());
 	}
 }
