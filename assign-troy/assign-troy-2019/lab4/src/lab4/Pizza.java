@@ -17,5 +17,6 @@ public class Pizza extends Food implements Heatable {
     @Override
     public void heatIt() {
         temperature = Heatable.HOTSERVINGTEMPERATURE;
+        System.out.println("Now its hot @ " + temperature + " degrees");
     }
 }

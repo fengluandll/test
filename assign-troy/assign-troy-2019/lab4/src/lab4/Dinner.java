@@ -1,5 +1,7 @@
 package lab4;
 
+import java.util.Scanner;
+
 /** This is a dinner simulation program to illustrate several OO concepts
  * such as abstract classes, interfaces, static variables, static final constants, and polymorphism.
  * The Dinner class starts the program.
@@ -17,9 +19,28 @@ public class Dinner {
 	 * question, 'Want some more?'
 	 */
 	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
 		Dinner dinner = new Dinner();
 		int choice = 0;
-		// enter your code here
+		// does the user want more food
+		boolean whatMore = true;
+		while (whatMore) {
+			System.out.println("What would you like to eat?");
+			System.out.println("1. Pizza");
+			System.out.println("2. Chips");
+			System.out.println("3. Ice cream");
+			choice = scanner.nextInt();
+			Food food = dinner.getFood(choice);
+			dinner.eatFood(food);
+			food.printCalories();
+			System.out.println("Want some more (y/n)?");
+
+			if (scanner.next().equals("n")) {
+				whatMore = false;
+				System.out.println("Good night!");
+			}
+		}
+		scanner.close();
 	}
 
 	/**getFood() takes choice and returns Pizza object, Chips object, or IceCream object
