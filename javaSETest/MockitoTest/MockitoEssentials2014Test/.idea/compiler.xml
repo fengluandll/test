@@ -2,6 +2,10 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="com.yz.test.java.mockito.grade.main" target="1.8" />
+      <module name="com.yz.test.java.mockito.grade.test" target="1.8" />
+      <module name="com.yz.test.java.mockito.mockito_essen.main" target="1.8" />
+      <module name="com.yz.test.java.mockito.mockito_essen.test" target="1.8" />
       <module name="grade_main" target="1.8" />
       <module name="grade_test" target="1.8" />
       <module name="mockito_essen_main" target="1.8" />
