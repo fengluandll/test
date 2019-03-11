@@ -18,6 +18,8 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
+import java.io.File;
+
 /**DocAnalyst uses a GUI to take file names of two types of files: CSV and regular text.
  * It displays word Count when the Regular button is pressed
  * and displays row and column count when CSV button is pressed.
@@ -88,7 +90,28 @@ public class DocAnalyst extends Application{
 	private class CSVButtonHandler implements EventHandler<ActionEvent> {
 		@Override
 		public void handle(ActionEvent event) {
-			//write your code here
+			// get file name from the text field
+			String fileName = inputText.getText();
+
+			// if fileName has on content, remind the user to input file name
+			if (fileName == null || fileName.isEmpty()) {
+				resultLabel.setText("Please input the file name");
+			} else {
+				File file = new File(fileName);
+				// if the file does not exist, remind user
+				if (!file.exists()) {
+					resultLabel.setText("The file does not exist");
+				} else {
+					// read file and collect info
+					CSVDoc csvDoc = new CSVDoc(fileName);
+					csvDoc.readFile();
+					csvDoc.collectDocInfo();
+
+					// set result to the result label
+					String result = "Rows: " + csvDoc.rowCount + ", Columns: " + csvDoc.columnCount;
+					resultLabel.setText(result);
+				}
+			}
 		}
 	}
 	
@@ -101,7 +124,29 @@ public class DocAnalyst extends Application{
 	private class RegularButtonHandler implements EventHandler<ActionEvent> {
 		@Override
 		public void handle(ActionEvent event) {
-			//write your code here
+			// get file name from the text field
+			String fileName = inputText.getText();
+
+			// if fileName has on content, remind the user to input file name
+			if (fileName == null || fileName.isEmpty()) {
+				resultLabel.setText("Please input the file name");
+			} else {
+				File file = new File(fileName);
+				// if the file does not exist, remind user
+				if (!file.exists()) {
+					resultLabel.setText("The file does not exist");
+				} else {
+					// read file and collect info
+					RegularDoc regularDoc = new RegularDoc(fileName);
+					regularDoc.readFile();
+					regularDoc.collectDocInfo();
+
+					// set result to the result label
+					String result = "Words: " + regularDoc.wordCount;
+					resultLabel.setText(result);
+				}
+			}
+
 		}
 	}
 }
