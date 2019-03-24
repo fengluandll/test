@@ -1,4 +1,7 @@
 import javafx.application.Application;
+import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
+import javafx.event.EventType;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
@@ -69,7 +72,35 @@ public class FractionGUI extends Application{
 		equals.setFont(Font.font(25));
 
 		Button goButton = new Button("Go!");  		//to be attached to an event handler
+        goButton.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent event) {
+                int num1 = Integer.parseInt(numerator1.getText());
+                int divider1 = Integer.parseInt(denominator1.getText());
+                Fraction fraction1 = new Fraction(num1, divider1);
+                int num2 = Integer.parseInt(numerator2.getText());
+                int divider2 = Integer.parseInt(denominator2.getText());
+                Fraction fraction2 = new Fraction(num2, divider2);
+                Fraction sum = fraction1.add(fraction2);
+                numerator3.setText(String.valueOf(sum.numerator));
+                denominator3.setText(String.valueOf(sum.denominator));
+                decimal.setText(String.format("%.2f", sum.toDecimal()));
+            }
+        });
 		Button clearButton = new Button("Clear"); 	//to be attached to an event handler
+
+        clearButton.setOnAction(new EventHandler<ActionEvent>() {
+            @Override
+            public void handle(ActionEvent event) {
+                numerator1.setText("");
+                numerator2.setText("");
+                denominator1.setText("");
+                denominator2.setText("");
+                numerator3.setText("");
+                denominator3.setText("");
+            }
+        });
+
 		goButton.setPrefWidth(75);
 		clearButton.setPrefWidth(75);
 
