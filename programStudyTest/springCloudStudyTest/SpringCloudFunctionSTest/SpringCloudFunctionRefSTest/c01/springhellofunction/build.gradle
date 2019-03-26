@@ -19,6 +19,8 @@ ext {
 
 dependencies {
     implementation 'org.springframework.cloud:spring-cloud-function-context'
+    implementation 'org.springframework.cloud:spring-cloud-function-starter-web'
+    implementation 'org.springframework.cloud:spring-cloud-starter-function-webflux'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
