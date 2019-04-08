@@ -1,5 +1,10 @@
+
+
 task printVersion {
     doFirst{
+        println "extra first"
+    }
+    doFirst {
         println "Before reading the project version"
     }
 
@@ -8,7 +13,7 @@ task printVersion {
     }
 }
 
-printVersion.doFirst {print "First action"}
+printVersion.doFirst {println "First action"}
 
 printVersion << {
     println "Last action"

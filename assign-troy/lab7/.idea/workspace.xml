@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c93b657-5606-4e6e-8b0e-fc99e918c004" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/95807-Lab7.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roster.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/StudentRoster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/TestStudentRoster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8/lab8.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/lab8.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8/src/lab8/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/src/lab8/Dictionary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lab8/src/lab8/TestDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/src/lab8/TestDictionary.java" afterDir="false" />
+    <list default="true" id="1c93b657-5606-4e6e-8b0e-fc99e918c004" name="Default Changelist" comment="pass all the unit tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../javaSETest/MockitoTest/MockitoEssentials2014Test/origin/Chapter 2/test/com/packt/mockito/stubbing/AjaxControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../javaSETest/MockitoTest/MockitoEssentials2014Test/origin/Chapter 2/test/com/packt/mockito/stubbing/AjaxControllerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lab7/StudentRoster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="83" column="50" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+            <state relative-caret-position="187">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
               <folding>
                 <element signature="e#2036#2037#0" expanded="true" />
                 <element signature="e#2061#2062#0" expanded="true" />
@@ -184,9 +176,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StudentRoster">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRoster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab7.StudentRoster" />
+      <module name="lab7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -231,6 +237,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentRoster" />
         <item itemvalue="JUnit.TestStudentRoster" />
       </list>
     </recent_temporary>
@@ -245,8 +252,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554685100572</updated>
-      <workItem from="1554685102204" duration="1326000" />
+      <workItem from="1554685102204" duration="1573000" />
     </task>
+    <task id="LOCAL-00001" summary="pass all the unit tests">
+      <created>1554686467768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554686467768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -268,13 +283,15 @@
     <history-entry file="TestStudentRoster - 2019.04.08 at 10h 48m 30s.xml">
       <configuration name="TestStudentRoster" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestStudentRoster - 2019.04.08 at 10h 50m 41s.xml">
+      <configuration name="TestStudentRoster" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1326000" />
+    <option name="totallyTimeSpent" value="1573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="716" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -292,7 +309,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16987179" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22596154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -312,18 +329,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pass all the unit tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="pass all the unit tests" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lab7/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-          <folding>
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
@@ -345,10 +355,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/lab7/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding>
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/lab7/StudentRoster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="83" column="50" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="50" />
+        <state relative-caret-position="187">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding>
             <element signature="e#2036#2037#0" expanded="true" />
             <element signature="e#2061#2062#0" expanded="true" />
