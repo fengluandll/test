@@ -181,6 +181,7 @@ public class AjaxControllerTest {
 		request.getContextPath();
 
 		verify(request).getParameter(anyString());
+		verify(request).getContextPath();
 		// this will fail getContextPath() is not verified
 		verifyNoMoreInteractions(request);
 	}

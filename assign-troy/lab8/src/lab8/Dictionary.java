@@ -82,8 +82,14 @@ public class Dictionary {
 	 * @param searchWord
 	 */
 	List<String> searchWordList(String searchWord) {
-		//write your code here
-		return null;
+		List<String> meaningList = new ArrayList<>();
+		for (int i = 0; i < wordList.size(); i++) {
+			Word word = wordList.get(i);
+			if (word.word.equals(searchWord)) {
+				meaningList.add(word.meaning);
+			}
+		}
+		return meaningList;
 	}
 
 	/** loadSingleMap() takes each word from
@@ -92,7 +98,21 @@ public class Dictionary {
 	 * Word object.
 	 */
 	void loadSingleMap() {
-		//write your code here
+		String wordString = null;
+		try {
+			Scanner input = new Scanner(new File(DICTIONARY));
+			while (input.hasNextLine()) {
+				wordString = input.nextLine();
+				if (wordString.length() == 0) continue;
+				// get Word object from a String
+				Word word = getWord(wordString);
+				// put the word object into a map
+				singleMap.put(word.word, word);
+			}
+			input.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
 	}
 
 	/**loadMultiMap() takes each word from wordList and loads it 
@@ -101,7 +121,27 @@ public class Dictionary {
 	 * dictionary
 	 */
 	void loadMultiMap() {
-		//write your code here
+		String wordString = null;
+		try {
+			Scanner input = new Scanner(new File(DICTIONARY));
+			while (input.hasNextLine()) {
+				wordString = input.nextLine();
+				if (wordString.length() == 0) continue;
+				// get Word object from a String
+				Word word = getWord(wordString);
+
+				List<Word> wordList = multiMap.get(word.word.toLowerCase());
+				//if the word list does not exist, create one and put it into the map
+				if (wordList == null) {
+					wordList = new ArrayList<>();
+					multiMap.put(word.word.toLowerCase(), wordList);
+				}
+				wordList.add(word);
+			}
+			input.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
 	}
 
 	/** searchSingleMap() takes a searchWord String and searches for it in singleMap.
@@ -110,8 +150,13 @@ public class Dictionary {
 	 * @param searchWord
 	 */
 	String searchSingleMap(String searchWord) {
-		//write your code here
-		return null;
+		Word word = singleMap.get(searchWord.toLowerCase());
+		// if word is found, return its meaning. Otherwise, return null
+		if (word != null) {
+			return word.meaning;
+		} else {
+			return null;
+		}
 	}
 	
 	//OPTIONAL
@@ -121,7 +166,16 @@ public class Dictionary {
 	 * @param searchWord
 	 */
 	List<String> searchMultiMap(String searchWord) {
-		//write your code here
-		return null;
+		List<Word> wordList = multiMap.get(searchWord.toLowerCase());
+		List<String> meaningList = new ArrayList<>();
+		if (wordList != null) {
+			for (int i = 0; i < wordList.size(); i++) {
+				meaningList.add(wordList.get(i).meaning);
+			}
+			return meaningList;
+		} else {
+
+		}
+		return meaningList;
 	}
 }
