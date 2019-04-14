@@ -85,7 +85,7 @@ public class Dictionary {
 		List<String> meaningList = new ArrayList<>();
 		for (int i = 0; i < wordList.size(); i++) {
 			Word word = wordList.get(i);
-			if (word.word.equals(searchWord)) {
+			if (word.word.equalsIgnoreCase(searchWord)) {
 				meaningList.add(word.meaning);
 			}
 		}
@@ -107,7 +107,7 @@ public class Dictionary {
 				// get Word object from a String
 				Word word = getWord(wordString);
 				// put the word object into a map
-				singleMap.put(word.word, word);
+				singleMap.put(word.word.toLowerCase(), word);
 			}
 			input.close();
 		} catch (FileNotFoundException e) {
