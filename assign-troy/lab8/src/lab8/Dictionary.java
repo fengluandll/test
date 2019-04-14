@@ -82,15 +82,49 @@ public class Dictionary {
 	 * @param searchWord
 	 */
 	List<String> searchWordList(String searchWord) {
+		printTitleLine("WordList Search");
 		List<String> meaningList = new ArrayList<>();
 		for (int i = 0; i < wordList.size(); i++) {
 			Word word = wordList.get(i);
 			if (word.word.equalsIgnoreCase(searchWord)) {
+				printWord(word);
 				meaningList.add(word.meaning);
 			}
 		}
-		return meaningList;
+		if (meaningList.size() == 0) {
+			System.out.println("Sorry! " + searchWord + " not found");
+		}
+		printStarLine();
+
+		if (meaningList.size() == 0) {
+			return null;
+		} else {
+			return meaningList;
+		}
 	}
+
+	/**
+	 * print word and its meaning
+	 * @param word
+	 */
+	private void printWord(Word word) {
+		System.out.println(word.word + ": " + word.meaning);
+	}
+
+	private void printTitleLine(String title) {
+		// print beginning dashes
+		System.out.print("------------");
+		System.out.print(title);
+		System.out.println("------");
+	}
+
+	private void printStarLine() {
+		for (int i = 0; i < 31; i++) {
+			System.out.print("*");
+		}
+		System.out.println();
+	}
+
 
 	/** loadSingleMap() takes each word from
 	 * wordList and loads it into singleMap with key being
@@ -150,7 +184,15 @@ public class Dictionary {
 	 * @param searchWord
 	 */
 	String searchSingleMap(String searchWord) {
+		printTitleLine("SingleMap Search");
 		Word word = singleMap.get(searchWord.toLowerCase());
+		printWord(word);
+
+		if (word == null) {
+			System.out.println("Sorry! " + searchWord + " not found");
+		}
+
+		printStarLine();
 		// if word is found, return its meaning. Otherwise, return null
 		if (word != null) {
 			return word.meaning;
@@ -166,16 +208,28 @@ public class Dictionary {
 	 * @param searchWord
 	 */
 	List<String> searchMultiMap(String searchWord) {
+		printTitleLine("MultiMap Search");
 		List<Word> wordList = multiMap.get(searchWord.toLowerCase());
 		List<String> meaningList = new ArrayList<>();
+
+		if (wordList == null) {
+			System.out.println("Sorry! " + searchWord + " not found");
+		}
+
 		if (wordList != null) {
 			for (int i = 0; i < wordList.size(); i++) {
+				Word word = wordList.get(i);
+				printWord(word);
 				meaningList.add(wordList.get(i).meaning);
 			}
-			return meaningList;
-		} else {
-
 		}
-		return meaningList;
+		printStarLine();
+
+		if (meaningList.size() == 0) {
+			return null;
+		} else {
+			return meaningList;
+		}
+
 	}
 }
