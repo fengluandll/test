@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.HashSet;
+import java.util.Set;
 
 /** FileUtilities class provides some basic tools to read a file, count words, search and replace strings.
  */
@@ -41,8 +43,8 @@ public class FileUtilities {
 		if (fileContent == null || fileContent.length() == 0) {
 			return 0;
 		} else {
-			// use the white space to split the file content
-			return fileContent.toString().split("\\s+").length;
+			// use a sequence of at least 1 character which is not either alphabets, numbers or quotes to split words
+			return fileContent.toString().split("[^a-zA-Z0-9']+").length;
 		}
 	}
 	
@@ -126,7 +128,20 @@ public class FileUtilities {
 		return replaceNumber;
 	}
 
+	/**
+	 * count how many unique words in fileOneContent
+	 * @param fileOneContent
+	 * @return
+	 */
 	public int countUniqueWords(StringBuilder fileOneContent) {
-		return 0;
+		String[] strs = fileOneContent.toString().split("[^a-zA-Z0-9']+");
+		Set<String> stringSet = new HashSet<>();
+		for (String str : strs) {
+			if (str != null && str.length() != 0) {
+				// word is case-sensitive, so convert string to lower case
+				stringSet.add(str.toLowerCase());
+			}
+		}
+		return stringSet.size();
 	}
 }
