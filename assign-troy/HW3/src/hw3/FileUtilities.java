@@ -1,9 +1,6 @@
 package hw3;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -153,5 +150,16 @@ public class FileUtilities {
 			}
 		}
 		return stringSet.size();
+	}
+
+	public String writeFile(String fileName, String fileContent) {
+		try {
+			BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(fileName));
+			bufferedWriter.write(fileContent);
+			return "File saved";
+		} catch (IOException e) {
+			e.printStackTrace();
+			return "Could not save file";
+		}
 	}
 }
