@@ -125,4 +125,8 @@ public class FileUtilities {
 		}
 		return replaceNumber;
 	}
+
+	public int countUniqueWords(StringBuilder fileOneContent) {
+		return 0;
+	}
 }
