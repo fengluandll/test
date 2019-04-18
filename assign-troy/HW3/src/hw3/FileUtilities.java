@@ -156,6 +156,7 @@ public class FileUtilities {
 		try {
 			BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(fileName));
 			bufferedWriter.write(fileContent);
+			bufferedWriter.close();
 			return "File saved";
 		} catch (IOException e) {
 			e.printStackTrace();
