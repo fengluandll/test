@@ -181,7 +181,27 @@ public class TextEditor extends Application {
     private class SearchToolHandler implements EventHandler<ActionEvent> {
         @Override
         public void handle(ActionEvent event) {
-            //write your code here
+            String searchString = getString("Search");
+            if (searchString != null) {
+                StringBuilder fileContent = new StringBuilder(fileContentProperty.get());
+                int[] positions = fileUtilities.searchAll(fileContent, searchString);
+                if (positions != null) {
+                    int caretPosition = fileTextArea.getCaretPosition(); //get current cursor position
+                    int positionIndex = 0;		//first word position
+                    while (positions[positionIndex] < caretPosition) { //get the position for search string after current cursor
+                        positionIndex++;
+                        if (positionIndex > positions.length-1) {  //if no search string after current cursor
+                            positionIndex = 0;
+                            break;
+                        }
+                    }
+                    fileTextArea.positionCaret(positions[positionIndex]); //get cursor to which occurrence of search string was next to current cursor position found above
+                    fileTextArea.selectPositionCaret(positions[positionIndex] + searchString.length());  //highlight the length of search string
+                    statusLabel.setText(String.format("%s found %d times", searchString, positions.length));
+                } else {
+                    statusLabel.setText(String.format("%s not found", searchString));
+                }
+            } else statusLabel.setText("Search cancelled");
         }
     }
 
@@ -192,7 +212,22 @@ public class TextEditor extends Application {
     private class ReplaceToolHandler implements EventHandler<ActionEvent> {
         @Override
         public void handle(ActionEvent event) {
-            //write your code here
+            String searchString = getString("Search");
+            if (searchString != null) {  //if not empty or cancelled
+                StringBuilder fileContent = new StringBuilder(fileContentProperty.get());
+                int[] positions = fileUtilities.searchAll(fileContent, searchString);
+                if (positions == null) {  //if search string not found
+                    statusLabel.setText(String.format("%s not found", searchString)); //print message and return
+                } else {
+                    String replaceString = getString("Replace");
+                    if (replaceString != null) {
+                        int count = fileUtilities.replace(fileContent, searchString, replaceString);
+                        fileTextArea.setText(fileContent.toString());
+                        if (count> 0) statusLabel.setText(String.format("%s found and replaced with %s at %d places", searchString, replaceString, count));
+                        else statusLabel.setText(String.format("%s not found", searchString));
+                    } else statusLabel.setText("Replace cancelled");
+                }
+            } else statusLabel.setText("Search cancelled");
         }
     }
 
@@ -237,7 +272,11 @@ public class TextEditor extends Application {
     private class UniqueWordCountToolHandler implements EventHandler<ActionEvent> {
         @Override
         public void handle(ActionEvent event) {
-            //write your code here
+            String content = fileContentProperty.getValue();
+            StringBuilder stringBuilder = new StringBuilder(content);
+            int wordCount = fileUtilities.countUniqueWords(stringBuilder);
+            String message = String.format("%d words", wordCount);
+            statusLabel.setText(message);
         }
     }
 
