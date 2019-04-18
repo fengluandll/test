@@ -94,6 +94,11 @@ public class FileUtilities {
 	 * @return
 	 */
 	private int countMatchNumber(StringBuilder fileContent, String searchString) {
+
+		if (fileContent == null || searchString == null) {
+			return 0;
+		}
+
 		int foundIndex;  // position of a match, it is -1 if is not found
 		int matchNumbers = 0;
 		int startIndex = 0;
@@ -115,6 +120,11 @@ public class FileUtilities {
 	 * If oldString is not found, it means that no replacement happens. In such a case, it returns 0.
 	 */
 	int replace(StringBuilder fileContent, String oldString, String newString) {
+
+		if (newString == null) {
+			return 0;
+		}
+
 		int[] foundIndexes = searchAll(fileContent, oldString);
 		int replaceNumber = 0; // how many times the strings are replaced
 		if (foundIndexes != null) {
