@@ -204,6 +204,11 @@ public class TextEditor extends Application {
         @Override
         public void handle(ActionEvent event) {
             //write your code here
+            String content = fileContentProperty.getValue();
+            StringBuilder stringBuilder = new StringBuilder(content);
+            int wordCount = fileUtilities.countWords(stringBuilder);
+            String message = String.format("%d words", wordCount);
+            statusLabel.setText(message);
         }
     }
 
