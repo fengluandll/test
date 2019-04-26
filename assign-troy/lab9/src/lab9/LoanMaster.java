@@ -64,6 +64,7 @@ public class LoanMaster {
 			// if file was opened successfully, return true
 			return true;
 		} catch (FileNotFoundException e) {
+			System.out.println("Invalid file name");
 			return false;
 		}
 	}
@@ -102,6 +103,8 @@ public class LoanMaster {
 		//write your code here
 		// split String into lines by line separator
 		String[] lines = loanData.toString().split(System.lineSeparator());
+
+		int accountsWritten = 0; // how many accounts have been written
 		for (String line : lines) {
 			if (line != null) {
 				String[] columns = line.split(",\\s*");
@@ -117,13 +120,14 @@ public class LoanMaster {
 						loanAccount.interest = interest;
 						loanAccount.years = years;
 						loanAccounts.add(loanAccount);
+						accountsWritten++;
 					} catch (NumberFormatException e) {
 						System.out.println("Invalid data in account # " + accountNumber);
 					}
-
 				}
 			}
 		}
+		System.out.println(accountsWritten + " accounts read");
 	}
 
 	/**writeProcessedLoanData() sorts loanAccounts in increasing order of 
@@ -151,6 +155,7 @@ public class LoanMaster {
 			}
 			bufferedWriter.close();
 			fileWriter.close();
+			System.out.println(loanAccounts.size() + " accounts written");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
