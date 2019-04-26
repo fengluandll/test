@@ -43,7 +43,6 @@ public class TextEditor extends Application {
     BorderPane root = new BorderPane();    //holds all GUI components
     TextArea fileTextArea = new TextArea(); //displays the file content
     Label statusLabel = new Label();                //shows the status of various actions
-    String searchString;                    //used in Search function
 
     FileUtilities fileUtilities = new FileUtilities();
 
