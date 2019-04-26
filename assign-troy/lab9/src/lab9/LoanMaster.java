@@ -1,8 +1,7 @@
 package lab9;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.io.*;
+import java.util.*;
 
 public class LoanMaster {
 
@@ -60,7 +59,13 @@ public class LoanMaster {
 	 */
 	boolean readLoanFile(String filename) {
 		//write your code here
-		return false;
+		try {
+			fileScanner = new Scanner(new File(filename));
+			// if file was opened successfully, return true
+			return true;
+		} catch (FileNotFoundException e) {
+			return false;
+		}
 	}
 
 	/**loadFileData() parses the fileScanner to all data
@@ -71,6 +76,15 @@ public class LoanMaster {
 	 */
 	StringBuilder loadFileData() {
 		//write your code here
+		if (fileScanner != null) {
+			StringBuilder stringBuilder = new StringBuilder();
+			while (fileScanner.hasNextLine()) {
+				String line = fileScanner.nextLine();
+				stringBuilder.append(line);
+				stringBuilder.append(System.lineSeparator());
+			}
+			return stringBuilder;
+		}
 		return null;
 	}
 
@@ -86,6 +100,30 @@ public class LoanMaster {
 	 */
 	void loadAccountsList(StringBuilder loanData) {
 		//write your code here
+		// split String into lines by line separator
+		String[] lines = loanData.toString().split(System.lineSeparator());
+		for (String line : lines) {
+			if (line != null) {
+				String[] columns = line.split(",\\s*");
+				if (columns.length >= 4) {
+					String accountNumber = columns[0];
+					try {
+						double principle = Double.parseDouble(columns[1]);
+						float interest = Float.parseFloat(columns[2]);
+						int years = Integer.parseInt(columns[3]);
+						LoanAccount loanAccount = new LoanAccount();
+						loanAccount.accountNumber = accountNumber;
+						loanAccount.principle = principle;
+						loanAccount.interest = interest;
+						loanAccount.years = years;
+						loanAccounts.add(loanAccount);
+					} catch (NumberFormatException e) {
+						System.out.println("Invalid data in account # " + accountNumber);
+					}
+
+				}
+			}
+		}
 	}
 
 	/**writeProcessedLoanData() sorts loanAccounts in increasing order of 
@@ -96,5 +134,25 @@ public class LoanMaster {
 	 */
 	void writeProcessedLoanData() {
 		//write your code here
+//		sorts loanAccounts in increasing order of their EMI
+		Collections.sort(loanAccounts);
+
+		try {
+			FileWriter fileWriter = new FileWriter("ProcessedLoans.csv");
+			BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+			for (LoanAccount loanAccount : loanAccounts) {
+				String line = loanAccount.accountNumber
+						+ ", " + loanAccount.principle
+						+ ", " + loanAccount.interest
+						+ ", " + loanAccount.years
+						+ ", " + loanAccount.calculateEMI();
+				bufferedWriter.write(line);
+				bufferedWriter.newLine();
+			}
+			bufferedWriter.close();
+			fileWriter.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 }
