@@ -17,4 +17,8 @@ dependencies {
     compile group: 'io.reactivex', name: 'rxjava', version: '1.3.8'
     // https://mvnrepository.com/artifact/org.twitter4j/twitter4j-stream
     compile group: 'org.twitter4j', name: 'twitter4j-stream', version: '4.0.7'
+    // https://mvnrepository.com/artifact/com.google.guava/guava
+    compile group: 'com.google.guava', name: 'guava', version: '27.1-jre'
+    // https://mvnrepository.com/artifact/org.apache.commons/commons-lang3
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.9'
 }
