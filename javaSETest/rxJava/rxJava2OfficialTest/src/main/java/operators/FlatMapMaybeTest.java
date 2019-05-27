@@ -17,6 +17,7 @@ public class FlatMapMaybeTest {
                 System.out::println,
                 Throwable::printStackTrace,
                 () -> System.out.println("onComplete"));
-
     }
 }
+
+
