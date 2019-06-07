@@ -6,4 +6,5 @@ function getData() {
 }
 
 // emits 'some data' after 3 seconds
-getData().then(data => console.log("3 seconds later:", data));
+getData().then(data =>
+    console.log("3 seconds later:", data));

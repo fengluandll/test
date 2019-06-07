@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:promise": "node promise.js",
     "start:observer": "node observer-with-subscriber.js",
-    "start:cold" : "node cold-observable.js",
-    "start:hot" : "node hot-observable.js",
+    "start:cold": "node cold-observable.js",
+    "start:hot": "node hot-observable.js",
     "start:warm": "node warm-observable.js",
     "start:warm-subscribers": "node warm-observable-subscribers.js",
     "start:warm-share": "node warm-observable-share.js"
