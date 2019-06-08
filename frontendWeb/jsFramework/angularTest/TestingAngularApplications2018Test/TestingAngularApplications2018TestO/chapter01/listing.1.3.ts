@@ -1,4 +1,4 @@
-import { Cat } from './cat';
+import { Cat } from './listing.1.1';
 
 describe('Test Cat getters and setters.', () => {
   it('The cat name should be Gracie', () => {
