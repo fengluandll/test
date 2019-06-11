@@ -13,6 +13,8 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
+    // https://mvnrepository.com/artifact/io.reactivex.rxjava2/rxkotlin
+    implementation("io.reactivex.rxjava2:rxkotlin:2.3.0")
 }
 
 tasks.withType<KotlinCompile> {
