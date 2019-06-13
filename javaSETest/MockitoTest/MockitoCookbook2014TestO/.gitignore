@@ -1,0 +1,14 @@
+.idea/*
+*/build/*
+out/*
+.git
+.gradle
+target/*
+*/.~lock.*
+*.iml
+*/target/*
+*.ipr
+*.ips
+*.iws
+build/*
+*.class
