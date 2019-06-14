@@ -1,4 +1,4 @@
-package c02;
+package com.packtpub.reactive.my.c02;
 
 import java.util.function.Function;
 

@@ -59,7 +59,7 @@ public class CreateObservable {
 	}
 
 	public static Observable<String> from(final Path path) {
-		return Observable.<String>create(subscriber -> {
+		return Observable.create(subscriber -> {
 			try {
 				BufferedReader reader = Files.newBufferedReader(path);
 				subscriber.add(Subscriptions.create(() -> {
@@ -70,8 +70,9 @@ public class CreateObservable {
 					}
 				}));
 				
-				String line = null;
-				while ((line = reader.readLine()) != null && !subscriber.isUnsubscribed()) {
+				String line;
+				while ((line = reader.readLine()) != null
+						&& !subscriber.isUnsubscribed()) {
 					subscriber.onNext(line);
 				}
 				if (!subscriber.isUnsubscribed()) {
@@ -126,7 +127,7 @@ public class CreateObservable {
 	}
 
 	public static Observable<Path> listFolder(Path dir, String glob) {
-		return Observable.<Path>create(subscriber -> {
+		return Observable.create(subscriber -> {
 			try {
 				DirectoryStream<Path> stream =
 						Files.newDirectoryStream(dir, glob);
@@ -138,11 +139,9 @@ public class CreateObservable {
 						e.printStackTrace();
 					}
 				}));
-				Observable.<Path>from(stream).subscribe(subscriber);
-			} catch (DirectoryIteratorException ex) {
+				Observable.from(stream).subscribe(subscriber);
+			} catch (DirectoryIteratorException | IOException ex) {
 				subscriber.onError(ex);
-			} catch (IOException ioe) {
-				subscriber.onError(ioe);
 			}
 		});
 	}
@@ -260,7 +259,10 @@ public class CreateObservable {
 	}
 	
 	@SafeVarargs
-	public static <T> Observable<T> sorted(Comparator<? super T> comparator, T... data) {
+	public static <T> Observable<T> sorted(
+			Comparator<? super T> comparator,
+			T... data
+	) {
 		List<T> listData = Arrays.asList(data);
 		listData.sort(comparator);
 		
