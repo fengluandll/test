@@ -7,7 +7,8 @@ import javax.enterprise.inject.spi.Extension;
 
 public class MyExtension implements Extension {
 
-    void afterBeanDiscovery(@Observes AfterBeanDiscovery event, BeanManager manager) {
+    void afterBeanDiscovery(@Observes AfterBeanDiscovery event,
+                            BeanManager manager) {
         event.addContext(new MyNonPassivatingScopeContextImpl());
     }
 }
