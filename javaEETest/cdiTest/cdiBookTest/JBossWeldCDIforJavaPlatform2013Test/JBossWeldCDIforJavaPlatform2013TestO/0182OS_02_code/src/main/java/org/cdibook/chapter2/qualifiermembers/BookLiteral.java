@@ -2,7 +2,8 @@ package org.cdibook.chapter2.qualifiermembers;
 
 import javax.enterprise.util.AnnotationLiteral;
 
-public class BookLiteral extends AnnotationLiteral<Book> implements Book {
+public class BookLiteral
+        extends AnnotationLiteral<Book> implements Book {
 
     private final Category category;
     private final String description;

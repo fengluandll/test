@@ -17,7 +17,10 @@ public class Search {
     Instance<BookSearch> bookSearch;
 
     public BookSearch getSearch(boolean fiction) {
-        Annotation qualifier = fiction ? new BookLiteral(Category.FICTION, "") : new BookLiteral(Category.NONFICTION, "Non Fiction");
+        Annotation qualifier = fiction ?
+                new BookLiteral(Category.FICTION, "") :
+                new BookLiteral(Category.NONFICTION, "Non Fiction");
+
         return bookSearch.select(qualifier).get();
     }
 }
