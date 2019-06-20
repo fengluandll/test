@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="JavaEE8Recipes" options="-endorseddirs $PROJECT_DIR$/target/endorsed" />
+      <module name="JavaEE8Recipes" options="-endorseddirs /Users/yunzhang/gitworkspace/test/javaEETest/JavaEE8RecipesE22018Test/JavaEE8RecipesE22018TestO/Sources/JavaEE8Recipes/target/endorsed" />
     </option>
   </component>
 </project>
