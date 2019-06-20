@@ -33,7 +33,8 @@ public class MappingExamples implements Program {
 
 	@Override
 	public void run() {
-		Observable<String> mapped = Observable.just(2, 3, 5, 8).map(v -> v * 3)
+		Observable<String> mapped = Observable.just(2, 3, 5, 8)
+				.map(v -> v * 3)
 				.map(v -> (v % 2 == 0) ? "even" : "odd");
 
 		subscribePrint(mapped, "map");

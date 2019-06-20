@@ -42,10 +42,19 @@ public class BlockingObservablesAndOperators implements Program {
 			.forEach(System.out::println);
 		System.out.println("END");
 		
-		Integer first = Observable.range(3, 13).toBlocking().first();
+		Integer first = Observable
+				.range(3, 13)
+				.toBlocking()
+				.first();
 		System.out.println(first);
-		Integer last = Observable.range(3, 13).toBlocking().last();
+
+		Integer last = Observable.
+				range(3, 13)
+				.toBlocking()
+				.last();
 		System.out.println(last);
+
+
 		
 		Iterable<Long> next = Observable
 				.interval(100L, TimeUnit.MILLISECONDS)
@@ -55,21 +64,7 @@ public class BlockingObservablesAndOperators implements Program {
 		System.out.println(iterator.next());
 		System.out.println(iterator.next());
 		System.out.println(iterator.next());
-		
-		Iterable<Long> latest = Observable
-				.interval(1000L, TimeUnit.MILLISECONDS)
-				.toBlocking()
-				.latest();
-		iterator = latest.iterator();
-		System.out.println(iterator.next());
-		
-		try {
-			Thread.sleep(5500L);
-		} catch (InterruptedException e) {}
-		System.out.println(iterator.next());
-		System.out.println(iterator.next());
 
-		
 		List<Integer> single = Observable
 				.range(5, 15)
 				.toList()
