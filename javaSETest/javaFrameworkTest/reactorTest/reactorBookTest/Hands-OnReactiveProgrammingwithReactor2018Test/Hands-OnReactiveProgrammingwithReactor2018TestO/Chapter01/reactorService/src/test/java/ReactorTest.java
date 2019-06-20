@@ -24,7 +24,8 @@ public class ReactorTest {
                 () -> Tuples.<Long, Long>of(0L, 1L),
                 (state, sink) -> {
                     sink.next(state.getT1());
-                    return Tuples.of(state.getT2(), state.getT1() + state.getT2());
+                    return Tuples.of(state.getT2(),
+                            state.getT1() + state.getT2());
                 });
         List<Long> fibonacciSeries = new LinkedList<>();
         int size = 50;
@@ -32,7 +33,8 @@ public class ReactorTest {
             fibonacciSeries.add(t);
         });
         System.out.println(fibonacciSeries);
-        assertEquals( 7778742049L, fibonacciSeries.get(size-1).longValue());
+        assertEquals( 7778742049L, fibonacciSeries
+                .get(size-1).longValue());
     }
 
 }
