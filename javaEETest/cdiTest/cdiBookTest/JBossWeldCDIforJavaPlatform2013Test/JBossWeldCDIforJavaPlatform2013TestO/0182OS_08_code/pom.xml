@@ -21,6 +21,12 @@
             <artifactId>deltaspike-core-api</artifactId>
             <version>0.3-incubating</version>
         </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations-java5</artifactId>
+            <version>17.0.0</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
     <build>

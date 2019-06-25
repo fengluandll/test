@@ -2,7 +2,6 @@ package pair1;
 
 public class PairTest1 {
 
-
     public static void main(String[] args) {
         String[] words = {"Mary","had","a","little","lamb"};
         Pair<String> mm = ArrayAlg.minmax(words);
@@ -25,7 +24,10 @@ class ArrayAlg{
             if (min.compareTo(a[i]) > 0) min = a[i];
             if (max.compareTo(a[i]) < 0) max = a[i];
         }
-
         return new Pair<>(min,max);
+    }
+
+    public static <T> T getMiddle(T... a) {
+        return a[a.length / 2];
     }
 }

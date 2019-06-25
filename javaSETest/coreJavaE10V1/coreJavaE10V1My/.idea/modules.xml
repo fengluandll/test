@@ -7,7 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/c07/c07.iml" filepath="$PROJECT_DIR$/c07/c07.iml" />
       <module fileurl="file://$PROJECT_DIR$/c08/c08.iml" filepath="$PROJECT_DIR$/c08/c08.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch03/ch03.iml" filepath="$PROJECT_DIR$/ch03/ch03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch09.iml" filepath="$PROJECT_DIR$/.idea/modules/ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch08.iml" filepath="$PROJECT_DIR$/.idea/modules/ch08.iml" group="ch08" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ch09.iml" filepath="$PROJECT_DIR$/.idea/modules/ch09.iml" group="ch09" />
       <module fileurl="file://$PROJECT_DIR$/coreJavaE10V1My.iml" filepath="$PROJECT_DIR$/coreJavaE10V1My.iml" />
       <module fileurl="file://$PROJECT_DIR$/v2ch01/v2ch01.iml" filepath="$PROJECT_DIR$/v2ch01/v2ch01.iml" />
       <module fileurl="file://$PROJECT_DIR$/v2ch02/v2ch02.iml" filepath="$PROJECT_DIR$/v2ch02/v2ch02.iml" />

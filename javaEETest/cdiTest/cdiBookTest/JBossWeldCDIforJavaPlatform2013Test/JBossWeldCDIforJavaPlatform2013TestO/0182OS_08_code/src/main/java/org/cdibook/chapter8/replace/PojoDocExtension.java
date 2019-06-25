@@ -5,6 +5,7 @@ import org.apache.deltaspike.core.api.literal.NamedLiteral;
 import org.apache.deltaspike.core.api.literal.RequestScopedLiteral;
 import org.apache.deltaspike.core.api.literal.SessionScopeLiteral;
 import org.apache.deltaspike.core.util.metadata.builder.AnnotatedTypeBuilder;
+import org.jetbrains.annotations.NotNull;
 
 import javax.enterprise.event.Observes;
 import javax.enterprise.inject.spi.AnnotatedType;
@@ -15,7 +16,7 @@ import java.lang.annotation.Annotation;
 
 public class PojoDocExtension implements Extension {
 
-    <X> void processType(@Observes ProcessAnnotatedType<X> event) {
+    <X> void processType(@NotNull @Observes ProcessAnnotatedType<X> event) {
         AnnotatedType<X> orig = event.getAnnotatedType();
 
         if (orig.isAnnotationPresent(PojoDoc.class)) {
