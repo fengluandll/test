@@ -8,7 +8,8 @@ public class FactorialServiceTest {
 
     @Test
     public void testFactorial() {
-        Flux<Double> factorialGenerator = new FactorialService().generateFactorial(10);
+        Flux<Double> factorialGenerator = new FactorialService()
+                .generateFactorial(10);
         factorialGenerator
                 .doOnNext(t -> System.out.println(t))
                 .last()

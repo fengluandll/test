@@ -1,6 +1,7 @@
 package my;
 
 import org.junit.Test;
+import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
 import java.util.Arrays;
@@ -15,5 +16,8 @@ public class MonoTest {
         Mono.fromRunnable(() -> System.out.println(" "))
                 .subscribe(t -> System.out.println("received " + t),
                         null, () -> System.out.println("Finished"));
+
+        Mono.from(Flux.just("Red", "Blue", "Yellow", "Black"))
+                .subscribe(t -> System.out.println("received " + t));
     }
 }
