@@ -2,7 +2,8 @@ import org.reactivestreams.Subscriber;
 import org.reactivestreams.tck.SubscriberBlackboxVerification;
 import org.reactivestreams.tck.TestEnvironment;
 
-public class FibonacciSubsciberVerification extends SubscriberBlackboxVerification<Long> {
+public class FibonacciSubsciberVerification
+        extends SubscriberBlackboxVerification<Long> {
 
     public FibonacciSubsciberVerification(){
         super(new TestEnvironment());
@@ -15,6 +16,6 @@ public class FibonacciSubsciberVerification extends SubscriberBlackboxVerificati
 
     @Override
     public Long createElement(int element) {
-        return new Long(element);
+        return (long) element;
     }
 }

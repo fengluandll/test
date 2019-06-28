@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/.sdkman/candidates/gradle/5.4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/chapter-01" />
+            <option value="$PROJECT_DIR$/chapter-02" />
+            <option value="$PROJECT_DIR$/chapter-03/async.vs.reactive" />
+            <option value="$PROJECT_DIR$/chapter-03/conversion_problem" />
+            <option value="$PROJECT_DIR$/chapter-03/jdk9" />
+            <option value="$PROJECT_DIR$/chapter-03/news-service" />
+            <option value="$PROJECT_DIR$/chapter-03/push.vs.pull" />
+            <option value="$PROJECT_DIR$/chapter-03/rxjava-reactivestreams-ratpack" />
+            <option value="$PROJECT_DIR$/chapter-03/vert.x" />
+            <option value="$PROJECT_DIR$/chapter-04" />
+            <option value="$PROJECT_DIR$/chapter-05" />
+            <option value="$PROJECT_DIR$/chapter-06" />
+            <option value="$PROJECT_DIR$/chapter-07/section-01-jdbc" />
+            <option value="$PROJECT_DIR$/chapter-07/section-02-jpa" />
+            <option value="$PROJECT_DIR$/chapter-07/section-03-mongo" />
+            <option value="$PROJECT_DIR$/chapter-07/section-04-rx-mongo" />
+            <option value="$PROJECT_DIR$/chapter-07/section-05-rx-mongo-tx" />
+            <option value="$PROJECT_DIR$/chapter-07/section-06-r2dbc" />
+            <option value="$PROJECT_DIR$/chapter-07/section-07-rx-webflux" />
+            <option value="$PROJECT_DIR$/chapter-07/section-08-rx-dbs" />
+            <option value="$PROJECT_DIR$/chapter-07/section-09-rx-sync" />
+            <option value="$PROJECT_DIR$/chapter-07/section-10-rxjava2-jdbc" />
+            <option value="$PROJECT_DIR$/chapter-08/cloud-function" />
+            <option value="$PROJECT_DIR$/chapter-08/cloud-stream" />
+            <option value="$PROJECT_DIR$/chapter-08/dataflow/mongodb-processor" />
+            <option value="$PROJECT_DIR$/chapter-09" />
+            <option value="$PROJECT_DIR$/chapter-10" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

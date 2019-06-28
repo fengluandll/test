@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ba0ab7f-15cf-4733-957b-3bf09efcd0aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../javaSETest/javaFrameworkTest/reactorTest/reactorBookTest/Hands-OnReactiveProgrammingwithReactor2018Test/Hands-OnReactiveProgrammingwithReactor2018TestO/Chapter02/reactorService/src/test/java/my/MonoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../javaSETest/javaFrameworkTest/reactorTest/reactorBookTest/Hands-OnReactiveProgrammingwithReactor2018Test/Hands-OnReactiveProgrammingwithReactor2018TestO/Chapter02/reactorService/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../javaSETest/javaFrameworkTest/reactorTest/reactorBookTest/Hands-OnReactiveProgrammingwithReactor2018Test/Hands-OnReactiveProgrammingwithReactor2018TestO/Chapter02/reactorService/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../javaSETest/javaFrameworkTest/reactorTest/reactorBookTest/Hands-OnReactiveProgrammingwithReactor2018Test/Hands-OnReactiveProgrammingwithReactor2018TestO/Chapter02/reactorService/src/test/java/FibonacciSubsciberVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../javaSETest/javaFrameworkTest/reactorTest/reactorBookTest/Hands-OnReactiveProgrammingwithReactor2018Test/Hands-OnReactiveProgrammingwithReactor2018TestO/Chapter02/reactorService/src/test/java/FibonacciSubsciberVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../javaSETest/javaFrameworkTest/reactorTest/reactorBookTest/Hands-OnReactiveProgrammingwithReactor2018Test/Hands-OnReactiveProgrammingwithReactor2018TestO/Chapter02/reactorService/src/test/java/ReactorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../javaSETest/javaFrameworkTest/reactorTest/reactorBookTest/Hands-OnReactiveProgrammingwithReactor2018Test/Hands-OnReactiveProgrammingwithReactor2018TestO/Chapter02/reactorService/src/test/java/ReactorTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-01/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-01/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-01/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-02/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-02/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-02/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/async.vs.reactive/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/async.vs.reactive/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/async.vs.reactive/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/conversion_problem/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/conversion_problem/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/conversion_problem/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/jdk9/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/jdk9/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/jdk9/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/news-service/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/news-service/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/news-service/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/push.vs.pull/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/push.vs.pull/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/push.vs.pull/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/rxjava-reactivestreams-ratpack/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/rxjava-reactivestreams-ratpack/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/rxjava-reactivestreams-ratpack/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/vert.x/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/vert.x/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-03/vert.x/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-04/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-04/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-04/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-05/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-05/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-05/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-06/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-06/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-06/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-01-jdbc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-01-jdbc/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-01-jdbc/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-02-jpa/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-02-jpa/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-02-jpa/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-03-mongo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-03-mongo/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-03-mongo/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-04-rx-mongo/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-04-rx-mongo/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-04-rx-mongo/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-05-rx-mongo-tx/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-05-rx-mongo-tx/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-05-rx-mongo-tx/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-06-r2dbc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-06-r2dbc/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-06-r2dbc/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-07-rx-webflux/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-07-rx-webflux/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-07-rx-webflux/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-08-rx-dbs/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-08-rx-dbs/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-08-rx-dbs/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-09-rx-sync/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-09-rx-sync/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-09-rx-sync/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-10-rxjava2-jdbc/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-10-rxjava2-jdbc/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-07/section-10-rxjava2-jdbc/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-08/cloud-function/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-08/cloud-function/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-08/cloud-stream/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-08/cloud-stream/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-08/cloud-stream/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-08/dataflow/mongodb-processor/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-08/dataflow/mongodb-processor/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-08/dataflow/mongodb-processor/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-09/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-09/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-09/out/" />
+    <ignored path="$PROJECT_DIR$/chapter-10/.gradle/" />
+    <ignored path="$PROJECT_DIR$/chapter-10/build/" />
+    <ignored path="$PROJECT_DIR$/chapter-10/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter-01/src/main/java/org/rpis5/chapters/chapter_01/callbacks/OrdersService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter-01/src/main/java/org/rpis5/chapters/chapter_01/futures/OrdersService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.19.RELEASE/2a6480d3e27489725180be236ac7c7aac743a17e/spring-web-4.3.19.RELEASE-sources.jar!/org/springframework/web/client/AsyncRestTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2771">
+              <caret line="220" column="51" selection-start-line="220" selection-start-column="51" selection-end-line="220" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.19.RELEASE/2a6480d3e27489725180be236ac7c7aac743a17e/spring-web-4.3.19.RELEASE-sources.jar!/org/springframework/web/client/AsyncRestOperations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="checksumPolicy" value="FAIL" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="712" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="chapter-01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="chapter-01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="chapter-01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="chapter-01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="chapter-01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="chapter-01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_01" type="462c0819:PsiDirectoryNode" />
+              <item name="callbacks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="chapter-01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_01" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hands-OnReactiveProgramminginSpring52018TestO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="chapter-01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_01" type="462c0819:PsiDirectoryNode" />
+              <item name="futures" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.certificates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="reactive-programming-in-spring-5.0.chapter-09.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.rpis5.chapters.chapter_09.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ba0ab7f-15cf-4733-957b-3bf09efcd0aa" name="Default Changelist" comment="" />
+      <created>1561618787871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561618787871</updated>
+      <workItem from="1561618789709" duration="1790000" />
+      <workItem from="1561679892761" duration="1053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2843000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="712" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16882068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Amazon EC2" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info active="true" anchor="right" x="0" y="0" width="270" height="512" id="Documentation" order="4" side_tool="true" visible="true" weight="0.32956383" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Mongo Explorer" order="7" />
+      <window_info anchor="right" id="Gradle" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+      <window_info anchor="right" id="Bean Validation" order="12" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter-01/src/main/java/org/rpis5/chapters/chapter_01/callbacks/OrdersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-01/src/main/java/org/rpis5/chapters/chapter_01/futures/OrdersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.19.RELEASE/2a6480d3e27489725180be236ac7c7aac743a17e/spring-web-4.3.19.RELEASE-sources.jar!/org/springframework/web/client/AsyncRestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="220" column="51" selection-start-line="220" selection-start-column="51" selection-end-line="220" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.19.RELEASE/2a6480d3e27489725180be236ac7c7aac743a17e/spring-web-4.3.19.RELEASE-sources.jar!/org/springframework/web/client/AsyncRestOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

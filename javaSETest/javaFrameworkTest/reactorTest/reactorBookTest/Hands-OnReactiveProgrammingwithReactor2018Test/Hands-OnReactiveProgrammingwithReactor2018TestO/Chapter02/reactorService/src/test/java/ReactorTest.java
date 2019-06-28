@@ -68,6 +68,10 @@ public class ReactorTest {
 
         }, FluxSink.OverflowStrategy.IGNORE);
         List<Long> fibonacciSeries = new LinkedList<>();
+        fibonacciGenerator.take(50).subscribe(t -> {
+            System.out.println("consuming " + t);
+            fibonacciSeries.add(t);
+        });
         System.out.println(fibonacciSeries);
     }
 
