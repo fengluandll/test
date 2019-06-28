@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6be5b5-02c9-4e9f-846f-f68c9e777469" name="Default" comment="change">
-      <change afterPath="$PROJECT_DIR$/../../rxJava/rxJava2OfficialTest/src/main/java/operators/errormgr/ErrorResumeNextTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../rxJava/rxJava2OfficialTest/src/main/java/operators/filtering/DebounceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../frontendWeb/reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../javaEETest/cdiTest/cdiBookTest/JBossWeldCDIforJavaPlatform2013Test/JBossWeldCDIforJavaPlatform2013TestO/0182OS_04_code/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../javaEETest/cdiTest/cdiBookTest/JBossWeldCDIforJavaPlatform2013Test/JBossWeldCDIforJavaPlatform2013TestO/0182OS_04_code/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../javaEETest/cdiTest/cdiBookTest/JBossWeldCDIforJavaPlatform2013Test/JBossWeldCDIforJavaPlatform2013TestO/0182OS_04_code/src/main/java/org/cdibook/chapter4/scope/MyExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../javaEETest/cdiTest/cdiBookTest/JBossWeldCDIforJavaPlatform2013Test/JBossWeldCDIforJavaPlatform2013TestO/0182OS_04_code/src/main/java/org/cdibook/chapter4/scope/MyExtension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../javaEETest/cdiTest/cdiBookTest/JBossWeldCDIforJavaPlatform2013Test/JBossWeldCDIforJavaPlatform2013TestO/0182OS_08_code/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../javaEETest/cdiTest/cdiBookTest/JBossWeldCDIforJavaPlatform2013Test/JBossWeldCDIforJavaPlatform2013TestO/0182OS_08_code/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../javaEETest/cdiTest/cdiBookTest/JBossWeldCDIforJavaPlatform2013Test/JBossWeldCDIforJavaPlatform2013TestO/0182OS_08_code/src/main/java/org/cdibook/chapter8/replace/PojoDocExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../javaEETest/cdiTest/cdiBookTest/JBossWeldCDIforJavaPlatform2013Test/JBossWeldCDIforJavaPlatform2013TestO/0182OS_08_code/src/main/java/org/cdibook/chapter8/replace/PojoDocExtension.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c08/src/pair1/PairTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/c08/src/pair1/PairTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../rxJava/rxJava2OfficialTest/src/main/java/operators/backpressure/BackpressureHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../rxJava/rxJava2OfficialTest/src/main/java/operators/backpressure/BackpressureHello.java" afterDir="false" />
     </list>
     <ignored path="coreJavaE10V1My.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/settings.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -756,7 +744,7 @@
       <workItem from="1561083944733" duration="2127000" />
       <workItem from="1561334687904" duration="29000" />
       <workItem from="1561334921410" duration="589000" />
-      <workItem from="1561420781464" duration="533000" />
+      <workItem from="1561420781464" duration="538000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1473835805962</created>
@@ -909,7 +897,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130894000" />
+    <option name="totallyTimeSpent" value="130899000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1247,8 +1235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
