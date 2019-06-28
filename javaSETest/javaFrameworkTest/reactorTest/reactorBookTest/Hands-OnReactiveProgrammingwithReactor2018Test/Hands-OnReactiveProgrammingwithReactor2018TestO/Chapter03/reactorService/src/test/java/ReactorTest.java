@@ -12,6 +12,95 @@ import java.util.concurrent.atomic.AtomicInteger;
 import static org.junit.Assert.assertEquals;
 
 public class ReactorTest {
+
+    private Flux<Long> fibonacciGenerator = Flux.generate(
+            () -> Tuples.<Long, Long>of(0L, 1L),
+            (state, sink) -> {
+                sink.next(state.getT1());
+                return Tuples.of(state.getT2(), state.getT1() + state.getT2());
+            });
+
+    @Test
+    public void test1() {
+        Flux<Long> fibonacciGenerator = Flux.generate(() -> Tuples.of(0L, 1L),
+                (state, sink) -> {
+                    if (state.getT1() < 0) {
+                        sink.complete();
+                    } else {
+                        sink.next(state.getT1());
+                    }
+                    return Tuples.of(state.getT2(), state.getT1() + state.getT2());
+                });
+
+        fibonacciGenerator.subscribe(t -> {
+            System.out.println(t);
+        });
+    }
+
+    @Test
+    public void repeatTest() {
+        fibonacciGenerator
+                .take(10)
+                .repeat(2)
+                .subscribe(System.out::println);
+    }
+
+    @Test
+    public void collectListTest() {
+        fibonacciGenerator
+                .take(10)
+                .collectList()
+                .subscribe(System.out::println);
+    }
+
+    @Test
+    public void collectSortListTest() {
+        fibonacciGenerator
+                .take(10)
+                .collectSortedList((x, y) -> -1 * Long.compare(x, y))
+                .subscribe(System.out::println);
+    }
+
+    @Test
+    public void collectMapTest() {
+        fibonacciGenerator
+                .take(10)
+                .collectMap(t -> t % 2 == 0 ? "even" : "odd")
+                .subscribe(System.out::println);
+    }
+
+    @Test
+    public void collectMultiMapTest() {
+        fibonacciGenerator
+                .take(10)
+                .collectMultimap(t -> t % 2 == 0 ? "even" : "odd")
+                .subscribe(System.out::println);
+    }
+
+    @Test
+    public void reduceTest() {
+        fibonacciGenerator
+                .take(10)
+                .reduce((x, y) -> x + y)
+                .subscribe(System.out::println);
+    }
+
+    @Test
+    public void allTest() {
+        fibonacciGenerator
+                .take(10)
+                .all(x -> x > 0)
+                .subscribe(t -> System.out.println(t));
+    }
+
+    @Test
+    public void concatWithTest() {
+        fibonacciGenerator.take(10)
+                .concatWith(Flux.just( new Long[]{-1L,-2L,-3L,-4L}))
+                .subscribe(System.out::println);
+
+    }
+
     @Test
     public void testFibonacciFlter() {
         Flux<Long> fibonacciGenerator = Flux.generate(
@@ -22,15 +111,21 @@ public class ReactorTest {
                     } else {
                         sink.next(state.getT1());
                     }
-                    return Tuples.of(state.getT2(), state.getT1() + state.getT2());
+                    return Tuples.of(state.getT2(),
+                            state.getT1() + state.getT2());
                 });
-        fibonacciGenerator.filterWhen(a -> Mono.just(a < 10)).subscribe(t -> {
-            System.out.println(t);
-        });
 
-        fibonacciGenerator.filter(a -> a % 2 == 0).subscribe(t -> {
-            System.out.println(t);
-        });
+        fibonacciGenerator
+                .filterWhen(a -> Mono.just(a < 10))
+                .subscribe(t -> {
+                    System.out.println(t);
+                });
+
+//        fibonacciGenerator
+//                .filter(a -> a % 2 == 0)
+//                .subscribe(t -> {
+//            System.out.println(t);
+//        });
     }
 
     @Test
@@ -39,22 +134,34 @@ public class ReactorTest {
                 () -> Tuples.<Long, Long>of(0L, 1L),
                 (state, sink) -> {
                     if (state.getT1() < 0) {
-                        sink.error(new RuntimeException("Negative number found"));
+//                        sink.error(new RuntimeException("Negative number found"));
+                        sink.complete();
                     } else {
                         sink.next(state.getT1());
                     }
                     return Tuples.of(state.getT2(), state.getT1() + state.getT2());
                 });
 
-        fibonacciGenerator.skip(10).subscribe(t -> {
-            System.out.println(t);
-        });
-        fibonacciGenerator.skip(Duration.ofMillis(10)).subscribe(t -> {
-            System.out.println(t);
-        });
-        fibonacciGenerator.skipUntil(t -> (t > 100)).subscribe(t -> {
-            System.out.println(t);
-        });
+        System.out.println("skip 10");
+        fibonacciGenerator
+                .skip(10)
+                .subscribe(t -> {
+                    System.out.println(t);
+                });
+
+        System.out.println("skip 3 millis");
+        fibonacciGenerator
+                .skip(Duration.ofMillis(3))
+                .subscribe(t -> {
+                    System.out.println(t);
+                });
+
+        System.out.println("skip until 100");
+        fibonacciGenerator
+                .skipUntil(t -> (t > 100))
+                .subscribe(t -> {
+                    System.out.println(t);
+                });
 
     }
 
@@ -84,12 +191,17 @@ public class ReactorTest {
                 () -> Tuples.<Long, Long>of(0L, 1L),
                 (state, sink) -> {
                     sink.next(state.getT1());
-                    return Tuples.of(state.getT2(), state.getT1() + state.getT2());
+                    return Tuples.of(state.getT2(),
+                            state.getT1() + state.getT2());
                 });
         RomanNumber numberConvertor = new RomanNumber();
-        fibonacciGenerator.skip(1).take(10).map(t -> numberConvertor.toRoman(t.intValue())).subscribe(t -> {
-            System.out.println(t);
-        });
+        fibonacciGenerator
+                .skip(1)
+                .take(10)
+                .map(t -> numberConvertor.toRoman(t.intValue()))
+                .subscribe(t -> {
+                    System.out.println(t);
+                });
 
     }
 
@@ -102,9 +214,13 @@ public class ReactorTest {
                     return Tuples.of(state.getT2(), state.getT1() + state.getT2());
                 });
         Factorization numberConvertor = new Factorization();
-        fibonacciGenerator.skip(1).take(10).flatMap(t -> Flux.fromIterable(numberConvertor.findfactor(t.intValue()))).subscribe(t -> {
-            System.out.println(t);
-        });
+        fibonacciGenerator
+                .skip(1)
+                .take(10)
+                .flatMap(t -> Flux.fromIterable(numberConvertor.findfactor(t.intValue())))
+                .subscribe(t -> {
+                    System.out.println(t);
+                });
 
     }
 
