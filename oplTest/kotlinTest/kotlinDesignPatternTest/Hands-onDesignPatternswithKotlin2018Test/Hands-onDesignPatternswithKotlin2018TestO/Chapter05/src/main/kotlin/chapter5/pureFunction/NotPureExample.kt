@@ -13,7 +13,6 @@ fun testHello(): Boolean {
 }
 
 fun <T> withoutFirst(list: List<T>): T {
-
     return ArrayList(list).removeAt(0)
 }
 

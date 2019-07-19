@@ -11,9 +11,8 @@ fun main(args: Array<String>) {
     })
 
     thread(isDaemon = true, name="Maleficent") {
-        //while(true) counter.scores.clear()
+//        while(true) counter.scores.clear()
     }
 }
-
 
 data class ImmutableScoreCollector(val scores: List<Int>)

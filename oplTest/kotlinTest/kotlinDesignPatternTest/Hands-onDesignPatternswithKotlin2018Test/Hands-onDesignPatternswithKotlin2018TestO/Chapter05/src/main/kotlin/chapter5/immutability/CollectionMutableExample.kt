@@ -14,10 +14,11 @@ fun main(args: Array<String>) {
     for (i in 1..1_000) {
         counter.scores += Random().nextInt(100)
 
-        println(counter.scores.sumBy { it } / counter.scores.size)
+        println(counter.scores.sumBy { it }
+                / counter.scores.size)
     }
 
 }
 
-
-data class ScoreCollector(val scores: MutableList<Int> = mutableListOf())
+data class ScoreCollector(
+        val scores: MutableList<Int> = mutableListOf())
