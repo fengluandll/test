@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29564688-68e7-44a5-a4bb-3782740410f7" name="Default" comment="change">
-      <change afterPath="$PROJECT_DIR$/src/my/c04/s01/ButtonClickable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my/c04/s01/Clickable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my/c05/s03/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my/c05/s03/findOldestLambda.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/my/c05/s03/findOldestManual.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pythonTest/pythonGenetalTest/PythonFundamentals2018Test/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pythonTest/pythonGenetalTest/PythonFundamentals2018Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pythonTest/pythonGenetalTest/PythonFundamentals2018Test/c01/e14.py" afterDir="false" />
-    </list>
+    <list default="true" id="29564688-68e7-44a5-a4bb-3782740410f7" name="Default" comment="change" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/my/c04/s01/ButtonClickable.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="95">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -87,32 +78,7 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="KotlininAction2017Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlininAction2017Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlininAction2017Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlininAction2017Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlininAction2017Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KotlininAction2017Test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="my" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="KotlininAction2017Test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,6 +235,7 @@
       <workItem from="1540979347629" duration="26000" />
       <workItem from="1556388703893" duration="2314000" />
       <workItem from="1556530660588" duration="55000" />
+      <workItem from="1563609315667" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1524968065395</created>
@@ -302,13 +269,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7101000" />
+    <option name="totallyTimeSpent" value="7122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1334" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16481334" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1115965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -411,8 +377,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/my/c04/s01/ButtonClickable.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
