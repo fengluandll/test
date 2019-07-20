@@ -13,10 +13,8 @@ fun main(args: Array<String>) {
     catImage34.image
 }
 
-
-
 data class CatImage(private val thumbnailUrl: String, private val url: String) {
-    val image: java.io.File by lazy {
+    val image: File by lazy {
         println("Fetching image over network")
         val f = File.createTempFile("cat", ".jpg")
         java.net.URI.create(url).toURL().openStream().use {
