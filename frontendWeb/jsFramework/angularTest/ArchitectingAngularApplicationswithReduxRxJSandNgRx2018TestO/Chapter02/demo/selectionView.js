@@ -14,3 +14,5 @@ class SelectionView {
 
 const view = new SelectionView();
 export default view;
+
+
