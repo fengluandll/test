@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c62cc5f-e85d-4890-922f-495cdedbb74f" name="Default" comment="change">
+      <change afterPath="$PROJECT_DIR$/my/c05/arrayCopy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my/c05/objectDestructRename.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 4/RNNYT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 6/RNNYT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" beforeDir="false" afterPath="$PROJECT_DIR$/../../../reactNativeTest/MasteringReactNative2017Test/origin/Chapter 8/RNNYT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../springTest/SpringSecurity/01SpringSecurityMiscTest/keycloak-springsecurity5-sample" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springTest/SpringSecurity/01SpringSecurityMiscTest/keycloak-springsecurity5-sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my/c05/destructFun.js" beforeDir="false" afterPath="$PROJECT_DIR$/my/c05/destructFun.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../springTest/SpringTest/springReactiveTest/Hands-OnReactiveProgramminginSpring52018Test/Hands-OnReactiveProgramminginSpring52018TestO/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,17 +95,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.mapinit.js">
-    <configuration name="forLoop.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="forLoop.js" working-dir="$PROJECT_DIR$/my/c08">
+  <component name="RunManager" selected="Node.js.objectDestructRename.js">
+    <configuration name="arrayCopy.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="arrayCopy.js" working-dir="$PROJECT_DIR$/my/c05">
       <method v="2" />
     </configuration>
-    <configuration name="mapArrayOfArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="mapArrayOfArray.js" working-dir="$PROJECT_DIR$/my/c08">
+    <configuration name="destructFun.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="destructFun.js" working-dir="$PROJECT_DIR$/my/c05">
       <method v="2" />
     </configuration>
     <configuration name="mapinit.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="mapinit.js" working-dir="$PROJECT_DIR$/my/c07">
       <method v="2" />
     </configuration>
-    <configuration name="setToArray.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="setToArray.js" working-dir="$PROJECT_DIR$/my/c07">
+    <configuration name="objectDestructRename.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="objectDestructRename.js" working-dir="$PROJECT_DIR$/my/c05">
       <method v="2" />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp">
@@ -123,19 +128,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.forLoop.js" />
-      <item itemvalue="Node.js.setToArray.js" />
-      <item itemvalue="Node.js.mapArrayOfArray.js" />
       <item itemvalue="Node.js.mapinit.js" />
+      <item itemvalue="Node.js.arrayCopy.js" />
+      <item itemvalue="Node.js.destructFun.js" />
+      <item itemvalue="Node.js.objectDestructRename.js" />
       <item itemvalue="npm.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.objectDestructRename.js" />
+        <item itemvalue="Node.js.destructFun.js" />
+        <item itemvalue="Node.js.arrayCopy.js" />
         <item itemvalue="npm.test" />
         <item itemvalue="Node.js.mapinit.js" />
-        <item itemvalue="Node.js.mapArrayOfArray.js" />
-        <item itemvalue="Node.js.setToArray.js" />
-        <item itemvalue="Node.js.forLoop.js" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +167,10 @@
       <workItem from="1561813841303" duration="329000" />
       <workItem from="1564988982107" duration="1764000" />
       <workItem from="1564990803968" duration="1830000" />
+      <workItem from="1567262786744" duration="1124000" />
+      <workItem from="1567575174076" duration="17000" />
+      <workItem from="1567576443539" duration="546000" />
+      <workItem from="1567906187002" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1504526984847</created>
@@ -331,7 +340,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
