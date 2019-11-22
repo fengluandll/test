@@ -1,23 +1,19 @@
 package com.microservice.vertx.demoVertx;
 
 import io.vertx.core.AbstractVerticle;
-import io.vertx.core.Promise;
+import io.vertx.core.Future;
 
 public class MainVerticle extends AbstractVerticle {
 
   @Override
-  public void start(Promise<Void> startPromise) throws Exception {
-    vertx.createHttpServer().requestHandler(req -> {
-      req.response()
-        .putHeader("content-type", "text/plain")
-        .end("Hello from Vert.x!");
-    }).listen(8888, http -> {
-      if (http.succeeded()) {
-        startPromise.complete();
-        System.out.println("HTTP server started on port 8888");
+  public void start(Future<Void> future) throws Exception {
+    vertx.deployVerticle("com.microservice.vertx.demoVertx.AuthorVerticle", res -> {
+      if (res.succeeded()) {
+        System.out.println("Deployment id is: " + res.result());
       } else {
-        startPromise.fail(http.cause());
+        System.out.println("Deployment failed!");
       }
     });
   }
+
 }
