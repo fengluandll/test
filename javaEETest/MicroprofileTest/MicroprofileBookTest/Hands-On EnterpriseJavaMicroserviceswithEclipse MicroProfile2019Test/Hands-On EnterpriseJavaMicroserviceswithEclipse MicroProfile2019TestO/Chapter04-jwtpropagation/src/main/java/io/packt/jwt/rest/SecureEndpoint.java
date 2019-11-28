@@ -38,6 +38,7 @@ public class SecureEndpoint {
         String upnClaim = upn == null ? "no-upn" : upn;
         return String.format("Hello[open] user=%s, upn=%s", user, upnClaim);
     }
+
     @GET
     @Path("/secureHello")
     @Produces(MediaType.TEXT_PLAIN)
@@ -46,6 +47,7 @@ public class SecureEndpoint {
         String user = jwt == null ? "anonymous" : jwt.getName();
         String scheme = context.getAuthenticationScheme();
         boolean isUserRole = context.isUserInRole("User");
-        return String.format("Hello[secure] user=%s, upn=%s, scheme=%s, isUserRole=%s", user, upn, scheme, isUserRole);
+        return String.format("Hello[secure] user=%s, upn=%s, scheme=%s, isUserRole=%s",
+                user, upn, scheme, isUserRole);
     }
 }
