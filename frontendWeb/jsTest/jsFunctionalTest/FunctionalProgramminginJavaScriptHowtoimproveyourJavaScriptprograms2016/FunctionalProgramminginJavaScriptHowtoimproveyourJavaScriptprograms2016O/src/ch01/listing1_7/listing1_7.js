@@ -5,3 +5,4 @@ Rx.Observable.fromEvent(document.querySelector('#student-ssn'), 'keyup')
   .subscribe(validSsn => {
      console.log(`Valid SSN ${validSsn}`);
 });
+
