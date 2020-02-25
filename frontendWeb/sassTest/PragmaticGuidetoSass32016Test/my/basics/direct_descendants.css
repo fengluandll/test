@@ -1,0 +1,8 @@
+.infobox > .message > .title {
+  color: red;
+}
+.infobox > .message .user > .title {
+  color: black;
+}
+
+/*# sourceMappingURL=direct_descendants.css.map */

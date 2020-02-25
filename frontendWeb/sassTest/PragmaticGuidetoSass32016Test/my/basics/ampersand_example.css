@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.infobox {
+  color: blue;
+}
+.user .infobox {
+  color: gray;
+}
+
+.message {
+  color: gray;
+}
+.message.new {
+  color: red;
+}
+
+body.has-sidebar​ .infobox .message {
+  content: ​ "message" ​;
+}
+
+/*# sourceMappingURL=ampersand_example.css.map */
